@@ -1,0 +1,3 @@
+# Dev/test tools only: the collector itself uses only the standard library.
+pytest==9.1.1
+ruff==0.16.10
