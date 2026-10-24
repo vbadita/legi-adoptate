@@ -29,7 +29,8 @@ from . import status, store
 
 BASE = "/legi-adoptate"
 ORIGIN = "https://apps.badita.com"
-COVERAGE_START = date(2026, 1, 1)  # laws that became laws in 2026 + all pending ones
+COVERAGE_START = store.COVERAGE_START
+in_coverage = store.in_coverage
 HERE = Path(__file__).parent
 
 
@@ -56,16 +57,6 @@ def _law_view(rec: dict, explanation: dict | None) -> dict:
         "meta": ok,
         "url": f"{BASE}/lege/{rec['idp']}.html",
     }
-
-
-def in_coverage(rec: dict) -> bool:
-    """Something happened to the law since COVERAGE_START (an adoption,
-    promulgation or publication). Excludes bills that have sat for decades in
-    the source's "at the Constitutional Court" list (e.g. adopted in 2005)."""
-    start = COVERAGE_START.isoformat()
-    days = [r["adopted_on"] for r in rec["rounds"]]
-    days += [x["day"] for x in (rec.get("promulgation"), rec.get("law"), rec.get("monitor")) if x]
-    return max(days, default="") >= start
 
 
 def build(data_dir: Path, out_dir: Path, today: date | None = None) -> dict:
@@ -119,6 +110,18 @@ def build(data_dir: Path, out_dir: Path, today: date | None = None) -> dict:
     write("404.html", "404.html")
     (tmp / "feed.xml").write_text(_feed(by_day, sitting_days), encoding="utf-8")
     (tmp / "sitemap.xml").write_text(_sitemap(views, sitting_days), encoding="utf-8")
+    # which build is live: CI compares this with the commit it just built
+    (tmp / "version.json").write_text(
+        json.dumps(
+            {
+                "commit": os.environ.get("GITHUB_SHA", "local")[:12],
+                "built_at": datetime.now(UTC).isoformat(timespec="seconds"),
+                "laws": len(laws),
+            }
+        )
+        + "\n",
+        encoding="utf-8",
+    )
 
     os.chmod(tmp, 0o755)
     old = out_dir.with_name(out_dir.name + ".old")

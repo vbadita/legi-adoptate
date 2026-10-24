@@ -39,9 +39,16 @@ def today() -> date:
     return datetime.now(TZ).date()
 
 
-def gather_candidates(client: PoliteClient, data: Path, years: list[int], vote_days: int) -> dict:
-    """idp -> (law number, law date) when the 'became laws' list knows it, else None."""
+RECHECK_HOURS = 6  # an unfinished law is fetched at most every 6 hours
+
+
+def gather_candidates(
+    client: PoliteClient, data: Path, years: list[int], vote_days: int
+) -> tuple[dict, set[int]]:
+    """(idp -> (law number, law date) or None, bills with a final vote TODAY).
+    Today's bills are always fetched, whatever the re-check interval."""
     cands: dict[int, tuple[str, date] | None] = {}
+    voted_today: set[int] = set()
     for year in years:
         for e in cdep.parse_list(client.get(LIST_URL.format(query=f"anl={year}"))):
             cands[e.idp] = cdep.parse_law_extra(e.extra)
@@ -56,11 +63,13 @@ def gather_candidates(client: PoliteClient, data: Path, years: list[int], vote_d
             client.get(cdep.VOTE_DAY_URL.format(ymd=day.strftime("%Y%m%d")))
         ):
             cands.setdefault(idp, None)
+            if day == today():
+                voted_today.add(idp)
         day -= timedelta(days=1)
     for rec in store.load_all(data):  # anything stored but not complete is refreshed
-        if not store.is_complete(rec):
+        if not store.is_complete(rec) and store.in_coverage(rec):
             cands.setdefault(rec["idp"], None)
-    return cands
+    return cands, voted_today
 
 
 def cmd_update(args: argparse.Namespace) -> int:
@@ -69,17 +78,35 @@ def cmd_update(args: argparse.Namespace) -> int:
     years = sorted(
         {today().year, *args.years} | ({today().year - 1} if today().month == 1 else set())
     )
-    stats = {"fetched": 0, "skipped_complete": 0, "not_adopted": 0, "written": 0, "errors": 0}
+    stats = {
+        "fetched": 0,
+        "skipped_complete": 0,
+        "skipped_out_of_coverage": 0,
+        "skipped_recent": 0,
+        "not_adopted": 0,
+        "written": 0,
+        "errors": 0,
+    }
+    checks = store.Checks(data)
+    now = datetime.now(TZ)
     try:
-        cands = gather_candidates(client, data, years, args.vote_days)
-        log("candidates", count=len(cands), years=years)
+        cands, voted_today = gather_candidates(client, data, years, args.vote_days)
+        log("candidates", count=len(cands), years=years, voted_today=len(voted_today))
         for idp, law in sorted(cands.items()):
             prev = store.load(data, idp)
-            if prev and store.is_complete(prev) and not args.refresh_all:
-                stats["skipped_complete"] += 1
-                continue
+            if prev and not args.refresh_all:
+                if store.is_complete(prev):
+                    stats["skipped_complete"] += 1
+                    continue
+                if not store.in_coverage(prev):  # e.g. a 2005 bill stuck at the CCR
+                    stats["skipped_out_of_coverage"] += 1
+                    continue
+                if idp not in voted_today and checks.recent("proc", idp, now, RECHECK_HOURS):
+                    stats["skipped_recent"] += 1
+                    continue
             try:
                 proc = cdep.parse_procedure(client.get(cdep.PROCEDURE_URL.format(idp=idp)), idp)
+                checks.mark("proc", idp, now)
             except cdep.NotAProcedurePage as exc:
                 stats["errors"] += 1
                 log("bad_page", idp=idp, error=str(exc))
@@ -94,13 +121,18 @@ def cmd_update(args: argparse.Namespace) -> int:
             if store.save_if_changed(data, rec):
                 stats["written"] += 1
                 log("law_written", idp=idp, number=rec["number"], law=rec["law"])
-        stats["monitor_found"] = fill_monitor(client, data)
+        stats["monitor_found"] = fill_monitor(client, data, checks, now)
     except Blocked as exc:
         log("blocked", error=str(exc), requests=client.requests, **stats)
         return EXIT_BLOCKED
     except FetchError as exc:  # includes the request budget: the next run continues
         log("stopped", error=str(exc), requests=client.requests, **stats)
         return EXIT_OK if "budget" in str(exc) else EXIT_ERRORS
+    finally:  # what was fetched stays recorded even if the run stops early
+        # keep checks of known laws and of bills fetched but not adopted (yet)
+        checks.save(
+            {r["idp"] for r in store.load_all(data)} | {int(k) for k in checks.data.get("proc", {})}
+        )
     store.save_json(
         data / "meta.json",
         {
@@ -112,9 +144,15 @@ def cmd_update(args: argparse.Namespace) -> int:
     return EXIT_ERRORS if stats["errors"] else EXIT_OK
 
 
-def fill_monitor(client: PoliteClient, data: Path) -> int:
+def fill_monitor(client: PoliteClient, data: Path, checks: store.Checks, now: datetime) -> int:
     """Column 3: law number -> act page in the Chamber's repertory -> 'Publicare: M.Of. nr...'."""
-    missing = [r for r in store.load_all(data) if r.get("law") and not r.get("monitor")]
+    missing = [
+        r
+        for r in store.load_all(data)
+        if r.get("law")
+        and not r.get("monitor")
+        and not checks.recent("act", r["idp"], now, RECHECK_HOURS)
+    ]
     found = 0
     for year in sorted({int(r["law"]["number"].split("/")[1]) for r in missing}):
         acts = {a.law: a for a in cdep.parse_acts_list(client.get(ACTS_URL.format(year=year)))}
@@ -123,6 +161,7 @@ def fill_monitor(client: PoliteClient, data: Path) -> int:
             if act is None:  # not in the repertory yet: next run
                 continue
             info = cdep.parse_act(client.get(ACT_URL.format(ida=act.ida)))
+            checks.mark("act", rec["idp"], now)
             if info.mo_number:
                 rec["monitor"] = {
                     "number": info.mo_number,
@@ -207,9 +246,18 @@ def needs_explanation(rec: dict, existing: dict | None) -> bool:
 
 def cmd_explain(args: argparse.Namespace) -> int:
     """Plain-language explanations for laws that lack one, newest first.
-    --limit is a hard cap per run: the Gemini free quota is shared with other
-    apps on the same key and must never be exhausted by this one."""
+    --daily-limit is a hard cap per calendar day (Bucharest), counted in
+    data/usage.json, which is committed: several CI runs a day share it. The
+    Gemini free quota is shared with other apps on the same key."""
     data = Path(args.data)
+    usage_path = data / "usage.json"
+    usage = json.loads(usage_path.read_text()) if usage_path.exists() else {}
+    day = today().isoformat()
+    used_today = usage.get("gemini_calls", {}).get(day, 0)
+    allowed = min(args.limit, args.daily_limit - used_today)
+    if allowed <= 0:
+        log("explain_skipped", reason="daily limit reached", used_today=used_today)
+        return EXIT_OK
     cache = Path(args.cache) if args.cache else None
     clients = {  # one polite client per site
         "cdep": PoliteClient(cache_dir=cache, budget=args.budget),
@@ -222,8 +270,9 @@ def cmd_explain(args: argparse.Namespace) -> int:
     ]
     todo.sort(key=lambda r: r["rounds"][-1]["adopted_on"], reverse=True)
     stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0}
+    exit_code: int | None = None
     for rec in todo:
-        if stats["explained"] + stats["rejected"] >= args.limit:
+        if stats["explained"] + stats["rejected"] >= allowed:
             break
         source = None
         for label, url in sources.text_sources(rec):
@@ -233,12 +282,16 @@ def cmd_explain(args: argparse.Namespace) -> int:
                 break
             except Blocked as exc:
                 log("blocked", error=str(exc), **stats)
-                return EXIT_BLOCKED
+                exit_code = EXIT_BLOCKED
+                break
             except FetchError as exc:
                 if "budget" in str(exc):
                     log("stopped", error=str(exc), **stats)
-                    return EXIT_OK
+                    exit_code = EXIT_OK
+                    break
                 log("source_unavailable", idp=rec["idp"], url=url, error=str(exc))
+        if exit_code is not None:
+            break  # stop the run; Gemini usage so far is still recorded below
         if source is None:
             stats["no_source"] += 1
             continue
@@ -260,7 +313,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
             )
         except explain.QuotaExhausted:
             log("gemini_quota_exhausted", **stats)
-            return EXIT_OK  # tomorrow
+            break  # tomorrow; usage is still recorded below
         except explain.ExplainError as exc:
             stats["rejected"] += 1
             prev = store.load_explanation(data, rec["idp"]) or {}
@@ -294,8 +347,19 @@ def cmd_explain(args: argparse.Namespace) -> int:
             attempts=r["attempts"],
             scanned=scanned,
         )
-    log("explain_done", **stats, requests=sum(c.requests for c in clients.values()))
-    return EXIT_OK
+    spent = stats["explained"] + stats["rejected"]
+    calls = usage.setdefault("gemini_calls", {})
+    calls[day] = used_today + spent
+    for old_day in sorted(calls)[:-31]:  # keep a month of history
+        del calls[old_day]
+    store.save_json(usage_path, usage)
+    log(
+        "explain_done",
+        **stats,
+        used_today=calls[day],
+        requests=sum(c.requests for c in clients.values()),
+    )
+    return EXIT_OK if exit_code is None else exit_code
 
 
 def cmd_site(args: argparse.Namespace) -> int:
@@ -363,6 +427,7 @@ def main(argv: list[str] | None = None) -> int:
     e.add_argument("--data", required=True)
     e.add_argument("--cache", help="cache fetched PDFs here (development)")
     e.add_argument("--limit", type=int, default=20, help="max Gemini explanations per run")
+    e.add_argument("--daily-limit", type=int, default=20, help="max per calendar day, all runs")
     e.add_argument("--budget", type=int, default=60, help="max downloads per site per run")
     e.set_defaults(func=cmd_explain)
     s = sub.add_parser("site", help="build the static site from data/")

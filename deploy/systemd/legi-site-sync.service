@@ -1,0 +1,25 @@
+[Unit]
+Description=Pull the legi-adoptate static site (branch "site", built and tested by CI)
+Documentation=https://github.com/vbadita/legi-adoptate
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/libexec/legi-site-sync
+User=legi-web
+Group=legi-web
+# Writable: only its own directory. Everything else read-only.
+ProtectSystem=strict
+ReadWritePaths=/srv/legi
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictNamespaces=yes
+LockPersonality=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX

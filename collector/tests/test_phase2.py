@@ -182,3 +182,24 @@ def test_mo_check_blocked_is_recorded_and_stops(tmp_path, monkeypatch):
     published_law(tmp_path)
     assert cli.cmd_mo_check(cli.argparse.Namespace(data=str(tmp_path))) == cli.EXIT_BLOCKED
     assert (tmp_path / "mo" / "BLOCKED").exists()
+
+
+def test_checks_recent_and_saved(tmp_path):
+    from datetime import datetime, timedelta
+
+    checks = store.Checks(tmp_path)
+    now = datetime(2026, 10, 24, 11, 30)
+    assert not checks.recent("proc", 1, now, 6)
+    checks.mark("proc", 1, now)
+    assert checks.recent("proc", 1, now + timedelta(hours=5), 6)
+    assert not checks.recent("proc", 1, now + timedelta(hours=6, minutes=1), 6)
+    checks.mark("proc", 2, now)
+    checks.save(keep={1})  # law 2 no longer exists
+    assert json.loads((tmp_path / "checks.json").read_text()) == {"proc": {"1": "2026-10-24T11:30"}}
+
+
+def test_out_of_coverage():
+    assert not store.in_coverage({"rounds": [{"adopted_on": "2005-04-07"}]})
+    assert store.in_coverage(
+        {"rounds": [{"adopted_on": "2025-10-15"}], "law": {"day": "2026-07-23"}}
+    )

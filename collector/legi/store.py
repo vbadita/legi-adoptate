@@ -11,7 +11,7 @@ from __future__ import annotations
 import json
 import os
 import tempfile
-from datetime import date
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from .cdep import Event, Procedure, Vote
@@ -154,3 +154,40 @@ def save_text(data_dir: Path, idp: int, text: str) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text + "\n", encoding="utf-8")
     return path
+
+
+# ---- coverage and polite re-checking ---------------------------------------------------
+
+COVERAGE_START = date(2026, 1, 1)  # laws that became laws in 2026 + all pending ones
+
+
+def in_coverage(rec: dict) -> bool:
+    """Something happened to the law since COVERAGE_START (an adoption,
+    promulgation or publication). Excludes bills that have sat for decades in
+    the source's "at the Constitutional Court" list (e.g. adopted in 2005)."""
+    start = COVERAGE_START.isoformat()
+    days = [r["adopted_on"] for r in rec.get("rounds", [])]
+    days += [x["day"] for x in (rec.get("promulgation"), rec.get("law"), rec.get("monitor")) if x]
+    return max(days, default="") >= start
+
+
+class Checks:
+    """When each page was last fetched (data/checks.json, one file, so the
+    per-law files do not change on every run). Used to re-check an unfinished
+    law at most every few hours instead of on every scheduled run."""
+
+    def __init__(self, data_dir: Path) -> None:
+        self.path = data_dir / "checks.json"
+        self.data = json.loads(self.path.read_text()) if self.path.exists() else {}
+
+    def recent(self, kind: str, key: int, now: datetime, hours: float) -> bool:
+        last = self.data.get(kind, {}).get(str(key))
+        return last is not None and now - datetime.fromisoformat(last) < timedelta(hours=hours)
+
+    def mark(self, kind: str, key: int, now: datetime) -> None:
+        self.data.setdefault(kind, {})[str(key)] = now.isoformat(timespec="minutes")
+
+    def save(self, keep: set[int]) -> None:
+        for kind in self.data:  # forget laws that no longer exist
+            self.data[kind] = {k: v for k, v in self.data[kind].items() if int(k) in keep}
+        save_json(self.path, self.data)

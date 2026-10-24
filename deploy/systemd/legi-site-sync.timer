@@ -1,0 +1,11 @@
+[Unit]
+Description=Check for a new legi-adoptate site build every 5 minutes
+
+[Timer]
+OnBootSec=1min
+# 12 GitHub API calls/hour: inside the 60/hour unauthenticated limit
+OnUnitActiveSec=5min
+RandomizedDelaySec=20s
+
+[Install]
+WantedBy=timers.target

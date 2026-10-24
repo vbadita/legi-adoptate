@@ -81,6 +81,21 @@ Static HTML, no JavaScript, no code running per visitor. Served at
 
 The build replaces the previous one with a single rename. CSP forbids all scripts.
 
+## Automation
+
+```
+GitHub Actions (.github/workflows/collect.yml)                    VM (deploy/legi-site-sync.sh)
+  daily 07:30 + weekdays 13:30/16:30/19:30 Bucharest                 timer every 5 min:
+  test -> update (<=60 requests) -> mo-check (1/day)                   branch "site" changed?
+       -> explain (<=20 Gemini calls/day, across runs)                 download that commit,
+       -> commit data/ -> build -> push branch "site"  ------------>   unpack to releases/<sha>,
+       -> verify: wait for the VM, headless Chrome                     switch the symlink (atomic)
+```
+
+Each unfinished law is re-checked at most every 6 hours (`data/checks.json`), except bills with
+a final vote today; bills out of coverage are never re-fetched: about 200 requests/day in total.
+Secrets: `GEMINI_API_KEY` in the GitHub environment `production` (branch `main` only).
+
 ## Layout
 
 | Path | What |

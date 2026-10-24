@@ -1,0 +1,134 @@
+# Scheduled git scraping: test -> collect (update, M.Of. check, explanations, commit data,
+# build site, push branch "site") -> verify (the VM pulled it; headless Chrome).
+# The VM pulls branch "site" by itself (deploy/legi-site-sync.sh): nothing connects to it.
+name: collect
+
+on:
+  schedule:
+    - cron: "30 5 * * *"            # every day, 07:30 Bucharest: statuses, M.Of., explanations
+    - cron: "30 11,14,17 * * 1-5"   # weekdays after plenary sittings: same-day adoptions
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["collector/**", ".github/workflows/**", "scripts/**"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: collect                     # one run at a time: data commits never race
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12.15"
+      - name: Install locked dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install --disable-pip-version-check --no-deps \
+            -r collector/requirements.txt -r collector/requirements-dev.txt
+          .venv/bin/pip check
+      - name: Lint and test
+        working-directory: collector
+        run: |
+          ../.venv/bin/ruff check .
+          ../.venv/bin/ruff format --check .
+          ../.venv/bin/pytest -q
+      - name: Dependencies are at least 14 days old
+        run: scripts/check-lock-age.sh
+
+  collect:
+    needs: test
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    environment: production          # GEMINI_API_KEY lives here, main branch only
+    permissions:
+      contents: write                # commit data/, push branch "site"
+    outputs:
+      commit: ${{ steps.commit.outputs.sha }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12.15"
+      - name: Install locked dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install --disable-pip-version-check --no-deps -r collector/requirements.txt
+          .venv/bin/pip check
+
+      # Each step may fail (site blocked us, quota): the data gathered so far is
+      # still committed and published; the "outcome" step fails the run at the end.
+      - name: Update from cdep.ro (incremental, max 60 requests)
+        id: update
+        continue-on-error: true
+        working-directory: collector
+        run: ../.venv/bin/python -m legi update --data ../data --budget 60
+      - name: Monitorul Oficial check (one call per day)
+        id: mo
+        continue-on-error: true
+        working-directory: collector
+        run: ../.venv/bin/python -m legi mo-check --data ../data
+      - name: Explanations (Gemini, max 20 per day across runs)
+        id: explain
+        continue-on-error: true
+        working-directory: collector
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        run: ../.venv/bin/python -m legi explain --data ../data --daily-limit 20 --budget 30
+
+      - name: Commit data (the git history is the audit log)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -q -m "data: $(TZ=Europe/Bucharest date '+%Y-%m-%d %H:%M') (scheduled run)"
+            git push -q origin HEAD:main
+          fi
+          echo "sha=$(git rev-parse --short=12 HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Build site
+        working-directory: collector
+        run: GITHUB_SHA="${{ steps.commit.outputs.sha }}" ../.venv/bin/python -m legi site --data ../data --out ../_site
+
+      - name: Publish to branch "site" (one commit, force-pushed: no history bloat)
+        run: |
+          cd _site
+          git init -q -b site
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "site built from ${{ steps.commit.outputs.sha }}"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site
+
+      - name: Outcome
+        if: steps.update.outcome == 'failure' || steps.mo.outcome == 'failure' || steps.explain.outcome == 'failure'
+        run: |
+          echo "update=${{ steps.update.outcome }} mo-check=${{ steps.mo.outcome }} explain=${{ steps.explain.outcome }}"
+          exit 1
+
+  verify:
+    needs: collect
+    runs-on: ubuntu-24.04            # x64 image ships Google Chrome
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Wait until the VM serves this build
+        run: scripts/wait-site.sh "https://apps.badita.com/legi-adoptate/version.json" "${{ needs.collect.outputs.commit }}"
+      - name: Browser test (headless Chrome, no CSP violations)
+        run: scripts/e2e-site.sh "https://apps.badita.com/legi-adoptate/"

@@ -119,3 +119,9 @@ def test_old_stale_bills_are_out_of_coverage():
         "monitor": None,
     }
     assert not site.in_coverage(stale) and site.in_coverage(late_law)
+
+
+def test_version_file(built, monkeypatch):
+    _, out, _ = built
+    v = json.loads((out / "version.json").read_text())
+    assert v["laws"] == 3 and v["commit"] and v["built_at"]
