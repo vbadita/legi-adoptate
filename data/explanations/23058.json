@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Orașul Voluntari, județul Ilfov, se declară municipiu.",
+    "text": "Orașul Voluntari din județul Ilfov este declarat municipiu."
+   },
+   {
+    "citat": "Anexa la Legea nr.2/1968 privind organizarea administrativă a teritoriului României... se modifică în mod corespunzător.",
+    "text": "Anexele altor legi privind organizarea administrativă se modifică în mod corespunzător."
+   }
+  ],
+  "cine_este_afectat": [
+   "Locuitorii orașului Voluntari, județul Ilfov"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Orașul Voluntari din județul Ilfov este declarat municipiu. De asemenea, legile privind organizarea teritorială se modifică în mod corespunzător.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Orașul Voluntari devine municipiu"
+ },
+ "generated_at": "2026-10-24T15:51:18+00:00",
+ "idp": 23058,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "85f990443d026d3cba67197717937d0f7e17502a14067c206b75a53fa5c2e996",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L381LP.PDF"
+ },
+ "status": "ok"
+}

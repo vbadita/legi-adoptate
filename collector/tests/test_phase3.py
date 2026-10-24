@@ -255,3 +255,15 @@ def test_rejected_laws_are_retried_on_later_runs_up_to_3():
 def test_hyphen_line_break_matches():
     a = answer([{"text": "x", "citat": "printr-un sistem informatic"}])
     assert explain.citation_problems(a, "transmise printr- un sistem informatic sau") == []
+
+
+def test_explanation_of_an_outdated_text_is_regenerated():
+    rec = {"rounds": [{"round": 2}], "text_pdf": "https://www.cdep.ro/new.pdf", "senate": None}
+    old = {
+        "prompt_version": explain.PROMPT_VERSION,
+        "round": 2,
+        "status": "ok",
+        "source": {"url": "https://www.cdep.ro/old.pdf"},
+    }
+    assert cli.needs_explanation(rec, old)
+    assert not cli.needs_explanation(rec, {**old, "source": {"url": "https://www.cdep.ro/new.pdf"}})

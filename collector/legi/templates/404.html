@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Pagina nu există · Legi adoptate{% endblock %}
+{% block head %}<meta name="robots" content="noindex">{% endblock %}
+{% block main %}
+<h1>Pagina nu există</h1>
+<p class="lead">Poate ați ales o zi din afara perioadei acoperite ({{ start|ro_date }} – {{ today|ro_date }}) sau adresa este greșită.</p>
+<p><a href="{{ BASE }}/">Mergi la ultimele legi adoptate</a></p>
+{% endblock %}

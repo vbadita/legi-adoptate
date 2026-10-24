@@ -75,7 +75,7 @@ def cmd_update(args: argparse.Namespace) -> int:
         log("candidates", count=len(cands), years=years)
         for idp, law in sorted(cands.items()):
             prev = store.load(data, idp)
-            if prev and store.is_complete(prev):
+            if prev and store.is_complete(prev) and not args.refresh_all:
                 stats["skipped_complete"] += 1
                 continue
             try:
@@ -101,6 +101,13 @@ def cmd_update(args: argparse.Namespace) -> int:
     except FetchError as exc:  # includes the request budget: the next run continues
         log("stopped", error=str(exc), requests=client.requests, **stats)
         return EXIT_OK if "budget" in str(exc) else EXIT_ERRORS
+    store.save_json(
+        data / "meta.json",
+        {
+            "updated_at": datetime.now(TZ).strftime("%d.%m.%Y, %H:%M"),
+            "laws": len(store.load_all(data)),
+        },
+    )
     log("update_done", requests=client.requests, **stats)
     return EXIT_ERRORS if stats["errors"] else EXIT_OK
 
@@ -189,6 +196,9 @@ def needs_explanation(rec: dict, existing: dict | None) -> bool:
     if (
         existing.get("prompt_version", 0) < explain.PROMPT_VERSION
         or existing.get("round") != rec["rounds"][-1]["round"]
+        # the Chamber's newest text is not the one explained: a re-adopted text,
+        # or a clean text that appeared after a Senate scan was used
+        or (rec.get("text_pdf") and existing.get("source", {}).get("url") != rec["text_pdf"])
     ):
         return True
     # a rejection is often just a paraphrased quote: try again on later runs
@@ -288,6 +298,16 @@ def cmd_explain(args: argparse.Namespace) -> int:
     return EXIT_OK
 
 
+def cmd_site(args: argparse.Namespace) -> int:
+    from . import site  # jinja2 only needed here
+
+    out = Path(args.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    stats = site.build(Path(args.data), out, today=today())
+    log("site_built", out=str(out), **stats)
+    return EXIT_OK
+
+
 def status_columns(rec: dict) -> tuple[str, str, str]:
     r = rec["rounds"][-1]
     v = r["public_vote"]
@@ -330,6 +350,11 @@ def main(argv: list[str] | None = None) -> int:
     u.add_argument("--budget", type=int, default=200, help="max network requests per run")
     u.add_argument("--vote-days", type=int, default=3, help="recent sitting days to scan")
     u.add_argument("--years", type=int, nargs="*", default=[], help="extra 'became laws' years")
+    u.add_argument(
+        "--refresh-all",
+        action="store_true",
+        help="re-parse complete laws too (after a parser fix)",
+    )
     u.set_defaults(func=cmd_update)
     m = sub.add_parser("mo-check", help="one Monitorul Oficial call: confirm a publication day")
     m.add_argument("--data", required=True)
@@ -340,6 +365,10 @@ def main(argv: list[str] | None = None) -> int:
     e.add_argument("--limit", type=int, default=20, help="max Gemini explanations per run")
     e.add_argument("--budget", type=int, default=60, help="max downloads per site per run")
     e.set_defaults(func=cmd_explain)
+    s = sub.add_parser("site", help="build the static site from data/")
+    s.add_argument("--data", required=True)
+    s.add_argument("--out", required=True)
+    s.set_defaults(func=cmd_site)
     r = sub.add_parser("report", help="print the 3 status columns")
     r.add_argument("--data", required=True)
     r.add_argument("--since", required=True)

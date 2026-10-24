@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se acceptă Decizia Consiliului (UE, Euratom) 2026/1296, adoptată la Bruxelles, la 26 mai 2026, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976.",
+    "text": "Se acceptă Decizia Consiliului (UE, Euratom) 2026/1296, adoptată la Bruxelles, la 26 mai 2026, de modificare a Actului privind alegerea membrilor Parlamentului European prin vot universal direct, anexat la Decizia 76/787/CECO, CEE, Euratom a Consiliului din 20 septembrie 1976."
+   }
+  ],
+  "cine_este_afectat": [
+   "Cetățenii cu drept de vot",
+   "Institucțiile statului implicate în organizarea alegerilor europarlamentare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea acceptă Decizia Consiliului (UE, Euratom) 2026/1296 din 26 mai 2026 care modifică Actul privind alegerea membrilor Parlamentului European prin vot universal direct.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Acceptarea Deciziei Consiliului privind alegerea membrilor Parlamentului European"
+ },
+ "generated_at": "2026-10-24T15:51:31+00:00",
+ "idp": 23493,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "187eaa99637d64014a0fe2126a87ae99e3697db78ed1b6fa11d5043f4f6a433b",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L570LP.PDF"
+ },
+ "status": "ok"
+}

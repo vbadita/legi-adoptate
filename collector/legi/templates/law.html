@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% from "macros.html" import columns %}
+{% set rec = v.rec %}
+{% block title %}{{ v.ex.titlu_simplu if v.ex else rec.title }} · {{ rec.number }}{% endblock %}
+{% block description %}{{ v.ex.pe_scurt if v.ex else rec.title }}{% endblock %}
+{% block main %}
+{% if rec.rounds[-1].adopted_on >= COVERAGE_START %}<p class="crumbs"><a href="{{ BASE }}/zi/{{ rec.rounds[-1].adopted_on }}.html">← legile din {{ rec.rounds[-1].adopted_on|ro_date }}</a></p>{% endif %}
+<h1>{{ v.ex.titlu_simplu if v.ex else rec.title }}</h1>
+<p class="official">{{ rec.title }} · {{ rec.number }}</p>
+{{ columns(v.cols) }}
+
+{% if v.ex %}
+<section>
+  <h2>Pe scurt</h2>
+  <p>{{ v.ex.pe_scurt }}</p>
+  <h2>Ce se schimbă</h2>
+  <ol class="changes">
+    {% for c in v.ex.ce_se_schimba %}
+    <li>{{ c.text }}
+      <blockquote><span>Din textul legii:</span> „{{ c.citat }}”</blockquote>
+    </li>
+    {% endfor %}
+  </ol>
+  {% if v.ex.cine_este_afectat %}
+  <h2>Pe cine afectează</h2>
+  <ul>{% for a in v.ex.cine_este_afectat %}<li>{{ a }}</li>{% endfor %}</ul>
+  {% endif %}
+  <h2>De când se aplică</h2>
+  <p>{{ v.ex.de_cand or "Textul legii nu spune explicit. De regulă, o lege intră în vigoare la 3 zile după publicarea în Monitorul Oficial, dacă nu prevede altceva." }}</p>
+  <p class="ai">Explicație generată automat ({{ v.meta.model }}) din textul adoptat ({{ v.meta.source.label }}).
+    {% if v.meta.checked_against_text %}Fiecare punct a fost verificat automat: citatul există exact în lege, iar cifrele punctului apar în citat.
+    {% else %}Textul sursă este scanat: verificarea automată a citatelor nu a fost posibilă.{% endif %}
+    Poate conține greșeli; textul oficial este cel publicat în Monitorul Oficial.</p>
+</section>
+{% else %}
+<p class="note">Explicația pe înțelesul tuturor nu este încă disponibilă pentru această lege.</p>
+{% endif %}
+
+<section>
+  <h2>Parcursul în Parlament</h2>
+  {% for r in rec.rounds %}
+  <h3>Adoptare{% if rec.rounds|length > 1 %} (runda {{ r.round }}){% endif %}: {{ r.adopted_on|ro_date }}</h3>
+  <ul>
+    {% for s in r.steps %}
+    <li>{{ s.day|ro_date }}: {{ "adoptată" if s.kind == "adopted" else "respinsă" }} de {{ s.chamber }}{% if s.vote %} ({{ s.vote.pentru }} pentru, {{ s.vote.contra }} împotrivă, {{ s.vote.abtineri }} {{ "abținere" if s.vote.abtineri == 1 else "abțineri" }}){% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  <details>
+    <summary>Toate etapele, așa cum apar pe site-ul Camerei Deputaților</summary>
+    <ol class="timeline">{% for e in rec.timeline %}<li><time>{{ e.day|ro_date }}</time> {{ e.text }}</li>{% endfor %}</ol>
+  </details>
+</section>
+
+<section>
+  <h2>Surse oficiale</h2>
+  <ul>
+    <li><a href="{{ rec.url }}">Fișa legii pe site-ul Camerei Deputaților</a></li>
+    {% if v.meta %}<li><a href="{{ v.meta.source.url }}">Textul adoptat (PDF)</a></li>{% elif rec.text_pdf %}<li><a href="{{ rec.text_pdf }}">Textul adoptat (PDF)</a></li>{% endif %}
+    {% if rec.senate %}<li><a href="{{ rec.senate.url }}">Fișa legii pe site-ul Senatului ({{ rec.senate.number }})</a></li>{% endif %}
+    {% if rec.monitor %}<li><a href="https://monitoruloficial.ro/e-monitor/">Monitorul Oficial nr. {{ rec.monitor.number }}, {{ rec.monitor.day|ro_date }}</a>: alegeți data în calendarul e-Monitor (gratuit)</li>{% endif %}
+  </ul>
+</section>
+{% endblock %}

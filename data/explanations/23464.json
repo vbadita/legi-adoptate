@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-10-24T14:57:00+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "acestea se pot prelungi, la solicitarea beneficiarilor, cu o perioadă de 2 ani.",
+    "text": "Contractele de finanțare multianuale pentru Programul național de dezvoltare locală, etapele I și II, se pot prelungi cu 2 ani la solicitarea beneficiarilor."
+   },
+   {
+    "citat": "cu cel puțin 15 zile înainte de data expirării duratei contractelor de finanțare, Ministerul Dezvoltării, Lucrărilor Publice și Administrației va modifica în mod corespunzător ordinele ... și contractele de finanțare aferente acestora",
+    "text": "Ministerul va modifica ordinele și contractele cu cel puțin 15 zile înainte de data expirării duratei contractelor de finanțare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Beneficiarii Programului național de dezvoltare locală",
+   "Ministerul Dezvoltării, Lucrărilor Publice și Administrației"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea permite prelungirea cu 2 ani a contractelor de finanțare pentru obiectivele de investiții din Programul național de dezvoltare locală, etapele I și II, la solicitarea beneficiarilor.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Prelungirea contractelor pentru Programul Național de Dezvoltare Locală"
+ },
+ "generated_at": "2026-10-24T15:51:05+00:00",
  "idp": 23464,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +32,5 @@
   "sha256": "98d715336e9a50fdbb73cff1006f0db1e41ebc14bd6352149d6ede89d2a81b0e",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl551_pr551_26.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

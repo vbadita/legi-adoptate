@@ -67,6 +67,20 @@ A failing answer is retried once with the reason; a law still failing is retried
 (max 3), and never published unchecked. Scanned sources cannot be checked and are labelled so.
 Neutrality rules: no evaluation, no comparison with the old law (not in the text).
 
+## Site (`python -m legi site --data data --out site`)
+
+Static HTML, no JavaScript, no code running per visitor. Served at
+`https://apps.badita.com/legi-adoptate/` by nginx (`deploy/nginx/`, `deploy/install-site.sh`).
+
+| Page | What |
+|---|---|
+| `/legi-adoptate/` | latest sitting day, date picker (plain form; nginx maps `?zi=` to the day page) |
+| `zi/YYYY-MM-DD.html` | every day since 1 January 2026, with the 3 status columns per law |
+| `lege/<idp>.html` | explanation with verified quotes, rounds and votes, timeline, official sources |
+| `despre.html`, `feed.xml`, `sitemap.xml` | method and limits, Atom feed, sitemap |
+
+The build replaces the previous one with a single rename. CSP forbids all scripts.
+
 ## Layout
 
 | Path | What |
@@ -78,7 +92,9 @@ Neutrality rules: no evaluation, no comparison with the old law (not in the text
 | `collector/legi/text.py` | PDF text: superscripts, margin column, scan detection, page images |
 | `collector/legi/explain.py` | prompt, schema, checks, retries |
 | `collector/legi/sources.py` | where each law's adopted text lives (Chamber, Senate) |
-| `collector/legi/cli.py` | `update` (incremental), `mo-check`, `explain --limit N`, `report --since YYYY-MM-DD` |
+| `collector/legi/status.py` | the 3 columns in plain Romanian |
+| `collector/legi/site.py`, `templates/`, `static/` | static site generator |
+| `collector/legi/cli.py` | `update` (incremental, `--refresh-all`), `mo-check`, `explain --limit N`, `site`, `report` |
 | `collector/tests/` | tests + real page fixtures |
 
 ```bash

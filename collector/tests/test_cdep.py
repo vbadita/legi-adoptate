@@ -176,3 +176,11 @@ def test_captcha_page_is_rejected():
     captcha = "<html><body>Firewall Captcha Authentication Security check</body></html>"
     with pytest.raises(cdep.NotAProcedurePage):
         cdep.parse_procedure(captcha, 1)
+
+
+def test_reexamined_law_uses_the_last_promulgation_text():
+    """Sent back by the President on 25.08.2026 and re-adopted on 14.10.2026: the
+    first PDF is the text that was sent back, the last one is the text in force."""
+    p = proc("proc_23415_two_promulgation_forms.html")
+    assert [a.day for a in p.adoptions()] == [date(2026, 7, 31), date(2026, 10, 14)]
+    assert p.promulgation_text_url.endswith("pl502_prom_finala_cu_anexe.pdf")

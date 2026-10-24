@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% from "macros.html" import card %}
+{% block title %}Legi adoptate pe {{ day|ro_date }} · Parlamentul României{% endblock %}
+{% block head %}{% if not items %}<meta name="robots" content="noindex">{% endif %}{% endblock %}
+{% block main %}
+<h1>{{ day|ro_weekday|capitalize }}, {{ day|ro_date }}</h1>
+{% if items %}
+<p class="lead">{{ items|length }} {{ "lege adoptată" if items|length == 1 else "legi adoptate" }} definitiv de Parlament în această zi.</p>
+{% for v, rnd in items %}{{ card(v, rnd) }}{% endfor %}
+{% else %}
+<p class="lead">În această zi Parlamentul nu a adoptat definitiv nicio lege.</p>
+{% endif %}
+<nav class="prevnext">
+  {% if prev_day %}<a href="{{ BASE }}/zi/{{ prev_day }}.html">← {{ prev_day|ro_date }}</a>{% endif %}
+  {% if next_day %}<a href="{{ BASE }}/zi/{{ next_day }}.html">{{ next_day|ro_date }} →</a>{% endif %}
+</nav>
+{% endblock %}

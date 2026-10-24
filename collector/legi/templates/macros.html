@@ -1,0 +1,24 @@
+{% macro columns(cols) %}
+<ol class="cols" aria-label="Stadiul legii">
+  {% for key, title in [("adopted", "Adoptată de Parlament"), ("promulgated", "Promulgată"), ("published", "Publicată în Monitorul Oficial")] %}
+  {% set c = cols[key] %}
+  <li class="col {{ c.state }}">
+    <span class="step">{{ loop.index }}. {{ title }}</span>
+    <strong>{{ c.label }}</strong>
+    {% if c.detail %}<span class="detail">{{ c.detail }}</span>{% endif %}
+    {% if key == "adopted" and c.vote %}<span class="vote">{{ c.vote }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ol>
+{% endmacro %}
+
+{% macro card(v, rnd=None) %}
+<article class="law">
+  <h3><a href="{{ v.url }}">{{ v.ex.titlu_simplu if v.ex else v.rec.title }}</a></h3>
+  {% if v.ex %}<p class="official">{{ v.rec.title }}</p>{% endif %}
+  {% if rnd and rnd.round > 1 %}<p class="note">Adoptare repetată (runda {{ rnd.round }}), de exemplu după o cerere de reexaminare.</p>{% endif %}
+  {% if v.ex %}<p>{{ v.ex.pe_scurt }}</p>{% else %}<p class="note">Explicația pe înțelesul tuturor nu este încă disponibilă.</p>{% endif %}
+  {{ columns(v.cols) }}
+  <p><a class="more" href="{{ v.url }}">Ce se schimbă, textul și sursele →</a></p>
+</article>
+{% endmacro %}

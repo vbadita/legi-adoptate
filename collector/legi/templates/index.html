@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% from "macros.html" import card %}
+{% block main %}
+<h1>Ce legi a adoptat Parlamentul</h1>
+<p class="lead">Pentru fiecare lege: ce schimbă, explicat simplu, și unde a ajuns: <b>adoptată</b> de Parlament, <b>promulgată</b> de Președinte, <b>publicată</b> în Monitorul Oficial.</p>
+{% if latest %}
+<h2>Ultima zi cu legi adoptate: {{ latest|ro_weekday }}, {{ latest|ro_date }}</h2>
+{% for v, rnd in items %}{{ card(v, rnd) }}{% endfor %}
+<h2>Zile recente</h2>
+<ul class="days">
+  {% for d, n in recent %}<li><a href="{{ BASE }}/zi/{{ d }}.html">{{ d|ro_weekday }}, {{ d|ro_date }}</a> · {{ n }} {{ "lege" if n == 1 else "legi" }}</li>{% endfor %}
+</ul>
+{% else %}
+<p>Nu există încă date.</p>
+{% endif %}
+{% endblock %}

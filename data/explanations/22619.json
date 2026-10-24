@@ -5,23 +5,27 @@
   "ce_se_schimba": [
    {
     "citat": "Sunt scutite de la plata accizelor băuturile alcoolice tradiționale, astfel cum sunt reglementate prin dispoziții speciale, în limita a 200 litri anual pe o gospodărie evidențiată în Registrul agricol... și care nu sunt supuse vânzării.",
-    "text": "Băuturile alcoolice tradiționale în limita a 200 litri anual pe o gospodărie din Registrul agricol, care nu sunt destinate vânzării, sunt scutite de plata accizelor."
+    "text": "Băuturile alcoolice tradiționale sunt scutite de la plata accizelor în limita a 200 litri anual pe gospodărie, dacă sunt înregistrate în Registrul agricol și nu sunt vândute."
    },
    {
     "citat": "Cantitatea de băuturi alcoolice tradiționale nedestinate vânzării nu se include în stabilirea limitelor cantitative prevăzute la alin. (1^2) pentru micii producători independenți de băuturi fermentate.",
-    "text": "Cantitatea de băuturi alcoolice tradiționale nedestinate vânzării nu se ia în calcul la limitele pentru micii producători independenți de băuturi fermentate."
+    "text": "Cantitatea de băuturi alcoolice tradiționale care nu se vinde nu se ia în calcul la limitele pentru micii producători independenți de băuturi fermentate."
+   },
+   {
+    "citat": "Se aprobă Ordonanța Guvernului nr. 22 din 28 august 2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal",
+    "text": "Se aprobă Ordonanța Guvernului nr. 22/2025 privind Codul fiscal."
    }
   ],
   "cine_este_afectat": [
-   "Gospodăriile evidențiate în Registrul agricol care produc băuturi alcoolice tradiționale",
+   "Gospodăriile care produc băuturi alcoolice tradiționale",
    "Micii producători independenți de băuturi fermentate"
   ],
   "de_cand": null,
-  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, aducând o completare legată de scutirea de la plata accizelor pentru băuturile alcoolice tradiționale.",
-  "tip": "aprobarea unei ordonanțe",
-  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 22/2025 privind Codul fiscal"
+  "pe_scurt": "Legea aprobă o ordonanță a Guvernului și aduce completări la Codul fiscal referitoare la băuturile alcoolice tradiționale produse în gospodării.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Aprobare ordonanță privind Codul fiscal și scutire accize băuturi alcoolice tradiționale"
  },
- "generated_at": "2026-10-24T14:57:21+00:00",
+ "generated_at": "2026-10-24T15:51:15+00:00",
  "idp": 22619,
  "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
@@ -29,8 +33,8 @@
  "scanned": false,
  "source": {
   "label": "camera: forma pentru promulgare",
-  "sha256": "7a0195ecd9231a48306e56d7454673dfcc1401d3bb795903e4cfbf9f865d5bcf",
-  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl355_pr_plx_355-25.pdf"
+  "sha256": "aafbd5cfb04e85f9db6c334d6bac6154788e8592a4410dc2a885567b6944f7ab",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl355_pr355_25_(3).pdf"
  },
  "status": "ok"
 }

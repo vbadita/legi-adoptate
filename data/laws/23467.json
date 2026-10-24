@@ -6,7 +6,11 @@
   "day": "2026-08-28",
   "number": "183/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-08-28",
+  "number": "721/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 539/2026",
  "promulgation": null,
  "rounds": [

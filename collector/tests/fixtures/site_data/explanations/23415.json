@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În scopul prevenirii și limitării răspândirii pestei porcine africane, în jurul exploatațiilor comerciale autorizate sanitar-veterinar se instituie o zonă de monitorizare sanitar-veterinară cu o rază de 10 km.",
+    "text": "În jurul exploatațiilor comerciale autorizate sanitar-veterinar se instituie o zonă de monitorizare de 10 km pentru prevenirea pestei porcine africane."
+   },
+   {
+    "citat": "echivalentul în lei al sumei de 300 de euro la cursul Băncii Naționale a României ... pentru fiecare cadavru de la care au fost prelevate probe ... echivalentul în lei al sumei de 150 de euro la cursul BNR ... neutralizat prin incinerarea și/sau îngroparea la fața locului.",
+    "text": "Se acordă sume de bani pentru fiecare porc mistreț găsit mort sau bolnav și predat oficial, echivalentul a 300 de euro sau 150 de euro, în funcție de modul de neutralizare."
+   },
+   {
+    "citat": "nerespectarea dispozițiilor art. 10 alin. (1) lit. g) constituie infracțiune și se pedepsește cu închisoare de la o lună la 6 luni sau cu amendă.",
+    "text": "Nerespectarea obligației de a permite personalului autorizat accesul în exploatație pentru controale constituie infracțiune și se pedepsește cu închisoare de la 1 lună la 6 luni sau cu amendă."
+   },
+   {
+    "citat": "în cazul oricărui transport de 6 sau mai multe porcine neidentificate sau neînsoțite de documente sanitar-veterinare ... atât animalele, cât și mijlocul de transport utilizat se confiscă, iar deținătorul se sancționează cu amendă de la 10.000 lei până la 15.000 lei.",
+    "text": "Transportul a 6 sau mai multe porcine neidentificate sau fără documente aduce confiscarea animalelor și a mijlocului de transport, plus o amendă de la 10.000 lei până la 15.000 lei."
+   },
+   {
+    "citat": "Despăgubirile pentru porcinele ucise din dispoziţia autorităţilor competente ... se acordă: a) în limita a 5 capete porcine, în cazul exploataţiilor noncomerciale; b) în limita a 50 capete porcine, în cazul exploataţiilor comerciale asociative şi în cazul exploataţiilor comerciale înregistrate sanitar-veterinar",
+    "text": "Despăgubirile pentru porcinele ucise pentru prevenirea sau combaterea pestei porcine se acordă în limita a 5 capete pentru exploatații noncomerciale și a 50 capete pentru cele asociative sau înregistrate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Crescătorii de porcine și proprietarii de exploatații",
+   "Gestionarii fondurilor cinegetice și vânătorii",
+   "Medicii veterinari și autoritățile sanitar-veterinare",
+   "Transportatorii de animale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări regulilor privind creșterea porcinelor, transportul acestora, controlul pestei porcine africane, precum și valoarea despăgubirilor și a stimulentelor acordate în caz de boală.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind creșterea porcinelor și combaterea pestei porcine"
+ },
+ "generated_at": "2026-10-24T14:56:54+00:00",
+ "idp": 23415,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0f4e5224cad9434b92f1fedc5cf747b34489477defc928df3152cca9d007304c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr502_26--cuanexe--.pdf"
+ },
+ "status": "ok"
+}

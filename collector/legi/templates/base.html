@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Legi adoptate de Parlamentul României{% endblock %}</title>
+<meta name="description" content="{% block description %}Ce legi a adoptat Parlamentul României, pe zile, explicate pe înțelesul tuturor.{% endblock %}">
+<link rel="stylesheet" href="{{ BASE }}/style.css">
+<link rel="alternate" type="application/atom+xml" title="Legi adoptate" href="{{ BASE }}/feed.xml">
+<link rel="icon" href="data:,">
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="{{ BASE }}/">Legi adoptate</a>
+  <form class="pick" action="{{ BASE }}/" method="get" role="search">
+    <label for="zi">Alege o zi</label>
+    <input id="zi" name="zi" type="date" min="{{ start }}" max="{{ today }}" required>
+    <button type="submit">Arată</button>
+  </form>
+</header>
+<main>
+{% block main %}{% endblock %}
+</main>
+<footer>
+  <p>Date din surse publice: <a href="https://www.cdep.ro">Camera Deputaților</a>, <a href="https://www.senat.ro">Senat</a>, <a href="https://monitoruloficial.ro/e-monitor/">Monitorul Oficial</a>.
+  Explicațiile sunt generate automat și verificate cu textul legii, dar pot conține greșeli: textul oficial este cel din Monitorul Oficial.</p>
+  {% if meta.updated_at %}<p>Date actualizate la {{ meta.updated_at }}.</p>{% endif %}
+  <p><a href="{{ BASE }}/despre.html">Despre, surse și metodă</a> · <a href="https://github.com/vbadita/legi-adoptate">cod sursă</a> · <a href="{{ BASE }}/feed.xml">abonare (Atom)</a> · <a href="/">toate aplicațiile</a></p>
+</footer>
+</body>
+</html>

@@ -206,7 +206,9 @@ def parse_procedure(page: str, idp: int) -> Procedure:
     title = re.search(r'<meta property="og:description" content="([^"]*)"', page)
     decisional = _field(page, "Camera decizionala:")
     senate = re.search(r'<a href="(https?://(?:www\.)?senat\.ro/[^"]+)"[^>]*>([^<]+)</a>', page)
-    promulg = re.search(
+    # A law sent back by the President has one "Forma pentru promulgare" per
+    # round; the page is chronological, so the LAST one is the text in force.
+    promulgs = re.findall(
         r'<a href="([^"]+\.pdf)"[^>]*>(?:(?!</tr>).)*?Forma pentru promulgare', page, re.S
     )
     decisional_name = None
@@ -222,7 +224,7 @@ def parse_procedure(page: str, idp: int) -> Procedure:
         senate_number=senate.group(2).strip() if senate else None,
         senate_url=senate.group(1) if senate else None,
         promulgation_text_url=(
-            urljoin(PROCEDURE_URL.format(idp=idp), promulg.group(1)) if promulg else None
+            urljoin(PROCEDURE_URL.format(idp=idp), promulgs[-1]) if promulgs else None
         ),
         events=parse_events(page),
     )
