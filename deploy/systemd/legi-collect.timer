@@ -1,0 +1,11 @@
+[Unit]
+Description=Collect laws: daily 07:30, and weekdays after the plenary sittings (Bucharest time)
+
+[Timer]
+OnCalendar=*-*-* 07:30 Europe/Bucharest
+OnCalendar=Mon..Fri 13:30,16:30,19:30 Europe/Bucharest
+Persistent=true
+RandomizedDelaySec=2min
+
+[Install]
+WantedBy=timers.target

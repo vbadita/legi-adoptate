@@ -9,12 +9,16 @@ SENATE_PDF = "https://www.senat.ro/legis/PDF/{year}/{yy}{number}{kind}.PDF"
 
 def text_sources(rec: dict) -> list[tuple[str, str]]:
     """(label, url) candidates for the latest adopted text:
-    1. Chamber: "Forma pentru promulgare" (Word PDF, real text);
-    2. Senate: "forma trimisă la promulgare" (LP), usually a scan;
-    3. Senate: "forma adoptată de Senat" (FS), for a law voted but not yet sent."""
-    out = []
+    - if the Chamber has "Forma pentru promulgare" (Word PDF, real text): only that;
+    - otherwise the Senate: "forma trimisă la promulgare" (LP), usually a scan,
+      then "forma adoptată de Senat" (FS), for a law voted but not yet sent."""
     if rec.get("text_pdf"):
-        out.append(("camera: forma pentru promulgare", rec["text_pdf"]))
+        # A clean Chamber text exists: use only that. If cdep.ro is unreachable
+        # the law waits for the next run; a Senate scan would give an
+        # explanation that cannot be checked against the text (seen in CI,
+        # where cdep.ro blocks GitHub's network).
+        return [("camera: forma pentru promulgare", rec["text_pdf"])]
+    out = []
     senate = (rec.get("senate") or {}).get("number") or ""
     m = re.fullmatch(r"([A-Za-z]+\d+)/(\d{4})", senate)
     if m:

@@ -83,18 +83,26 @@ The build replaces the previous one with a single rename. CSP forbids all script
 
 ## Automation
 
+cdep.ro drops connections from GitHub Actions' network (tested: no TCP connection from a
+runner, while senat.ro and monitoruloficial.ro answer). So the collection runs on the VM and
+GitHub tests, builds and publishes:
+
 ```
-GitHub Actions (.github/workflows/collect.yml)                    VM (deploy/legi-site-sync.sh)
-  daily 07:30 + weekdays 13:30/16:30/19:30 Bucharest                 timer every 5 min:
-  test -> update (<=60 requests) -> mo-check (1/day)                   branch "site" changed?
-       -> explain (<=20 Gemini calls/day, across runs)                 download that commit,
-       -> commit data/ -> build -> push branch "site"  ------------>   unpack to releases/<sha>,
-       -> verify: wait for the VM, headless Chrome                     switch the symlink (atomic)
+VM: legi-collect.timer (07:30 daily, 13:30/16:30/19:30 weekdays, Bucharest)
+  update (cdep.ro, <=60 requests) -> mo-check (1/day) -> explain (<=20 Gemini calls/day)
+  -> commit data/ -> push (deploy key: this repository only)
+        |
+GitHub Actions (.github/workflows/site.yml, on that push; no secrets)
+  test -> build site -> push branch "site" -> verify: the VM serves it, headless Chrome
+        |
+VM: legi-site-sync.timer (every 5 min) pulls branch "site", unpacks the exact commit,
+    switches /srv/legi/legi-adoptate (symlink, atomic), keeps 3 releases for rollback
 ```
 
 Each unfinished law is re-checked at most every 6 hours (`data/checks.json`), except bills with
-a final vote today; bills out of coverage are never re-fetched: about 200 requests/day in total.
-Secrets: `GEMINI_API_KEY` in the GitHub environment `production` (branch `main` only).
+a final vote this week; bills out of coverage are never re-fetched: about 200 requests/day.
+The collector runs as its own user, sandboxed by systemd (read-only OS, 50% CPU, 600 MB).
+The Gemini key exists only on the VM (`/etc/legi-collector/gemini.env`, 0600).
 
 ## Layout
 

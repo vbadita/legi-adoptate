@@ -412,7 +412,7 @@ def main(argv: list[str] | None = None) -> int:
     u.add_argument("--data", required=True)
     u.add_argument("--cache", help="cache fetched pages here (development)")
     u.add_argument("--budget", type=int, default=200, help="max network requests per run")
-    u.add_argument("--vote-days", type=int, default=3, help="recent sitting days to scan")
+    u.add_argument("--vote-days", type=int, default=5, help="recent weekdays to scan (a full week)")
     u.add_argument("--years", type=int, nargs="*", default=[], help="extra 'became laws' years")
     u.add_argument(
         "--refresh-all",

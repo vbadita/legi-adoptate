@@ -1,0 +1,91 @@
+# The VM collects (cdep.ro drops connections from GitHub Actions' network) and
+# pushes data/. On every push: test -> build the site from that commit -> push
+# branch "site" -> verify that the VM serves it (headless Chrome).
+# No secrets here: the Gemini key lives only on the VM.
+name: site
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "collector/**", "scripts/**", ".github/workflows/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site                        # builds publish in order; never cancel one halfway
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12.15"
+      - name: Install locked dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install --disable-pip-version-check --no-deps \
+            -r collector/requirements.txt -r collector/requirements-dev.txt
+          .venv/bin/pip check
+      - name: Lint and test
+        working-directory: collector
+        run: |
+          ../.venv/bin/ruff check .
+          ../.venv/bin/ruff format --check .
+          ../.venv/bin/pytest -q
+      - name: Dependencies are at least 14 days old
+        run: scripts/check-lock-age.sh
+
+  build:
+    needs: test
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write                # push branch "site" only
+    outputs:
+      commit: ${{ steps.sha.outputs.commit }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12.15"
+      - name: Install locked dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install --disable-pip-version-check --no-deps -r collector/requirements.txt
+      - id: sha
+        run: echo "commit=$(git rev-parse --short=12 HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Build site
+        working-directory: collector
+        run: GITHUB_SHA="${{ steps.sha.outputs.commit }}" ../.venv/bin/python -m legi site --data ../data --out ../_site
+      - name: "Publish to branch site (one commit, force-pushed, so no history bloat)"
+        run: |
+          cd _site
+          git init -q -b site
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "site built from ${{ steps.sha.outputs.commit }}"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" site
+
+  verify:
+    needs: build
+    runs-on: ubuntu-24.04            # x64 image ships Google Chrome
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Wait until the VM serves this build
+        run: scripts/wait-site.sh "https://apps.badita.com/legi-adoptate/version.json" "${{ needs.build.outputs.commit }}"
+      - name: Browser test (headless Chrome, no CSP violations)
+        run: scripts/e2e-site.sh "https://apps.badita.com/legi-adoptate/"

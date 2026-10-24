@@ -181,8 +181,10 @@ def test_request_uses_schema_and_system_prompt():
 
 def test_text_sources_order():
     rec = {"text_pdf": "https://www.cdep.ro/x.pdf", "senate": {"number": "L220/2026", "url": "u"}}
-    assert [u for _, u in sources.text_sources(rec)] == [
-        "https://www.cdep.ro/x.pdf",
+    # a Chamber text exists: only that one (never a scan because cdep.ro was down)
+    assert [u for _, u in sources.text_sources(rec)] == ["https://www.cdep.ro/x.pdf"]
+    senate_only = {"text_pdf": None, "senate": {"number": "L220/2026", "url": "u"}}
+    assert [u for _, u in sources.text_sources(senate_only)] == [
         "https://www.senat.ro/legis/PDF/2026/26L220LP.PDF",
         "https://www.senat.ro/legis/PDF/2026/26L220FS.PDF",
     ]

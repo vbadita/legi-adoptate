@@ -1,0 +1,30 @@
+[Unit]
+Description=Collect laws adopted by Parliament (cdep.ro, Monitorul Oficial, Gemini) and push data/
+Documentation=https://github.com/vbadita/legi-adoptate
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/libexec/legi-collect
+User=legi-collector
+Group=legi-collector
+StateDirectory=legi-collector
+# Be a quiet neighbour of the Kubernetes apps on this 1-CPU VM.
+Nice=10
+CPUQuota=50%
+MemoryMax=600M
+TimeoutStartSec=45min
+# Read-only OS; writable: only its state directory. Secrets in /etc/legi-collector (0600).
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictNamespaces=yes
+LockPersonality=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
