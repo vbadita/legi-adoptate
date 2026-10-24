@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri al căror conținut total de zahăr este mai mare de 10g/100g, destinate consumului albinelor.",
+    "text": "Se introduce o nouă literă, lit. o), în Legea nr. 227/2015 privind Codul fiscal, referitoare la livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri destinate consumului albinelor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Apicultorii",
+   "Operatorii economici care produc sau comercializează hrană pentru albine"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă livrarea de turte proteice, siropuri pe bază de zahăr și amestecuri pentru consumul albinelor în lista livrărilor la care se aplică prevederile Codului fiscal.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "TVA redus pentru hrana de albine"
+ },
+ "generated_at": "2026-10-24T16:24:55+00:00",
+ "idp": 23075,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "e3becf57706d318857f4060509ccacd5d3d7c80dfc2ef4e071eba06cf4adc5fb",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L538LP.PDF"
+ },
+ "status": "ok"
+}
