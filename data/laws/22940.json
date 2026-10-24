@@ -6,7 +6,11 @@
   "day": "2026-04-23",
   "number": "53/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-04-23",
+  "number": "323/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 42/2026",
  "promulgation": {
   "day": "2026-04-23",

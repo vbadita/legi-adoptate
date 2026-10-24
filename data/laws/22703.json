@@ -6,7 +6,11 @@
   "day": "2026-09-25",
   "number": "188/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-09-25",
+  "number": "820/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 430/2025",
  "promulgation": {
   "day": "2026-09-25",

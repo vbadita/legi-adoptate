@@ -6,7 +6,11 @@
   "day": "2026-10-15",
   "number": "202/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-10-15",
+  "number": "865/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 545/2026",
  "promulgation": {
   "day": "2026-10-14",
