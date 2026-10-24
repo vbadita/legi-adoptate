@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se declară municipiul Târgovişte ca Oraş Voievodal.",
+    "text": "Municipiul Târgoviște este declarat Oraș Voievodal, recunoscându-i-se rolul istoric de fostă reședință domnească, capitală a Țării Românești și important centru politic, administrativ și cultural medieval."
+   }
+  ],
+  "cine_este_afectat": [
+   "Municipiul Târgoviște"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Municipiul Târgoviște primește titlul de Oraș Voievodal, în semn de recunoaștere a rolului său istoric de fostă reședință domnească, capitală a Țării Românești și centru cultural în perioada medievală.",
+  "tip": "lege simbolică",
+  "titlu_simplu": "Târgoviște devine Oraș Voievodal"
+ },
+ "generated_at": "2026-10-24T19:53:40+00:00",
+ "idp": 22866,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "57d88eb27ac0d5117712e9da688ea42d04cb63a606533502f1240ad3de694ab6",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl254_pr254_26_(2).pdf"
+ },
+ "status": "ok"
+}

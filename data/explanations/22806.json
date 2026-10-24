@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2026 ca Anul Grigore Constantin Moisil în semn de cinstire a memoriei şi a contribuțiilor deosebite aduse de academicianul Grigore Constantin Moisil în domeniul matematicii, informaticii şi al dezvoltării ştiinței în România.",
+    "text": "Anul 2026 este instituit ca Anul Grigore Constantin Moisil pentru cinstirea memoriei și a contribuțiilor sale în matematică, informatică și știință în România."
+   },
+   {
+    "citat": "Sărbătorirea Anului Grigore Constantin Moisil poate fi marcată de către autoritățile administrației publice centrale şi locale, de către instituțiile aflate în subordinea sau coordonarea acestora, precum şi de către persoane fizice şi persoane juridice, inclusiv organizații neguvernamentale, prin organizarea şi/sau participarea la programe şi manifestări culturale, educative, cu caracter social sau științific.",
+    "text": "Autoritățile, instituțiile, persoanele fizice și juridice pot organiza sau participa la manifestări culturale, educative, sociale sau științifice."
+   },
+   {
+    "citat": "Autoritățile administrației publice centrale și locale, precum şi instituțiile aflate în subordinea sau coordonarea acestora pot acorda sprijin logistic şi pot aloca fonduri din bugetele proprii în vederea organizării şi derulării în bune condiții a manifestărilor prevăzute la alin. (1), în limita alocațiilor bugetare aprobate.",
+    "text": "Autoritățile și instituțiile publice pot oferi sprijin logistic și pot aloca bani din bugetele proprii pentru aceste manifestări, în limita bugetului aprobat."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice centrale și locale",
+   "Instituțiile aflate în subordinea sau coordonarea autorităților",
+   "Persoanele fizice și persoanele juridice",
+   "Organizațiile neguvernamentale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 ca Anul Grigore Constantin Moisil pentru a cinsti memoria academicianului și contribuțiile sale în matematică, informatică și știință.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Anul 2026 devine Anul Grigore Constantin Moisil"
+ },
+ "generated_at": "2026-10-24T19:54:46+00:00",
+ "idp": 22806,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "867d27ad946af8c22ec7ade4d543cf67b71e66ef2c12cfe4a6b9e9aee46b9d11",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl127_pr127_26_(6).pdf"
+ },
+ "status": "ok"
+}

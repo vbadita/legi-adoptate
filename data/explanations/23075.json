@@ -1,32 +1,32 @@
 {
  "attempts": 1,
- "checked_against_text": false,
+ "checked_against_text": true,
  "explanation": {
   "ce_se_schimba": [
    {
-    "citat": "livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri al căror conținut total de zahăr este mai mare de 10g/100g, destinate consumului albinelor.",
-    "text": "Se introduce o nouă literă, lit. o), în Legea nr. 227/2015 privind Codul fiscal, referitoare la livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri destinate consumului albinelor."
+    "citat": "livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri al căror conţinut total de zahăr este mai mare de 10g/100g, destinate consumului albinelor.",
+    "text": "Se aplică o nouă reglementare pentru livrarea de turte proteice, siropuri pe bază de zahăr sau amestecuri cu un conținut de zahăr de peste 10g/100g pentru albine."
    }
   ],
   "cine_este_afectat": [
    "Apicultorii",
-   "Operatorii economici care produc sau comercializează hrană pentru albine"
+   "Cei care produc sau vând hrană pentru albine"
   ],
   "de_cand": null,
-  "pe_scurt": "Legea adaugă livrarea de turte proteice, siropuri pe bază de zahăr și amestecuri pentru consumul albinelor în lista livrărilor la care se aplică prevederile Codului fiscal.",
+  "pe_scurt": "Legea introduce o cotă redusă de TVA pentru produsele destinate hranei albinelor, cum ar fi turtele proteice și siropurile cu un conținut de zahăr mai mare de 10g/100g.",
   "tip": "modificarea unor legi",
-  "titlu_simplu": "TVA redus pentru hrana de albine"
+  "titlu_simplu": "Cota redusă de TVA pentru hrana albinelor"
  },
- "generated_at": "2026-10-24T16:24:55+00:00",
+ "generated_at": "2026-10-24T19:53:52+00:00",
  "idp": 23075,
  "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
  "round": 1,
- "scanned": true,
+ "scanned": false,
  "source": {
-  "label": "senat: forma trimisă la promulgare",
-  "sha256": "e3becf57706d318857f4060509ccacd5d3d7c80dfc2ef4e071eba06cf4adc5fb",
-  "url": "https://www.senat.ro/legis/PDF/2025/25L538LP.PDF"
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9b514af4510013881f8d91fe9b1768ed5fc7747399f070caea96f55ba88e2218",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl175_pr175_26_(3).pdf"
  },
  "status": "ok"
 }

@@ -1,15 +1,15 @@
 {
- "attempts": 1,
- "checked_against_text": false,
+ "attempts": 2,
+ "checked_against_text": true,
  "explanation": {
   "ce_se_schimba": [
    {
-    "citat": "Gestionarul fondului cinegetic are obligaţia ca, în termen de cel mult 30 de zile de la data încheierii contractului de gestionare... să notifice unităţile administrativ-teritoriale... prin scrisoare recomandată cu aviz de primire, prin poştă electronică sau prin depunere directă",
-    "text": "Gestionarul fondului cinegetic trebuie să notifice unitățile administrativ-teritoriale în termen de cel mult 30 de zile de la încheierea contractului de gestionare sau a actelor adiționale, prin scrisoare recomandată cu aviz de primire, poștă electronică sau depunere directă."
+    "citat": "Gestionarul fondului cinegetic are obligația ca, în termen de cel mult 30 de zile de la data încheierii contractului de gestionare, prevăzut la alin. (1), precum și de la data fiecărui act adițional la acesta, să notifice unitățile administrativ-teritoriale pe raza cărora este situat fondul cinegetic.",
+    "text": "Gestionarul fondului cinegetic trebuie să notifice primăriile pe a căror rază se află fondul în termen de cel mult 30 de zile de la încheierea contractului sau a unui act adițional."
    },
    {
-    "citat": "încălcarea dispoziţiilor prevăzute la art. 9 alin. (1^2)... cu amendă de la 500 lei la 1.500 lei;",
-    "text": "Încălcarea acestei obligații se sancționează cu amendă de la 500 lei la 1.500 lei."
+    "citat": "încălcarea dispozițiilor prevăzute la art. 9 alin. (1^2)... cu amendă de la 500 lei la 1.500 lei;",
+    "text": "Încălcarea obligației de notificare se sancționează cu amendă de la 500 lei la 1.500 lei."
    }
   ],
   "cine_este_afectat": [
@@ -17,20 +17,20 @@
    "Unitățile administrativ-teritoriale"
   ],
   "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
-  "pe_scurt": "Legea introduce obligația ca gestionarul fondului cinegetic să notifice unitățile administrativ-teritoriale în termen de cel mult 30 de zile de la încheierea contractului sau a actelor adiționale. De asemenea, stabilește amenzi pentru nerespectarea acestei obligații.",
+  "pe_scurt": "Această lege aduce reguli noi privind notificarea primăriilor de către gestionarii fondurilor cinegetice și stabilește amenzi pentru nerespectarea acestor obligații.",
   "tip": "modificarea unor legi",
-  "titlu_simplu": "Modificarea Legii vânătorii și a protecției fondului cinegetic"
+  "titlu_simplu": "Modificări la Legea vânătorii și protecției fondului cinegetic"
  },
- "generated_at": "2026-10-24T16:34:53+00:00",
+ "generated_at": "2026-10-24T19:54:15+00:00",
  "idp": 23263,
  "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
  "round": 1,
- "scanned": true,
+ "scanned": false,
  "source": {
-  "label": "senat: forma trimisă la promulgare",
-  "sha256": "8198a76e7dfeb10539d5e7bfadec85348ba2f780b8e7ba90b4c8e92cd00f6915",
-  "url": "https://www.senat.ro/legis/PDF/2026/26L242LP.PDF"
+  "label": "camera: forma pentru promulgare",
+  "sha256": "06663886aaef0060a278670d540cd5af580cab5f44f41c06fe224c7f0fa63ff7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl377_377-26_prom_stema.pdf"
  },
  "status": "ok"
 }

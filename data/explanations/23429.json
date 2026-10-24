@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-24T19:54:37+00:00",
+ "idp": 23429,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: citatul nu apare exact în text', 'punctul 5: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ff2dbc3541dfbec5bafed0269062b088a8244aac5763f41ac9601fd3064e7999",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl545_pr545_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

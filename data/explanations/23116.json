@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-24T19:53:56+00:00",
+ "idp": 23116,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: numerele 16 nu apar în citatul punctului']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "aac48e296caeea46c76de6cd2465c37f2eebadcb7095f22ab854a67b94249ad5",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl227_pr227_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Obiectivele strategice sunt: a) crearea unui cadru legislativ şi financiar favorabil dezvoltării sectorului turismului balnear; b) sprijinirea cercetării şi inovării în turismul balnear; c) susținerea investițiilor în infrastructura balneară... d) diversificarea ofertei şi creşterea calității... e) promovarea stațiunilor...",
+    "text": "Se stabilesc obiective strategice care includ crearea unui cadru legislativ și financiar favorabil, sprijinirea cercetării, susținerea investițiilor și promovarea stațiunilor pe plan intern și internațional."
+   },
+   {
+    "citat": "Măsurile de sprijin necesare pentru îndeplinirea obiectivelor strategice sunt cuprinse în planul de acțiune pentru implementarea strategiei... aprobat prin Hotărârea Guvernului nr. 571/2019... Guvernul are obligația de a adapta permanent strategia...",
+    "text": "Măsurile de sprijin sunt cele cuprinse în planul de acțiune aprobat prin Hotărârea Guvernului nr. 571/2019, iar Guvernul trebuie să adapteze permanent strategia la cerere și la exigențele mondiale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Operatorii din turismul balnear"
+  ],
+  "de_cand": "la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea stabilește turismul balnear drept domeniu strategic prioritar și prevede măsuri pentru modernizarea infrastructurii turistice și a stațiunilor balneare.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Dezvoltarea turismului balnear"
+ },
+ "generated_at": "2026-10-24T19:53:46+00:00",
+ "idp": 22963,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8f375b16d8c26d9a6efb62326d283bda589b20ba2d38b2f5be5ac14c1d0b5ad4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl048_pr048_26.pdf"
+ },
+ "status": "ok"
+}

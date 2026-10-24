@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La judeţul Neamţ, la litera C. „Comune”, numărul curent 7, la comuna Bira, prima coloană „Denumirea comunei” şi coloana a doua „Satele componente” se modifică şi vor avea următorul cuprins: ... 7. Bâra ... 1. Bâra 2. Negreşti 3. Rediu",
+    "text": "Se modifică denumirea comunei și satele componente pentru poziția numărul 7 de la comuna Bira din județul Neamț."
+   }
+  ],
+  "cine_este_afectat": [
+   "Locuitorii din comuna Bira",
+   "Autoritățile publice din județul Neamț"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică componența teritorială a comunei Bira din județul Neamț, stabilind satele componente ale acesteia.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea organizării administrative pentru comuna Bira din județul Neamț"
+ },
+ "generated_at": "2026-10-24T19:54:57+00:00",
+ "idp": 23170,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "06ce2eabcd1fb474dadee1c69c7cbc1e9acbeae25a9f8a6ce4229e19e3a8606c",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L380LP.PDF"
+ },
+ "status": "ok"
+}

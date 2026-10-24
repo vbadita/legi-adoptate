@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2026 ca Anul Centenar al Partidului Național Țărănesc, în semn de recunoaştere a rolului determinant al Partidului Național Român, al Partidului Țărănesc şi al Partidului Național Ţărănesc în construcția statului român modern...",
+    "text": "Se instituie anul 2026 ca Anul Centenar al Partidului Național Țărănesc."
+   },
+   {
+    "citat": "Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice centrale şi locale, precum şi instituțiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic şi material manifestări culturale, educaționale sau ştiințifice dedicate marcării centenarului Partidului Național Tărănesc.",
+    "text": "Autoritățile publice pot organiza sau sprijini logistic și material manifestări culturale, educaționale sau științifice dedicate marcării centenarului."
+   },
+   {
+    "citat": "Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice centrale şi locale, precum şi instituțiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării şi derulării în bune condiții a manifestărilor prevăzute la alin. (1), în limita alocărilor bugetare aprobate.",
+    "text": "Instituțiile statului pot aloca fonduri din bugetele proprii pentru organizarea manifestărilor, în limita alocărilor bugetare aprobate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Parlamentul",
+   "Administrația Prezidențială",
+   "Guvernul",
+   "Autoritățile administrației publice centrale și locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 drept Anul Centenar al Partidului Național Țărănesc și permite autorităților să organizeze evenimente și să aloce fonduri pentru acest moment.",
+  "tip": "lege simbolică",
+  "titlu_simplu": "Anul 2026 ca Anul Centenar al Partidului Național Țărănesc"
+ },
+ "generated_at": "2026-10-24T19:54:48+00:00",
+ "idp": 23061,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "f1e6725b5126f38fe6ae32df5f02491a1ea4deb8333c1c1eb6a6b8541b1a746e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl159_pr159_26_(4).pdf"
+ },
+ "status": "ok"
+}

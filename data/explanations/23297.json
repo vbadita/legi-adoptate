@@ -1,0 +1,40 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "plata cotizației anuale către asociațiile sportive de drept privat, constituite ca persoane juridice fără scop patrimonial, deținătoare ale certificatului de identitate sportivă, la care unitatea administrativ-teritorială are calitatea de asociat, în limita maximă de 5.000.000 lei/an pentru fiecare unitate administrativ-teritorială asociată.",
+    "text": "Unitățile administrativ-teritoriale pot plăti o cotizație anuală către asociațiile sportive de drept privat fără scop patrimonial unde sunt asociate, în limita a 5.000.000 lei/an."
+   },
+   {
+    "citat": "Cotizația se aprobă prin hotărâre a autorității deliberative a administrației publice locale, în limita creditelor bugetare aprobate cu această destinație, fără aplicarea procedurii de acordare a finanțărilor nerambursabile prevăzute de Legea nr. 350/2005...",
+    "text": "Cotizația se aprobă prin hotărâre a autorității deliberative locale, fără aplicarea procedurii de finanțări nerambursabile din Legea nr. 350/2005."
+   },
+   {
+    "citat": "Până la data de 31 martie a anului următor celui pentru care a fost acordată cotizația, beneficiarul prezintă autorității deliberative care a aprobat cotizația raportul privind execuția bugetară aferentă sumelor primite, însoțit de documentele justificative privind utilizarea acestora.",
+    "text": "Beneficiarul trebuie să prezinte până la data de 31 martie a anului următor un raport privind execuția bugetară cu documente justificative."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile administrativ-teritoriale",
+   "Asociațiile sportive de drept privat fără scop patrimonial"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 33/2026 și aduce o completare privind plata cotizației anuale către asociațiile sportive de drept privat în care unitățile administrativ-teritoriale sunt asociate.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 33/2026 privind Legea educației fizice și sportului"
+ },
+ "generated_at": "2026-10-24T19:54:22+00:00",
+ "idp": 23297,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "405cbffc02c3deb2f280872d1f6708b60e6240496d47c72116c77ec1445d186c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl428_pr428_26.pdf"
+ },
+ "status": "ok"
+}

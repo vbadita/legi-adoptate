@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-24T19:54:50+00:00",
+ "idp": 22968,
+ "prompt_version": 5,
+ "reason": "unexpected gemini response",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "b182d63751bdcf9595d79800728775612c7982b105b89cd6fa76a47817da9772",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L276LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

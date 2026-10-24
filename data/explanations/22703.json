@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgență a Guvernului nr. 49 din 25 septembrie 2025 ... cu următoarea modificare",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 49 din 25 septembrie 2025, cu o modificare."
+   },
+   {
+    "citat": "măsurile prevăzute la art. II şi III din Ordonanța de urgență a Guvernului nr. 20/2022 ... se aplică până la data de 30 septembrie 2027.",
+    "text": "Măsurile prevăzute la art. II și III din Ordonanța de urgență a Guvernului nr. 20/2022 se aplică până la data de 30 septembrie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Consultanții fiscali",
+   "Instituțiile implicate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă Ordonanța de urgență a Guvernului nr. 49/2025 cu o modificare referitoare la aplicarea unor măsuri până la o anumită dată.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 49/2025 privind consultanța fiscală"
+ },
+ "generated_at": "2026-10-24T19:53:36+00:00",
+ "idp": 22703,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "182fa2cd9407265251c8b7ecbbbd8d000601fbe6adfa3accbdecda9ef1cee690",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl430_pr430_25.pdf"
+ },
+ "status": "ok"
+}

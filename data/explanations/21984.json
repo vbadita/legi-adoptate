@@ -1,46 +1,15 @@
 {
- "attempts": 1,
- "checked_against_text": false,
- "explanation": {
-  "ce_se_schimba": [
-   {
-    "citat": "Prin excepție de la prevederile alin. (1), nu se supun avizării întreținerea curentă și lucrările asupra finisajelor exterioare constând în curățarea noninvazivă a monumentelor istorice ... în măsura în care sunt îndeplinite cumulativ următoarele condiții: a) nu afectează materialul, autenticitatea sau valoarea culturală a monumentului istoric; b) intervențiile sunt reversibile și nu produc degradări; c) se notifică în prealabil serviciile publice deconcentrate ale Ministerului Culturii și autoritățile administrației publice locale.",
-    "text": "Întreținerea curentă și lucrările pe finisajele exterioare constând în curățarea noninvazivă a monumentelor istorice nu se supun avizării, dacă sunt îndeplinite anumite condiții legate de aspect, reversibilitate și notificare prealabilă."
-   },
-   {
-    "citat": "Lucrările efectuate cu nerespectarea alin. (2^1) sunt considerate lucrări efectuate fără aviz și se sancționează potrivit prevederilor prezentei legi.",
-    "text": "Lucrările efectuate fără respectarea regulilor pentru curățarea noninvazivă sunt considerate lucrări efectuate fără aviz și se sancționează conform legii."
-   },
-   {
-    "citat": "Criteriile tehnice privind caracterul noninvaziv al acțiunilor prevăzute la alin. (2^1) și procedura de notificazione prealabilă se stabilesc prin ordin al ministrului culturii.",
-    "text": "Criteriile tehnice pentru caracterul noninvaziv și procedura de notificare prealabilă se stabilesc prin ordin al ministrului culturii."
-   },
-   {
-    "citat": "Ordinul ministrului culturii privind specificul condițiilor și procedura notificării prevăzut la art. 23 alin. (2^3) din Legea nr. 422/2001 ... se publică în Monitorul Oficial al României, Partea I, în 30 de zile de la intrarea în vigoare a prezentei legi.",
-    "text": "Ordinul ministrului culturii privind procedura de notificare se publică în Monitorul Oficial în 30 de zile de la intrarea în vigoare a prezentei legi."
-   }
-  ],
-  "cine_este_afectat": [
-   "Proprietarii și administratorii de monumente istorice",
-   "Ministerul Culturii",
-   "Serviciile publice deconcentrate ale Ministerului Culturii",
-   "Autoritățile administrației publice locale"
-  ],
-  "de_cand": null,
-  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 43/2024 care aduce completări privind regulile pentru întreținerea curentă și lucrările pe finisajele exterioare ale monumentelor istorice, stabilind excepții de la avizare în anumite condiții.",
-  "tip": "aprobarea unei ordonanțe",
-  "titlu_simplu": "Aprobarea O.G. nr. 43/2024 privind protejarea monumentelor istorice"
- },
- "generated_at": "2026-10-24T16:11:39+00:00",
+ "generated_at": "2026-10-24T19:53:31+00:00",
  "idp": 21984,
- "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 3: numerele 30 nu apar în citatul punctului']",
  "round": 1,
- "scanned": true,
+ "scanned": false,
  "source": {
-  "label": "senat: forma trimisă la promulgare",
-  "sha256": "375043d933c6d125701e8563f8bb291ef1ef0ed01f72d7cd11b41749b2eef333",
-  "url": "https://www.senat.ro/legis/PDF/2024/24L478LP.PDF"
+  "label": "camera: forma pentru promulgare",
+  "sha256": "36863e8ac5d1327118c43c813ce56d3295da829cb141d7234ff09f0cbb62eff0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl521_pr521_24.pdf"
  },
- "status": "ok"
+ "status": "rejected",
+ "tries": 1
 }

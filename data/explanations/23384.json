@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "nu înștiințează de îndată autoritățile se pedepsește cu închisoare de la 6 luni la 2 ani.",
+    "text": "Neînștiințarea de îndată a autorităților despre infracțiuni de trafic, exploatare sau contra libertății sexuale a unui minor ori materiale cu abuzuri sexuale se pedepsește cu închisoare de la 6 luni la 2 ani."
+   },
+   {
+    "citat": "Efectuarea, în orice mod, de operațiuni de procurare, deținere, stocare, distribuire, precum și punere la dispoziție de materiale ce conțin abuzuri sexuale asupra minorilor se pedepsește cu închisoarea de la 2 la 7 ani și interzicerea exercitării unor drepturi.",
+    "text": "Operațiunile cu materiale ce conțin abuzuri sexuale asupra minorilor se pedepsesc cu închisoare de la 2 la 7 ani și interzicerea unor drepturi."
+   },
+   {
+    "citat": "Pedeapsa este închisoarea de la 5 la 12 ani și interzicerea exercitării unor drepturi în cazul producerii, în orice mod, de materiale ce conțin abuzuri sexuale asupra minorilor...",
+    "text": "Producerea de materiale ce conțin abuzuri sexuale asupra minorilor se pedepsește cu închisoare de la 5 la 12 ani și interzicerea unor drepturi."
+   },
+   {
+    "citat": "Tentativa se pedepsește.",
+    "text": "Tentativa la aceste infracțiuni se pedepsește."
+   }
+  ],
+  "cine_este_afectat": [
+   "Cetățenii care comit infracțiuni reglementate de lege",
+   "Funcționarii publici în exercițiul atribuțiilor",
+   "Membrii de familie sau persoanele care conviețuiesc cu victima",
+   "Minorii în anumite condiții prevăzute de lege"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică Codul penal și stabilește pedepse pentru infracțiuni legate de materiale cu abuzuri sexuale asupra minorilor și neînștiințarea autorităților.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări ale Codului penal privind abuzurile sexuale asupra minorilor"
+ },
+ "generated_at": "2026-10-24T19:54:26+00:00",
+ "idp": 23384,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0178ff7ad61be409aefcefc9b0d823145db05adce59b6e34e2cfb8823d845ee3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl489_489-26_prom_stema.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. 1. – Se instituie ziua de 8 septembrie ca Ziua Națională a Atletismului Românesc.",
+    "text": "Se instituie ziua de 8 septembrie ca Ziua Națională a Atletismului Românesc."
+   },
+   {
+    "citat": "autoritățile administrației publice centrale şi locale, instituțiile publice cu atribuții în domeniile educației, sportului, culturii şi sănătății, precum şi unitățile de învățământ pot organiza, în limita bugetelor aprobate, manifestări dedicate, având ca obiectiv promovarea atletismului şi încurajarea practicării activităților fizice.",
+    "text": "Autoritățile și instituțiile publice pot organiza manifestări dedicate pentru promovarea atletismului, în limita bugetelor aprobate."
+   },
+   {
+    "citat": "Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice autonome, pot include în programele lor, potrivit propriei politici editoriale, emisiuni dedicate semnificației Zilei Naționale a Atletismului Românesc",
+    "text": "Televiziunea și Radioul publice pot include în programe emisiuni dedicate acestei zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice centrale și locale",
+   "Instituțiile publice din educație, sport, cultură și sănătate",
+   "Federația Română de Atletism și cluburile sportive",
+   "Societatea Română de Radiodifuziune și Societatea Română de Televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie data de 8 septembrie ca Ziua Națională a Atletismului Românesc. Autoritățile și alte instituții pot organiza manifestări pentru promovarea sportului.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ziua Națională a Atletismului Românesc"
+ },
+ "generated_at": "2026-10-24T19:54:30+00:00",
+ "idp": 23420,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8e6ee06568e60c09eb060594de73412644eb8a690b405442457d3e0d963ec0cb",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl514_pr514_26_(2).pdf"
+ },
+ "status": "ok"
+}
