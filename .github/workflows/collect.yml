@@ -104,7 +104,7 @@ jobs:
         working-directory: collector
         run: GITHUB_SHA="${{ steps.commit.outputs.sha }}" ../.venv/bin/python -m legi site --data ../data --out ../_site
 
-      - name: Publish to branch "site" (one commit, force-pushed: no history bloat)
+      - name: "Publish to branch site (one commit, force-pushed, so no history bloat)"
         run: |
           cd _site
           git init -q -b site
