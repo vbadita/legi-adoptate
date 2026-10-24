@@ -1,0 +1,40 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Valoarea ajutorului de stat care se acordă beneficiarilor este de 4.000 euro/ha.",
+    "text": "Valoarea ajutorului de stat acordat beneficiarilor este de 4.000 euro pe hectar."
+   },
+   {
+    "citat": "Plafonul maxim al ajutorului de stat este de 42.100 mii lei anual.",
+    "text": "Plafonul maxim anual al ajutorului de stat este de 42.100 mii lei."
+   },
+   {
+    "citat": "Ajutorul de stat instituit prin prezenta Schemă se acordă pe o perioadă de 5 ani, pentru producţia autohtonă şi o singură dată pe an.",
+    "text": "Ajutorul de stat se acordă pe o perioadă de 5 ani, o singură dată pe an."
+   }
+  ],
+  "cine_este_afectat": [
+   "Producătorii de căpșune",
+   "Ministerul Agriculturii şi Dezvoltării Rurale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește o schemă de ajutor de stat temporar pentru producătorii de căpșune din România, pe o perioadă de 5 ani, cu o valoare de 4.000 euro/ha.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ajutor de stat pentru producătorii de căpșune"
+ },
+ "generated_at": "2026-10-24T14:56:41+00:00",
+ "idp": 21264,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d93cf60685ec732691cf2bac06a04210e549a6c903a5f7efae3a544b9386c542",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl631_pr631_23_(1).pdf"
+ },
+ "status": "ok"
+}

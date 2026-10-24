@@ -1,0 +1,2 @@
+# Runtime dependency of the collector (PDF text with superscripts). Lock: requirements.txt
+pdfplumber==0.11.10

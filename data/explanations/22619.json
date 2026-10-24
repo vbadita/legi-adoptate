@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Sunt scutite de la plata accizelor băuturile alcoolice tradiționale, astfel cum sunt reglementate prin dispoziții speciale, în limita a 200 litri anual pe o gospodărie evidențiată în Registrul agricol... și care nu sunt supuse vânzării.",
+    "text": "Băuturile alcoolice tradiționale în limita a 200 litri anual pe o gospodărie din Registrul agricol, care nu sunt destinate vânzării, sunt scutite de plata accizelor."
+   },
+   {
+    "citat": "Cantitatea de băuturi alcoolice tradiționale nedestinate vânzării nu se include în stabilirea limitelor cantitative prevăzute la alin. (1^2) pentru micii producători independenți de băuturi fermentate.",
+    "text": "Cantitatea de băuturi alcoolice tradiționale nedestinate vânzării nu se ia în calcul la limitele pentru micii producători independenți de băuturi fermentate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Gospodăriile evidențiate în Registrul agricol care produc băuturi alcoolice tradiționale",
+   "Micii producători independenți de băuturi fermentate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 22/2025 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, aducând o completare legată de scutirea de la plata accizelor pentru băuturile alcoolice tradiționale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 22/2025 privind Codul fiscal"
+ },
+ "generated_at": "2026-10-24T14:57:21+00:00",
+ "idp": 22619,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "7a0195ecd9231a48306e56d7454673dfcc1401d3bb795903e4cfbf9f865d5bcf",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl355_pr_plx_355-25.pdf"
+ },
+ "status": "ok"
+}

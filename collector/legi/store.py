@@ -126,3 +126,31 @@ def save_if_changed(data_dir: Path, rec: dict) -> bool:
     os.chmod(tmp, 0o644)
     os.replace(tmp, p)
     return True
+
+
+# ---- explanations ------------------------------------------------------------------------
+
+
+def explanation_path(data_dir: Path, idp: int) -> Path:
+    return data_dir / "explanations" / f"{idp}.json"
+
+
+def load_explanation(data_dir: Path, idp: int) -> dict | None:
+    p = explanation_path(data_dir, idp)
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
+
+
+def save_json(path: Path, obj: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=path.parent, prefix=".tmp-")
+    with os.fdopen(fd, "w", encoding="utf-8") as fh:
+        fh.write(dumps(obj))
+    os.chmod(tmp, 0o644)
+    os.replace(tmp, path)
+
+
+def save_text(data_dir: Path, idp: int, text: str) -> Path:
+    path = data_dir / "texts" / f"{idp}.txt"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text + "\n", encoding="utf-8")
+    return path

@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Propunerile pentru acordarea indemnizaţiei de merit se întocmesc anual şi se înaintează pentru nominalizare Comisiei naţionale pentru acordarea indemnizaţiei de merit, de către: a) Academia Română; b) Ministerul Culturii; c) Ministerul Educaţiei şi Cercetării; d) Agenţia Naţională pentru Sport.",
+    "text": "Propunerile pentru acordarea indemnizației de merit sunt întocmite anual și înaintate comisiei naționale de către Academia Română, Ministerul Culturii, Ministerul Educației și Cercetării și Agenția Națională pentru Sport."
+   },
+   {
+    "citat": "Prin prezenta lege se înfiinţează Comisia naţională pentru acordarea indemnizaţiei de merit, compusă din: ... k) preşedinţii uniunilor de creatori care fac parte din Alianţa Naţională a Uniunilor de Creatori din România.",
+    "text": "Se modifică componența Comisiei naționale pentru acordarea indemnizației de merit, incluzând reprezentanți ai Academiei Române, ai unor comisii parlamentare, ministere, agenții și președinții uniunilor de creatori din Alianța Națională a Uniunilor de Creatori din România."
+   },
+   {
+    "citat": "Beneficiază de indemnizația de merit, în condițiile prezentei legi, sportivii cetățeni români care, în calitate de componenți ai unor echipe de club din România, au contribuit la câștigarea Cupei Campionilor Europeni, a Ligii Campionilor Europeni sau a Supercupei Europei...",
+    "text": "Primesc dreptul la indemnizația de merit sportivii români care au contribuit la câștigarea Cupei Campionilor Europeni, a Ligii Campionilor Europeni sau a Supercupei Europei ca membri ai unor echipe de club din România, indiferent de an."
+   },
+   {
+    "citat": "În termen de 45 zile de la data intrării în vigoare a prezentei legi se actualizează în mod corespunzător normele de aplicare a Legii nr. 118/2002... precum şi Regulamentul de funcţionare a Comisiei naţionale...",
+    "text": "Normele de aplicare a legii și regulamentul comisiei naționale vor fi actualizate prin hotărâre a guvernului în termen de 45 de zile de la intrarea în vigoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Sportivii români care au câștigat competiții europene intercluburi",
+   "Academia Română",
+   "Ministerul Culturii",
+   "Ministerul Educației și Cercetării"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări legate de instituțiile care fac propuneri pentru indemnizația de merit, componența comisiei naționale și include o nouă categorie de beneficiari, respectiv sportivii care au câștigat anumite competiții europene.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii indemnizației de merit"
+ },
+ "generated_at": "2026-10-24T13:26:26+00:00",
+ "idp": 23512,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a9e2e7366364229fd3c8523293168177550d42bfd760aa83877293b03d6f6b95",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl598_pr598_26_(1).pdf"
+ },
+ "status": "ok"
+}

@@ -11,14 +11,16 @@ published) is never fetched again, so a daily run needs only a few requests.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import sys
 from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-from . import cdep, monitor, store
+from . import cdep, explain, monitor, sources, store
 from .http import Blocked, FetchError, PoliteClient
+from .text import is_scanned, page_images, pdf_to_text
 
 LIST_URL = cdep.BASE + "/ords/pls/proiecte/upl_pck2015.lista?cam=2&{query}"
 ACTS_URL = cdep.BASE + "/ords/pls/dic/legis_acte_parlam2015?cam=0&tip=1&an={year}"
@@ -176,6 +178,116 @@ def cmd_mo_check(args: argparse.Namespace) -> int:
     return EXIT_ERRORS if mismatches else EXIT_OK
 
 
+MAX_TRIES = 3  # runs per law and prompt version before giving up on it
+
+
+def needs_explanation(rec: dict, existing: dict | None) -> bool:
+    if not rec.get("rounds"):
+        return False
+    if existing is None:
+        return True
+    if (
+        existing.get("prompt_version", 0) < explain.PROMPT_VERSION
+        or existing.get("round") != rec["rounds"][-1]["round"]
+    ):
+        return True
+    # a rejection is often just a paraphrased quote: try again on later runs
+    return existing.get("status") == "rejected" and existing.get("tries", 1) < MAX_TRIES
+
+
+def cmd_explain(args: argparse.Namespace) -> int:
+    """Plain-language explanations for laws that lack one, newest first.
+    --limit is a hard cap per run: the Gemini free quota is shared with other
+    apps on the same key and must never be exhausted by this one."""
+    data = Path(args.data)
+    cache = Path(args.cache) if args.cache else None
+    clients = {  # one polite client per site
+        "cdep": PoliteClient(cache_dir=cache, budget=args.budget),
+        "senat": PoliteClient(cache_dir=cache, budget=args.budget),
+    }
+    todo = [
+        rec
+        for rec in store.load_all(data)
+        if needs_explanation(rec, store.load_explanation(data, rec["idp"]))
+    ]
+    todo.sort(key=lambda r: r["rounds"][-1]["adopted_on"], reverse=True)
+    stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0}
+    for rec in todo:
+        if stats["explained"] + stats["rejected"] >= args.limit:
+            break
+        source = None
+        for label, url in sources.text_sources(rec):
+            client = clients["senat" if "senat.ro" in url else "cdep"]
+            try:
+                source = (label, url, client.get_pdf(url))
+                break
+            except Blocked as exc:
+                log("blocked", error=str(exc), **stats)
+                return EXIT_BLOCKED
+            except FetchError as exc:
+                if "budget" in str(exc):
+                    log("stopped", error=str(exc), **stats)
+                    return EXIT_OK
+                log("source_unavailable", idp=rec["idp"], url=url, error=str(exc))
+        if source is None:
+            stats["no_source"] += 1
+            continue
+        label, url, pdf = source
+        scanned = is_scanned(pdf)
+        text = None if scanned else pdf_to_text(pdf)
+        if text is not None and len(text) < 200:  # no usable text layer: read it as images
+            text, scanned = None, True
+        result_base = {
+            "idp": rec["idp"],
+            "round": rec["rounds"][-1]["round"],
+            "source": {"label": label, "url": url, "sha256": hashlib.sha256(pdf).hexdigest()},
+            "scanned": scanned,
+            "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
+        }
+        try:
+            r = explain.explain(
+                text=text, images=page_images(pdf) if scanned else None, title=rec["title"]
+            )
+        except explain.QuotaExhausted:
+            log("gemini_quota_exhausted", **stats)
+            return EXIT_OK  # tomorrow
+        except explain.ExplainError as exc:
+            stats["rejected"] += 1
+            prev = store.load_explanation(data, rec["idp"]) or {}
+            same = (
+                prev.get("prompt_version") == explain.PROMPT_VERSION
+                and prev.get("round") == result_base["round"]
+            )
+            tries = prev.get("tries", 1) + 1 if same and prev.get("status") == "rejected" else 1
+            store.save_json(
+                store.explanation_path(data, rec["idp"]),
+                {
+                    **result_base,
+                    "status": "rejected",
+                    "tries": tries,
+                    "reason": str(exc),
+                    "prompt_version": explain.PROMPT_VERSION,
+                },
+            )
+            log("explanation_rejected", idp=rec["idp"], reason=str(exc))
+            continue
+        if text is not None:
+            store.save_text(data, rec["idp"], text)
+        store.save_json(
+            store.explanation_path(data, rec["idp"]), {**result_base, "status": "ok", **r}
+        )
+        stats["explained"] += 1
+        log(
+            "explained",
+            idp=rec["idp"],
+            number=rec["number"],
+            attempts=r["attempts"],
+            scanned=scanned,
+        )
+    log("explain_done", **stats, requests=sum(c.requests for c in clients.values()))
+    return EXIT_OK
+
+
 def status_columns(rec: dict) -> tuple[str, str, str]:
     r = rec["rounds"][-1]
     v = r["public_vote"]
@@ -222,6 +334,12 @@ def main(argv: list[str] | None = None) -> int:
     m = sub.add_parser("mo-check", help="one Monitorul Oficial call: confirm a publication day")
     m.add_argument("--data", required=True)
     m.set_defaults(func=cmd_mo_check)
+    e = sub.add_parser("explain", help="plain-language explanations (Gemini), newest first")
+    e.add_argument("--data", required=True)
+    e.add_argument("--cache", help="cache fetched PDFs here (development)")
+    e.add_argument("--limit", type=int, default=20, help="max Gemini explanations per run")
+    e.add_argument("--budget", type=int, default=60, help="max downloads per site per run")
+    e.set_defaults(func=cmd_explain)
     r = sub.add_parser("report", help="print the 3 status columns")
     r.add_argument("--data", required=True)
     r.add_argument("--since", required=True)

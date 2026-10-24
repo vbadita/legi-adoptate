@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se prorogă până la data de 31 decembrie 2027, inclusiv",
+    "text": "Termenul prevăzut este prelungit până la data de 31 decembrie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile implicate în Programul național de investiții „Anghel Saligny”"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea amână până la sfârșitul anului 2027 un termen stabilit în Ordonanța de urgență a Guvernului nr. 95/2021 pentru Programul național de investiții „Anghel Saligny”.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Prorogarea unui termen din Programul Anghel Saligny"
+ },
+ "generated_at": "2026-10-24T14:57:14+00:00",
+ "idp": 23553,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c126e3d5651dd8786432d9f5a78402cd3e4cf683f91cc05fdffe51f70877726d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl612_pr612_26.pdf"
+ },
+ "status": "ok"
+}

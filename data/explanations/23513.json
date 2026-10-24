@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "beneficiază, la cerere și persoanele juridice constituite potrivit Legii societăților nr. 31/1990, republicată, cu modificările şi completările ulterioare, în condițiile prevăzute la art. 4 din Legea nr. 175/2026",
+    "text": "Persoanele juridice constituite potrivit Legii societăților nr. 31/1990 pot beneficia, la cerere, de ajutorul de stat pentru sectorul suin în condițiile legii."
+   },
+   {
+    "citat": "Cererile pentru solicitarea ajutorului de stat se depun în termen de 10 zile lucrătoare de la data intrării în vigoare a prezentei legi.",
+    "text": "Cererile pentru solicitarea ajutorului de stat pentru porci se depun în termen de 10 zile lucrătoare de la data intrării în vigoare a legii."
+   },
+   {
+    "citat": "noțiunea de „exploatație în sectorul zootehnic” a unei persoane fizice/juridice cuprinde toate amenajările, toate construcţiile sau, în cazul creşterii în aer liber, orice mediu în care animalele sunt deţinute... cu excepţia cabinetelor ori clinicilor veterinare",
+    "text": "Noțiunea de exploatație în sectorul zootehnic pentru bovine cuprinde toate spațiile unde animalele sunt deținute, cu anumite excepții legate de cabinetele veterinare."
+   },
+   {
+    "citat": "prin noțiunea „utilizatorii Sistemului naţional de identificare și înregistrare a animalelor” se înțelege și Agenția de Plăți și Intervenție pentru Agricultură în baza protocolului încheiat cu operatorul SNIIA.",
+    "text": "Prin utilizatorii Sistemului național de identificare și înregistrare a animalelor se înțelege și Agenția de Plăți și Intervenție pentru Agricultură."
+   }
+  ],
+  "cine_este_afectat": [
+   "Crescătorii de porci",
+   "Crescătorii de bovine",
+   "Agenția de Plăți și Intervenție pentru Agricultură"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce modificări și clarificări privind ajutoarele de stat pentru crescătorii de porci și bovine din anul 2026, afectat de criza din Orientul Mijlociu, stabilind noi reguli pentru cereri și definiții.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Ajutoare pentru crescătorii de porci și bovine"
+ },
+ "generated_at": "2026-10-24T14:58:08+00:00",
+ "idp": 23513,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2b7cfd4c0f169ab536c11f2dfa537f8c8fb442c5ac730d57f545cb5c2c453289",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl595_pr595_26.pdf"
+ },
+ "status": "ok"
+}

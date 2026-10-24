@@ -49,6 +49,24 @@ without cookies or session tricks, never following redirects, never downloading 
 stops on any refusal. That list only **confirms** the "M.Of. nr. X din ..." the Chamber's pages
 report for each law. Readers are linked to e-Monitor for the official text.
 
+## Plain-language explanations (`data/explanations/<idp>.json`)
+
+One Gemini call per law (free tier, `gemini-3.5-flash-lite`), written **only from the adopted
+text**: the Chamber's "Forma pentru promulgare" (Word PDF, extracted with superscript articles
+like `27^1` and margin titles kept apart), or for Senate-decided laws the Senate's scanned form,
+sent as page images. Every answer is checked before it is kept:
+
+| Check | Catches |
+|---|---|
+| structure and lengths (enforced in our code: the API ignores `maxLength`) | malformed answers |
+| each point carries an exact quote of the law (elisions `...` allowed, pieces verbatim, in order, from one passage) | invented content |
+| every number in a point must be inside that point's own quote | a penalty attached to the wrong offence (seen in testing) |
+| numbers in title/summary must exist in the law | invented dates, sums |
+
+A failing answer is retried once with the reason; a law still failing is retried on later runs
+(max 3), and never published unchecked. Scanned sources cannot be checked and are labelled so.
+Neutrality rules: no evaluation, no comparison with the old law (not in the text).
+
 ## Layout
 
 | Path | What |
@@ -57,7 +75,10 @@ report for each law. Readers are linked to e-Monitor for the official text.
 | `collector/legi/http.py` | polite HTTP client (5 s interval, request budget, retries, CAPTCHA stop, cache) |
 | `collector/legi/store.py` | one JSON per law, written only on change |
 | `collector/legi/monitor.py` | Monitorul Oficial day list (one call per day) |
-| `collector/legi/cli.py` | `update` (incremental), `mo-check`, `report --since YYYY-MM-DD` |
+| `collector/legi/text.py` | PDF text: superscripts, margin column, scan detection, page images |
+| `collector/legi/explain.py` | prompt, schema, checks, retries |
+| `collector/legi/sources.py` | where each law's adopted text lives (Chamber, Senate) |
+| `collector/legi/cli.py` | `update` (incremental), `mo-check`, `explain --limit N`, `report --since YYYY-MM-DD` |
 | `collector/tests/` | tests + real page fixtures |
 
 ```bash

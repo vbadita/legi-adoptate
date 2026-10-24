@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Prezenta lege instituie o schemă de ajutor de stat pentru susținerea activității crescătorilor din sectorul suin... în vederea compensării costurilor măsurilor de biosecuritate aplicate în contextul evoluției pestei porcine africane aferente perioadei 31 august 2023 – 31 august 2026",
+    "text": "Se acordă ajutor de stat crescătorilor de porci pentru costurile măsurilor de biosecuritate efectuate în perioada 31 august 2023 - 31 august 2026."
+   },
+   {
+    "citat": "Valoarea totală maximă a schemei de ajutor de stat... este de 304.620 mii lei, echivalentul sumei de 60.000 mii euro",
+    "text": "Valoarea totală maximă a schemei de ajutor de stat este de 304.620 mii lei, echivalentul sumei de 60.000 mii euro."
+   },
+   {
+    "citat": "Valoarea totală ce poate fi acordată pentru întreprinderea care își desfășoară activitatea în domeniul producției primare de produse agricole nu depășește echivalentul în lei a 3.000 mii euro.",
+    "text": "Valoarea totală acordată pentru o întreprindere care produce produse agricole primare nu poate depăși echivalentul în lei a 3.000 mii euro."
+   },
+   {
+    "citat": "Sumele acordate cu titlu de ajutor de stat, în condițiile prezentei legi, nu sunt supuse executării silite prin poprire în cazul în care împotriva beneficiarilor acestora a fost pornită procedura de executare silită.",
+    "text": "Sumele primite ca ajutor de stat nu pot fi supuse executării silite prin poprire."
+   },
+   {
+    "citat": "Documentele care atestă ajutorul cuvenit se păstrează de către beneficiarii ajutorului de stat pentru o perioadă de 10 ani fiscali de la data încasării sumei cuvenite.",
+    "text": "Beneficiarii au obligația să păstreze documentele care atestă ajutorul cuvenit timp de 10 ani fiscali de la încasarea sumei."
+   }
+  ],
+  "cine_este_afectat": [
+   "Crescătorii din sectorul suin care fac reproducție, creștere sau îngrășare a porcinelor în exploatații autorizate sanitar-veterinar",
+   "Agenția de Plăți și Intervenție pentru Agricultură",
+   "Ministerul Agriculturii și Dezvoltării Rurale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se introduce o schemă de ajutor de stat pentru crescătorii de porci, destinată acoperirii costurilor cu măsurile de biosecuritate aplicate din cauza pestei porcine africane. Bugetul total maxim al schemei este de 304.620 mii lei.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ajutor de stat pentru crescătorii de porci"
+ },
+ "generated_at": "2026-10-24T13:26:10+00:00",
+ "idp": 23303,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "fe4fb19f72f1061521b02de379abd607ac9b986474e8f70e8d4d1e1b8e5532a0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl432_prom_buna.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Femeia însărcinată are dreptul la respectarea demnității și a vieții private pe durata sarcinii, a travaliului, a nașterii și până la externare.",
+    "text": "Femeia însărcinată are dreptul la respectarea demnității și a vieții private pe durata sarcinii, a travaliului, a nașterii și până la externare, iar spitalele trebuie să asigure protejarea intimității."
+   },
+   {
+    "citat": "Femeia însărcinată are dreptul de a fi însoțită, la cerere, de o persoană aleasă de aceasta, pe tot parcursul travaliului, nașterii și transferului intrainstituțional.",
+    "text": "Femeia însărcinată poate fi însoțită, la cerere, de o persoană aleasă pe tot parcursul travaliului, nașterii și transferului intrainstituțional."
+   },
+   {
+    "citat": "Nou-născutul are dreptul, imediat după naștere, precum și pe durata internării în unitatea sanitară, de a rămâne împreună cu mama sa și de a nu fi separat de aceasta",
+    "text": "Nou-născutul are dreptul, imediat după naștere și pe durata internării, să rămână cu mama sa și să nu fie separat de aceasta, cu excepții medicale sau de siguranță."
+   },
+   {
+    "citat": "se asigură, în mod obligatoriu, corelarea acestuia cu dispozițiile prezentei legi, precum și cu modificările și completările ulterioare ale acesteia, aplicabile cu cel puțin 60 de zile anterior datei de la care contractul-cadru intră în vigoare.",
+    "text": "Contractul-cadru de sănătate trebuie corelat cu aceste drepturi noi cu cel puțin 60 de zile înainte de a intra în vigoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Femeile însărcinate",
+   "Nou-născuții",
+   "Unitățile sanitare publice și private",
+   "Personalul medical"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă noi drepturi pentru femeile însărcinate și nou-născuți în spitale, incluzând dreptul la intimitate, dreptul de a fi însoțite la naștere și dreptul ca mama și copilul să nu fie separați.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Drepturile femeii însărcinate și ale nou-născutului"
+ },
+ "generated_at": "2026-10-24T13:26:21+00:00",
+ "idp": 23416,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9b0ee996f59574d977b3cd83def7d9ff3a02ae37289f7e57f47e12ca137254a4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl499_pr499_26.pdf"
+ },
+ "status": "ok"
+}

@@ -1,2 +1,4 @@
 # Transitive pins held back until >= 14 days old (scripts/check-lock-age.sh).
 pluggy==1.6.0
+pillow==12.3.0
+pycparser==3.11

@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "profitul reinvestit în orice activ corporal prevăzut în Catalogul privind clasificarea și duratele normale de funcționare a mijloacelor fixe, puse în funcțiune de agenții economici, societăţile care își desfășoară activitatea în județe sau la nivel național în scopul modernizării capacităților de producție sau în investiții noi, este scutit de impozit. ... Scutirea de impozit prevăzută la alin. (1) se aplică pentru o perioadă de maximum 5 ani",
+    "text": "Profitul reinvestit în active corporale pentru modernizare sau investiții noi este scutit de impozit timp de maximum 5 ani."
+   },
+   {
+    "citat": "Pentru creditele luate de către societățile care asigură investiții se acordă garanție în nume și cont stat de maximum 70% din valoarea creditului, excluzând dobânzile și comisioanele aferente. ... Pentru creditele prevăzute la alin. (1) utilizate la investițiile în mediul rural garanțiile în nume și cont stat sunt de maximum 90%.",
+    "text": "Se acordă garanții în nume și cont stat de maximum 70% din valoarea creditului pentru societăți, iar pentru mediul rural procentul este de maximum 90%."
+   },
+   {
+    "citat": "Pentru investițiile de tip greenfild aprobate în cadrul Programului, clădirile și terenurile utilizate exclusiv pentru activitatea eligibilă beneficiază de scutire de la impozitul pe clădiri și impozitul pe teren pe o perioadă de 5 ani de la data intrării în funcțiune a noii capacități de producție.",
+    "text": "Clădirile și terenurile folosite exclusiv pentru investiții noi de tip greenfield beneficiază de scutire de la impozitul pe clădiri și pe teren pe o perioadă de 5 ani."
+   },
+   {
+    "citat": "Societăţile din cadrul Programului beneficiază de scutirea de impozit pe venit pentru persoanele angajate în locurile de muncă nou create prin dezvoltarea capacității de producție sau prin investițiile efectuate.",
+    "text": "Societățile din cadrul programului sunt scutite de impozitul pe venit pentru persoanele angajate în locurile de muncă nou create."
+   },
+   {
+    "citat": "În vederea finanțării prioritare a proiectelor unităților administrativ-teritoriale de reabilitare, modernizare și dezvoltare a infrastructurilor școlare, de sănătate, de transport rutier și a rețelelor de apă și canalizare, prin bugetul de stat se alocă fonduri suplimentare, cu cel puțin 30%, prin raportare la numărul de locuitori.",
+    "text": "Se alocă prin bugetul de stat fonduri suplimentare cu cel puțin 30% pentru proiectele unităților administrativ-teritoriale privind infrastructura."
+   }
+  ],
+  "cine_este_afectat": [
+   "Societățile comerciale care fac investiții noi sau extinderi",
+   "Unitățile administrativ-teritoriale",
+   "Ministerul Finanțelor",
+   "Agențiile pentru Ocuparea Forței de Muncă (AJOFM)"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se aprobă un program național destinat susținerii investițiilor societăților și dezvoltării infrastructurii locale prin facilități fiscale, garanții de stat pentru credite și fonduri bugetare suplimentare.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Programul pentru investiții și locuri de muncă"
+ },
+ "generated_at": "2026-10-24T13:25:57+00:00",
+ "idp": 22962,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "20f4d2559fd866a33aecd6a45775ff97d1ae43cb135a8dec6ed0f194921c7b62",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl047_pr047_26_de_modificat.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "42. spațiu de siguranță pentru motociclete și mopede – spațiul necesar unei motociclete sau unui moped amplasat până în marcajul transversal de oprire la intrarea în intersecții semaforizate și la treceri la nivel cu calea ferată cu barieră și semibarieră. Acest spațiu este marcat perpendicular pe axa drumului, pe toată lățimea acestuia și cu lungimea de 3 m măsurată de la marcajul transversal de oprire...",
+    "text": "Se definește spațiul de siguranță pentru motociclete și mopede, având o lungime de 3 m și fiind amplasat până în marcajul transversal de oprire la intersecții semaforizate și treceri la nivel cu calea ferată."
+   },
+   {
+    "citat": "(2) Pe timpul deplasării pe drumurile publice, conducătorii motocicletelor, mopedelor și persoanele transportate pe acestea au obligația să poarte pe cap cască de protecție omologată pentru această categorie de vehicul, cu elementele de siguranță cuplate în mod corespunzător.",
+    "text": "Conducătorii și pasagerii de motociclete și mopede au obligația să poarte pe cap cască de protecție omologată, cu elementele de siguranță cuplate corespunzător."
+   },
+   {
+    "citat": "(3) Banda destinată mijloacelor de transport în comun poate fi utilizată de motociclete și mopede, în condițiile stabilite de administratorul drumului.",
+    "text": "Banda destinată transportului în comun poate fi folosită de motociclete și mopede dacă administratorul drumului stabilește acest lucru."
+   },
+   {
+    "citat": "a) depășirea coloanelor de vehicule oprite la culoarea roșie a semaforului sau la trecerile la nivel cu calea ferată; constituie excepție bicicletele, motocicletele fără ataș și mopedele, dacă distanța laterală este suficientă, nu stânjenesc manevrele celorlalți participanți la trafic și viteza de deplasare este de cel mult 20 km/h;",
+    "text": "Bicicletele, motocicletele fără ataș și mopede pot depăși coloanele oprite la roșu sau la calea ferată, dacă respectă o viteză de cel mult 20 km/h și păstrează distanța laterală."
+   }
+  ],
+  "cine_este_afectat": [
+   "Conducătorii de motociclete",
+   "Conducătorii de mopede",
+   "Administratorii drumurilor publice",
+   "Pietonii și ceilalți participanți la trafic"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce reguli noi privind circulația motocicletelor și a mopedelor pe drumurile publice, stabilind definiția unui spațiu de siguranță dedicat, clarificând utilizarea benzilor pentru transportul în comun și stabilind excepții pentru depășirea coloanelor oprite.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi pentru motociclete și mopede în trafic"
+ },
+ "generated_at": "2026-10-24T14:57:26+00:00",
+ "idp": 22683,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1663747ffd3e0b40a12bbea4308c9325dbace0704f857f9db816084db6cabc6b",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl417_pr417_25.pdf"
+ },
+ "status": "ok"
+}

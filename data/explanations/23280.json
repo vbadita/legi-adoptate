@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Prevederile art. 2 se aplică în mod corespunzător şi sumelor aflate în conturile instituţiilor şi autorităţilor publice deschise la instituţiile de credit, inclusiv în ceea ce priveşte măsurile de executare silită prin poprire.",
+    "text": "Regulile de la articolul 2 se aplică în mod corespunzător și sumelor aflate în conturile instituțiilor și autorităților publice deschise la instituțiile de credit, inclusiv pentru măsurile de executare silită prin poprire."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile publice",
+   "Autoritățile publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că regulile privind executarea obligațiilor de plată ale instituțiilor publice se aplică și sumelor din conturile deschise la instituțiile de credit, inclusiv prin poprire.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Executarea obligațiilor de plată ale instituțiilor publice"
+ },
+ "generated_at": "2026-10-24T14:57:58+00:00",
+ "idp": 23280,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6c605ebed3d7f2c8fafd3a83da0151d68e4355e7c505994251565fe1f27ddf8a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl410_pr410_26.pdf"
+ },
+ "status": "ok"
+}

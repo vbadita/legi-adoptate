@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-24T14:57:00+00:00",
+ "idp": 23464,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "98d715336e9a50fdbb73cff1006f0db1e41ebc14bd6352149d6ede89d2a81b0e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl551_pr551_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 2
+}

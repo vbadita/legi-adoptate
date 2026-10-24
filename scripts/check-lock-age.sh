@@ -5,7 +5,7 @@ set -euo pipefail
 MIN_DAYS=${MIN_DAYS:-14}
 cd "$(dirname "$0")/../collector"
 # certifi is exempt: it is the CA bundle, a fresh release removes distrusted CAs.
-grep -hv '^[#-]' requirements-dev.txt | sort -u | python3 -c '
+grep -hv '^[#-]' requirements.txt requirements-dev.txt | sort -u | python3 -c '
 import json, sys, urllib.request
 from datetime import datetime, timezone
 min_days, bad = int(sys.argv[1]), 0

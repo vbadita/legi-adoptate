@@ -51,15 +51,40 @@ class PoliteClient:
         self._last = float("-inf")
         self.requests = 0  # network requests made (cache hits excluded)
 
-    def _cache_path(self, url: str) -> Path | None:
+    def _cache_path(self, url: str, suffix: str = ".html") -> Path | None:
         if self.cache_dir is None:
             return None
-        return self.cache_dir / (hashlib.sha256(url.encode()).hexdigest()[:24] + ".html")
+        return self.cache_dir / (hashlib.sha256(url.encode()).hexdigest()[:24] + suffix)
 
     def get(self, url: str) -> str:
         cached = self._cache_path(url)
         if cached and cached.exists():
             return cached.read_text(encoding="utf-8")
+        body = self._fetch(url).decode("utf-8", "replace")
+        if any(marker in body for marker in BLOCK_MARKERS):
+            raise Blocked(f"{url}: firewall CAPTCHA, stopping")
+        if cached:
+            cached.parent.mkdir(parents=True, exist_ok=True)
+            cached.write_text(body, encoding="utf-8")
+        return body
+
+    def get_pdf(self, url: str) -> bytes:
+        """A PDF, with the same pacing and budget. Anything that is not a PDF
+        (a CAPTCHA or error page) is refused and never cached."""
+        cached = self._cache_path(url, ".pdf")
+        if cached and cached.exists():
+            return cached.read_bytes()
+        data = self._fetch(url)
+        if not data.startswith(b"%PDF"):
+            if any(marker.encode() in data for marker in BLOCK_MARKERS):
+                raise Blocked(f"{url}: firewall CAPTCHA, stopping")
+            raise FetchError(f"{url}: not a PDF")
+        if cached:
+            cached.parent.mkdir(parents=True, exist_ok=True)
+            cached.write_bytes(data)
+        return data
+
+    def _fetch(self, url: str) -> bytes:
         if self.requests >= self.budget:
             raise FetchError(f"request budget of {self.budget} reached")
         for attempt in range(self.retries + 1):
@@ -71,7 +96,7 @@ class PoliteClient:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
             try:
                 with self.opener(req, timeout=self.timeout) as resp:
-                    body = resp.read().decode("utf-8", "replace")
+                    body = resp.read()
                 break
             except urllib.error.HTTPError as exc:
                 if exc.code not in RETRYABLE or attempt == self.retries:
@@ -80,9 +105,4 @@ class PoliteClient:
                 if attempt == self.retries:
                     raise FetchError(f"{url}: {type(exc).__name__}") from None
             self.sleep(min(60.0, 5.0 * 2**attempt))  # 5, 10, 20 s
-        if any(marker in body for marker in BLOCK_MARKERS):
-            raise Blocked(f"{url}: firewall CAPTCHA, stopping")
-        if cached:
-            cached.parent.mkdir(parents=True, exist_ok=True)
-            cached.write_text(body, encoding="utf-8")
         return body
