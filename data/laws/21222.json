@@ -1,0 +1,211 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21222,
+ "law": {
+  "day": "2026-07-23",
+  "number": "160/2026"
+ },
+ "monitor": {
+  "day": "2026-07-23",
+  "number": "603/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 605/2023",
+ "promulgation": {
+  "day": "2026-07-23",
+  "decree": "435/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2023-11-14",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 7,
+    "chamber": "Camera Deputaților",
+    "contra": 30,
+    "day": "2023-11-14",
+    "nu_au_votat": 1,
+    "pentru": 225
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-10-16",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-11-14",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 7,
+      "contra": 30,
+      "nu_au_votat": 1,
+      "pentru": 225
+     }
+    }
+   ]
+  },
+  {
+   "adopted_on": "2025-10-15",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2025-10-15",
+    "nu_au_votat": null,
+    "pentru": 295
+   },
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-04-02",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-10-15",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 295
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L504/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L504&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr605_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-10-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-10-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii termen depunere amendamente: 30.10.2023 termen depunere raport: 07.11.2023 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină ş"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "other",
+   "text": "Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru politică economică, reformă şi privatizare trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2023-10-31",
+   "kind": "other",
+   "text": "nu s-a aprobat solicitarea Comisiei pentru mediu și echilibru ecologic"
+  },
+  {
+   "day": "2023-11-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-11-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 13 - 14 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-14",
+   "kind": "other",
+   "text": "primire raport favorabil (12 amend. admise, 3 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-11-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Legea pentru modificarea şi completarea Legii energiei electrice şi a gazelor naturale nr.123/2012, precum și pentru modificarea art. 319 alin. (10) lit. d) din Legea nr. 227/2015 privind Codul fiscal rezultat vot pentru=225, contra=30, abtineri=7, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-11-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-11-25",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2023-12-12",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului cererea de reexaminare solicitata de Presedintele României este înaintata la Senat CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2024-04-02",
+   "kind": "adopted",
+   "text": "adoptat de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-04-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii termen depunere amendamente: 16.04.2024 termen depunere raport: 24.04.2024"
+  },
+  {
+   "day": "2024-11-11",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2024-11-17",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii CLGP din 17 noiembrie 2024"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 13 și 15 octombrie 2025"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil (5 amend. admise, 48 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor (ca urmare a cererii de reexaminare) rezultat vot pentru=295, contra=0, abtineri=0 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-10-25",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2025-11-06",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.4462A/2025)"
+  },
+  {
+   "day": "2026-04-29",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.391/2026 ) respinge obiectiunile de neconstitutionalitate DECIZIA CURŢII CONSTITUŢIONALE nr.391 din 29 aprilie 2026 (Dosar nr.4462A/2026)"
+  },
+  {
+   "day": "2026-07-23",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 435/2026 devine Legea nr. 160/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii energiei electrice şi a gazelor naturale nr.123/2012",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21222"
+}

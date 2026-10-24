@@ -1,0 +1,203 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18756,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 643/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2022-04-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 47,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2022-04-13",
+    "nu_au_votat": 1,
+    "pentru": 233
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-10-14",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2022-04-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 47,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 233
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L525/20.08.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L525&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr643_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-07-07",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2020-07-07",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-10-14",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-10-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 27.10.2020 termen depunere raport: 03.11.2020 trimis pentru aviz "
+  },
+  {
+   "day": "2020-11-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 3 noiembrie 2020 (CLGP online - 2 noiembrie 2020)"
+  },
+  {
+   "day": "2020-11-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 10 noiembrie 2020 (CLGP online - 9 noiembrie 2020)"
+  },
+  {
+   "day": "2020-11-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 17 noiembrie 2020 (CLGP online - 16 noiembrie 2020)"
+  },
+  {
+   "day": "2020-11-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 24 noiembrie 2020 (CLGP online - 23 noiembrie 2020)"
+  },
+  {
+   "day": "2020-12-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 15 decembrie 2020 (CLGP online - 14 decembrie 2020)"
+  },
+  {
+   "day": "2022-02-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din zilele de 7 şi 9 februarie 2022"
+  },
+  {
+   "day": "2022-02-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 14 - 15 februarie 2022"
+  },
+  {
+   "day": "2022-02-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 21 - 22 februarie 2022"
+  },
+  {
+   "day": "2022-02-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 28 februarie si 2 martie 2022"
+  },
+  {
+   "day": "2022-03-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 7 - 8 martie 2022 înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 7 - 8 martie 2022"
+  },
+  {
+   "day": "2022-03-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 14 martie 2022"
+  },
+  {
+   "day": "2022-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 21 martie 2022"
+  },
+  {
+   "day": "2022-03-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 28 - 29 martie 2022"
+  },
+  {
+   "day": "2022-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 4 - 5 aprilie 2022"
+  },
+  {
+   "day": "2022-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 11 si 13 aprilie 2022"
+  },
+  {
+   "day": "2022-04-12",
+   "kind": "other",
+   "text": "primire raport favorabil (5 amend. admise) de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2022-04-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-04-13",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=233, contra=0, abtineri=47, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2022-04-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2022-04-21",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2022-05-02",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Avocatul Poporului) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1071A/2022)"
+  },
+  {
+   "day": "2022-08-25",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.367/2022 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.367 din 29 iunie 2022 (Dosarul nr.1071A/2022) SE"
+  },
+  {
+   "day": "2022-08-25",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2022-09-21",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-09-26",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 13.10.2022"
+  },
+  {
+   "day": "2025-10-16",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.8240/14.10.2025 (negativ) Punctul de vedere al Guvernului"
+  }
+ ],
+ "title": "Proiect de Lege privind transmiterea unor bunuri imobile destinate activităţilor de asistenţă sanitar-veterinară, aflate în proprietatea privată a statului, din administrarea Agenţiei Domeniilor Statului în administrarea consiliilor locale, precum şi pentru abrogarea Ordonanţei de urgenţă a Guvernului nr.89/2004 privind vânzarea bunurilor imobile în care se desfăşoară activităţi de asistenţă sanitar-veterinară",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18756"
+}

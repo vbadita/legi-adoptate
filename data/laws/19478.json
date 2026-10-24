@@ -1,0 +1,188 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19478,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 14/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-04-25",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2023-04-25",
+    "nu_au_votat": null,
+    "pentru": 253
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-12-20",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-04-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 253
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L477/21.09.2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L477&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr014_22.pdf",
+ "timeline": [
+  {
+   "day": "2021-09-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2021-09-20",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2021-12-20",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-02-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 14.02.2022 termen depunere raport: 22.02.2022 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2022-02-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2022-05-16",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2022-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 30 - 31 mai 2022"
+  },
+  {
+   "day": "2022-05-31",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 22.06.2022 dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-02-15",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil (6 amend. admise) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-02-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 27 - 28 februarie 2023"
+  },
+  {
+   "day": "2023-02-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 6 - 7 martie 2023"
+  },
+  {
+   "day": "2023-03-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 13 - 14 martie 2023"
+  },
+  {
+   "day": "2023-03-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 20 - 21 martie 2023"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 27 si 29 martie 2023"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 11 - 12 aprilie 2023"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 - 19 aprilie 2023"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 24 - 25 aprilie 2023"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor titlu: Lege pentru modificarea art.215 alin.(1) din Legea nr.134/2010 privind Codul de procedură civilă rezultat vot pentru=253, contra=0, abtineri=0 Forma adoptată de Cameră Forma pentru promulgare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video PA"
+  },
+  {
+   "day": "2023-05-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-05-08",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-05-24",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1272A/2023)"
+  },
+  {
+   "day": "2023-11-23",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.341/2023 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DCC nr.341 din 21 iunie 2023 (Dosar nr.1272A/2023) SE"
+  },
+  {
+   "day": "2023-11-23",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2023-12-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 15.02.2024"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea art.215 alin.(1) şi completarea art.522 alin.(2) din Legea nr.134/2010 privind Codul de procedură civilă",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19478"
+}

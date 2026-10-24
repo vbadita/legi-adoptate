@@ -1,0 +1,141 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 18210,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 617/2019",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-06-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-02-11",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2020-06-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L87/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L87&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2019-11-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Legislativ termen: 25.11.2019 solicitare punct de vedere de la Guvern termen: 25.11.2019 solicitare aviz de la Consiliul Economic si Social termen: 25.11.2019"
+  },
+  {
+   "day": "2019-11-20",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.955/19.11.2019 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2019-11-26",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 03.12.2019 termen depunere raport: 09.12.2019 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2019-12-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la Consiliul Economic si Social - cu nr.5890/19.11.2019 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2019-12-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat solicitarea unui deputat de a fi coinițiator al propunerii legislative"
+  },
+  {
+   "day": "2019-12-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2019-12-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2020-01-30",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2020-02-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor recalculare termen având în vedere Decizia Camerei Deputaților nr.1/20.01.2020 de convocare în sesiune extraordinară în perioada 20-31.01.2020 din Regulamentul Camerei Deputaților; termen: 28.1.2020"
+  },
+  {
+   "day": "2020-02-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-02-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-02-11",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2020-02-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "adopted",
+   "text": "adoptata de Senat titlu: Pl pentru modificarea art.7 din Legea educației naționale nr.1/2011 PA"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-06-22",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-07-10",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.959A/2020)"
+  },
+  {
+   "day": "2021-01-21",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.907/2020 (Dosar nr.959A/2020) CD"
+  },
+  {
+   "day": "2021-02-01",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia pentru învăţământ Comisia pentru constituționalitate termen depunere raport: 18.02.2021"
+  },
+  {
+   "day": "2024-03-06",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru învăţământ Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Legii educaţiei naţionale nr.1/2011",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18210"
+}

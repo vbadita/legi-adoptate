@@ -1,0 +1,104 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22920,
+ "law": {
+  "day": "2026-03-25",
+  "number": "36/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 16/2026",
+ "promulgation": {
+  "day": "2026-03-25",
+  "decree": "185/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-02-25",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 11,
+    "chamber": "Camera Deputaților",
+    "contra": 2,
+    "day": "2026-02-25",
+    "nu_au_votat": null,
+    "pentru": 273
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-12-22",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-02-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 11,
+      "contra": 2,
+      "nu_au_votat": null,
+      "pentru": 273
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L485/10.11.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L485&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl016_pr016_26.pdf",
+ "timeline": [
+  {
+   "day": "2025-12-22",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-02-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - 'România fără violenţă domestică' termen depunere amendamente: 11.02.2026 termen depunere raport: 19.02.2026 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor n"
+  },
+  {
+   "day": "2026-02-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2026-02-13",
+   "kind": "other",
+   "text": "primire raport favorabil (20 amend. admise) de la: Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - 'România fără violenţă domestică' face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-02-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 23 și 25 februarie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-02-25",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=273, contra=2, abtineri=11 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-07",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 185/2026 devine Legea nr. 36/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.217/2003 pentru prevenirea şi combaterea violenţei domestice şi a Legii nr.26/2024 privind ordinul de protecţie",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22920"
+}

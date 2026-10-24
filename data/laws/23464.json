@@ -1,0 +1,98 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23464,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 551/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-10-14",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-10-14",
+    "nu_au_votat": 1,
+    "pentru": 258
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-08-24",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-10-14",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 258
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L468/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L468&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl551_pr551_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-08-24",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 14.09.2026 termen depunere raport: 22.09.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-09-28",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.10641/25.09.2026 (favorabil) Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2026-10-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinţele Camerei Deputaţilor din zilele de 12 si 14 octombrie 2026"
+  },
+  {
+   "day": "2026-10-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci primire raport favorabil de la: Comisia pentru industrii şi servicii Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=258, contra=0, abtineri=1, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege privind stabilirea unor măsuri pentru derularea Programului naţional de dezvoltare locală",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23464"
+}

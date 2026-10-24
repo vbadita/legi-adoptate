@@ -1,0 +1,103 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22962,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 47/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-10-14",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 37,
+    "chamber": "Camera Deputaților",
+    "contra": 23,
+    "day": "2026-10-14",
+    "nu_au_votat": 1,
+    "pentru": 192
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-02-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-10-14",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 37,
+      "contra": 23,
+      "nu_au_votat": 1,
+      "pentru": 192
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L465/03.11.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L465&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl047_pr047_26_de_modificat.pdf",
+ "timeline": [
+  {
+   "day": "2026-02-04",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru muncă şi protecţie socială termen depunere amendamente: 18.02.2026 termen depunere raport: 26.02.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele mino"
+  },
+  {
+   "day": "2026-03-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-04-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2026-04-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-09-23",
+   "kind": "other",
+   "text": "primire raport favorabil (29 amend. admise, 5 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru muncă şi protecţie socială face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-10-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 12 si 14 octombrie 2026"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=192, contra=23, abtineri=37, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege privind Programul pentru investiţii şi locuri de muncă în judeţele Hunedoara, Gorj, Dolj, Galaţi, Prahova şi Mureş şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22962"
+}

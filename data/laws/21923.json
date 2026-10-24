@@ -1,0 +1,121 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 21923,
+ "law": {
+  "day": "2026-01-15",
+  "number": "17/2026"
+ },
+ "monitor": {
+  "day": "2026-01-16",
+  "number": "29/2026",
+  "verified": null
+ },
+ "number": "Pl-x nr. 439/2024",
+ "promulgation": {
+  "day": "2026-01-14",
+  "decree": "23/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2025-12-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-02-05",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-12-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L27/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L27&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2024-09-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Economic si Social termen: 30.09.2024 solicitare aviz de la Consiliul Legislativ termen: 09.10.2024 solicitare punct de vedere de la Guvern termen: 09.10.2024 solicitare informare de la Guvern termen: 09.10.2024 solicitare fisa financiara de la Guvern termen: 30.10.2024"
+  },
+  {
+   "day": "2024-09-19",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.949/18.09.2024 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2024-09-30",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.5846/25.09.2024 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2024-10-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 24.10.2024 termen depunere raport: 05.11.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şanse pentru femei şi bărbaţi Comisia pentru știință și tehnolog"
+  },
+  {
+   "day": "2024-10-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2024-10-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2024-12-16",
+   "kind": "other",
+   "text": "primire raport favorabil (4 amend. admise) de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-02-05",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-02-05",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2025-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-12-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-01-14",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 23/2026"
+  },
+  {
+   "day": "2026-01-15",
+   "kind": "other",
+   "text": "devine Legea nr. 17/2026"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea Legii învăţământului superior nr.199/2023",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21923"
+}

@@ -1,0 +1,153 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 22507,
+ "law": {
+  "day": "2026-01-09",
+  "number": "6/2026"
+ },
+ "monitor": {
+  "day": "2026-01-09",
+  "number": "10/2026",
+  "verified": null
+ },
+ "number": "Pl-x nr. 248/2025",
+ "promulgation": {
+  "day": "2026-01-09",
+  "decree": "6/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2025-12-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 110,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2025-11-19",
+    "nu_au_votat": 1,
+    "pentru": 184
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-11-19",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 110,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 184
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-12-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L512/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L512&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-09-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare punct de vedere de la Guvern termen: 01.10.2025 solicitare informare de la Guvern termen: 01.10.2025 solicitare fisa financiara de la Guvern termen: 22.10.2025 solicitare aviz de la Consiliul Legislativ termen: 01.10.2025 solicitare aviz de la Consiliul Economic si Social termen: 22.09.2025"
+  },
+  {
+   "day": "2025-09-12",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.628/11.09.2025 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2025-09-24",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.5478/18.09.2025 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2025-10-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 13.10.2025 termen depunere raport: 22.10.2025 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2025-10-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-10-14",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2025-10-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-10-30",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2025-11-05",
+   "kind": "other",
+   "text": "primire raport favorabil (2 amend. admise) de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-11-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 10 și 12 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 19 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=184, contra=1, abtineri=110, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2025-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-12-24",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-01-09",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 6/2026 devine Legea nr. 6/2026"
+  }
+ ],
+ "title": "Propunere legislativă pentru completarea art.191 alin.(1) din Legea învăţământului preuniversitar nr.198/2023",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22507"
+}

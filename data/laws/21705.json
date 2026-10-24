@@ -1,0 +1,138 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21705,
+ "law": {
+  "day": "2026-07-20",
+  "number": "145/2026"
+ },
+ "monitor": {
+  "day": "2026-07-20",
+  "number": "588/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 236/2024",
+ "promulgation": {
+  "day": "2026-07-20",
+  "decree": "420/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-06-30",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 16,
+    "chamber": "Camera Deputaților",
+    "contra": 15,
+    "day": "2026-06-30",
+    "nu_au_votat": 58,
+    "pentru": 201
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-04-08",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-30",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 16,
+      "contra": 15,
+      "nu_au_votat": 58,
+      "pentru": 201
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L145/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L145&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?pr236_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-04-08",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-04-15",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 24.04.2024 termen depunere raport: 08.05.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pen"
+  },
+  {
+   "day": "2024-04-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia pentru politică externă"
+  },
+  {
+   "day": "2024-04-29",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru comunităţile de români din afara graniţelor ţării"
+  },
+  {
+   "day": "2025-02-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2025-03-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-06-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 29 şi 30 iunie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=201, contra=15, abtineri=16, nu au votat=58 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-07-02",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-20",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 420/2026 devine Legea nr. 145/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.21/2024 privind unele măsuri pentru organizarea şi desfăşurarea alegerilor pentru membrii din România în Parlamentul European din anul 2024 şi a alegerilor pentru autorităţile administraţiei publice locale din anul 2024",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21705"
+}

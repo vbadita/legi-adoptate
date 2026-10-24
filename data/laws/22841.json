@@ -1,0 +1,109 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Senat",
+ "idp": 22841,
+ "law": {
+  "day": "2026-03-25",
+  "number": "40/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 543/2025",
+ "promulgation": {
+  "day": "2026-03-25",
+  "decree": "189/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-03-02",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-02-11",
+    "nu_au_votat": 3,
+    "pentru": 281
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-02-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 0,
+      "nu_au_votat": 3,
+      "pentru": 281
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-03-02",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L115/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L115&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-12-10",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru transporturi şi infrastructură termen depunere amendamente: 16.12.2025 termen depunere raport: 23.12.2025 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi Comisia pentru politică externă"
+  },
+  {
+   "day": "2025-12-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică externă primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire raport favorabil de la: Comisia pentru transporturi şi infrastructură face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-02-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din ziua de 4 februarie 2026"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședintele Camerei Deputaților din zilele de 9 și 11 februarie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-02-11",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=281, contra=0, abtineri=1, nu au votat=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-02-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "adopted",
+   "text": "adoptat de Senat PA"
+  },
+  {
+   "day": "2026-03-09",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-14",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 189/2026 devine Legea nr. 40/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind acceptarea amendamentelor adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizaţiei Interguvernamentale privind Transporturile Internaţionale Feroviare (OTIF), desfăşurată la Berna în perioada 25–26 septembrie 2018, la Convenţia privind transporturile internaţionale feroviare (COTIF) şi anexele E (CUI), G (ATMF) şi H (EST), semnată la Berna la 9 mai 1980",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22841"
+}

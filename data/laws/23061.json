@@ -1,0 +1,109 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23061,
+ "law": {
+  "day": "2026-10-07",
+  "number": "192/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 159/2026",
+ "promulgation": {
+  "day": "2026-10-07",
+  "decree": "796/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-09",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 40,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-09-09",
+    "nu_au_votat": 1,
+    "pentru": 260
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-09",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 40,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 260
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L69/03.02.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L69&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl159_pr159_26_(4).pdf",
+ "timeline": [
+  {
+   "day": "2026-03-04",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 19.03.2026 termen depunere raport: 31.03.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru cultură, arte şi mijloace de informare în masă Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-03-16",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.2602/11.03.2026 Parlamentul va decide cu privire la oportunitatea adoptării acestei inițiative legislative Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2026-04-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-05-27",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-09-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 8 şi 9 septembrie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-09",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=260, contra=1, abtineri=40, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-19",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 796/2026 devine Legea nr. 192/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Centenar al Partidului Naţional Ţărănesc",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23061"
+}

@@ -1,0 +1,81 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23467,
+ "law": {
+  "day": "2026-08-28",
+  "number": "183/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 539/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-08-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 41,
+    "day": "2026-08-26",
+    "nu_au_votat": 3,
+    "pentru": 205
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-08-26",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-08-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 41,
+      "nu_au_votat": 3,
+      "pentru": 205
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L472/26.08.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L472&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl539_pr539_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-08-26",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 26.08.2026 termen depunere raport: 26.08.2026 înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) primire raport favorabil (3 amen"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=205, contra=41, abtineri=0, nu au votat=3 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare promulgata prin Decret nr. 736/2026 devine Legea nr. 183/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind închiderea operaţională şi financiară a Planului Naţional de Redresare şi Rezilienţă",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23467"
+}

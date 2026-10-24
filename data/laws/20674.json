@@ -1,0 +1,153 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20674,
+ "law": {
+  "day": "2026-07-13",
+  "number": "137/2026"
+ },
+ "monitor": {
+  "day": "2026-07-13",
+  "number": "574/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 79/2023",
+ "promulgation": {
+  "day": "2026-07-13",
+  "decree": "394/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-06-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-17",
+    "nu_au_votat": 4,
+    "pentru": 286
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-02-13",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 4,
+      "pentru": 286
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L751/18.10.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L751&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl079_pr079_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-02-13",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-02-15",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială termen depunere amendamente: 27.02.2023 termen depunere raport: 07.03.2023 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru sănătate şi f"
+  },
+  {
+   "day": "2023-02-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-03-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2023-04-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2024-11-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 5 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 12 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 18 noiembrie 2024"
+  },
+  {
+   "day": "2024-12-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 10 - 11 decembrie 2024"
+  },
+  {
+   "day": "2024-12-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 16 - 17 decembrie 2024"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "other",
+   "text": "primire raport favorabil (16 amend. admise, 1 amend. respins) de la: Comisia pentru muncă şi protecţie socială face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-06-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 15 şi 17 iunie 2026"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege privind acordarea unor drepturi victimelor evenimentelor de la Bucureşti, din perioada 13-15 iunie 199 rezultat vot pentru=286, contra=0, abtineri=0, nu au votat=4 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-13",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 394/2026 devine Legea nr. 137/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind acordarea unor drepturi victimelor mineriadei de la Bucureşti din perioada 13-15 iunie 1990",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20674"
+}

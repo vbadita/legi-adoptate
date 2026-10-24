@@ -1,0 +1,114 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Senat",
+ "idp": 22761,
+ "law": {
+  "day": "2026-01-15",
+  "number": "15/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 481/2025",
+ "promulgation": {
+  "day": "2026-01-14",
+  "decree": "21/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2025-12-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2025-12-10",
+    "nu_au_votat": null,
+    "pentru": 273
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-12-10",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 273
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-12-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L591/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L591&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-11-17",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 20.11.2025 termen depunere raport: 26.11.2025 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi Comisia pentru politică externă"
+  },
+  {
+   "day": "2025-11-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică externă primire raport favorabil de la: Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-12-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 8 și 10 decembrie 2025"
+  },
+  {
+   "day": "2025-12-10",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-12-10",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=273, contra=0, abtineri=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-12-10",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "adopted",
+   "text": "adoptat de Senat PA"
+  },
+  {
+   "day": "2025-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-12-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-01-14",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 21/2026"
+  },
+  {
+   "day": "2026-01-15",
+   "kind": "other",
+   "text": "devine Legea nr. 15/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru ratificarea Acordului-cadru între Guvernul României şi Organizaţia pentru Cooperare Comună în Domeniul Armamentului (OCCAR) pentru participarea României la programele gestionate de OCCAR, semnat la Bucureşti, la 8 octombrie 2025",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22761"
+}

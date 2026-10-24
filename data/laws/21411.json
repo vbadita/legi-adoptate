@@ -1,0 +1,128 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21411,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 782/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-06-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 42,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2024-06-26",
+    "nu_au_votat": null,
+    "pentru": 204
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-12-11",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-06-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 42,
+      "contra": 1,
+      "nu_au_votat": null,
+      "pentru": 204
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L649/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L649&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl782_pr782_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-12-11",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 28.12.2023 termen depunere raport: 07.02.2024 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru muncă şi protecţie socială Comisia juridi"
+  },
+  {
+   "day": "2024-02-06",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2024-02-07",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2024-02-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2024-06-25",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (10 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 25 - 26 iunie 2024"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor titlu: Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.99/2023 privind unele măsuri pentru raportarea arieratelor de către instituţiile publice și pentru modificarea și completarea Ordonanței de urgență nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice, cu modificările și completările ulterioare rezultat vot pentru=204, contra=1, abtineri=42 consultati stenograma sedintei sau î"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-06-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-07-09",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate formulată de Înalta Curte de Casație și Justiție SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.2152A/2024)"
+  },
+  {
+   "day": "2025-02-11",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.556/2025 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DCC 556/2024 DECIZIA CURȚII CONSTITUȚIONALE nr.556 din 29 octombrie 2024 (Dosarul nr.2152A/2024) SE"
+  },
+  {
+   "day": "2025-02-11",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2025-06-16",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-06-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru constituționalitate termen depunere raport: 03.09.2025"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.99/2023 privind unele măsuri pentru raportarea arieratelor de către instituţiile publice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21411"
+}

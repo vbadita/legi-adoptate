@@ -1,0 +1,124 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22963,
+ "law": {
+  "day": "2026-10-15",
+  "number": "198/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 48/2026",
+ "promulgation": {
+  "day": "2026-10-14",
+  "decree": "810/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-16",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-09-16",
+    "nu_au_votat": null,
+    "pentru": 274
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-02-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 274
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L501/17.11.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L501&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl048_pr048_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-02-04",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru antreprenoriat şi turism termen depunere amendamente: 18.02.2026 termen depunere raport: 26.02.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru sănătate şi famili"
+  },
+  {
+   "day": "2026-02-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2026-04-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din 14 şi 16 septembrie 2026"
+  },
+  {
+   "day": "2026-09-15",
+   "kind": "other",
+   "text": "primire raport favorabil (6 amend. admise) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru antreprenoriat şi turism face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=274, contra=0, abtineri=0 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 810/2026"
+  },
+  {
+   "day": "2026-10-15",
+   "kind": "other",
+   "text": "devine Legea nr. 198/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind dezvoltarea turismului balnear românesc ca domeniu strategic prioritar al economiei naţionale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22963"
+}

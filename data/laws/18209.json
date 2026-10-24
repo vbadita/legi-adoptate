@@ -1,0 +1,108 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18209,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 201/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-10-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 24,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2020-10-20",
+    "nu_au_votat": null,
+    "pentru": 221
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-04-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-10-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 24,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 221
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L45/04.02.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L45&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr201_20.pdf",
+ "timeline": [
+  {
+   "day": "2019-11-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2019-11-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-04-29",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 07.05.2020 termen depunere raport: 14.05.2020 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2020-05-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2020-05-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2020-10-20",
+   "kind": "other",
+   "text": "primire raport favorabil (7 amend. admise) de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-10-20",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificrea art.36 1 din Legea nr.350/2001 privind amenajarea teritorului şi urbanismul rezultat vot pentru=221, contra=0, abtineri=24 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-10-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2020-11-16",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificrea art.36 <sup>1</sup> lit.c) din Legea nr. 350/2001 privind amenajarea teritorului şi urbanismul",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18209"
+}

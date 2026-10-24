@@ -1,0 +1,122 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Senat",
+ "idp": 23111,
+ "law": {
+  "day": "2026-07-13",
+  "number": "134/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 211/2026",
+ "promulgation": {
+  "day": "2026-07-13",
+  "decree": "391/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-06-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-11",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L326/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L326&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-03-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 19.03.2026 termen depunere raport: 24.03.2026 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi Comisia pentru politică externă Comisia pentru transporturi şi infrastructură"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru transporturi şi infrastructură primire raport favorabil de la: Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-04-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 7 și 8 aprilie 2026"
+  },
+  {
+   "day": "2026-04-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică externă"
+  },
+  {
+   "day": "2026-04-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 20 și 22 aprilie 2026"
+  },
+  {
+   "day": "2026-04-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-04-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 29 aprilie 2026"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României PA"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-13",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 391/2026 devine Legea nr. 134/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României, pe ambele sensuri de control, în punctul feroviar de trecere a frontierei de stat Fălciu (România) - Cantemir (Republica Moldova), semnat la 1 octombrie 2025 la Bucureşti",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23111"
+}

@@ -1,0 +1,129 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 23170,
+ "law": {
+  "day": "2026-10-07",
+  "number": "194/2026"
+ },
+ "monitor": null,
+ "number": "Pl-x nr. 284/2026",
+ "promulgation": {
+  "day": "2026-10-07",
+  "decree": "798/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-08",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-10",
+    "nu_au_votat": 1,
+    "pentru": 284
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-10",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 284
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-09-08",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L380/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L380&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-04-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare punct de vedere de la Guvern termen: 23.04.2026 solicitare informare de la Guvern termen: 23.04.2026 solicitare fisa financiara de la Guvern termen: 15.05.2026 solicitare aviz de la Consiliul Legislativ termen: 23.04.2026 solicitare aviz de la Consiliul Economic si Social termen: 17.04.2026"
+  },
+  {
+   "day": "2026-04-08",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.2561/08.04.2026 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2026-04-21",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.384/20.04.2026 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2026-04-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 07.05.2026 termen depunere raport: 19.05.2026 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-05-14",
+   "kind": "other",
+   "text": "primire raport favorabil (3 amend. admise) de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 26 şi 27 mai 2026"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 8 si 10 iunie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=284, contra=0, abtineri=0, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-09-08",
+   "kind": "adopted",
+   "text": "adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-19",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 798/2026 devine Legea nr. 194/2026"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea anexei la Legea nr.2/1968 privind organizarea administrativă a teritoriului României",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23170"
+}

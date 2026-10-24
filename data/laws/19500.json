@@ -1,0 +1,233 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19500,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 346/2021",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-09-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2023-09-13",
+    "nu_au_votat": 2,
+    "pentru": 266
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-09-14",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-09-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 2,
+      "pentru": 266
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L221/2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L221&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr346_21.pdf",
+ "timeline": [
+  {
+   "day": "2021-09-14",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-09-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru sănătate şi familie termen depunere amendamente: 30.09.2021 termen depunere raport: 11.10.2021 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Com"
+  },
+  {
+   "day": "2021-09-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2021-11-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2022-12-07",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (43 amend. admise) de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2022-12-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 19 decembrie 2022"
+  },
+  {
+   "day": "2023-02-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 8 februarie 2023"
+  },
+  {
+   "day": "2023-02-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 13 şi 15 februarie 2023"
+  },
+  {
+   "day": "2023-02-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 20 - 21 februarie 2023"
+  },
+  {
+   "day": "2023-02-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 27 - 28 februarie 2023"
+  },
+  {
+   "day": "2023-02-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 6 - 7 martie 2023"
+  },
+  {
+   "day": "2023-03-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 13 - 14 martie 2023"
+  },
+  {
+   "day": "2023-03-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 20 - 21 martie 2023"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 27 si 29 martie 2023"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 11 - 12 aprilie 2023"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 - 19 aprilie 2023"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 24 - 25 aprilie 2023"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 2 - 3 mai 2023"
+  },
+  {
+   "day": "2023-05-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 8 si 10 mai 2023"
+  },
+  {
+   "day": "2023-05-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 15 si 17 mai 2023"
+  },
+  {
+   "day": "2023-05-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 - 23 mai 2023"
+  },
+  {
+   "day": "2023-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 30 si 31 mai 2023"
+  },
+  {
+   "day": "2023-05-31",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 6 şi 7 iunie 2023"
+  },
+  {
+   "day": "2023-06-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 12 si 14 iunie 2023"
+  },
+  {
+   "day": "2023-06-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 19 - 20 iunie 2023"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-09-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 5 septembrie 2023"
+  },
+  {
+   "day": "2023-09-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 12 - 13 septembrie 2023"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=266, contra=0, abtineri=0, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-09-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-09-20",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2023-10-05",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2023-11-20",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-11-22",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru sănătate şi familie termen depunere amendamente: 05.12.2023 termen depunere raport: 13.12.2023"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.46/2021 privind stabilirea cadrului instituţional şi a măsurilor pentru punerea în aplicare a Regulamentului (UE) 2017/745 al Parlamentului European şi al Consiliului din 5 aprilie 2017 privind dispozitivele medicale, de modificare a Directivei 2001/83/CE, a Regulamentului (CE) nr.178/2002 şi a Regulamentului (CE) nr.1223/2009 şi de abrogare a Directivelor 90/385/CEE şi 93/42/CEE ale Consiliului",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19500"
+}

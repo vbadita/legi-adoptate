@@ -1,0 +1,103 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21957,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 483/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-05-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 14,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-05-20",
+    "nu_au_votat": 58,
+    "pentru": 216
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 14,
+      "contra": 0,
+      "nu_au_votat": 58,
+      "pentru": 216
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L377/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L377&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl483_pr_plx_483-24.pdf",
+ "timeline": [
+  {
+   "day": "2024-09-23",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-10-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 14.10.2024 termen depunere raport: 23.10.2024 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-31",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-09-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2026-03-10",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (23 amend. admise, 1 amend. respins) de la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 18 şi 20 mai 2026"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=216, contra=0, abtineri=14, nu au votat=58 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-05-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2026-06-16",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.77/2024 privind modificarea şi completarea Legii minelor nr.85/2003",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21957"
+}

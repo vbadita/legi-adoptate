@@ -1,0 +1,123 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22341,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 137/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-03-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 19,
+    "chamber": "Camera Deputaților",
+    "contra": 19,
+    "day": "2026-03-11",
+    "nu_au_votat": 54,
+    "pentru": 203
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-05-07",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-03-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 19,
+      "contra": 19,
+      "nu_au_votat": 54,
+      "pentru": 203
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L88/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L88&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr137_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-05-07",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-05-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 15.05.2025 termen depunere raport: 20.05.2025 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimen"
+  },
+  {
+   "day": "2025-05-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-05-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2025-06-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+  },
+  {
+   "day": "2025-06-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-02-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședințele Camerei Deputaților din zilele de 23 și 25 februarie 2026"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședințele Camerei Deputaților din zilele de 2 și 4 martie 2026"
+  },
+  {
+   "day": "2026-03-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședințele Camerei Deputaților din zilele de 9 și 11 martie 2026"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci primire raport favorabil aprobarii ordonantei de urgenta (30 amend. admise, 7 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=203, contra=19, abtineri=19, nu au votat=54 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-21",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-04-20",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.2352A/2026)"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.22/2025 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice, a Legii nr.187/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice, precum şi pentru abrogarea unor dispoziţii din acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22341"
+}

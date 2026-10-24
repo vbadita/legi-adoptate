@@ -1,0 +1,219 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 22199,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 4/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-03-31",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-03-03",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-03-31",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  },
+  {
+   "adopted_on": "2025-10-06",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 29,
+    "chamber": "Camera Deputaților",
+    "contra": 65,
+    "day": "2025-06-18",
+    "nu_au_votat": null,
+    "pentru": 201
+   },
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-06-18",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 29,
+      "contra": 65,
+      "nu_au_votat": null,
+      "pentru": 201
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-10-06",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L45/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L45&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-02-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 11.02.2025 termen depunere raport: 19.02.2025 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru buget, finanţe şi bănci Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele mi"
+  },
+  {
+   "day": "2025-02-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2025-02-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-02-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2025-02-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială primire aviz de la: Comisia pentru sănătate şi familie primire aviz de la: Comisia pentru tineret și sport primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-02-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-03",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-03-03",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor ca urmare a depasirii termenului de 30 de zile, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-03-03",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-03-31",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat PA"
+  },
+  {
+   "day": "2025-04-07",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-04-09",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare CD"
+  },
+  {
+   "day": "2025-04-17",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2025-04-22",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 25.04.2025 termen depunere raport: 30.04.2025"
+  },
+  {
+   "day": "2025-04-29",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-05-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 21 mai 2025"
+  },
+  {
+   "day": "2025-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 26 si 28 mai 2025"
+  },
+  {
+   "day": "2025-06-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 2 şi 4 iunie 2025"
+  },
+  {
+   "day": "2025-06-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 10 - 11 iunie 2025"
+  },
+  {
+   "day": "2025-06-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 16 şi 18 iunie 2025 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-06-18",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Camera Deputatilor (ca urmare a cererii de reexaminare) rezultat vot pentru=201, contra=65, abtineri=29 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-06-18",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-10-06",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2025-10-23",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.4433A/2025)"
+  },
+  {
+   "day": "2026-03-05",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.677 din 25.11.2025 (Dosar nr.4433A/2025) CD"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru constituționalitate termen depunere raport: 25.03.2026"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (4 amend. admise) de la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.153/2024 privind stabilirea unor măsuri la nivelul administraţiei publice centrale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22199"
+}

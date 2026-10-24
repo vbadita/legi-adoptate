@@ -1,0 +1,96 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 19452,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 307/2021",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2021-10-27",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2021-10-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2021-10-27",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L431/2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L431&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2021-08-23",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 03.09.2021 termen depunere raport: 08.09.2021 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2021-09-08",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (3 amend. admise) de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor organice"
+  },
+  {
+   "day": "2021-09-20",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere raport: 29.09.2021"
+  },
+  {
+   "day": "2021-10-04",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2021-10-04",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor ca urmare a depasirii termenului de 30 de zile, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2021-10-04",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2021-10-27",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat PA"
+  },
+  {
+   "day": "2021-10-27",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2021-10-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare sesizare de neconstituţionalitate (formulata de senatori si deputati apartinand Grupurilor parlamentare ale Partidului Social Democrat) SESIZARE DE NECONSTITUTIONALITATE (Dosar nr.3234A/2021)"
+  },
+  {
+   "day": "2022-01-05",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: D.C.C. nr.842/2022 accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.842 din 9 decembrie 2021 CD"
+  },
+  {
+   "day": "2022-02-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia pentru constituționalitate termen depunere raport: 16.02.2022"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.89/2021 pentru completarea art.46 al Legii nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19452"
+}

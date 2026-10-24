@@ -1,0 +1,108 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21984,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 521/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-09-16",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 27,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-09-16",
+    "nu_au_votat": null,
+    "pentru": 241
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-24",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 27,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 241
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L478/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L478&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl521_pr521_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-09-24",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-10-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 14.10.2024 termen depunere raport: 23.10.2024 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2024-12-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2025-02-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei (16 amend. admise) de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 14 şi 16 septembrie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei adoptat de Camera Deputatilor rezultat vot pentru=241, contra=0, abtineri=27 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-21",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate formulată de Preşedintele României SESIZARE DE NECONSTITUŢIONALITATE (Dosar nr.6045A/2026)"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.43/2024 pentru modificarea şi completarea Legii nr.422/2001 privind protejarea monumentelor istorice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21984"
+}

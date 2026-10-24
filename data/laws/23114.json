@@ -1,0 +1,82 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23114,
+ "law": {
+  "day": "2026-03-27",
+  "number": "42/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 214/2026",
+ "promulgation": {
+  "day": "2026-03-27",
+  "decree": "191/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-03-19",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-16",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-03-19",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L145/13.03.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L145&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pr214_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-03-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-17",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 17.03.2026 termen depunere raport: 18.03.2026 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "other",
+   "text": "primire raport favorabil (19 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-21",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-03-27",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 191/2026 devine Legea nr. 42/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2026",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23114"
+}

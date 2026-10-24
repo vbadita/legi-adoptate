@@ -32,13 +32,32 @@ before each deposit**. A law can have several rounds (e.g. the President asks fo
 reexamination); each round appears on its own day. A law voted today, not yet deposited,
 is shown as provisional until the deposit confirms it.
 
+## Data (`data/`, committed: the Git history is the audit log)
+
+| Path | What |
+|---|---|
+| `data/laws/<idp>.json` | one law: adoption rounds with votes, promulgation, law number, Monitorul Oficial, full timeline |
+| `data/mo/<YYYY-MM-DD>.json` | Partea I issues of that day, from Monitorul Oficial (cross-check) |
+
+Files are rewritten only when their content changes, so every diff is a real status change.
+
+### Monitorul Oficial
+
+Partea I is free by law ("gratuit și liber ... inclusiv pentru căutare, salvare, distribuire",
+Legea nr. 202/1998). This project calls e-Monitor's day list **once a day**, honestly identified,
+without cookies or session tricks, never following redirects, never downloading the PDFs, and it
+stops on any refusal. That list only **confirms** the "M.Of. nr. X din ..." the Chamber's pages
+report for each law. Readers are linked to e-Monitor for the official text.
+
 ## Layout
 
 | Path | What |
 |---|---|
 | `collector/legi/cdep.py` | parsers (pure functions, tested on real saved pages) |
-| `collector/legi/http.py` | polite HTTP client (2 s interval, retries, cache) |
-| `collector/legi/cli.py` | `python -m legi adopted --since YYYY-MM-DD` |
+| `collector/legi/http.py` | polite HTTP client (5 s interval, request budget, retries, CAPTCHA stop, cache) |
+| `collector/legi/store.py` | one JSON per law, written only on change |
+| `collector/legi/monitor.py` | Monitorul Oficial day list (one call per day) |
+| `collector/legi/cli.py` | `update` (incremental), `mo-check`, `report --since YYYY-MM-DD` |
 | `collector/tests/` | tests + real page fixtures |
 
 ```bash

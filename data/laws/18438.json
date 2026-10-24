@@ -1,0 +1,168 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18438,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 452/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-09-02",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 13,
+    "chamber": "Camera Deputaților",
+    "contra": 45,
+    "day": "2020-09-02",
+    "nu_au_votat": 2,
+    "pentru": 178
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-07-16",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-09-02",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 13,
+      "contra": 45,
+      "nu_au_votat": 2,
+      "pentru": 178
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L273/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L273&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr452_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-03-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2020-03-24",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-07-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-07-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 03.09.2020 termen depunere raport: 09.09.2020 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2020-09-01",
+   "kind": "other",
+   "text": "primire raport favorabil (16 amend. admise) de la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2020-09-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-09-02",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=178, contra=45, abtineri=13, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-09-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-09-07",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-09-08",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de deputați aparținând Grupurilor parlamentare ale USR, UDMR, precum și deputați neafiliați) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1419A/2020)"
+  },
+  {
+   "day": "2021-03-25",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.139/2021 ) respinge obiectiunile de neconstitutionalitate D.C.C. nr.139 din 3 martie 2021(Dosar nr.1419A/2020) SE"
+  },
+  {
+   "day": "2021-04-01",
+   "kind": "other",
+   "text": "cererea de reexaminare solicitata de Presedintele României este înaintata la Senat CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2021-11-10",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-11-15",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 19.11.2021 termen depunere raport: 25.11.2021"
+  },
+  {
+   "day": "2021-12-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului)"
+  },
+  {
+   "day": "2021-12-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 20 - 21 decembrie 2021"
+  },
+  {
+   "day": "2022-02-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului)"
+  },
+  {
+   "day": "2022-02-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din zilele de 7 şi 9 februarie 2022"
+  },
+  {
+   "day": "2022-02-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 14 - 15 februarie 2022"
+  },
+  {
+   "day": "2022-02-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 21 - 22 februarie 2022"
+  },
+  {
+   "day": "2022-02-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 28 februarie si 2 martie 2022"
+  },
+  {
+   "day": "2022-03-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 7 - 8 martie 2022"
+  },
+  {
+   "day": "2022-03-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 14 martie 2022"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii camerelor de comerţ din România nr.335/2007",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18438"
+}

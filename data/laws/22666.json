@@ -1,0 +1,119 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22666,
+ "law": {
+  "day": "2026-06-10",
+  "number": "91/2026"
+ },
+ "monitor": null,
+ "number": "Pl-x nr. 56/2026",
+ "promulgation": {
+  "day": "2026-06-10",
+  "decree": "320/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-05-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 64,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-05-13",
+    "nu_au_votat": 1,
+    "pentru": 204
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-02-04",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 64,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 204
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L535/02.12.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L535&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl056_pr_plx_56_26.pdf",
+ "timeline": [
+  {
+   "day": "2025-10-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2025-10-20",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-02-04",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 18.02.2026 termen depunere raport: 26.02.2026 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şanse "
+  },
+  {
+   "day": "2026-02-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2026-04-29",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-13",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=204, contra=0, abtineri=64, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-05-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 320/2026 devine Legea nr. 91/2026"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.350/2005 privind regimul finanţărilor nerambursabile din fonduri publice alocate pentru activităţi nonprofit de interes general",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22666"
+}

@@ -1,0 +1,118 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21959,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 485/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-10-22",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 8,
+    "chamber": "Camera Deputaților",
+    "contra": 46,
+    "day": "2024-10-22",
+    "nu_au_votat": 1,
+    "pentru": 181
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-10-22",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 8,
+      "contra": 46,
+      "nu_au_votat": 1,
+      "pentru": 181
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L379/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L379&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl485_pr485_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-09-23",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-10-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 14.10.2024 termen depunere raport: 23.10.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci"
+  },
+  {
+   "day": "2024-10-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 8 octombrie 2024"
+  },
+  {
+   "day": "2024-10-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 22 octombrie 2024"
+  },
+  {
+   "day": "2024-10-22",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (39 amend. admise, 1 amend. respins) de la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-10-22",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=181, contra=46, abtineri=8, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2024-10-28",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-10-30",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-11-04",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Înalta Curte de Casație și Justiție) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.3366A/2024)"
+  },
+  {
+   "day": "2025-06-25",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.51/2025 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.51 din 18 februarie 2025 (Dosar nr.3366A/2024) SE"
+  },
+  {
+   "day": "2025-06-26",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2025-11-17",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 09.12.2025"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.79/2024 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21959"
+}

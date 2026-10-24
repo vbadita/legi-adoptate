@@ -1,0 +1,158 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21912,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 435/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-12-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 14,
+    "chamber": "Camera Deputaților",
+    "contra": 39,
+    "day": "2024-12-17",
+    "nu_au_votat": 1,
+    "pentru": 204
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-03",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-12-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 14,
+      "contra": 39,
+      "nu_au_votat": 1,
+      "pentru": 204
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L311/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L311&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pr435_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-09-03",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2024-09-10",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 19.09.2024 termen depunere raport: 30.09.2024 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele min"
+  },
+  {
+   "day": "2024-09-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2024-09-24",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2024-10-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 8 octombrie 2024"
+  },
+  {
+   "day": "2024-10-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 octombrie 2024"
+  },
+  {
+   "day": "2024-10-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 29 octombrie 2024"
+  },
+  {
+   "day": "2024-11-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 5 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 12 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 noiembrie 2024"
+  },
+  {
+   "day": "2024-12-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 10 - 11 decembrie 2024"
+  },
+  {
+   "day": "2024-12-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 16 - 17 decembrie 2024"
+  },
+  {
+   "day": "2024-12-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2024-12-17",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=204, contra=39, abtineri=14, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2024-12-17",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-12-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare sesizare de neconstituţionalitate (formulată de deputați aparținând Grupului parlamentar al Uniunii Salvați România, Grupului parlamentar al Partidului Național Liberal și deputati neafiliați) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.3946A/2024)"
+  },
+  {
+   "day": "2025-04-17",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.87/2025 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURȚII CONSTITUȚIONALE nr.87 din 25 februarie 2025 ((Dosar nr.3946A/2024) SE"
+  },
+  {
+   "day": "2025-04-17",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2025-06-10",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2025-06-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 03.09.2025"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea Legii nr.287/2009 privind Codul civil",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21912"
+}

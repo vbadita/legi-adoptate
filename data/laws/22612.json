@@ -1,0 +1,123 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 22612,
+ "law": {
+  "day": "2026-01-09",
+  "number": "5/2026"
+ },
+ "monitor": {
+  "day": "2026-01-09",
+  "number": "10/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 350/2025",
+ "promulgation": {
+  "day": "2026-01-09",
+  "decree": "5/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2025-12-17",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 13,
+    "chamber": "Camera Deputaților",
+    "contra": 11,
+    "day": "2025-10-22",
+    "nu_au_votat": null,
+    "pentru": 263
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-10-22",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 13,
+      "contra": 11,
+      "nu_au_votat": null,
+      "pentru": 263
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2025-12-17",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L418/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L418&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-10-06",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 08.10.2025 termen depunere raport: 09.10.2025 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pen"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-10-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2025-10-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului primire aviz de la: Comisia pentru muncă şi protecţie socială primire raport favorabil (5 amend. admise) de la: Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor organice înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 20 și 22 octombrie 2025"
+  },
+  {
+   "day": "2025-10-22",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-10-22",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=263, contra=11, abtineri=13 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-10-22",
+   "kind": "other",
+   "text": "înaintat la Senat CD"
+  },
+  {
+   "day": "2025-10-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi SE"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "adopted",
+   "text": "adoptat de Senat titlu: Legea pentru modificarea şi completarea Legii nr.446/2006 privind pregătirea populaţiei pentru apărare PA"
+  },
+  {
+   "day": "2025-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-12-24",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-01-09",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 5/2026 devine Legea nr. 5/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.446/2006 privind pregătirea populaţiei pentru apărare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22612"
+}

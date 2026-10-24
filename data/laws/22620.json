@@ -1,0 +1,202 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22620,
+ "law": {
+  "day": "2026-03-25",
+  "number": "34/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 354/2025",
+ "promulgation": {
+  "day": "2026-03-25",
+  "decree": "183/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2025-12-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2025-12-17",
+    "nu_au_votat": 60,
+    "pentru": 234
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-10-06",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-12-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 1,
+      "nu_au_votat": 60,
+      "pentru": 234
+     }
+    }
+   ]
+  },
+  {
+   "adopted_on": "2026-03-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 2,
+    "day": "2026-03-11",
+    "nu_au_votat": 57,
+    "pentru": 235
+   },
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-02-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-03-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 2,
+      "nu_au_votat": 57,
+      "pentru": 235
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L323/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L323&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl354_pr354_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-10-06",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 23.10.2025 termen depunere raport: 04.11.2025 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administra"
+  },
+  {
+   "day": "2025-10-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2025-10-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-10-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2025-11-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2025-11-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2025-11-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului primire raport favorabil aprobarii ordonantei de urgenta de la comisie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-12-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 17 decembrie 2025"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor titlu: Lege privind aprobarea Ordonanței de urgență a Guvernului nr.45/2025 pentru instituirea unor măsuri în domeniul gestionării fondurilor europene nerambursabile, precum si pentru completarea Ordonanţei de urgenţă a Guvernului nr. 133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021- 2027 alocate României din Fondul european de dezvoltare regională, Fondul de coe"
+  },
+  {
+   "day": "2025-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-12-24",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2026-01-15",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2026-02-23",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-02-24",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 12.03.2026 termen depunere raport: 24.03.2026"
+  },
+  {
+   "day": "2026-03-04",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Camera Deputatilor (ca urmare a cererii de reexaminare) rezultat vot pentru=235, contra=2, abtineri=2, nu au votat=57 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-21",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 183/2026 devine Legea nr. 34/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.45/2025 pentru instituirea unor măsuri în domeniul gestionării fondurilor europene nerambursabile",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22620"
+}

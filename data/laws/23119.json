@@ -1,0 +1,128 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23119,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 228/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-05-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-05-13",
+    "nu_au_votat": 1,
+    "pentru": 284
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-16",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 284
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L620/22.12.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L620&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl228_pr228_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-03-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-23",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 02.04.2026 termen depunere raport: 15.04.2026 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru egalitatea de şanse pentru femei şi bărbaţi Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul le"
+  },
+  {
+   "day": "2026-04-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-04-02",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2026-04-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea violenţei domestice - 'România fără violenţă domestică'"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026"
+  },
+  {
+   "day": "2026-05-12",
+   "kind": "other",
+   "text": "primire raport favorabil (140 amend. admise) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-05-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-13",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=284, contra=1, abtineri=2, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-05-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Înalta Curte de Casaţie şi Justiţie - Secţiile Unite) SESIZARE DE NECONSTITUŢIONALITATE (Dosar nr.3435A/2026)"
+  },
+  {
+   "day": "2026-08-31",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.838/2026 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA CURŢII CONSTITUŢIONALE nr.838 din 15 iulie 2026 (Dosar nr.3435A/2026) CD"
+  },
+  {
+   "day": "2026-09-03",
+   "kind": "other",
+   "text": "Adresa Administraţiei Prezidenţiale"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.135/2010 privind Codul de procedură penală",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23119"
+}

@@ -1,0 +1,138 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 9782,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 17/2009",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2009-05-04",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 4,
+    "chamber": "Camera Deputaților",
+    "contra": 44,
+    "day": "2009-02-24",
+    "nu_au_votat": 2,
+    "pentru": 197
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2009-02-24",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 4,
+      "contra": 44,
+      "nu_au_votat": 2,
+      "pentru": 197
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2009-05-04",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L40/25.02.2009",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L40&an_cls=2009#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2009-02-02",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului trimis pentru raport la: Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 09.02.2009 termen depunere raport: 12.02.2009 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2009-02-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2009-02-16",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor organice"
+  },
+  {
+   "day": "2009-02-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( rămas pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2009-02-24",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României rezultat vot pentru=197, contra=44, abtineri=4, nu au votat=2 consultati stenograma sedintei sau înregistrarea video SE"
+  },
+  {
+   "day": "2009-02-24",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2009-05-04",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2009-05-11",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2009-05-12",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate iniţiată de un nr. de 65 de deputaţi"
+  },
+  {
+   "day": "2009-05-13",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2009-07-07",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.1008/2009 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala CD"
+  },
+  {
+   "day": "2009-07-27",
+   "kind": "other",
+   "text": "trimis pentru raport privind decizia Curtii Constitutionale, la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2009-09-03",
+   "kind": "other",
+   "text": "primire raport de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice adoptarea Proiectului de lege privind respingerea OUG"
+  },
+  {
+   "day": "2009-09-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2009-09-08",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2009-09-08",
+   "kind": "adopted",
+   "text": "legea pentru respingerea ordonantei de urgenta adoptata de Camera Deputatilor rezultat vot pentru=220, contra=0, abtineri=0, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2009-09-08",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.224/2008 pentru modificarea art.5 alin.(2) din Legea nr.415/2002 privind organizarea şi funcţionarea Consiliului Suprem de Apărare a Ţării",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=9782"
+}

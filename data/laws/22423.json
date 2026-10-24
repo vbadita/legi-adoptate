@@ -1,0 +1,93 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22423,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 203/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-06-25",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 6,
+    "chamber": "Camera Deputaților",
+    "contra": 87,
+    "day": "2025-06-25",
+    "nu_au_votat": 1,
+    "pentru": 188
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-06-16",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-06-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 6,
+      "contra": 87,
+      "nu_au_votat": 1,
+      "pentru": 188
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L121/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl203_pr203_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-06-16",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2025-06-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 20.06.2025 termen depunere raport: 24.06.2025 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2025-06-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video primire raport favorabil (7 amend. admise) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-06-25",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=188, contra=87, abtineri=6, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-06-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-07-05",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2025-07-25",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr. 3524A/2025) )"
+  },
+  {
+   "day": "2026-02-24",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: D.C.C. nr.480/2026 constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr. 480 din 20 octombrie 2025 (Dosar nr.3524A/2025)"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr.83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, pentru completarea Ordonanţei de urgenţă a Guvernului nr.94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România precum şi pentru modificarea şi completarea Legii nr.165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22423"
+}

@@ -1,0 +1,108 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18596,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 276/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-06-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 24,
+    "day": "2020-06-17",
+    "nu_au_votat": null,
+    "pentru": 288
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-05-12",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-06-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 24,
+      "nu_au_votat": null,
+      "pentru": 288
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L167/30.03.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L167&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr276_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-05-12",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-05-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru sănătate şi familie termen depunere amendamente: 27.05.2020 termen depunere raport: 02.06.2020 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2020-06-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor se dezbate sub rezerva primirii raportului"
+  },
+  {
+   "day": "2020-06-16",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (8 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=288, contra=24, abtineri=0 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-06-19",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-07-09",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Guvernul României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.943A/2020)"
+  },
+  {
+   "day": "2021-06-17",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.117/2021 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.117 din 23 februarie 2021 (Dosar nr.943A/2020) SE"
+  },
+  {
+   "day": "2021-06-17",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.31/2020 pentru completarea Ordonanţei de urgenţă a Guvernului nr.77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18596"
+}

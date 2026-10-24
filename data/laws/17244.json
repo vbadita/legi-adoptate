@@ -1,0 +1,143 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 17244,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 427/2018",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2018-12-19",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 10,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2018-12-19",
+    "nu_au_votat": 3,
+    "pentru": 218
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2018-07-03",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2018-12-19",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 10,
+      "contra": 0,
+      "nu_au_votat": 3,
+      "pentru": 218
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L302/14.05.2018",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L302&an_cls=2018#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr427_18.pdf",
+ "timeline": [
+  {
+   "day": "2018-07-03",
+   "kind": "adopted",
+   "text": "adoptat de Senat Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2018-09-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 12.09.2018 termen depunere raport: 20.09.2018 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică"
+  },
+  {
+   "day": "2018-09-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2018-10-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului primire punct de vedere de la Guvern - cu nr.11344/03.10.2018 Parlamentul va decide asupra oportunității adoptării acestei inițiative legislative Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2018-11-27",
+   "kind": "other",
+   "text": "primire raport favorabil (918 amend. admise, 61 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2018-12-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2018-12-18",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămas pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2018-12-19",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=218, contra=0, abtineri=10, nu au votat=3 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2018-12-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2018-12-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2019-01-17",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.127A/2019)"
+  },
+  {
+   "day": "2019-03-27",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.146/2019 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.146 din 13 martie 2019 (Dosar nr.127A/2019) SE"
+  },
+  {
+   "day": "2019-03-27",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2019-11-26",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2019-12-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 16.12.2019"
+  },
+  {
+   "day": "2020-01-22",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.33/DPSG/17.01.2020 (negativ) Punctul de vedere al Guvernului (poz.3)"
+  },
+  {
+   "day": "2021-02-08",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru constituționalitate desesizare Comisia juridică Nota aprobată de Biroul permanent în ședința din 8.02.2021"
+  },
+  {
+   "day": "2021-03-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Biroul permanent a aprobat solicitarea Comisiei pentru constituționalitate trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative în materie electorală",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=17244"
+}

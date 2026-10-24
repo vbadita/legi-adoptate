@@ -1,0 +1,193 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 18441,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 121/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-06-16",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 107,
+    "chamber": "Camera Deputaților",
+    "contra": 4,
+    "day": "2020-05-13",
+    "nu_au_votat": 1,
+    "pentru": 200
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-05-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 107,
+      "contra": 4,
+      "nu_au_votat": 1,
+      "pentru": 200
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2020-06-16",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L313/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L313&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2020-03-24",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa iniţiatorului solicitare aviz de la Consiliul Legislativ termen: 07.04.2020 solicitare punct de vedere de la Guvern termen: 07.04.2020 solicitare aviz de la Consiliul Economic si Social termen: 07.04.2020 solicitare aviz de la Consiliul Superior al Magistraturii termen: 22.04.2020"
+  },
+  {
+   "day": "2020-04-01",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.287/01.04.2020 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2020-04-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 23.04.2020 termen depunere raport: 29.04.2020 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru muncă şi protecţie socială Comisia pentru apărare, ordine publică şi sigura"
+  },
+  {
+   "day": "2020-04-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2020-04-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor se dezbate sub rezerva primirii raportului"
+  },
+  {
+   "day": "2020-04-28",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Superior al Magistraturii - cu nr.6945/28.04.2020 (negativ) Avizul Consiliului Superior al Magistraturii"
+  },
+  {
+   "day": "2020-04-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2020-04-30",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.2459/13.04.2020 Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2020-05-06",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2020-05-08",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.669/DPSG/30.04.2020 (negativ) Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2020-05-13",
+   "kind": "other",
+   "text": "primire raport favorabil (34 amend. admise, 3 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-05-13",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=200, contra=4, abtineri=107, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2020-05-13",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-06-16",
+   "kind": "adopted",
+   "text": "adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2020-06-17",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-06-22",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-07-16",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Guvernul României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.945A/2020)"
+  },
+  {
+   "day": "2020-09-30",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.681/2020 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DCC nr.681 din 30 septembrie 2020 (Dosar nr.945A/2020) CD"
+  },
+  {
+   "day": "2020-10-26",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 09.11.2020"
+  },
+  {
+   "day": "2021-02-08",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru constituționalitate desesizare Comisia juridică termen depunere raport: 09.11.2020 Nota aprobată de Biroul permanent în ședința din 8.02.2021"
+  },
+  {
+   "day": "2021-11-03",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru constituționalitate"
+  },
+  {
+   "day": "2021-11-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 23 noiembrie 2021"
+  },
+  {
+   "day": "2022-02-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința din data de 8 februarie 2022"
+  },
+  {
+   "day": "2022-02-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 1 martie 2022"
+  },
+  {
+   "day": "2022-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 martie 2022"
+  },
+  {
+   "day": "2022-04-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 12 aprilie 2022"
+  },
+  {
+   "day": "2022-04-12",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video vot final respingere - fără majoritate calificată rezultat vot (pentru respingere): pentru=132 contra=153 abtineri=6 (prezenti=292) s-a dispus retrimiterea la comisie pentru un nou raport consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-05-09",
+   "kind": "other",
+   "text": "primire raport suplimentar de respingere de la: Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă pentru organizarea şi funcţionarea Direcţiei de Investigare a Infracţiunilor de Mediu, precum şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18441"
+}

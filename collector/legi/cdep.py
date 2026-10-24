@@ -298,3 +298,35 @@ def parse_act(page: str) -> ActInfo:
         mo_day = date(int(mo.group(4)), month, int(mo.group(2)))
         mo_number = f"{mo.group(1)}/{mo.group(4)}"
     return ActInfo(mo_number, mo_day, ref.group(1) if ref else None)
+
+
+# ---- daily electronic votes (candidate discovery) ---------------------------------
+
+VOTE_DAY_URL = BASE + "/ords/pls/steno/evot2015.data?dat={ymd}&idl=1"
+_VOTE_DAY_TOKEN = re.compile(
+    r'data-label="Titlu PL"[^>]*>\s*<a href="[^"]*upl_pck2015\.proiect\?'
+    r'(?:cam=2&(?:amp;)?)?idp=(\d+)"'
+    r'|data-label="Descriere">\s*(Vot final)'
+)
+
+
+def parse_vote_day(page: str) -> list[int]:
+    """Bills (idp) with a "Vot final" on the Chamber's vote page of one day.
+
+    Catches laws adopted TODAY: they reach the status lists only after the
+    deposit, 2-6 days later. (A final vote here can also be a first-chamber
+    vote; the procedure page decides whether it is a definitive adoption.)"""
+    out: list[int] = []
+    current = None
+    for m in _VOTE_DAY_TOKEN.finditer(page):
+        if m.group(1):
+            current = int(m.group(1))
+        elif current is not None and current not in out:
+            out.append(current)
+    return out
+
+
+def parse_law_extra(extra: str) -> tuple[str, date] | None:
+    """'Lege 2/2026 05.01.2026' (column of the 'became laws' list) -> ('2/2026', date)."""
+    m = re.fullmatch(r"Lege (\d+/\d{4}) (" + DATE_RE + ")", extra.strip())
+    return (m.group(1), parse_date(m.group(2))) if m else None

@@ -1,0 +1,331 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 18328,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 15/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-06-10",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-04-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2020-06-10",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  },
+  {
+   "adopted_on": "2021-02-15",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-02-15",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L251/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L251&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2020-02-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia parlamentară a revoluţionarilor din Decembrie 1989 termen depunere amendamente: 17.02.2020 termen depunere raport: 20.02.2020 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor ca urmare a depasirii termenului de 30 de zile, potrivit art.115 alin.(5) din Constitutia României republicata termenul constituțional de 30 de zile s-a împlinit la data de 11.03.2020 Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-06-10",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru respingerea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României titlu: PL pentru respingerea Ordonanţei de urgenţă a Guvernului nr.91/2019 privind desfiinţarea Institutului Revoluţiei Române din Decembrie 1989 PA"
+  },
+  {
+   "day": "2020-06-15",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-06-18",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-07-08",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Guvernul României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.907A/2020)"
+  },
+  {
+   "day": "2020-10-05",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.645/2020 ) respinge obiectiunile de neconstitutionalitate D.C.C nr.645 din 24 septembrie 2020 CD"
+  },
+  {
+   "day": "2020-10-13",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2020-10-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia parlamentară a revoluţionarilor din Decembrie 1989 termen depunere amendamente: 21.10.2020 termen depunere raport: 27.10.2020"
+  },
+  {
+   "day": "2020-11-03",
+   "kind": "other",
+   "text": "primire raport (2 amend. admise) de la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia parlamentară a revoluţionarilor din Decembrie 1989"
+  },
+  {
+   "day": "2020-11-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-11-10",
+   "kind": "other",
+   "text": "vot final adoptare - fără majoritate calificată rezultat vot: pentru=120 contra=136 abtineri=24 (prezenti=280) consultati stenograma sedintei sau înregistrarea video dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video SE"
+  },
+  {
+   "day": "2020-11-10",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2021-02-15",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) PA"
+  },
+  {
+   "day": "2021-02-15",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2021-02-17",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2021-02-18",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de senatori aparținând Grupului parlamentar al Partidului Social Democrat) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.523A/2021)"
+  },
+  {
+   "day": "2021-04-21",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.198/2021 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURȚII CONSTITUȚIONALE nr.198 din 24 martie 2021(Dosar nr.523A/2021) CD"
+  },
+  {
+   "day": "2021-04-26",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Preşedintelui României trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia parlamentară a revoluţionarilor din Decembrie 1989 Comisia pentru constituționalitate termen depunere raport: 18.05.2021"
+  },
+  {
+   "day": "2022-12-12",
+   "kind": "other",
+   "text": "primire raport (2 amend. admise) de la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia parlamentară a revoluţionarilor din Decembrie 1989 Comisia pentru constituționalitate"
+  },
+  {
+   "day": "2023-02-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 8 februarie 2023"
+  },
+  {
+   "day": "2023-02-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 13 şi 15 februarie 2023"
+  },
+  {
+   "day": "2023-02-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 20 - 21 februarie 2023"
+  },
+  {
+   "day": "2023-02-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 27 - 28 februarie 2023"
+  },
+  {
+   "day": "2023-02-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 6 - 7 martie 2023"
+  },
+  {
+   "day": "2023-03-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 13 - 14 martie 2023"
+  },
+  {
+   "day": "2023-03-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 20 - 21 martie 2023"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 27 si 29 martie 2023"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 11 - 12 aprilie 2023"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 - 19 aprilie 2023"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 24 - 25 aprilie 2023"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 2 - 3 mai 2023"
+  },
+  {
+   "day": "2023-05-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 8 si 10 mai 2023"
+  },
+  {
+   "day": "2023-05-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 15 si 17 mai 2023"
+  },
+  {
+   "day": "2023-05-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 - 23 mai 2023"
+  },
+  {
+   "day": "2023-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 30 si 31 mai 2023"
+  },
+  {
+   "day": "2023-05-31",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 6 şi 7 iunie 2023"
+  },
+  {
+   "day": "2023-06-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 12 si 14 iunie 2023"
+  },
+  {
+   "day": "2023-06-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 19 - 20 iunie 2023"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-09-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 5 septembrie 2023"
+  },
+  {
+   "day": "2023-09-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 12 - 13 septembrie 2023"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 18 si 20 septembrie 2023"
+  },
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 25 - 26 septembrie 2023"
+  },
+  {
+   "day": "2023-10-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 3 - 4 octombrie 2023"
+  },
+  {
+   "day": "2023-10-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 9 şi 11 octombrie 2023"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedințele Camerei Deputatilor din 16 și 18 octombrie 2023"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 23 - 24 octombrie 2023"
+  },
+  {
+   "day": "2023-10-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 30 - 31 octombrie 2023"
+  },
+  {
+   "day": "2023-11-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 8 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 13 - 14 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din 20 și 22 noiembrie 2023"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.91/2019 privind desfiinţarea Institutului Revoluţiei Române din Decembrie 1989",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18328"
+}

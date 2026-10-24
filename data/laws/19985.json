@@ -1,0 +1,138 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19985,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 455/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-06-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 50,
+    "chamber": "Camera Deputaților",
+    "contra": 42,
+    "day": "2023-06-13",
+    "nu_au_votat": 4,
+    "pentru": 140
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2022-06-29",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-06-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 50,
+      "contra": 42,
+      "nu_au_votat": 4,
+      "pentru": 140
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L348/19.04.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L348&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr455_22.pdf",
+ "timeline": [
+  {
+   "day": "2022-04-19",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2022-04-19",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2022-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 12.09.2022 termen depunere raport: 20.09.2022 trimis pentru aviz la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru drepturile omului, culte şi problemele min"
+  },
+  {
+   "day": "2022-09-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2022-09-12",
+   "kind": "other",
+   "text": "Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice NOTĂ trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-03-13",
+   "kind": "other",
+   "text": "primire raport favorabil (8 amend. admise, 4 amend. respinse) de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-06-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 12 - 13 iunie 2023 dezbatere în plenul Camerei Deputatilor( rămas pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-06-13",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=140, contra=42, abtineri=50, nu au votat=4 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-06-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-06-21",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de deputați aparținând Grupului parlamentar al Uniunii Salvați România și de deputați neafiliați) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1549A/2023)"
+  },
+  {
+   "day": "2023-06-24",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-07-11",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1896A/2023)"
+  },
+  {
+   "day": "2023-11-07",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.496/2023 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.496 din 3 octombrie 2023 (Dosar nr.1549A/2023 și Dosar nr.1896A/2023) SE"
+  },
+  {
+   "day": "2023-11-07",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2024-02-05",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2024-02-07",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 27.02.2024"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea Legii nr.287/2009 privind Codul civil",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19985"
+}

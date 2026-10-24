@@ -1,0 +1,118 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21788,
+ "law": {
+  "day": "2026-04-17",
+  "number": "50/2026"
+ },
+ "monitor": {
+  "day": "2026-04-17",
+  "number": "309/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 315/2024",
+ "promulgation": {
+  "day": "2026-04-17",
+  "decree": "228/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-03-25",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 11,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-03-25",
+    "nu_au_votat": 45,
+    "pentru": 226
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-05-21",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-03-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 11,
+      "contra": 0,
+      "nu_au_votat": 45,
+      "pentru": 226
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L246/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L246&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl315_pr315_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-05-21",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-05-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 04.06.2024 termen depunere raport: 11.06.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru tehnologia informa"
+  },
+  {
+   "day": "2024-06-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2024-06-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2024-09-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2026-03-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședințele Camerei Deputaților din zilele de 23 și 25 martie 2026"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (1 amend. respins) de la: Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-03-25",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=226, contra=0, abtineri=11, nu au votat=45 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-04-01",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-04-17",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 228/2026 devine Legea nr. 50/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.38/2024 pentru modificarea şi completarea Legii nr.111/2022 privind reglementarea activităţii prestatorului casnic",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21788"
+}

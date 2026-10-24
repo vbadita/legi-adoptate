@@ -1,0 +1,128 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19542,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 421/2021",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-06-28",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 49,
+    "chamber": "Camera Deputaților",
+    "contra": 3,
+    "day": "2023-06-28",
+    "nu_au_votat": 1,
+    "pentru": 215
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-09-27",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-06-28",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 49,
+      "contra": 3,
+      "nu_au_votat": 1,
+      "pentru": 215
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L229/2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L229&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr421_21.pdf",
+ "timeline": [
+  {
+   "day": "2021-09-27",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-10-04",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială termen depunere amendamente: 14.10.2021 termen depunere raport: 26.10.2021 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publi"
+  },
+  {
+   "day": "2021-10-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2021-10-14",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2021-10-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2021-11-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2022-03-02",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023 primire raport favorabil (57 amend. admise, 6 amend. respinse) de la: Comisia pentru muncă şi protecţie socială face parte din categoria legilor organice"
+  },
+  {
+   "day": "2023-06-27",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru muncă şi protecţie socială termen: 28 iunie 2023 dezbatere în plenul Camerei Deputatilor( retrimis comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "other",
+   "text": "primire raport de înlocuire favorabil (26 amend. admise, 7 amend. respinse) de la: Comisia pentru muncă şi protecţie socială face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=215, contra=3, abtineri=49, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-06-30",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare sesizare de neconstituţionalitate (formulată de Înalta Curte de Casație și Justiție) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1726A/2023)"
+  },
+  {
+   "day": "2023-11-16",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.521/2023 ) constata ca prevederi din lege sunt neconstitutionale D.C.C. nr.521/05.10.2023 ( (Dosar nr.1726A/2023) SE"
+  },
+  {
+   "day": "2023-11-16",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  }
+ ],
+ "title": "Proiect de Lege privind unele măsuri pentru continuarea activităţii de către persoanele care îndeplinesc condiţiile de pensionare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19542"
+}

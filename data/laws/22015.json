@@ -1,0 +1,118 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 22015,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 540/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-11-04",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 19,
+    "chamber": "Camera Deputaților",
+    "contra": 31,
+    "day": "2024-10-29",
+    "nu_au_votat": 2,
+    "pentru": 213
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-10-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 19,
+      "contra": 31,
+      "nu_au_votat": 2,
+      "pentru": 213
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2024-11-04",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L559/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L559&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2024-10-07",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare punct de vedere de la Guvern termen: 30.10.2024 solicitare informare de la Guvern termen: 30.10.2024 solicitare fisa financiara de la Guvern termen: 20.11.2024"
+  },
+  {
+   "day": "2024-10-25",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.9108/25.10.2024 Parlamentul va decide cu privire la oportunitatea adoptării inițiativei legislative Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2024-10-28",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor procedură de urgență trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 28.10.2024 termen depunere raport: 29.10.2024 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru ședința din ziua de marți, 29 octombrie 2024"
+  },
+  {
+   "day": "2024-10-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire raport favorabil (7 amend. admise, 1 amend. respins) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2024-10-29",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=213, contra=31, abtineri=19, nu au votat=2 consultati stenograma sedintei Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2024-10-29",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2024-11-04",
+   "kind": "adopted",
+   "text": "adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României CD"
+  },
+  {
+   "day": "2024-11-05",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei PA"
+  },
+  {
+   "day": "2024-11-05",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-11-07",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-11-18",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Avocatul Poporului) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.3458A/2024)"
+  },
+  {
+   "day": "2025-07-15",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.126/2025 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURȚII CONSTITUȚIONALE nr.126 din 11 martie 2025 (Dosar nr.3458A/2024) CD"
+  },
+  {
+   "day": "2025-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru constituționalitate termen depunere raport: 23.09.2025"
+  }
+ ],
+ "title": "Propunere legislativă pentru completarea Legii nr.223/2015 privind pensiile militare de stat",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22015"
+}

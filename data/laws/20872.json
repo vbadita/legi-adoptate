@@ -1,0 +1,173 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20872,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 532/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-06-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 49,
+    "chamber": "Camera Deputaților",
+    "contra": 23,
+    "day": "2024-06-26",
+    "nu_au_votat": null,
+    "pentru": 176
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-09-18",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-06-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 49,
+      "contra": 23,
+      "nu_au_votat": null,
+      "pentru": 176
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L341/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L341&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl532_pr532_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-04-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor SE"
+  },
+  {
+   "day": "2023-04-18",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2023-09-18",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-09-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 02.10.2023 termen depunere raport: 11.10.2023 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia p"
+  },
+  {
+   "day": "2023-10-05",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-12-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2024-04-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 15 - 16 aprilie 2024"
+  },
+  {
+   "day": "2024-04-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 22 - 23 aprilie 2024"
+  },
+  {
+   "day": "2024-04-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 29 - 30 aprilie 2024"
+  },
+  {
+   "day": "2024-05-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 13 - 14 mai 2024"
+  },
+  {
+   "day": "2024-05-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 21 mai 2024"
+  },
+  {
+   "day": "2024-05-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 27 - 28 mai 2024"
+  },
+  {
+   "day": "2024-06-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 3 iunie 2024"
+  },
+  {
+   "day": "2024-06-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 11 iunie 2024"
+  },
+  {
+   "day": "2024-06-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 17 - 18 iunie 2024"
+  },
+  {
+   "day": "2024-06-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 25 - 26 iunie 2024 primire raport favorabil (4 amend. admise, 1 amend. respins) de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificarea art.24 alin.(3) din Legea fondului funciar nr.18/1991 rezultat vot pentru=176, contra=23, abtineri=49 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-07-01",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-07-22",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) Sesizare de neconstituționalitate (Dosar nr.2519A/2024)"
+  },
+  {
+   "day": "2026-02-16",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: D.C.C. nr.345/2026 accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURȚII CONSTITUȚIONALE nr.345 din 1 iulie 2025 (Dosar nr.2519A/2024) SE"
+  },
+  {
+   "day": "2026-04-14",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2026-04-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 06.05.2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.24, alin.(3) din Legea fondului funciar nr.18/1991",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20872"
+}

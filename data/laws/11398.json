@@ -1,0 +1,133 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 11398,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 332/2011",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2012-07-18",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 6,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2012-07-18",
+    "nu_au_votat": 1,
+    "pentru": 157
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2011-05-09",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2012-07-18",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 6,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 157
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L71/14.02.2011",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L71&an_cls=2011#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2011/pr332_11.pdf",
+ "timeline": [
+  {
+   "day": "2010-11-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor SE"
+  },
+  {
+   "day": "2010-11-08",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2011-05-09",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2011-05-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgenţă solicitată de iniţiatori Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 30.05.2011 termen depunere raport: 14.06.2011 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea"
+  },
+  {
+   "day": "2011-06-07",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2011-06-20",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2011-06-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2011-06-27",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2011-06-28",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( retrimis comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2012-07-18",
+   "kind": "other",
+   "text": "primire raport de la: Comisia juridică, de disciplină şi imunităţi înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2012-07-18",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=157, contra=0, abtineri=6, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră PA"
+  },
+  {
+   "day": "2012-07-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii Forma pentru promulgare"
+  },
+  {
+   "day": "2012-07-19",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate formulată de un număr de 63 de deputaţi aparţinând grupului parlamentar al Partidului Democrat Liberal Sesizare de neconstituţionalitate"
+  },
+  {
+   "day": "2012-07-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2012-07-25",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.736/2012 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA nr.736 din 24 iulie 2012 SE"
+  },
+  {
+   "day": "2012-07-25",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.10 din Legea nr.3/2000 privind organizarea şi desfăşurarea referendumului",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=11398"
+}

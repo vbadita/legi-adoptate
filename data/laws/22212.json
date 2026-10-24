@@ -1,0 +1,123 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22212,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 50/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-06-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 4,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-17",
+    "nu_au_votat": 52,
+    "pentru": 227
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-02-17",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 4,
+      "contra": 0,
+      "nu_au_votat": 52,
+      "pentru": 227
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L3/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L3&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl050_pr050_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-02-17",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-02-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru antreprenoriat şi turism termen depunere amendamente: 06.03.2025 termen depunere raport: 18.03.2025 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-05",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2025-03-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-06-11",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (13 amend. admise) de la: Comisia pentru antreprenoriat şi turism face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-06-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 15 şi 17 iunie 2026"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=227, contra=0, abtineri=4, nu au votat=52 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2026-07-14",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru antreprenoriat şi turism termen depunere amendamente: 23.09.2026 termen depunere raport: 30.09.2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.150/2024 pentru modificarea şi completarea Ordonanţei Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22212"
+}

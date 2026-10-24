@@ -1,0 +1,128 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18940,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 590/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-10-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 77,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2020-10-13",
+    "nu_au_votat": 1,
+    "pentru": 158
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-09-21",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-10-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 77,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 158
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L599/14.09.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L599&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr590_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-09-21",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-09-30",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială termen depunere amendamente: 07.10.2020 termen depunere raport: 13.10.2020 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru învăţământ Comis"
+  },
+  {
+   "day": "2020-10-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2020-10-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) din 13 - 14 octombrie 2020 (CLGP online - 9 octombrie 2020)"
+  },
+  {
+   "day": "2020-10-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi primire raport favorabil (4 amend. admise) de la: Comisia pentru muncă şi protecţie socială face parte din categoria legilor ordinare înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-10-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-10-13",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=158, contra=1, abtineri=77, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-10-14",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-10-16",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-11-04",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Guvernul României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1938A/2020)"
+  },
+  {
+   "day": "2021-01-28",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DCC875/2020 D.C.C. nr.875 din 9 decembrie 2020 (Dosar nr.1938A/2020) SE"
+  },
+  {
+   "day": "2021-01-28",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2021-04-06",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2021-04-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru muncă şi protecţie socială Comisia pentru constituționalitate termen depunere raport: 29.04.2021"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru muncă şi protecţie socială Comisia pentru constituționalitate face parte din categoria legilor ordinare"
+  }
+ ],
+ "title": "Proiect de Lege pentru acordarea unui stimulent de risc pentru personalul din învăţământ în contextul situaţiei epidemiologice determinate de răspîndirea coronavirusului SARS-CoV-2",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18940"
+}

@@ -1,0 +1,108 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22965,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 49/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-03-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 13,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-03-11",
+    "nu_au_votat": 2,
+    "pentru": 267
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-02-04",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-03-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 13,
+      "contra": 0,
+      "nu_au_votat": 2,
+      "pentru": 267
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L549/02.12.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L549&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pr049_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-02-04",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 18.02.2026 termen depunere raport: 26.02.2026 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi Comisia pentru antreprenoriat şi turism"
+  },
+  {
+   "day": "2026-02-25",
+   "kind": "other",
+   "text": "primire raport favorabil (6 amend. admise) de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-03-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 2 și 4 martie 2026"
+  },
+  {
+   "day": "2026-03-05",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-03-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 9 și 11 martie 2026"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor titlu: Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 142/2008 privind aprobarea Planului de amenajare a teritoriului naţional Secţiunea a VIII - a - zone cu resurse turistice rezultat vot pentru=267, contra=0, abtineri=13, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-03-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-03-24",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-04-17",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.2351A/2026)"
+  }
+ ],
+ "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.142/2008 privind aprobarea Planului de amenajare a teritoriului naţional Secţiunea a VIII-a - zone cu resurse turistice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22965"
+}

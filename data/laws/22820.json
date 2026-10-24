@@ -1,0 +1,124 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22820,
+ "law": {
+  "day": "2026-06-19",
+  "number": "98/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 158/2026",
+ "promulgation": {
+  "day": "2026-06-19",
+  "decree": "336/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-05-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-05-20",
+    "nu_au_votat": 1,
+    "pentru": 299
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 299
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L29/03.02.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L29&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl158_pr_plx_158-26.pdf",
+ "timeline": [
+  {
+   "day": "2025-12-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2025-12-08",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-03-04",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 19.03.2026 termen depunere raport: 31.03.2026 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2026-03-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-04-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-05-12",
+   "kind": "other",
+   "text": "primire raport favorabil (3 amend. admise) de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 18 şi 20 mai 2026"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=299, contra=0, abtineri=2, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-02",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-06-19",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 336/2026 devine Legea nr. 98/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru completarea art.16 alin.(3) din Legea nr.215/2016 privind ceremoniile oficiale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22820"
+}

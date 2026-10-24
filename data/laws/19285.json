@@ -1,0 +1,168 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19285,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 400/2021",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2022-06-29",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 12,
+    "chamber": "Camera Deputaților",
+    "contra": 45,
+    "day": "2022-06-29",
+    "nu_au_votat": null,
+    "pentru": 224
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-09-20",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2022-06-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 12,
+      "contra": 45,
+      "nu_au_votat": null,
+      "pentru": 224
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L211/2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L211&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr.400_21.pdf",
+ "timeline": [
+  {
+   "day": "2021-04-26",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2021-04-26",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2021-09-20",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-09-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 07.10.2021 termen depunere raport: 19.10.2021 trimis pentru aviz la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia "
+  },
+  {
+   "day": "2021-10-06",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2021-10-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+  },
+  {
+   "day": "2022-03-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2022-05-24",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru 25 mai 2022"
+  },
+  {
+   "day": "2022-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 30 - 31 mai 2022"
+  },
+  {
+   "day": "2022-06-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 7 - 8 iunie 2022"
+  },
+  {
+   "day": "2022-06-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 20 - 22 iunie 2022"
+  },
+  {
+   "day": "2022-06-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 27 - 29 iunie 2022"
+  },
+  {
+   "day": "2022-06-28",
+   "kind": "other",
+   "text": "primire raport favorabil (25 amend. admise, 25 amend. respinse) de la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=224, contra=45, abtineri=12 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2022-07-04",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2022-07-22",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1872A/2022)"
+  },
+  {
+   "day": "2022-10-31",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.421/2022 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.421 din 28 septembrie 2022 (Dosar nr.1872A/2022) SE"
+  },
+  {
+   "day": "2022-10-31",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2022-12-07",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-12-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 28.12.2022"
+  },
+  {
+   "day": "2023-10-10",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate face parte din categoria legilor ordinare"
+  }
+ ],
+ "title": "Proiect de Lege privind stabilirea unor măsuri în vederea finalizării procedurilor administrative de soluţionare a cererilor aflate pe rolul comisiilor judeţene, respectiv a municipiului Bucureşti pentru aplicarea Legii nr.9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940 şi a Legii nr.290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi ţinutul Herţa, ca urmare a stării de război şi a aplicării tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947 şi pentru modificarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19285"
+}

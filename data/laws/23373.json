@@ -1,0 +1,121 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 23373,
+ "law": {
+  "day": "2026-08-28",
+  "number": "182/2026"
+ },
+ "monitor": null,
+ "number": "Pl-x nr. 483/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-08-26",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 3,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-08-12",
+    "nu_au_votat": null,
+    "pentru": 264
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-08-12",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 3,
+      "contra": 1,
+      "nu_au_votat": null,
+      "pentru": 264
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-08-26",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L469/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L469&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Biroul Permanent aprobă procedura de urgenţă solicitată de iniţiatori Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare punct de vedere de la Guvern termen: 19.06.2026 solicitare informare de la Guvern termen: 19.06.2026 solicitare fisa financiara de la Guvern termen: 31.07.2026 solicitare aviz de la Consiliul Legislativ termen: 19.06.2026 solicitare aviz de la Consiliul Economic si Social termen: 01.07.2026 t"
+  },
+  {
+   "day": "2026-06-19",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.6601/19.06.2026 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-06-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială primire raport favorabil (6 amend. admise) de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-06-26",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.4368/24.06.2026 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2026-07-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 27 - 31 iulie 2026"
+  },
+  {
+   "day": "2026-07-31",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2026-08-12",
+   "kind": "other",
+   "text": "primire raport de înlocuire favorabil (7 amend. admise, 15 amend. respinse) de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-08-12",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor titlu: Pl pentru modificarea şi completarea art.208 din Legea învăţământului preuniversitar nr.198/2023, pentru prorogarea unor termene şi pentru abrogarea art.LIX din Legea nr.141/2025 privind unele măsuri fiscal-bugetare rezultat vot pentru=264, contra=1, abtineri=3 Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-08-12",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare promulgata prin Decret nr. 735/2026 devine Legea nr. 182/2026"
+  }
+ ],
+ "title": "Propunere legislativă pentru abrogarea art.LIX din Legea nr.141/2025 privind unele măsuri fiscal-bugetare, precum şi modificarea şi completarea art.208 din Legea învăţământului preuniversitar nr.198/2023",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23373"
+}

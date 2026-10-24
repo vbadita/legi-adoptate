@@ -1,0 +1,109 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23318,
+ "law": {
+  "day": "2026-08-05",
+  "number": "166/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 448/2026",
+ "promulgation": {
+  "day": "2026-08-05",
+  "decree": "717/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-07-29",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 40,
+    "chamber": "Camera Deputaților",
+    "contra": 11,
+    "day": "2026-07-29",
+    "nu_au_votat": 1,
+    "pentru": 237
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-06-02",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-07-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 40,
+      "contra": 11,
+      "nu_au_votat": 1,
+      "pentru": 237
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L263/20.04.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L263&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl448_pr448_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-06-02",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru sănătate şi familie Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 17.06.2026 termen depunere raport: 24.06.2026 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia pentru egalitatea de şanse pentru femei şi bărb"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-06-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2026-07-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 27 - 31 iulie 2026"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "other",
+   "text": "primire raport favorabil (4 amend. admise, 1 amend. respins) de la: Comisia pentru sănătate şi familie Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificarea art.652 din Legea nr.95/2006 privind reforma în domeniul sănătăţii, precum şi pentru exceptarea de la prevederile alin.(1) al art.XXII din Legea nr.141/2025 privind unele măsuri fiscal-bugetare rezultat vot pentru=237, contra=11, abtineri=40, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-04",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-08-05",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 717/2026 devine Legea nr. 166/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.652 din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23318"
+}

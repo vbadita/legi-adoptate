@@ -1,0 +1,119 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22703,
+ "law": {
+  "day": "2026-09-25",
+  "number": "188/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 430/2025",
+ "promulgation": {
+  "day": "2026-09-25",
+  "decree": "772/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-16",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 5,
+    "day": "2026-09-16",
+    "nu_au_votat": null,
+    "pentru": 262
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-10-27",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 5,
+      "nu_au_votat": null,
+      "pentru": 262
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L341/29.09.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L341&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl430_pr430_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-10-27",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-10-29",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 10.11.2025 termen depunere raport: 19.11.2025 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-11-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2025-11-14",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-11-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2026-03-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2026-09-10",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (6 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=262, contra=5, abtineri=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-09-25",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 772/2026 devine Legea nr. 188/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.49/2025 pentru modificarea şi completarea Ordonanţei Guvernului nr.71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi pentru stabilirea unor măsuri",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22703"
+}

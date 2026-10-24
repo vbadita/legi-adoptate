@@ -1,0 +1,161 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 14556,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 4/2015",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2019-03-11",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2015-03-11",
+     "kind": "rejected",
+     "vote": {
+      "abtineri": 2,
+      "contra": 3,
+      "nu_au_votat": 3,
+      "pentru": 292
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2019-03-11",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L116/16.03.2015",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L116&an_cls=2015#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2015-02-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor desesizare Senat Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare punct de vedere de la Guvern termen: 16.02.2015 solicitare aviz de la Consiliul Economic si Social termen: 11.02.2015"
+  },
+  {
+   "day": "2015-02-13",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2015-02-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 24.02.2015 termen depunere raport: 03.03.2015 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2015-02-24",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2015-03-04",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2015-03-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2015-03-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2015-03-11",
+   "kind": "rejected",
+   "text": "respinsa de catre Camera Deputatilor rezultat vot (pentru respingere): pentru=292, contra=3, abtineri=2, nu au votat=3 consultati stenograma sedintei sau înregistrarea video SE"
+  },
+  {
+   "day": "2015-03-11",
+   "kind": "other",
+   "text": "înaintat la Senat CD"
+  },
+  {
+   "day": "2016-04-27",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.2195/27.04.2016 (negativ) Punctul de vedere al Guvernului SE"
+  },
+  {
+   "day": "2019-03-11",
+   "kind": "adopted",
+   "text": "adoptata de Senat titlu: Pl pentru completarea art. 70 din Legea educaţiei naţionale nr.1/2011 PA"
+  },
+  {
+   "day": "2019-03-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2019-03-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare CD"
+  },
+  {
+   "day": "2019-04-09",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2019-04-15",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 22.04.2019 termen depunere raport: 25.04.2019"
+  },
+  {
+   "day": "2019-05-14",
+   "kind": "other",
+   "text": "primire raport (9 amend. admise) de la: Comisia pentru învăţământ face parte din categoria legilor organice"
+  },
+  {
+   "day": "2019-06-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.2637/22.04.2020 (negativ) Punctul de vedere al Guvernului (pag.3, poz.7)"
+  },
+  {
+   "day": "2021-06-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor din zilele de 28, 29 şi 30 iunie 2021"
+  },
+  {
+   "day": "2021-09-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2021-09-06",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru învăţământ dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2021-10-06",
+   "kind": "other",
+   "text": "primire raport de înlocuire de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2021-10-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 26 octombrie 2021"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.1/2011 a educaţiei naţionale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=14556"
+}

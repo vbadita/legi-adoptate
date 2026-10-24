@@ -1,0 +1,133 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 16193,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 226/2017",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2017-12-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 4,
+    "chamber": "Camera Deputaților",
+    "contra": 71,
+    "day": "2017-12-20",
+    "nu_au_votat": null,
+    "pentru": 157
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2017-06-06",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2017-12-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 4,
+      "contra": 71,
+      "nu_au_votat": null,
+      "pentru": 157
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L94/02.05.2017",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L94&an_cls=2017#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr226_17.pdf",
+ "timeline": [
+  {
+   "day": "2017-02-21",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2017-02-21",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2017-06-06",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2017-06-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență solicitată de inițiatori Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 15.06.2017 termen depunere raport: 19.06.2017 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru adm"
+  },
+  {
+   "day": "2017-12-19",
+   "kind": "other",
+   "text": "primire raport favorabil (4 amend. admise, 4 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2017-12-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2017-12-20",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=157, contra=71, abtineri=4 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2017-12-22",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2017-12-27",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2017-12-29",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de un număr de 64 de deputați aparținând Grupului parlamentar al Partidului Național Liberal)"
+  },
+  {
+   "day": "2018-05-02",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.62/2018 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA nr.62 din 13 februarie 2018 SE"
+  },
+  {
+   "day": "2018-05-02",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2018-06-27",
+   "kind": "adopted",
+   "text": "adoptat de Senat Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2018-09-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi termen depunere raport: 20.09.2018"
+  },
+  {
+   "day": "2021-02-08",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia pentru constituționalitate desesizare Comisia juridică Nota aprobată de Biroul permanent în ședința din 8.02.2021"
+  },
+  {
+   "day": "2025-05-08",
+   "kind": "other",
+   "text": "primire raport (3 amend. admise) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia pentru constituționalitate face parte din categoria legilor ordinare"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.1 alin.(3) din Ordonanţa de urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16193"
+}

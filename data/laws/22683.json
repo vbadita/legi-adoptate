@@ -1,0 +1,103 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22683,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 417/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-10-07",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 15,
+    "chamber": "Camera Deputaților",
+    "contra": 3,
+    "day": "2026-10-07",
+    "nu_au_votat": 1,
+    "pentru": 238
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-10-20",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-10-07",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 15,
+      "contra": 3,
+      "nu_au_votat": 1,
+      "pentru": 238
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L276/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L276&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl417_pr417_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-06-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2025-06-16",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2025-10-20",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-10-22",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru transporturi şi infrastructură termen depunere amendamente: 03.11.2025 termen depunere raport: 12.11.2025 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţil"
+  },
+  {
+   "day": "2025-11-05",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-10-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din 5 şi 7 octombrie 2026"
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "other",
+   "text": "primire raport favorabil (13 amend. admise, 2 amend. respinse) de la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru transporturi şi infrastructură face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=238, contra=3, abtineri=15, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-10-12",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-10-17",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22683"
+}

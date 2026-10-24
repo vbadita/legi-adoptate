@@ -1,0 +1,123 @@
+{
+ "character": null,
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20868,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 504/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-12-19",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 34,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2023-12-19",
+    "nu_au_votat": 2,
+    "pentru": 241
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-09-12",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-12-19",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 34,
+      "contra": 0,
+      "nu_au_votat": 2,
+      "pentru": 241
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L306/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L306&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr504_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-04-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2023-04-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2023-09-12",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-09-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 27.09.2023 termen depunere raport: 05.10.2023 trimis pent"
+  },
+  {
+   "day": "2023-09-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2023-12-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) sedinta Camerei Deputatilor din 11 - 12 decembrie 2023"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) sedinta Camerei Deputatilor din 18 - 19 decembrie 2023"
+  },
+  {
+   "day": "2023-12-19",
+   "kind": "other",
+   "text": "primire raport favorabil (7 amend. admise) de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-12-19",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=241, contra=0, abtineri=34, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-12-19",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-12-27",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-01-10",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.75A/2024)"
+  },
+  {
+   "day": "2025-07-17",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.352/2025 ) respinge obiectiunile de neconstitutionalitate DECIZIA CURȚII CONSTITUȚIONALE nr.352 din 1 iulie 2025 (Dosar nr.75A/2024) SE"
+  },
+  {
+   "day": "2025-07-24",
+   "kind": "other",
+   "text": "cererea de reexaminare solicitata de Presedintele României este înaintata la Senat CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Proiect de Lege privind transmiterea bunurilor imobile - teren cu construcţiile aferente din domeniul public al statului şi din administrarea Universităţii de Ştiinţele Vieţii ",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20868"
+}

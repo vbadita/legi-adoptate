@@ -1,0 +1,143 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20639,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 48/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-03-14",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 15,
+    "chamber": "Camera Deputaților",
+    "contra": 77,
+    "day": "2023-03-14",
+    "nu_au_votat": 1,
+    "pentru": 178
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-02-06",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-03-14",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 15,
+      "contra": 77,
+      "nu_au_votat": 1,
+      "pentru": 178
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L754/2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L754&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr048_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-02-06",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-02-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială termen depunere amendamente: 15.02.2023 termen depunere raport: 22.02.2023 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru învăţământ Co"
+  },
+  {
+   "day": "2023-02-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 20 - 21 februarie 2023"
+  },
+  {
+   "day": "2023-02-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-02-21",
+   "kind": "other",
+   "text": "primire raport favorabil (4 amend. admise) de la: Comisia pentru muncă şi protecţie socială face parte din categoria legilor organice"
+  },
+  {
+   "day": "2023-02-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 27 - 28 februarie 2023"
+  },
+  {
+   "day": "2023-02-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 6 - 7 martie 2023"
+  },
+  {
+   "day": "2023-03-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 13 - 14 martie 2023"
+  },
+  {
+   "day": "2023-03-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămas pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-03-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Legea pentru modificarea şi completarea Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice rezultat vot pentru=178, contra=77, abtineri=15, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-03-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-03-23",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de deputați aparținând Grupului parlamentar al Uniunii Salvați România și deputați neafiliați) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.664A/2023)"
+  },
+  {
+   "day": "2023-03-25",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-08-08",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.286/2023 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C nr.286/24.05.2023 (Dosar nr.664A/2023) SE"
+  },
+  {
+   "day": "2023-08-08",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2023-10-30",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru muncă şi protecţie socială Comisia pentru constituționalitate termen depunere raport: 15.11.2023"
+  },
+  {
+   "day": "2025-02-25",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru muncă şi protecţie socială Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea anexei nr.I a Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20639"
+}

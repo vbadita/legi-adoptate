@@ -1,0 +1,86 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23315,
+ "law": {
+  "day": "2026-06-26",
+  "number": "109/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 443/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-06-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 18,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-17",
+    "nu_au_votat": 54,
+    "pentru": 209
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-06-02",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 18,
+      "contra": 0,
+      "nu_au_votat": 54,
+      "pentru": 209
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L303/11.05.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L303&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl443_pr443_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-06-02",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru tehnologia informaţiei şi comunicaţiilor termen depunere amendamente: 17.06.2026 termen depunere raport: 24.06.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru d"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru tehnologia informaţiei şi comunicaţiilor face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=209, contra=0, abtineri=18, nu au votat=54 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare promulgata prin Decret nr. 348/2026 devine Legea nr.109/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.34/2026 pentru completarea art.10 din Ordonanţa de urgenţă a Guvernului nr.89/2022 privind înfiinţarea, administrarea şi dezvoltarea infrastructurilor şi serviciilor informatice de tip cloud utilizate de autorităţile şi instituţiile publice şi pentru modificarea art.II alin.(5) din Legea nr.102/2024 privind aprobarea Ordonanţei Guvernului nr.8/2024 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.124/2021 privind stabilirea cadrului instituţional şi financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare şi rezilienţă, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155/2020 privind unele măsuri pentru elaborarea Planului naţional de redresare şi rezilienţă necesar României pentru accesarea de fonduri externe rambursabile şi nerambursabile în cadrul Mecanismului de redresare şi rezilienţă",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23315"
+}

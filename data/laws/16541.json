@@ -1,0 +1,163 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 16541,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 348/2017",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2018-11-28",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 3,
+    "chamber": "Camera Deputaților",
+    "contra": 101,
+    "day": "2018-11-28",
+    "nu_au_votat": null,
+    "pentru": 149
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2017-10-10",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2018-11-28",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 3,
+      "contra": 101,
+      "nu_au_votat": null,
+      "pentru": 149
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L222/04.09.2017",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L222&an_cls=2017#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr348_17.pdf",
+ "timeline": [
+  {
+   "day": "2017-10-10",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru respingerea ordonantei adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2017-10-17",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 24.10.2017 termen depunere raport: 31.10.2017 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică, de"
+  },
+  {
+   "day": "2017-10-24",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2017-10-30",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2017-10-31",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2017-11-07",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2018-10-10",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei (2 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2018-10-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2018-11-28",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2018-11-28",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei adoptat de Camera Deputatilor rezultat vot pentru=149, contra=101, abtineri=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2018-12-03",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2018-12-08",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2018-12-10",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de un număr de 63 deputați aparținând Grupului parlamentar al Partidului Național Liberal) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.2128A/2018)"
+  },
+  {
+   "day": "2019-01-16",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.24/2019 ) DECIZIA CURȚII CONSTITUȚIONALE Nr.24 din 16 ianuarie 2019 (Dosar nr.2128A/2018) SE"
+  },
+  {
+   "day": "2019-02-21",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2019-03-25",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2019-03-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 01.04.2019 termen depunere raport: 04.04.2019"
+  },
+  {
+   "day": "2019-04-16",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2019-04-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2019-12-04",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru buget, finanţe şi bănci termen depunere raport: 18.12.2019 dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-02-06",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2020-02-24",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  }
+ ],
+ "title": "Proiect de Lege privind respingerea Ordonanţei Guvernului nr.4/2017 pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16541"
+}

@@ -1,0 +1,126 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 16482,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 293/2017",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2018-04-03",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2018-02-21",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2018-04-03",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L145/26.02.2018",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L145&an_cls=2018#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2017-09-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Legislativ termen: 18.10.2017 solicitare punct de vedere de la Guvern termen: 18.10.2017 solicitare aviz de la Consiliul Economic si Social termen: 09.10.2017"
+  },
+  {
+   "day": "2017-10-12",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.4823/10.10.2017 (negativ) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2017-10-16",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.865/13.10.2017 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2017-10-23",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 02.11.2017 termen depunere raport: 14.11.2017 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2017-11-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2017-12-04",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor organice"
+  },
+  {
+   "day": "2017-12-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2018-02-05",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2018-02-06",
+   "kind": "other",
+   "text": "vot final respingere - fără majoritate calificată rezultat vot (pentru respingere): pentru=58 contra=206 abtineri=8 (prezenti=272) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2018-02-21",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2018-02-21",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2018-02-21",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2018-04-03",
+   "kind": "adopted",
+   "text": "adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2018-04-10",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2018-04-16",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare CD"
+  },
+  {
+   "day": "2018-05-04",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2018-05-07",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 14.05.2018 termen depunere raport: 17.05.2018"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea art.19 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16482"
+}

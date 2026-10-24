@@ -1,0 +1,375 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21015,
+ "law": {
+  "day": "2026-07-20",
+  "number": "142/2026"
+ },
+ "monitor": {
+  "day": "2026-07-20",
+  "number": "588/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 415/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-06-30",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 11,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-30",
+    "nu_au_votat": 59,
+    "pentru": 230
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-06-12",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-30",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 11,
+      "contra": 0,
+      "nu_au_votat": 59,
+      "pentru": 230
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L299/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L299&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?pr415_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-06-12",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-06-19",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru muncă şi protecţie socială NOTĂ trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială termen depunere amendamente: 22.06.2023 termen depunere raport: 27.06.2023 trimis pentru aviz la: Comisia pentru politică economică, ref"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia pentru sănătate şi familie primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2023-06-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+  },
+  {
+   "day": "2023-09-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 5 septembrie 2023"
+  },
+  {
+   "day": "2023-09-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 12 - 13 septembrie 2023"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 18 si 20 septembrie 2023"
+  },
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 25 - 26 septembrie 2023"
+  },
+  {
+   "day": "2023-09-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2023-10-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 3 - 4 octombrie 2023"
+  },
+  {
+   "day": "2023-10-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din zilele de 9 şi 11 octombrie 2023"
+  },
+  {
+   "day": "2023-10-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedințele Camerei Deputatilor din 16 și 18 octombrie 2023"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 23 - 24 octombrie 2023"
+  },
+  {
+   "day": "2023-10-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 30 - 31 octombrie 2023"
+  },
+  {
+   "day": "2023-11-02",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2023-11-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 6 si 8 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 13 - 14 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din 20 și 22 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din 27 și 29 noiembrie 2023"
+  },
+  {
+   "day": "2023-12-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 4 - 5 decembrie 2023"
+  },
+  {
+   "day": "2023-12-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 11 - 12 decembrie 2023"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) sedinta Camerei Deputatilor din 18 - 19 decembrie 2023"
+  },
+  {
+   "day": "2024-02-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din zilele de 5 şi 7 februarie 2024"
+  },
+  {
+   "day": "2024-02-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 12 - 13 februarie 2024"
+  },
+  {
+   "day": "2024-02-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 19 - 20 februarie 2024"
+  },
+  {
+   "day": "2024-02-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 26 - 27 februarie 2024"
+  },
+  {
+   "day": "2024-03-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 4 - 5 martie 2024"
+  },
+  {
+   "day": "2024-03-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din ziua de luni, 11 martie 2024"
+  },
+  {
+   "day": "2024-03-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 18 - 19 martie 2024"
+  },
+  {
+   "day": "2024-03-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 26 martie 2024"
+  },
+  {
+   "day": "2024-04-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 2 aprilie 2024"
+  },
+  {
+   "day": "2024-04-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 8 - 9 aprilie 2024"
+  },
+  {
+   "day": "2024-04-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 15 - 16 aprilie 2024"
+  },
+  {
+   "day": "2024-04-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 22 - 23 aprilie 2024"
+  },
+  {
+   "day": "2024-04-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 29 - 30 aprilie 2024"
+  },
+  {
+   "day": "2024-05-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 13 - 14 mai 2024"
+  },
+  {
+   "day": "2024-05-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 21 mai 2024"
+  },
+  {
+   "day": "2024-06-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 3 iunie 2024"
+  },
+  {
+   "day": "2024-06-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 11 iunie 2024"
+  },
+  {
+   "day": "2024-06-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 17 - 18 iunie 2024"
+  },
+  {
+   "day": "2024-06-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 25 - 26 iunie 2024"
+  },
+  {
+   "day": "2024-09-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 3 septembrie 2024"
+  },
+  {
+   "day": "2024-09-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 10 - 11 septembrie 2024"
+  },
+  {
+   "day": "2024-09-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 17 septembrie 2024"
+  },
+  {
+   "day": "2024-09-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 24 septembrie 2024"
+  },
+  {
+   "day": "2024-10-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 2 octombrie 2024"
+  },
+  {
+   "day": "2024-10-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 8 octombrie 2024"
+  },
+  {
+   "day": "2024-10-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 22 octombrie 2024"
+  },
+  {
+   "day": "2024-10-28",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 29 octombrie 2024"
+  },
+  {
+   "day": "2024-11-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 5 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 12 noiembrie 2024"
+  },
+  {
+   "day": "2024-11-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 noiembrie 2024"
+  },
+  {
+   "day": "2024-12-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 10 - 11 decembrie 2024"
+  },
+  {
+   "day": "2024-12-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 16 - 17 decembrie 2024"
+  },
+  {
+   "day": "2025-03-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru transporturi şi infrastructură"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (25 amend. admise) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-06-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 29 şi 30 iunie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=230, contra=0, abtineri=11, nu au votat=59 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-07-02",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-20",
+   "kind": "other",
+   "text": "promulgare devine Legea nr. 142/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.34/2023 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21015"
+}

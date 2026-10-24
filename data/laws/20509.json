@@ -1,0 +1,153 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 20509,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 724/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-10-16",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 44,
+    "chamber": "Camera Deputaților",
+    "contra": 11,
+    "day": "2023-04-05",
+    "nu_au_votat": null,
+    "pentru": 225
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-04-05",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 44,
+      "contra": 11,
+      "nu_au_votat": null,
+      "pentru": 225
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2023-10-16",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L198/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L198&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2022-11-23",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Economic si Social termen: 12.12.2022 solicitare aviz de la Consiliul Legislativ termen: 20.12.2022 solicitare punct de vedere de la Guvern termen: 20.12.2022 solicitare informare de la Guvern termen: 20.12.2022 solicitare fisa financiara de la Guvern termen: 06.01.2023"
+  },
+  {
+   "day": "2022-12-14",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.1384/13.12.2022 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2022-12-16",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.7734/07.12.2022 (favorabil) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2023-02-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 13.02.2023 termen depunere raport: 22.02.2023 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şa"
+  },
+  {
+   "day": "2023-02-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-02-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2023-02-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2023-03-13",
+   "kind": "other",
+   "text": "primire raport favorabil (4 amend. admise) de la: Comisia pentru învăţământ Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor organice"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=225, contra=11, abtineri=44 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "adopted",
+   "text": "adoptata de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-10-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-11-10",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.3043A/2023)"
+  },
+  {
+   "day": "2023-12-13",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.727/2023 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.727 din 13 decembrie 2023 (Dosar nr.3043A/2023) CD"
+  },
+  {
+   "day": "2024-04-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Preşedintelui României trimis pentru raport la: Comisia pentru învăţământ Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru constituționalitate termen depunere raport: 24.04.2024"
+  },
+  {
+   "day": "2024-10-07",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru învăţământ Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru constituționalitate face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă pentru completarea Legii nr.80/1995 privind statutul cadrelor militare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20509"
+}

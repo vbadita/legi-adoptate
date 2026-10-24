@@ -1,0 +1,263 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20458,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 689/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-10-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2023-10-11",
+    "nu_au_votat": 1,
+    "pentru": 260
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2022-10-24",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-10-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 260
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L604/30.09.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L604&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr689_22.pdf",
+ "timeline": [
+  {
+   "day": "2022-10-24",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2022-10-31",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 10.11.2022 termen depunere raport: 22.11.2022 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Comisia pen"
+  },
+  {
+   "day": "2022-11-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2022-11-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-03-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2023-03-16",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 27 si 29 martie 2023"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 11 - 12 aprilie 2023"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 18 - 19 aprilie 2023"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 24 - 25 aprilie 2023"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 2 - 3 mai 2023"
+  },
+  {
+   "day": "2023-05-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 8 si 10 mai 2023"
+  },
+  {
+   "day": "2023-05-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 15 si 17 mai 2023"
+  },
+  {
+   "day": "2023-05-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 - 23 mai 2023"
+  },
+  {
+   "day": "2023-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 30 si 31 mai 2023"
+  },
+  {
+   "day": "2023-05-31",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 6 şi 7 iunie 2023"
+  },
+  {
+   "day": "2023-06-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 12 si 14 iunie 2023"
+  },
+  {
+   "day": "2023-06-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 19 - 20 iunie 2023"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-09-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 5 septembrie 2023"
+  },
+  {
+   "day": "2023-09-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 12 - 13 septembrie 2023"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 18 si 20 septembrie 2023"
+  },
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 25 - 26 septembrie 2023"
+  },
+  {
+   "day": "2023-10-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 3 - 4 octombrie 2023"
+  },
+  {
+   "day": "2023-10-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 9 şi 11 octombrie 2023"
+  },
+  {
+   "day": "2023-10-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-10-11",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=260, contra=0, abtineri=0, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-10-21",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2023-11-08",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului cererea de reexaminare solicitata de Presedintele României este înaintata la Senat"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "adopted",
+   "text": "adoptat de Senat (ca urmare a cererii de reexaminare) Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-12-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 07.02.2024 termen depunere raport: 15.02.2024"
+  },
+  {
+   "day": "2025-10-01",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 13 și 15 octombrie 2025"
+  },
+  {
+   "day": "2025-10-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 20 și 22 octombrie 2025"
+  },
+  {
+   "day": "2025-10-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședintele Camerei Deputaților din zilele de 27 și 29 octombrie 2025"
+  },
+  {
+   "day": "2025-11-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 3 și 5 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 10 și 12 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 19 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-24",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 24 și 26 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-26",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor aproba retransmiterea la comisii dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.1 din Ordonanţa de urgenţă a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20458"
+}

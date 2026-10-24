@@ -1,0 +1,109 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22847,
+ "law": {
+  "day": "2026-06-24",
+  "number": "102/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 553/2025",
+ "promulgation": {
+  "day": "2026-06-24",
+  "decree": "341/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-05-27",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-05-27",
+    "nu_au_votat": 1,
+    "pentru": 293
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-12-08",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-27",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 293
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L479/10.11.2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L479&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl553_pr553_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-12-08",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-12-10",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială Comisia pentru sănătate şi familie termen depunere amendamente: 17.12.2025 termen depunere raport: 23.12.2025 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi Comisia "
+  },
+  {
+   "day": "2025-12-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-02-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2026-02-11",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "other",
+   "text": "primire raport favorabil (3 amend. admise) de la: Comisia pentru muncă şi protecţie socială Comisia pentru sănătate şi familie face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 26 şi 27 mai 2026"
+  },
+  {
+   "day": "2026-05-27",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=293, contra=1, abtineri=0, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 341/2026 devine Legea nr.102/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru completarea art.70 din Legea nr.448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22847"
+}

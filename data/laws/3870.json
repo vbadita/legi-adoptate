@@ -1,0 +1,327 @@
+{
+ "character": "organic",
+ "decisional_chamber": null,
+ "idp": 3870,
+ "law": null,
+ "monitor": null,
+ "number": "Pl nr. 217/2003",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2004-06-22",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2004-04-27",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2004-06-22",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  },
+  {
+   "adopted_on": "2005-04-07",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2005-02-22",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2005-04-07",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L334/03.05.2004",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L334&an_cls=2004#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2003-03-13",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere"
+  },
+  {
+   "day": "2003-03-17",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului"
+  },
+  {
+   "day": "2003-03-18",
+   "kind": "other",
+   "text": "solicitare aviz de la Consiliul Legislativ termen: 18.04.2003"
+  },
+  {
+   "day": "2003-04-07",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ"
+  },
+  {
+   "day": "2003-04-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru sănătate şi familie termen depunere raport: 13.06.2003 trimis pentru aviz la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2003-05-19",
+   "kind": "other",
+   "text": "primire raport (nr.189) favorabil de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2003-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2003-06-03",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( retrimis comisiei ) consultati stenograma sedintei trimis pentru raport suplimentar la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2004-02-26",
+   "kind": "other",
+   "text": "primire raport (nr.50) favorabil de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2004-03-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2004-03-02",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la comisie"
+  },
+  {
+   "day": "2004-04-27",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2004-04-27",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României titlu: Pl privind sănătatea reproducerii şi reproducerea umană asistată medical consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2004-04-29",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2004-06-22",
+   "kind": "adopted",
+   "text": "adoptata de Senat cu modificari; urmeaza mediere adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României PA"
+  },
+  {
+   "day": "2004-06-22",
+   "kind": "other",
+   "text": "trimitere la comisia de mediere CD"
+  },
+  {
+   "day": "2004-06-29",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor aproba componenta comisiei de mediere Mircea Man - FSN consultati stenograma sedintei sau înregistrarea video PA"
+  },
+  {
+   "day": "2004-09-14",
+   "kind": "other",
+   "text": "comisia de mediere depune raportul Raportul comisiei de mediere SE"
+  },
+  {
+   "day": "2004-09-16",
+   "kind": "other",
+   "text": "plenul Senatului adopta raportul comisiei de mediere titlu: Pl privind sănătatea reproducerii şi reproducerea umană asistată medical CD"
+  },
+  {
+   "day": "2004-09-20",
+   "kind": "other",
+   "text": "dezbatere raport comisie de mediere în plenul Camerei Deputatilor( amânarea votului final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2004-09-28",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor adopta raportul comisiei de mediere titlu: Pl privind sănătatea reproducerii şi reproducerea umană asistată medical consultati stenograma sedintei sau înregistrarea video PA"
+  },
+  {
+   "day": "2004-09-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2004-10-04",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare CD"
+  },
+  {
+   "day": "2004-10-14",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor"
+  },
+  {
+   "day": "2004-10-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport privind cererea de reexaminare formulata de Presedintele României, la: Comisia pentru sănătate şi familie termen depunere raport: 08.11.2004"
+  },
+  {
+   "day": "2004-10-29",
+   "kind": "other",
+   "text": "primire raport (nr.416) favorabil privind cererea de reexaminare formulata de Presedintele României, de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2004-11-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2004-11-05",
+   "kind": "other",
+   "text": "primire raport (nr.436) favorabil de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2004-11-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2004-11-09",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( restituită comisiei ) consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la comisie"
+  },
+  {
+   "day": "2004-11-15",
+   "kind": "other",
+   "text": "primire raport (nr.452) favorabil de la: Comisia pentru sănătate şi familie face parte din categoria legilor ordinare înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2005-02-03",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2005-02-17",
+   "kind": "other",
+   "text": "primire raport (nr.21) favorabil de la: Comisia pentru sănătate şi familie face parte din categoria legilor organice înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2005-02-21",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2005-02-22",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2005-02-22",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2005-04-07",
+   "kind": "adopted",
+   "text": "adoptata de Senat (ca urmare a cererii de reexaminare) cu modificari; urmeaza mediere PA"
+  },
+  {
+   "day": "2005-04-07",
+   "kind": "other",
+   "text": "trimitere la comisia de mediere CD"
+  },
+  {
+   "day": "2005-04-11",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor aproba componenta comisiei de mediere consultati stenograma sedintei sau înregistrarea video PA"
+  },
+  {
+   "day": "2005-05-18",
+   "kind": "other",
+   "text": "comisia de mediere depune raportul Raportul comisiei de mediere SE"
+  },
+  {
+   "day": "2005-05-23",
+   "kind": "other",
+   "text": "plenul Senatului adopta raportul comisiei de mediere (ca urmare a cererii de reexaminare) CD"
+  },
+  {
+   "day": "2005-05-30",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor adopta raportul comisiei de mediere (ca urmare a cererii de reexaminare) consultati stenograma sedintei sau înregistrarea video PA"
+  },
+  {
+   "day": "2005-06-06",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2005-06-10",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2005-06-15",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate autor: Preşedintele României"
+  },
+  {
+   "day": "2005-07-21",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: Curtea Constitutionala decide: (D.C.C. nr.418/2005) accepta obiectiunile de neconstitutionalitate CD"
+  },
+  {
+   "day": "2005-07-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport privind decizia Curtii Constitutionale, la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 15.09.2005"
+  },
+  {
+   "day": "2005-11-10",
+   "kind": "other",
+   "text": "primire raport (nr.217) favorabil de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2005-11-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2005-11-21",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2005-11-21",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2005-11-22",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2006-02-09",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat"
+  }
+ ],
+ "title": "Propunere legislativă privind consilierea obligatorie în cazul întreruperii de sarcină",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=3870"
+}

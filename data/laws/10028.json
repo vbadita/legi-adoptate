@@ -1,0 +1,146 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 10028,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 433/2009",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2009-11-10",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2009-09-16",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2009-11-10",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L226/26.05.2009",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L226&an_cls=2009#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/proiecte/2009/400/30/3/pr433_09.pdf",
+ "timeline": [
+  {
+   "day": "2009-03-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2009-03-18",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2009-09-16",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2009-09-21",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgenţă solicitată de iniţiatori Adresa iniţiatorului Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 30.09.2009 termen depunere raport: 08.10.2009 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2009-09-30",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2009-11-05",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2009-11-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2009-11-10",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră PA"
+  },
+  {
+   "day": "2009-11-25",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii Forma pentru promulgare"
+  },
+  {
+   "day": "2009-11-30",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2009-12-15",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2010-10-04",
+   "kind": "other",
+   "text": "legea a fost reexaminată de Senat CD"
+  },
+  {
+   "day": "2010-11-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport privind cererea de reexaminare formulata de Presedintele României, la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 15.11.2010"
+  },
+  {
+   "day": "2012-10-12",
+   "kind": "other",
+   "text": "primire raport de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2012-10-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2012-11-29",
+   "kind": "other",
+   "text": "primire raport de înlocuire de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2013-02-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2013-02-18",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 11.03.2013 dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2014-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2021-03-03",
+   "kind": "other",
+   "text": "primire raport suplimentar (1 amend. respins) de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2021-03-25",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.1804/17.03.2021 (negativ) Punctul de vedere al Guvernului (poz.11)"
+  }
+ ],
+ "title": "Propunere legislativă de modificare şi completare a art.82¹ din Legea nr.161 din 19 aprilie 2003 privind unele măsuri pentru asigurarea transparenţei în exercitarea demnităţilor publice, a funcţiilor publice şi în mediul de afaceri, prevenirea şi sancţionarea corupţiei",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=10028"
+}

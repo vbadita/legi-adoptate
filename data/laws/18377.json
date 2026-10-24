@@ -1,0 +1,118 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18377,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 354/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-06-10",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 26,
+    "day": "2020-06-10",
+    "nu_au_votat": null,
+    "pentru": 265
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-06-03",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-06-10",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 26,
+      "nu_au_votat": null,
+      "pentru": 265
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L220/14.04.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L220&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr354_20.docx.pdf",
+ "timeline": [
+  {
+   "day": "2020-03-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2020-03-02",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-06-03",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-06-09",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 09.06.2020 termen depunere raport: 10.06.2020 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi înscris pe ordinea de z"
+  },
+  {
+   "day": "2020-06-10",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru buget, finanţe şi bănci dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video primire raport suplimentar (599 amend. admise) de la: Comisia pentru buget, finanţe şi bănci"
+  },
+  {
+   "day": "2020-06-10",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=265, contra=26, abtineri=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-06-10",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-06-12",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-06-16",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Înalta Curte de Casație și Justiție) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.722A/2020)"
+  },
+  {
+   "day": "2020-07-06",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Guvernul României) SESIZARE DE NECONSTITUȚIONALITATE (Dosarul nr.853A/2020)"
+  },
+  {
+   "day": "2020-12-10",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.721/2020 ) Dispozițiile art.30, art.32 alin.(2), art.46 alin.(17), art.56 alin.(4), art.57 alin (2) și (3) și ale art.58 din lege sunt neconstituționale. D.C.C. nr.721 din 7 octombrie 2020 (Dosarele nr.722A/2020 și nr.853A/2020) SE"
+  },
+  {
+   "day": "2020-12-10",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale CD"
+  },
+  {
+   "day": "2022-03-31",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern (negativ) Punctul de vedere al Guvernului"
+  }
+ ],
+ "title": "Proiect de Lege privind unele măsuri în domeniul fondurilor nerambursabile europene",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18377"
+}

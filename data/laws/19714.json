@@ -1,0 +1,118 @@
+{
+ "character": null,
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19714,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 120/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-10-15",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 3,
+    "chamber": "Camera Deputaților",
+    "contra": 36,
+    "day": "2025-10-15",
+    "nu_au_votat": null,
+    "pentru": 259
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2022-03-07",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-10-15",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 3,
+      "contra": 36,
+      "nu_au_votat": null,
+      "pentru": 259
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L67/2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L67&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pl120_pr120_22.pdf",
+ "timeline": [
+  {
+   "day": "2021-12-15",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2021-12-15",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2022-03-07",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-03-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 24.03.2022 termen depunere raport: 05.04.2022 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2022-04-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-04-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat solicitarea unui deputat NOTĂ"
+  },
+  {
+   "day": "2025-10-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 6 si 8 octombrie 2025"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 13 și 15 octombrie 2025 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video primire raport favorabil de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=259, contra=36, abtineri=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-10-24",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Avocatul Poporului) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.4442A/2025)"
+  },
+  {
+   "day": "2025-10-25",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-09-10",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.734/2026 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURŢII CONSTITUŢIONALE nr.734 din 24 iunie 2026 (Dosar nr.4442A/2025)"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea art.425 alin.(1) lit.b) din Legea nr.134/2010 privind Codul de procedură civilă",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19714"
+}

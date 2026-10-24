@@ -1,0 +1,123 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20721,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 137/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2024-05-28",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 11,
+    "chamber": "Camera Deputaților",
+    "contra": 12,
+    "day": "2024-05-28",
+    "nu_au_votat": 3,
+    "pentru": 234
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-02-27",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-05-28",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 11,
+      "contra": 12,
+      "nu_au_votat": 3,
+      "pentru": 234
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L863/2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L863&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl137_pr137_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-02-27",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2023-03-06",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 16.03.2023 termen depunere raport: 28.03.2023 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pent"
+  },
+  {
+   "day": "2023-03-20",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru transporturi şi infrastructură primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2023-03-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2023-05-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2024-05-27",
+   "kind": "other",
+   "text": "primire raport favorabil (5 amend. admise, 1 amend. respins) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 27 - 28 mai 2024"
+  },
+  {
+   "day": "2024-05-28",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=234, contra=12, abtineri=11, nu au votat=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2024-06-03",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-06-08",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2024-06-12",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Înalta Curte de Casație și Justiție) SESIZARE DE NECONSTITUȚIONALITATE"
+  },
+  {
+   "day": "2024-11-13",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.401/2024 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURȚII CONSTITUȚIONALE nr.401 din 19 septembrie 2024 (Dosar nr.1854A/2024) SE"
+  },
+  {
+   "day": "2024-11-13",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2025-02-17",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2025-02-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 12.03.2025"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea art.335 alin.(1) din Legea nr.286 din 17 iulie 2009 privind Codul penal",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20721"
+}

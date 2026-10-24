@@ -1,0 +1,86 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23462,
+ "law": {
+  "day": "2026-08-28",
+  "number": "181/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 538/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-08-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 8,
+    "chamber": "Camera Deputaților",
+    "contra": 50,
+    "day": "2026-08-26",
+    "nu_au_votat": 2,
+    "pentru": 218
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-08-24",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-08-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 8,
+      "contra": 50,
+      "nu_au_votat": 2,
+      "pentru": 218
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L453/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L453&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl538_pr538_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-08-24",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-08-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 26.08.2026 termen depunere raport: 26.08.2026 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru transporturi şi infrastructură înscris pe ordinea de zi a plenului Camerei Deputa"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare primire raport favorabil (33 amend. admise) de la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=218, contra=50, abtineri=8, nu au votat=2 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-08-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare promulgata prin Decret nr. 734/2026 devine Legea nr. 181/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.237/2023 privind integrarea hidrogenului din surse regenerabile şi cu emisii reduse de carbon în sectoarele industriei şi transporturilor, precum şi a Ordonanţei de urgenţă a Guvernului nr.163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23462"
+}

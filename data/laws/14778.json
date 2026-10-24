@@ -1,0 +1,233 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 14778,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 239/2015",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-11-08",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2023-11-08",
+    "nu_au_votat": 2,
+    "pentru": 255
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2015-03-11",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-11-08",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 0,
+      "nu_au_votat": 2,
+      "pentru": 255
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L28/09.02.2015",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L28&an_cls=2015#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2015/pr239_15.pdf",
+ "timeline": [
+  {
+   "day": "2015-03-11",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2015-03-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 23.03.2015 termen depunere raport: 26.03.2015 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială Comisia parlamentară a revoluţionarilor din Decembrie 1989 Comisia pentru egalitatea de şanse pentru femei şi b"
+  },
+  {
+   "day": "2015-03-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2015-03-31",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2015-04-02",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci"
+  },
+  {
+   "day": "2017-02-06",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.478/MRP/03.02.2017 (favorabil) (se susţine proiectul de lege în forma adoptată de Guvern) Punctul de vedere al Guvernului (poz. 49)"
+  },
+  {
+   "day": "2020-01-22",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.32/DPSG/17.01.2020 (favorabil) Se susține proiectul de lege în forma adoptată de Guvern Punctul de vedere al Guvernului (poz.51)"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (4 amend. admise, 217 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia juridică, de disciplină şi imunităţi CLGP din 29 martie 2023"
+  },
+  {
+   "day": "2023-04-19",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil aprobarii ordonantei de urgenta (219 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-04-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 2 - 3 mai 2023"
+  },
+  {
+   "day": "2023-05-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 8 si 10 mai 2023"
+  },
+  {
+   "day": "2023-05-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 15 si 17 mai 2023"
+  },
+  {
+   "day": "2023-05-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 22 - 23 mai 2023"
+  },
+  {
+   "day": "2023-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 30 si 31 mai 2023"
+  },
+  {
+   "day": "2023-05-31",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 7 iunie 2023"
+  },
+  {
+   "day": "2023-06-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 12 si 14 iunie 2023"
+  },
+  {
+   "day": "2023-06-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 19 - 20 iunie 2023"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-09-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 5 septembrie 2023"
+  },
+  {
+   "day": "2023-09-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 12 - 13 septembrie 2023"
+  },
+  {
+   "day": "2023-09-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 18 si 20 septembrie 2023"
+  },
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 25 - 26 septembrie 2023"
+  },
+  {
+   "day": "2023-10-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 3 - 4 octombrie 2023"
+  },
+  {
+   "day": "2023-10-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 9 şi 11 octombrie 2023"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedințele Camerei Deputatilor din 16 și 18 octombrie 2023"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 23 - 24 octombrie 2023"
+  },
+  {
+   "day": "2023-10-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 30 - 31 octombrie 2023"
+  },
+  {
+   "day": "2023-11-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 8 noiembrie 2023"
+  },
+  {
+   "day": "2023-11-08",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-11-08",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=255, contra=0, abtineri=1, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-11-13",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-11-15",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-12-20",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.3309A/2023)"
+  },
+  {
+   "day": "2024-09-19",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.380/2024 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.380 din 11 iulie 2024 (Dosar nr.3309A/2023) SE"
+  },
+  {
+   "day": "2024-09-19",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.95/2014 pentru modificarea şi completarea Legii recunoştinţei faţă de eroii-martiri şi luptătorii care au contribuit la Victoria Revoluţiei române din decembrie 1989, precum şi faţă de persoanele care şi-au jertfit viaţa sau au avut de suferit în urma revoltei muncitoreşti anticomuniste de la Braşov din noiembrie 1987 nr.341/2004",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=14778"
+}

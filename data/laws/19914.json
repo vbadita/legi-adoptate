@@ -1,0 +1,133 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19914,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 398/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-02-28",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 42,
+    "chamber": "Camera Deputaților",
+    "contra": 8,
+    "day": "2023-02-28",
+    "nu_au_votat": null,
+    "pentru": 212
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2022-06-20",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-02-28",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 42,
+      "contra": 8,
+      "nu_au_votat": null,
+      "pentru": 212
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L304/30.03.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L304&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr398_22.pdf",
+ "timeline": [
+  {
+   "day": "2022-03-29",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2022-03-29",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2022-06-20",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-06-22",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru învăţământ Comisia pentru știință și tehnologie termen depunere amendamente: 24.06.2022 termen depunere raport: 28.06.2022 trimis pentru aviz la: Comisia pentru administraţie publică şi"
+  },
+  {
+   "day": "2022-11-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2023-02-20",
+   "kind": "other",
+   "text": "primire raport favorabil (9 amend. admise) de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru învăţământ Comisia pentru știință și tehnologie face parte din categoria legilor organice"
+  },
+  {
+   "day": "2023-02-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-02-28",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=212, contra=8, abtineri=42 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-03-06",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-03-11",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.738A/2023)"
+  },
+  {
+   "day": "2023-06-30",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.287/2023 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.287din 24.05.2023 (Dosar nr.738A/2023) SE"
+  },
+  {
+   "day": "2023-06-30",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2023-10-09",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat CD"
+  },
+  {
+   "day": "2023-10-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru învăţământ Comisia pentru constituționalitate Comisia pentru știință și tehnologie termen depunere raport: 31.10.2023"
+  },
+  {
+   "day": "2024-04-15",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru învăţământ Comisia pentru constituționalitate Comisia pentru știință și tehnologie face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea Legii nr.45/2009 privind organizarea şi funcţionarea Academiei de Ştiinţe Agricole şi Silvice Gheorghe Ionescu-Şişeşti şi a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii şi industriei alimentare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19914"
+}

@@ -1,0 +1,178 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 8928,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 230/2008",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2008-09-30",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 2,
+    "day": "2008-09-30",
+    "nu_au_votat": null,
+    "pentru": 223
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2008-04-15",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2008-09-30",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 2,
+      "nu_au_votat": null,
+      "pentru": 223
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L106/05.02.2008",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L106&an_cls=2008#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/proiecte/2008/200/30/0/pr230_08.pdf",
+ "timeline": [
+  {
+   "day": "2007-11-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2007-11-14",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2008-04-15",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2008-04-22",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgenţă solicitată de iniţiatori Adresa iniţiatorului Adresa Senatului trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 05.06.2008 termen depunere raport: 19.06.2008 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ord"
+  },
+  {
+   "day": "2008-06-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2008-06-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2008-09-17",
+   "kind": "other",
+   "text": "primire raport (nr.2345) favorabil de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor organice"
+  },
+  {
+   "day": "2008-09-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( rămasă pentru vot final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2008-09-30",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României titlu: Pl pentru modificarea Ordonaţei de urgenţă a Guvernului nr.202/2002 privind gospodărirea integrată a zonei costiere rezultat vot pentru=223, contra=2, abtineri=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră PA"
+  },
+  {
+   "day": "2008-10-06",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii Forma pentru promulgare"
+  },
+  {
+   "day": "2008-10-10",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2008-10-27",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE a LEGII pentru modificarea Ordonanţei de urgenţă a Guvernului nr.202/2002 privind gospodărirea integrată a zonei costiere CD"
+  },
+  {
+   "day": "2009-09-07",
+   "kind": "other",
+   "text": "legea a fost reexaminată de Senat Forma adoptată de Senat"
+  },
+  {
+   "day": "2009-09-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport privind cererea de reexaminare formulata de Presedintele României, la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere raport: 30.09.2009"
+  },
+  {
+   "day": "2014-02-10",
+   "kind": "other",
+   "text": "Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru mediu şi echilibru ecologic trimis pentru raport la: Comisia pentru mediu şi echilibru ecologic termen depunere raport: 30.09.2009"
+  },
+  {
+   "day": "2016-02-10",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor organice"
+  },
+  {
+   "day": "2016-02-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2016-05-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2016-06-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la: Comisia pentru mediu şi echilibru ecologic termen depunere raport: 14.06.2016"
+  },
+  {
+   "day": "2016-06-22",
+   "kind": "other",
+   "text": "primire raport suplimentar de la: Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor organice"
+  },
+  {
+   "day": "2016-06-28",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2017-02-06",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.479/DRP/03.02.2017 (negativ) Punctul de vedere al Guvernului (poz. 54)"
+  },
+  {
+   "day": "2017-09-05",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru mediu şi echilibru ecologic termen depunere raport: 25.09.2017 dezbatere în plenul Camerei Deputatilor( retrimise comisiilor ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-11-10",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.12148/08.11.2022 (negativ) Punctul de vedere al Guvernului (poz.4)"
+  },
+  {
+   "day": "2023-10-12",
+   "kind": "other",
+   "text": "primire raport suplimentar de respingere de la: Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor organice"
+  }
+ ],
+ "title": "Propunere legislativă privind completarea şi modificarea OUG 202/2002 privind gospodărirea integrată a zonei costiere cu modificările şi completările aduse de Legea 280/2003",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=8928"
+}

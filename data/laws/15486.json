@@ -1,0 +1,219 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 15486,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 38/2016",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2017-06-20",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2016-05-04",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2017-06-20",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  },
+  {
+   "adopted_on": "2017-11-27",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 83,
+    "chamber": "Camera Deputaților",
+    "contra": 15,
+    "day": "2017-10-11",
+    "nu_au_votat": 1,
+    "pentru": 181
+   },
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2017-10-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 83,
+      "contra": 15,
+      "nu_au_votat": 1,
+      "pentru": 181
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2017-11-27",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L263/07.06.2016",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L263&an_cls=2016#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2016-02-22",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura deurgență solicitată de inițiatori Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Legislativ termen: 01.03.2016 solicitare punct de vedere de la Guvern termen: 01.03.2016 solicitare aviz de la Consiliul Economic si Social termen: 04.03.2016 trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 01.03.2016"
+  },
+  {
+   "day": "2016-02-29",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2016-03-08",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2016-03-09",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.905/08.03.2016 (negativ) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2016-03-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială"
+  },
+  {
+   "day": "2016-04-13",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor organice"
+  },
+  {
+   "day": "2016-04-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video trimis pentru raport suplimentar la: Comisia pentru cultură, arte şi mijloace de informare în masă termen: 3 săptamâni"
+  },
+  {
+   "day": "2016-04-19",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.4327/15.04.2016 Parlamentul va decide asupra oportunităţii adoptării acestei propuneri legislative Punctul de vedere al Guvernului"
+  },
+  {
+   "day": "2016-05-04",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2016-05-04",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2016-05-04",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2017-06-20",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2017-06-27",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2017-07-03",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare sesizare de neconstituţionalitate (formulată de un număr de 27 de senatori aparținând Partidului Național Liberal și ai Partidului Mișcarea Populară) SESIZARE DE NECONSTITUȚIONALITATE"
+  },
+  {
+   "day": "2017-07-17",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.534/2017 ) DECIZIA CURȚII CONSTITUȚIONALE nr.534 din 12 iulie 2017 CD"
+  },
+  {
+   "day": "2017-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia juridică, de disciplină şi imunităţi termen depunere raport: 21.09.2017"
+  },
+  {
+   "day": "2017-10-03",
+   "kind": "other",
+   "text": "primire raport favorabil (3 amend. admise, 1 amend. respins) de la: Comisia pentru cultură, arte şi mijloace de informare în masă Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2017-10-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2017-10-11",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2017-10-11",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=181, contra=15, abtineri=83, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2017-10-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2017-11-27",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2017-12-04",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2017-12-09",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare CD"
+  },
+  {
+   "day": "2017-12-19",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Camerei Deputatilor CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2017-12-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 01.02.2018 termen depunere raport: 06.02.2018"
+  },
+  {
+   "day": "2018-06-25",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor organice"
+  },
+  {
+   "day": "2018-09-03",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2018-10-17",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere raport: 06.11.2018 dezbatere în plenul Camerei Deputatilor( retrimisă comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.41/1994 privind organizarea şi funcţionarea Societăţii de Radiodifuziune şi Societăţii Române de Televiziune",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=15486"
+}

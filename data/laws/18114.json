@@ -1,0 +1,143 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18114,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 484/2019",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2022-04-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 10,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2022-04-20",
+    "nu_au_votat": null,
+    "pentru": 263
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2019-10-15",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2022-04-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 10,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 263
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L351/2019",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L351&an_cls=2019#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2019/pr484_19.pdf",
+ "timeline": [
+  {
+   "day": "2019-10-15",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2019-10-21",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru sănătate şi familie termen depunere amendamente: 30.10.2019 termen depunere raport: 07.11.2019 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajar"
+  },
+  {
+   "day": "2019-10-28",
+   "kind": "other",
+   "text": "Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru muncă şi protecţie socială Notă trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială Comisia pentru sănătate şi familie trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentru învăţământ Comisia jurid"
+  },
+  {
+   "day": "2019-11-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2019-11-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2019-11-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru învăţământ"
+  },
+  {
+   "day": "2019-12-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2020-04-15",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2022-04-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 19 - 20 aprilie 2022"
+  },
+  {
+   "day": "2022-04-18",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.3672/NS/13.04.2022 (favorabil) Punctul de vedere al Guvernului (poz.1)"
+  },
+  {
+   "day": "2022-04-19",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei (38 amend. admise) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială Comisia pentru sănătate şi familie face parte din categoria legilor ordinare înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 19 - 20 aprilie 2022"
+  },
+  {
+   "day": "2022-04-20",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-04-20",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei adoptat de Camera Deputatilor rezultat vot pentru=263, contra=0, abtineri=10 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2022-04-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2022-05-02",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2022-05-16",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei adoptata de Senat (ca urmare a cererii de reexaminare) Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2022-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială Comisia pentru sănătate şi familie termen depunere amendamente: 12.09.2022 termen depunere raport: 20.09.2022"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.9/2019 pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii, precum şi pentru modificarea şi completarea unor acte normative în domeniul sănătăţii, a unor reglementări cu privire la programe guvernamentale naţionale şi cu privire la măsuri fiscal-bugetare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18114"
+}

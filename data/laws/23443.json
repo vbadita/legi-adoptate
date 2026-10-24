@@ -1,0 +1,94 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23443,
+ "law": {
+  "day": "2026-08-05",
+  "number": "164/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 523/2026",
+ "promulgation": {
+  "day": "2026-08-05",
+  "decree": "715/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-07-29",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 65,
+    "chamber": "Camera Deputaților",
+    "contra": 20,
+    "day": "2026-07-29",
+    "nu_au_votat": null,
+    "pentru": 208
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-07-27",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-07-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 65,
+      "contra": 20,
+      "nu_au_votat": null,
+      "pentru": 208
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L448/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L448&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl523_pr523_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-07-27",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-07-28",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Biroul Permanent aprobă procedura de urgenţă solicitată de iniţiatori Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale trimis pentru raport la: Comisia pentru "
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=208, contra=20, abtineri=65 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-01",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-08-05",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 715/2026 devine Legea nr. 164/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind instituirea unui mecanism de recompensare a performanţei pentru personalul autorităţilor administraţiei fiscale şi vamale care funcţionează în subordinea Ministerului Finanţelor cu atribuţii în colectarea veniturilor bugetului general consolidat, precum şi pentru modificarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23443"
+}

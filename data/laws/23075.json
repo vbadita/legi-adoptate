@@ -1,0 +1,114 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23075,
+ "law": {
+  "day": "2026-10-15",
+  "number": "199/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 175/2026",
+ "promulgation": {
+  "day": "2026-10-14",
+  "decree": "811/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-16",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 70,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-09-16",
+    "nu_au_votat": null,
+    "pentru": 197
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-09",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 70,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 197
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L538/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L538&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl175_pr175_26_(3).pdf",
+ "timeline": [
+  {
+   "day": "2026-03-09",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 23.03.2026 termen depunere raport: 01.04.2026 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din 14 şi 16 septembrie 2026"
+  },
+  {
+   "day": "2026-09-15",
+   "kind": "other",
+   "text": "primire raport favorabil (2 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru completarea art. 291 alin (2) din Legea nr. 227/2015 privind Codul fiscal rezultat vot pentru=197, contra=0, abtineri=70 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 811/2026"
+  },
+  {
+   "day": "2026-10-15",
+   "kind": "other",
+   "text": "devine Legea nr. 199/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind aplicarea cotei reduse de TVA asupra bazei de impozitare pentru livrarea alimentelor utilizate ca hrană pentru albine",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23075"
+}

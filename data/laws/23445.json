@@ -1,0 +1,94 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23445,
+ "law": {
+  "day": "2026-08-04",
+  "number": "161/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 525/2026",
+ "promulgation": {
+  "day": "2026-08-04",
+  "decree": "712/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-07-29",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-07-29",
+    "nu_au_votat": 1,
+    "pentru": 287
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-07-27",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-07-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 1,
+      "nu_au_votat": 1,
+      "pentru": 287
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L450/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L450&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl525_pr525_26_(1).pdf",
+ "timeline": [
+  {
+   "day": "2026-07-27",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-07-28",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Biroul Permanent aprobă procedura de urgenţă solicitată de iniţiatori Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere primire aviz de la: Comisia juridică, de disciplină şi imunităţi trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 28.07.2026 termen depunere raport: 29.07.2026 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică,"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=287, contra=1, abtineri=2, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-07-29",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-08-01",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-08-04",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 712/2026 devine Legea nr. 161/2026"
+  }
+ ],
+ "title": "Proiect de Lege privind unele măsuri fiscal-bugetare",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23445"
+}

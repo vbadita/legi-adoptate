@@ -1,0 +1,138 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 16672,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 133/2018",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2019-09-24",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 19,
+    "chamber": "Camera Deputaților",
+    "contra": 2,
+    "day": "2019-09-24",
+    "nu_au_votat": null,
+    "pentru": 228
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2018-03-14",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2019-09-24",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 19,
+      "contra": 2,
+      "nu_au_votat": null,
+      "pentru": 228
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L88/05.02.2018",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L88&an_cls=2018#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr133_18.pdf",
+ "timeline": [
+  {
+   "day": "2017-11-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2017-11-20",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2018-03-14",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2018-03-19",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată de inițiatori Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice termen depunere amendamente: 29.03.2018 termen depunere raport: 12.04.2018 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină ş"
+  },
+  {
+   "day": "2018-03-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2019-02-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2019-04-24",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2019-05-13",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2019-09-23",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămas pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2019-09-24",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=228, contra=2, abtineri=19 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2019-10-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2019-10-07",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2019-10-28",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2019-12-02",
+   "kind": "adopted",
+   "text": "adoptat de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2019-12-04",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice termen depunere amendamente: 11.12.2019 termen depunere raport: 17.12.2019"
+  },
+  {
+   "day": "2020-02-13",
+   "kind": "other",
+   "text": "primire raport (29 amend. admise) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2020-02-24",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Programului de susţinere a activităţii de reproducţie în sectorul de creştere a bubalinelor",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16672"
+}

@@ -1,0 +1,133 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 19181,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 112/2021",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2021-05-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 26,
+    "day": "2021-05-26",
+    "nu_au_votat": null,
+    "pentru": 279
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2021-02-22",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2021-05-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 26,
+      "nu_au_votat": null,
+      "pentru": 279
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L16/2021",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L16&an_cls=2021#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr112_21.pdf",
+ "timeline": [
+  {
+   "day": "2021-02-22",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-02-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 08.03.2021 termen depunere raport: 17.03.2021 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru drepturile omului, culte şi problemele minorităţilor"
+  },
+  {
+   "day": "2021-03-10",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2021-03-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2021-03-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2021-03-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru transporturi şi infrastructură"
+  },
+  {
+   "day": "2021-04-08",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor organice"
+  },
+  {
+   "day": "2021-04-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor din zilele de luni, 10 și miercuri, 12 mai 2021"
+  },
+  {
+   "day": "2021-05-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor din zilele de marți, 25 mai și miercuri, 26 mai 2021"
+  },
+  {
+   "day": "2021-05-26",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2021-05-26",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=279, contra=26, abtineri=0 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2021-06-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2021-06-04",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2021-06-23",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2021-10-11",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2021-10-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 28.10.2021 termen depunere raport: 09.11.2021"
+  }
+ ],
+ "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.2/2021 pentru completarea art.38 din Legea nr.55/2020 privind unele măsuri pentru prevenirea şi combaterea efectelor pandemiei de COVID-19",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19181"
+}

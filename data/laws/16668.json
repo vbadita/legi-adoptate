@@ -1,0 +1,158 @@
+{
+ "character": null,
+ "decisional_chamber": "Senat",
+ "idp": 16668,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 464/2017",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2018-02-07",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 8,
+    "chamber": "Camera Deputaților",
+    "contra": 69,
+    "day": "2017-12-21",
+    "nu_au_votat": 3,
+    "pentru": 172
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2017-12-21",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 8,
+      "contra": 69,
+      "nu_au_votat": 3,
+      "pentru": 172
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2018-02-07",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L26/05.02.2018",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L26&an_cls=2018#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2017-11-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgență solicitată Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere solicitare aviz de la Consiliul Legislativ termen: 29.11.2017 solicitare punct de vedere de la Guvern termen: 29.11.2017 solicitare aviz de la Consiliul Economic si Social termen: 07.12.2017"
+  },
+  {
+   "day": "2017-11-21",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 28.11.2017 termen depunere raport: 07.12.2017 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2017-11-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2017-11-29",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.1031/28.11.2017 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2017-12-07",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.5767/05.12.2017 (negativ) Avizul Consiliului Economic şi Social"
+  },
+  {
+   "day": "2017-12-21",
+   "kind": "other",
+   "text": "primire raport (3 amend. admise) de la: Comisia pentru învăţământ dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2017-12-21",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=172, contra=69, abtineri=8, nu au votat=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2017-12-21",
+   "kind": "other",
+   "text": "înaintat la Senat CD"
+  },
+  {
+   "day": "2017-12-29",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern (favorabil) Punctul de vedere al Guvernului SE"
+  },
+  {
+   "day": "2018-02-07",
+   "kind": "adopted",
+   "text": "adoptata de Senat titlu: Pl pentru înfiinţarea Liceului Teologic Romano-Catolic II. Rákóczi Ferenc PA"
+  },
+  {
+   "day": "2018-02-12",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2018-02-14",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2018-02-15",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de un număr de 50 deputați aparținând Grupului parlamentar al Partidului Național Liberal și 16 deputați aparținând Grupului parlamentar Mișcarea Populară) SESIZARE DE NECONSTITUȚIONALITATE"
+  },
+  {
+   "day": "2018-04-26",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.118/2018 ) DECIZIA CURȚII CONSTITUȚIONALE nr.118 din 19 martie 2018 CD"
+  },
+  {
+   "day": "2018-05-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor trimis pentru raport la: Comisia pentru învăţământ Comisia juridică, de disciplină şi imunităţi termen depunere raport: 16.05.2018"
+  },
+  {
+   "day": "2021-02-08",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru învăţământ Comisia pentru constituționalitate desesizare Comisia juridică Nota aprobată de Biroul permanent în ședința din 8.02.2021"
+  },
+  {
+   "day": "2021-05-18",
+   "kind": "other",
+   "text": "primire raport de la: Comisia pentru învăţământ Comisia pentru constituționalitate"
+  },
+  {
+   "day": "2021-06-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2021-06-15",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2021-06-15",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Camera Deputatilor rezultat vot (pentru respingere): pentru=293, contra=2, abtineri=25 consultati stenograma sedintei sau înregistrarea video SE"
+  },
+  {
+   "day": "2021-06-15",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  }
+ ],
+ "title": "Propunere legislativă pentru înfiinţarea Liceului Teologic Romano-Catolic din Târgu Mureş",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16668"
+}

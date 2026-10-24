@@ -1,0 +1,286 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 7861,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 824/2006",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2007-10-23",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2006-11-01",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2007-10-23",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  },
+  {
+   "adopted_on": "2008-03-19",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2008-03-19",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L729/12.09.2006",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L729&an_cls=2006#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/proiecte/2006/800/20/4/pr824_06.pdf",
+ "timeline": [
+  {
+   "day": "2006-11-01",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru respingerea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2006-11-06",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere"
+  },
+  {
+   "day": "2006-11-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 20.11.2006 termen depunere raport: 30.11.2006 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2006-11-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2007-10-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor în condiţiile .. c) poate include în ordinea de zi dezbaterea unui proiect de lege sau a unei propuneri legislative la care termenul de depunere a raportului a fost depăşit.]\">art.37 lit.c) şi art.86 alin.(2) din Regulamentul Camerei Deputaţilor"
+  },
+  {
+   "day": "2007-10-23",
+   "kind": "other",
+   "text": "primire raport (nr.824) favorabil aprobarii ordonantei de urgenta de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice înscris pe ordinea de zi a plenului Camerei Deputatilor dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2007-10-23",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României titlu: Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 60/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră PA"
+  },
+  {
+   "day": "2007-10-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii Forma pentru promulgare"
+  },
+  {
+   "day": "2007-11-05",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2007-11-20",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE asupra LEGII privind aprobarea Ordonanţei de urgenţă a Guvernului nr.60/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi"
+  },
+  {
+   "day": "2008-03-19",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2008-04-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport privind cererea de reexaminare formulata de Presedintele României, la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 23.04.2008"
+  },
+  {
+   "day": "2008-04-24",
+   "kind": "other",
+   "text": "primire raport (nr.2006) favorabil privind cererea de reexaminare formulata de Presedintele României, de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2008-05-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2008-05-06",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( dezbateri procedurale ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2008-05-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( amânarea dezbaterilor ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2008-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2008-09-16",
+   "kind": "other",
+   "text": "primire raport suplimentar (nr.824) favorabil privind cererea de reexaminare formulata de Presedintele României, de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2008-10-06",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor( rămasă pentru votul final ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2008-10-08",
+   "kind": "other",
+   "text": "plenul Camerei Deputatilor adopta raportul comisiei, prin care se propune adoptarea legii, cu amendamente (ca urmare a cererii de reexaminare) rezultat vot pentru=208, contra=0, abtineri=3, nu au votat=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră PA"
+  },
+  {
+   "day": "2008-10-13",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii Forma pentru promulgare"
+  },
+  {
+   "day": "2008-10-15",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2008-10-20",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate iniţiată de un număr de 55 de deputaţi"
+  },
+  {
+   "day": "2009-01-14",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: constata ca prevederi din lege sunt neconstitutionale DECIZIA Nr.54 din 14 ianuarie 2009 asupra sesizării de neconstituţionalitate a dispoziţiilor articolului unic pct. 1-23 din Legea privind aprobarea Ordonanţei de urgenţă a Guvernului nr.60/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi SE"
+  },
+  {
+   "day": "2009-03-09",
+   "kind": "adopted",
+   "text": "legea a fost adoptată de Senat Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2009-03-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere raport: 31.03.2009"
+  },
+  {
+   "day": "2021-02-08",
+   "kind": "other",
+   "text": "trimis pentru raport la: Comisia pentru constituționalitate desesizare Comisia juridică Nota aprobată de Biroul permanent în ședința din 8.02.2021"
+  },
+  {
+   "day": "2021-03-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Biroul permanent a aprobat solicitarea Comisiei pentru constituționalitate trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate"
+  },
+  {
+   "day": "2026-03-17",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-03-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 30 martie și 1 aprilie 2026"
+  },
+  {
+   "day": "2026-04-07",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 7 și 8 aprilie 2026"
+  },
+  {
+   "day": "2026-04-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședințele Camerei Deputaților din zilele de 20 și 22 aprilie 2026"
+  },
+  {
+   "day": "2026-04-27",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 29 aprilie 2026"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 18 şi 20 mai 2026"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 26 şi 27 mai 2026"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 8 si 10 iunie 2026"
+  },
+  {
+   "day": "2026-06-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 15 şi 17 iunie 2026"
+  },
+  {
+   "day": "2026-06-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţa Camerei Deputaţilor din 24 iunie 2026"
+  },
+  {
+   "day": "2026-06-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 29 şi 30 iunie 2026"
+  },
+  {
+   "day": "2026-09-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 8 şi 9 septembrie 2026"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 14 şi 16 septembrie 2026"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 21 şi 23 septembrie 2026"
+  },
+  {
+   "day": "2026-10-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 5 şi 7 octombrie 2026"
+  },
+  {
+   "day": "2026-10-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 12 si 14 octombrie 2026"
+  }
+ ],
+ "title": "Proiect de Lege privind respingerea Ordonanţei de urgenţă a Guvernului nr.60/2006 pentru modificarea şi completarea Codului de procedură penală, precum şi pentru modificarea altor legi",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=7861"
+}

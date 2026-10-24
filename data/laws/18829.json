@@ -1,0 +1,118 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 18829,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 485/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-09-08",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 93,
+    "day": "2020-08-25",
+    "nu_au_votat": 1,
+    "pentru": 182
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-08-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 93,
+      "nu_au_votat": 1,
+      "pentru": 182
+     }
+    },
+    {
+     "chamber": "Senat",
+     "day": "2020-09-08",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L562/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L562&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2020-08-20",
+   "kind": "other",
+   "text": "înregistrat la Camera Deputatilor pentru dezbatere prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului solicitare punct de vedere de la Guvern termen: 24.08.2020 solicitare aviz de la Consiliul Legislativ termen: 24.08.2020 solicitare aviz de la Consiliul Economic si Social termen: 03.09.2020 trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 24.08.2020 termen depunere raport: 25.08.2020 trimis pentru aviz la: Comisia pentru "
+  },
+  {
+   "day": "2020-08-21",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Legislativ - cu nr.848/21.08.2020 (favorabil) Avizul Consiliului Legislativ"
+  },
+  {
+   "day": "2020-08-25",
+   "kind": "other",
+   "text": "primire raport favorabil (39 amend. admise) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2020-08-25",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=182, contra=93, abtineri=2, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2020-08-25",
+   "kind": "other",
+   "text": "înaintat la Senat CD"
+  },
+  {
+   "day": "2020-09-04",
+   "kind": "other",
+   "text": "primire aviz de la Consiliul Economic si Social - cu nr.7903/27.08.2020 (negativ) Avizul Consiliului Economic şi Social SE"
+  },
+  {
+   "day": "2020-09-08",
+   "kind": "adopted",
+   "text": "adoptata de Senat PA"
+  },
+  {
+   "day": "2020-09-08",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-09-14",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-10-06",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1615A/2020)"
+  },
+  {
+   "day": "2021-01-28",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: constata ca prevederi din lege sunt neconstitutionale DCC 908/2020 D.C.C. nr.908 din 16 decembrie 2020 (Dosar nr.1615A/2020) CD"
+  },
+  {
+   "day": "2021-02-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Administrației Prezidențiale trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru constituționalitate termen depunere raport: 18.02.2021"
+  },
+  {
+   "day": "2022-03-16",
+   "kind": "other",
+   "text": "primire punct de vedere de la Guvern - cu nr.1971/14.03.2022 Parlamentul va decide asupra oportunității adoptării acestei legi. Punctul de vedere al Guvernului"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.22/2009 privind înfiinţarea Autorităţii Naţionale de Reglementare în Comunicaţii",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18829"
+}

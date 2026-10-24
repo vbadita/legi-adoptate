@@ -1,0 +1,104 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23429,
+ "law": {
+  "day": "2026-10-15",
+  "number": "202/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 545/2026",
+ "promulgation": {
+  "day": "2026-10-14",
+  "decree": "814/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-09-16",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-09-16",
+    "nu_au_votat": 1,
+    "pentru": 262
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-06-29",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 262
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L318/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L318&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl545_pr545_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-06-29",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-09-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 14.09.2026 termen depunere raport: 22.09.2026 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică,"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţele Camerei Deputaţilor din 14 şi 16 septembrie 2026"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale primire aviz de la: Comisia pentru muncă şi protecţie socială primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire raport favorabil (50 amend. admise) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru buget, finanţe şi bănci face parte din categoria legilor organice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistra"
+  },
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru înfiinţarea şi funcţionarea Conturilor de Economii şi de Investiţii, precum şi pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal rezultat vot pentru=262, contra=0, abtineri=1, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-09-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 814/2026"
+  },
+  {
+   "day": "2026-10-15",
+   "kind": "other",
+   "text": "devine Legea nr. 202/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru înfiinţarea şi funcţionarea Conturilor Individuale de Investiţii pentru Viitor",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23429"
+}

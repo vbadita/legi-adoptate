@@ -1,0 +1,98 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21264,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 631/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-10-14",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-10-14",
+    "nu_au_votat": 1,
+    "pentru": 260
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "0203-10-18",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-10-14",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 260
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L481/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L481&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl631_pr631_23_(1).pdf",
+ "timeline": [
+  {
+   "day": "0203-10-18",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.74 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-10-23",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice termen depunere amendamente: 31.10.2023 termen depunere raport: 08.11.2023 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comis"
+  },
+  {
+   "day": "2023-12-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2024-02-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2024-03-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2026-09-23",
+   "kind": "other",
+   "text": "primire raport favorabil (15 amend. admise) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-10-12",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 12 si 14 octombrie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=260, contra=0, abtineri=0, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-10-20",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege privind instituirea unei scheme de ajutor de stat pentru producătorii agricoli de căpşune",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21264"
+}

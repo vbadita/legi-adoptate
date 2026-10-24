@@ -1,0 +1,118 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21918,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 444/2024",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-03-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 40,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2025-03-26",
+    "nu_au_votat": null,
+    "pentru": 247
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-10",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-03-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 40,
+      "contra": 0,
+      "nu_au_votat": null,
+      "pentru": 247
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L297/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L297&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl444_pr444_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-09-10",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-09-16",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii termen depunere amendamente: 24.09.2024 termen depunere raport: 01.10.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele"
+  },
+  {
+   "day": "2024-09-24",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2024-10-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru mediu şi echilibru ecologic"
+  },
+  {
+   "day": "2025-02-25",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci"
+  },
+  {
+   "day": "2025-02-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-03-18",
+   "kind": "other",
+   "text": "primire raport favorabil (13 amend. admise) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-03-24",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii CLGP din 24 martie 2025 înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 24 si 26 martie 2025"
+  },
+  {
+   "day": "2025-03-26",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil (13 amend. admise, 4 amend. respinse) de la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2025-03-26",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificarea și completarea Legii energiei electrice şi a gazelor naturale nr. 123/2012 rezultat vot pentru=247, contra=0, abtineri=40 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-03-31",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-04-05",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2025-04-22",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea alin.(6) şi alin.(7) ale art.104 din Legea energiei electrice şi a gazelor naturale nr.123/2012",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21918"
+}

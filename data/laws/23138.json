@@ -1,0 +1,124 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23138,
+ "law": {
+  "day": "2026-06-08",
+  "number": "89/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 242/2026",
+ "promulgation": {
+  "day": "2026-06-08",
+  "decree": "317/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-05-13",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 20,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-05-13",
+    "nu_au_votat": 56,
+    "pentru": 213
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-13",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 20,
+      "contra": 0,
+      "nu_au_votat": 56,
+      "pentru": 213
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L121/23.02.2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L121&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl242_pr242_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-03-23",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-30",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru transporturi şi infrastructură termen depunere amendamente: 09.04.2026 termen depunere raport: 22.04.2026 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea terito"
+  },
+  {
+   "day": "2026-04-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru știință și tehnologie"
+  },
+  {
+   "day": "2026-04-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-04-23",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-04-29",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru industrii şi servicii Comisia pentru transporturi şi infrastructură face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026"
+  },
+  {
+   "day": "2026-05-13",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-13",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=213, contra=0, abtineri=20, nu au votat=56 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-06-08",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 317/2026 devine Legea nr. 89/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.4/2026 privind stabilirea cadrului instituţional, precum şi a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2023/1.804 al Parlamentului European şi al Consiliului din 13 septembrie 2023 privind instalarea infrastructurii pentru combustibili alternativi şi de abrogare a Directivei 2014/94/UE",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23138"
+}

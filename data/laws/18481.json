@@ -1,0 +1,108 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18481,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 143/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-04-23",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 8,
+    "chamber": "Camera Deputaților",
+    "contra": 103,
+    "day": "2020-04-23",
+    "nu_au_votat": 1,
+    "pentru": 208
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-04-08",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-04-23",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 8,
+      "contra": 103,
+      "nu_au_votat": 1,
+      "pentru": 208
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L186/2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L186&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr.143_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-04-08",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-04-14",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 15.04.2020 termen depunere raport: 15.04.2020 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2020-04-15",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2020-04-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare primire raport favorabil aprobarii ordonantei de urgenta (11 amend. admise, 29 amend. respinse) de la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=208, contra=103, abtineri=8, nu au votat=1 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-04-23",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-04-25",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2020-04-27",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de deputați aparținând Grupului parlamentar al Partidului Național Liberal) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.532A/2020)"
+  },
+  {
+   "day": "2020-10-13",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.600/2020 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala D.C.C. nr.600 din 15 iulie 2020 (Dosar nr.532A/2020) SE"
+  },
+  {
+   "day": "2020-10-13",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.37/2020 privind acordarea unor facilităţi pentru creditele acordate de instituţii de credit şi instituţii financiare nebancare anumitor categorii de debitori",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18481"
+}

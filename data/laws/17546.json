@@ -1,0 +1,153 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 17546,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 716/2018",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2022-06-29",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 7,
+    "chamber": "Camera Deputaților",
+    "contra": 2,
+    "day": "2022-06-29",
+    "nu_au_votat": null,
+    "pentru": 271
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2018-11-19",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2022-06-29",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 7,
+      "contra": 2,
+      "nu_au_votat": null,
+      "pentru": 271
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L443/04.09.2018",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L443&an_cls=2018#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr716_18.pdf",
+ "timeline": [
+  {
+   "day": "2018-11-19",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2018-11-21",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru învăţământ termen depunere amendamente: 28.11.2018 termen depunere raport: 05.12.2018 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplin"
+  },
+  {
+   "day": "2018-11-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2019-02-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2019-03-06",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru buget, finanţe şi bănci"
+  },
+  {
+   "day": "2021-03-31",
+   "kind": "other",
+   "text": "Biroul permanent aproba solicitarea de sesizare în fond primita de la: Comisia pentru tineret și sport trimis pentru raport la: Comisia pentru tineret și sport"
+  },
+  {
+   "day": "2021-05-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2021-10-19",
+   "kind": "other",
+   "text": "primire raport favorabil (49 amend. admise) de la: Comisia pentru tineret și sport face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2021-10-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 2 - 3 noiembrie 2021"
+  },
+  {
+   "day": "2021-11-02",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru tineret și sport termen depunere raport: 22.11.2021 dezbatere în plenul Camerei Deputatilor( retrimis comisiei ) consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-06-20",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 20 - 22 iunie 2022"
+  },
+  {
+   "day": "2022-06-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 27 - 29 iunie 2022"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil (245 amend. admise, 50 amend. respinse) de la: Comisia pentru tineret și sport face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=271, contra=2, abtineri=7 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2022-06-29",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2022-07-04",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare sesizare de neconstituţionalitate (formulată de Avocatul Poporului) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1695A/2022)"
+  },
+  {
+   "day": "2024-05-10",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.79/2024 ) constata ca prevederi din lege sunt neconstitutionale DECIZIA CURȚII CONSTITUȚIONALE nr.79 din 14 februarie 2024 SE"
+  },
+  {
+   "day": "2024-05-10",
+   "kind": "other",
+   "text": "reexaminare la Senat ca urmare a Deciziei Curtii Constitutionale"
+  },
+  {
+   "day": "2024-10-21",
+   "kind": "adopted",
+   "text": "adoptat de Senat Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-10-28",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru constituționalitate Comisia pentru tineret și sport termen depunere raport: 12.11.2024"
+  }
+ ],
+ "title": "Proiectul Legii ",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=17546"
+}

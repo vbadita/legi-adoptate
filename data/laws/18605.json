@@ -1,0 +1,138 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 18605,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 292/2020",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2020-11-10",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 3,
+    "chamber": "Camera Deputaților",
+    "contra": 23,
+    "day": "2020-11-10",
+    "nu_au_votat": null,
+    "pentru": 243
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2020-05-12",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2020-11-10",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 3,
+      "contra": 23,
+      "nu_au_votat": null,
+      "pentru": 243
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L148/24.03.2020",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L148&an_cls=2020#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr292_20.pdf",
+ "timeline": [
+  {
+   "day": "2020-02-03",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor SE"
+  },
+  {
+   "day": "2020-02-03",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2020-05-12",
+   "kind": "adopted",
+   "text": "adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2020-05-20",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 27.05.2020 termen depunere raport: 02.06.2020 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică"
+  },
+  {
+   "day": "2020-05-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2020-06-03",
+   "kind": "other",
+   "text": "primire raport favorabil (3 amend. admise, 1 amend. respins) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2020-09-28",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2020-11-02",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor din 3 noiembrie 2020 (CLGP online - 2 noiembrie 2020)"
+  },
+  {
+   "day": "2020-11-03",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-11-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor din 10 noiembrie 2020 (CLGP online - 9 noiembrie 2020)"
+  },
+  {
+   "day": "2020-11-10",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2020-11-10",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=243, contra=23, abtineri=3 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2020-11-10",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2020-11-16",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2020-12-07",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2023-06-06",
+   "kind": "rejected",
+   "text": "legea este respinsa de catre Senat (ca urmare a cererii de reexaminare) CD"
+  },
+  {
+   "day": "2023-06-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 15.06.2023 termen depunere raport: 20.06.2023"
+  }
+ ],
+ "title": "Proiect de Lege privind exonerarea clienţilor băncilor de economisire-creditare în domeniul locativ de la rambursarea unor sume reprezentând primă de stat şi accesorii",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18605"
+}

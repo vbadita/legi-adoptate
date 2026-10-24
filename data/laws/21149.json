@@ -1,0 +1,158 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 21149,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 825/2023",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-10-08",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 2,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2025-10-08",
+    "nu_au_votat": 1,
+    "pentru": 294
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-12-18",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-10-08",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 2,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 294
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L619/2023",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L619&an_cls=2023#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl825_pr.825_23_pstema.pdf",
+ "timeline": [
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2023-09-25",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2023-12-18",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-12-27",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 07.02.2024 termen depunere raport: 15.02.2024 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru politică externă Comisia pentru comunităţile de români din afara graniţelor ţării"
+  },
+  {
+   "day": "2024-02-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică externă"
+  },
+  {
+   "day": "2024-02-20",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru comunităţile de români din afara graniţelor ţării"
+  },
+  {
+   "day": "2025-05-26",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-06-10",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 10 - 11 iunie 2025"
+  },
+  {
+   "day": "2025-06-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 16 şi 18 iunie 2025"
+  },
+  {
+   "day": "2025-06-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2025-06-30",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2025-09-01",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 3 septembrie 2025"
+  },
+  {
+   "day": "2025-09-08",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 8 şi 10 septembrie 2025"
+  },
+  {
+   "day": "2025-09-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 15 si 17 septembrie 2025"
+  },
+  {
+   "day": "2025-09-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 22 şi 24 septembrie 2025"
+  },
+  {
+   "day": "2025-09-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 29 septembrie si 1 octombrie 2025"
+  },
+  {
+   "day": "2025-10-06",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedintele Camerei Deputatilor din zilele de 6 si 8 octombrie 2025 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2025-10-08",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=294, contra=0, abtineri=2, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-10-13",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-10-18",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2025-11-05",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificare art.18 alin.(4) din Legea notarilor publici şi a activităţii notariale nr.36/1995, precum şi pentru completarea Legii nr.198/2008 privind serviciile consulare pentru care se percep taxe şi nivelul taxelor consulare la misiunile diplomatice şi oficiile consulare ale României în străinătate",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21149"
+}

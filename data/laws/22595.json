@@ -1,0 +1,123 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22595,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 338/2025",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2025-11-19",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 33,
+    "chamber": "Camera Deputaților",
+    "contra": 8,
+    "day": "2025-11-19",
+    "nu_au_votat": 2,
+    "pentru": 239
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-09-29",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-11-19",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 33,
+      "contra": 8,
+      "nu_au_votat": 2,
+      "pentru": 239
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L240/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L240&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl338_pr338_25.pdf",
+ "timeline": [
+  {
+   "day": "2025-09-29",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2025-10-06",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru învăţământ Comisia pentru tineret și sport termen depunere amendamente: 16.10.2025 termen depunere raport: 28.10.2025 trimis pentru aviz la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia juridică, de disciplină şi imunităţi Comisia pentru egalitatea de şanse pentru femei şi bă"
+  },
+  {
+   "day": "2025-10-15",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-10-30",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2025-11-05",
+   "kind": "other",
+   "text": "primire raport favorabil (1 amend. admis) de la: Comisia pentru învăţământ Comisia pentru tineret și sport face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-11-10",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru învăţământ Comisia pentru tineret și sport CLGP din 10 noiembrie 2025 termen depunere raport: 28.11.2025"
+  },
+  {
+   "day": "2025-11-17",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 19 noiembrie 2025"
+  },
+  {
+   "day": "2025-11-18",
+   "kind": "other",
+   "text": "primire raport de înlocuire favorabil (1 amend. admis) de la: Comisia pentru învăţământ Comisia pentru tineret și sport face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2025-11-19",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor titlu: Lege pentru modificarea Legii educației fizice și sportului nr. 69/2000 rezultat vot pentru=239, contra=8, abtineri=33, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2025-11-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2025-11-29",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2025-12-16",
+   "kind": "ccr_referral",
+   "text": "sesizare de neconstituţionalitate (formulată de Președintele României) SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.4967A/2025)"
+  },
+  {
+   "day": "2026-10-19",
+   "kind": "ccr_decision",
+   "text": "Curtea Constitutionala decide: ( D.C.C. nr.393/2026 ) accepta obiectiunile de neconstitutionalitate; declara legea în ansamblul sau ca fiind neconstitutionala DECIZIA CURŢII CONSTITUŢIONALE nr.393 din 29.04.2026 (Dosar nr.4967A/2025)"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22595"
+}

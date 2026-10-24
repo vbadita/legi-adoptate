@@ -1,0 +1,222 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20634,
+ "law": {
+  "day": "2026-07-02",
+  "number": "110/2026"
+ },
+ "monitor": null,
+ "number": "PL-x nr. 38/2023",
+ "promulgation": {
+  "day": "2026-07-02",
+  "decree": "364/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2024-06-26",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 44,
+    "chamber": "Camera Deputaților",
+    "contra": 27,
+    "day": "2024-06-26",
+    "nu_au_votat": null,
+    "pentru": 179
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2023-02-06",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2024-06-26",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 44,
+      "contra": 27,
+      "nu_au_votat": null,
+      "pentru": 179
+     }
+    }
+   ]
+  },
+  {
+   "adopted_on": "2026-06-17",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 7,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-17",
+    "nu_au_votat": 53,
+    "pentru": 226
+   },
+   "round": 2,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-09-23",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 7,
+      "contra": 0,
+      "nu_au_votat": 53,
+      "pentru": 226
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L779/05.12.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L779&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl038_pr038_23.pdf",
+ "timeline": [
+  {
+   "day": "2023-02-06",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2023-02-08",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 15.02.2023 termen depunere raport: 22.02.2023 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia pentru"
+  },
+  {
+   "day": "2023-02-13",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat solicitarea Comisiei pt.politică ec.de a fi sesizată pt.raport Notă"
+  },
+  {
+   "day": "2023-03-01",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2023-05-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2024-02-13",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (63 amend. admise, 1 amend. respins) de la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2024-02-19",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-02-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 27 februarie 2024"
+  },
+  {
+   "day": "2024-03-04",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic CLGP din 4 martie 2024"
+  },
+  {
+   "day": "2024-06-25",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru şedinţa Camerei Deputaţilor din 25 - 26 iunie 2024"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil aprobarii ordonantei de urgenta de la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=179, contra=27, abtineri=44 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2024-06-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2024-06-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2024-07-18",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  },
+  {
+   "day": "2024-09-23",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Senat (ca urmare a cererii de reexaminare) adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-10-01",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 14.10.2024 termen depunere raport: 23.10.2024"
+  },
+  {
+   "day": "2026-06-10",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (5 amend. admise) de la: Comisia pentru industrii şi servicii Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-06-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 15 şi 17 iunie 2026"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "legea pentru aprobarea ordonantei de urgenta adoptata de Camera Deputatilor (ca urmare a cererii de reexaminare) rezultat vot pentru=226, contra=0, abtineri=7, nu au votat=53 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-06-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-02",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 364/2026 devine Legea nr.110/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.163/2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20634"
+}

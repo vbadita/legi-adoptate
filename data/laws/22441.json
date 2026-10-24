@@ -1,0 +1,111 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 22441,
+ "law": {
+  "day": "2026-02-24",
+  "number": "23/2026"
+ },
+ "monitor": {
+  "day": "2026-02-24",
+  "number": "143/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 212/2025",
+ "promulgation": {
+  "day": "2026-02-24",
+  "decree": "125/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-02-02",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2025-09-24",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-02-02",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L333/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L333&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2025-06-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru administraţie publică şi amenajarea teritoriului termen depunere amendamente: 30.06.2025 termen depunere raport: 03.09.2025 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru muncă şi protecţie socială Comisia juridică, de disciplină"
+  },
+  {
+   "day": "2025-06-30",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-09-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru muncă şi protecţie socială primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor organice"
+  },
+  {
+   "day": "2025-09-15",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor"
+  },
+  {
+   "day": "2025-09-22",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 22 şi 24 septembrie 2025"
+  },
+  {
+   "day": "2025-09-24",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2025-09-24",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2025-09-24",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-02-02",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2026-02-09",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-02-11",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-02-24",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 125/2026 devine Legea nr. 23/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.32/2025 privind stabilirea unor măsuri la nivelul administraţiei publice centrale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22441"
+}

@@ -1,0 +1,113 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22120,
+ "law": {
+  "day": "2026-07-20",
+  "number": "143/2026"
+ },
+ "monitor": {
+  "day": "2026-07-20",
+  "number": "588/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 640/2024",
+ "promulgation": {
+  "day": "2026-07-20",
+  "decree": "418/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-06-30",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 10,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-06-30",
+    "nu_au_votat": 61,
+    "pentru": 227
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2024-11-11",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-30",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 10,
+      "contra": 0,
+      "nu_au_votat": 61,
+      "pentru": 227
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L542/2024",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L542&an_cls=2024#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl640_pr640_24.pdf",
+ "timeline": [
+  {
+   "day": "2024-11-11",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2024-11-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci termen depunere amendamente: 28.11.2024 termen depunere raport: 10.12.2024 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2025-02-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+  },
+  {
+   "day": "2025-02-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-06-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din 29 şi 30 iunie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=227, contra=0, abtineri=10, nu au votat=61 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-07-02",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-07-20",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 418/2026 devine Legea nr. 143/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.124/2024 privind prorogarea unor termene şi consolidarea capacităţii administrative în domeniul impozitării proprietăţii",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22120"
+}

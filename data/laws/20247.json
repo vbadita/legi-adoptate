@@ -1,0 +1,143 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 20247,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 471/2022",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2023-06-28",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 48,
+    "chamber": "Camera Deputaților",
+    "contra": 4,
+    "day": "2023-06-28",
+    "nu_au_votat": 2,
+    "pentru": 216
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2022-09-06",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2023-06-28",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 48,
+      "contra": 4,
+      "nu_au_votat": 2,
+      "pentru": 216
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L373/28.04.2022",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L373&an_cls=2022#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr471_22.pdf",
+ "timeline": [
+  {
+   "day": "2022-09-06",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2022-09-12",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat procedura de urgență solicitată Adresa Senatului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru cultură, arte şi mijloace de informare în masă termen depunere amendamente: 22.09.2022 termen depunere raport: 03.10.2022 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie "
+  },
+  {
+   "day": "2022-09-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2022-10-26",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2022-12-05",
+   "kind": "other",
+   "text": "primire raport de respingere de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-03-21",
+   "kind": "other",
+   "text": "trimis pentru raport suplimentar la: Comisia pentru cultură, arte şi mijloace de informare în masă CLGP din 21 martie 2023 termen depunere raport: 10.04.2023"
+  },
+  {
+   "day": "2023-03-29",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedintele Camerei Deputatilor din zilele de 3 si 5 aprilie 2023"
+  },
+  {
+   "day": "2023-04-04",
+   "kind": "other",
+   "text": "primire raport suplimentar de respingere de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-04-05",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţa Camerei Deputaţilor din 11 - 12 aprilie 2023"
+  },
+  {
+   "day": "2023-04-12",
+   "kind": "other",
+   "text": "trimis pentru un nou raport la: Comisia pentru cultură, arte şi mijloace de informare în masă CLGP diin 12 aprilie 2023"
+  },
+  {
+   "day": "2023-06-19",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinta Camerei Deputatilor din 19 - 20 iunie 2023"
+  },
+  {
+   "day": "2023-06-20",
+   "kind": "other",
+   "text": "primire raport suplimentar favorabil (7 amend. admise, 2 amend. respinse) de la: Comisia pentru cultură, arte şi mijloace de informare în masă face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2023-06-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinta Camerei Deputatilor din 26 - 28 iunie 2023"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=216, contra=4, abtineri=48, nu au votat=2 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2023-06-28",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2023-07-03",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare SE"
+  },
+  {
+   "day": "2023-07-18",
+   "kind": "reexamination_requested",
+   "text": "Presedintele României solicita reexaminarea;cererea de reexaminare este înaintata Senatului CERERE DE REEXAMINARE"
+  }
+ ],
+ "title": "Propunere legislativă privind înfiinţarea Muzeului Regional ",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20247"
+}

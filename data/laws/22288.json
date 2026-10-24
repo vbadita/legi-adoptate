@@ -1,0 +1,158 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 22288,
+ "law": {
+  "day": "2026-06-16",
+  "number": "97/2026"
+ },
+ "monitor": {
+  "day": "2026-06-16",
+  "number": "496/2026",
+  "verified": null
+ },
+ "number": "PL-x nr. 96/2025",
+ "promulgation": {
+  "day": "2026-06-16",
+  "decree": "331/2026"
+ },
+ "rounds": [
+  {
+   "adopted_on": "2026-05-20",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 28,
+    "chamber": "Camera Deputaților",
+    "contra": 1,
+    "day": "2026-05-20",
+    "nu_au_votat": 60,
+    "pentru": 207
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2025-03-31",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-05-20",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 28,
+      "contra": 1,
+      "nu_au_votat": 60,
+      "pentru": 207
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L39/2025",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L39&an_cls=2025#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl096_pr_plx_96-25.pdf",
+ "timeline": [
+  {
+   "day": "2025-03-31",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Senat ca urmare a depasirii termenului de adoptare, potrivit art.115 alin.(5) din Constitutia României republicata Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2025-04-02",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială termen depunere amendamente: 14.04.2025 termen depunere raport: 28.04.2025 trimis pentru aviz la: Comisia pentru politică economică, reformă şi privatizare Comisia pentru industrii şi servicii Comisia pentru agricultură, silvicultură, industrie alimentar"
+  },
+  {
+   "day": "2025-04-07",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor nu s-a aprobat solicitarea Comisiei pentru industrii Notă"
+  },
+  {
+   "day": "2025-04-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2025-04-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2025-04-17",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru sănătate şi familie"
+  },
+  {
+   "day": "2025-04-29",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2025-05-07",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2025-05-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2025-05-21",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+  },
+  {
+   "day": "2025-06-18",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru transporturi şi infrastructură"
+  },
+  {
+   "day": "2025-11-13",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare"
+  },
+  {
+   "day": "2026-05-15",
+   "kind": "other",
+   "text": "primire raport favorabil aprobarii ordonantei de urgenta (21 amend. admise) de la: Comisia pentru buget, finanţe şi bănci Comisia pentru muncă şi protecţie socială face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 18 şi 20 mai 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-05-20",
+   "kind": "adopted",
+   "text": "proiectul de lege pentru aprobarea ordonantei de urgenta adoptat de Camera Deputatilor rezultat vot pentru=207, contra=1, abtineri=28, nu au votat=60 consultati stenograma sedintei sau înregistrarea video Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-05-28",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-06-16",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 331/2026 devine Legea nr. 97/2026"
+  }
+ ],
+ "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.5/2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22288"
+}
