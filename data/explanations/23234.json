@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La articolul 550 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ... alineatele (2) - (6) se abrogă.",
+    "text": "Se elimină alineatele (2) - (6) de la articolul 550 din Codul administrativ."
+   },
+   {
+    "citat": "Situațiile intervenite în perioada cuprinsă între data intrării în vigoare a Legii nr.165/2026... și data intrării în vigoare a prezentei legi... nu constituie incompatibilități sau conflict de interese... și nu atrag răspunderea juridică aferentă acestora.",
+    "text": "Situațiile intervenite între data intrării în vigoare a Legii nr. 165/2026 și data intrării în vigoare a prezentei legi nu constituie stări de incompatibilitate sau conflict de interese și nu atrag răspunderea juridică."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile și instituțiile publice",
+   "Persoanele vizate de Codul administrativ"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea elimină alineatele (2) - (6) ale articolului 550 din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ. De asemenea, stabilește că situațiile intervenite într-o anumită perioadă nu constituie incompatibilități sau conflicte de interese.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Abrogarea unor dispoziții din Codul administrativ"
+ },
+ "generated_at": "2026-10-25T05:35:57+00:00",
+ "idp": 23234,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "21f8edebb595bf9483679d5142fc8cd872a59a99bc107481373424c7bb15f817",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L471LP.PDF"
+ },
+ "status": "ok"
+}

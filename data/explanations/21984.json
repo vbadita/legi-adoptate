@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-24T19:53:31+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "nu se supun avizării întreținerea curentă și lucrările asupra finisajelor exterioare constând în curățarea noninvazivă a monumentelor istorice, în cazul în care aspectul a fost deteriorat ca urmare a acțiunii factorilor naturali sau ca urmare a aplicării de înscrieri sau imagini... se notifică în prealabil serviciile publice deconcentrate ale Ministerului Culturii și autoritățile administrației publice locale.",
+    "text": "Întreținerea curentă și lucrările de finisaje exterioare constând în curățarea noninvazivă a monumentelor istorice, dacă aspectul a fost deteriorat de factori naturali, înscrieri sau imagini, nu mai au nevoie de aviz, cu respectarea unor condiții și a notificării prealabile."
+   },
+   {
+    "citat": "Lucrările efectuate cu nerespectarea alin. (2^1) sunt considerate lucrări efectuate fără aviz și se sancționează potrivit prevederilor prezentei legi.",
+    "text": "Lucrările efectuate fără respectarea regulilor privind curățarea noninvazivă sunt considerate lucrări fără aviz și se sancționează conform legii."
+   },
+   {
+    "citat": "Ordinul ministrului culturii... se publică în Monitorul Oficial al României, Partea I, în 30 de zile de la intrarea în vigoare a prezentei legi.",
+    "text": "Ministrul culturii va stabili prin ordin criteriile tehnice pentru caracterul noninvaziv și procedura de notificare în termen de 30 de zile de la intrarea în vigoare a legii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Proprietarii de monumente istorice",
+   "Ministerul Culturii",
+   "Autoritățile administrației publice locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 43/2024 care aduce completări la Legea nr. 422/2001 privind protejarea monumentelor istorice, stabilind reguli pentru curățarea noninvazivă a acestora și notificarea prealabilă.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 43/2024 privind monumentele istorice"
+ },
+ "generated_at": "2026-10-25T05:35:30+00:00",
  "idp": 21984,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 3: numerele 30 nu apar în citatul punctului']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "36863e8ac5d1327118c43c813ce56d3295da829cb141d7234ff09f0cbb62eff0",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl521_pr521_24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

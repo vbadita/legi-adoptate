@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-25T05:36:18+00:00",
+ "idp": 23462,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 3: numerele 0,17 nu apar în citatul punctului']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "f84b12ea5402fae8d5e8d711b42a2c86d2603878e4a885d361f751f51727eff7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl538_pr538_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

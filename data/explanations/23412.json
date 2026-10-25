@@ -1,0 +1,49 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se anulează diferențele de obligații fiscale principale reprezentând taxa pe valoarea adăugată şi/sau obligațiile fiscale accesorii aferente, stabilite de organul fiscal prin decizie de impunere emisă şi comunicată contribuabilului în aplicarea art. 11 alin. (6) sau alin. (8)...",
+    "text": "Se anulează diferențele de obligații fiscale principale reprezentând taxa pe valoarea adăugată şi/sau obligațiile fiscale accesorii aferente, stabilite de organul fiscal prin decizie de impunere emisă şi comunicată contribuabilului..."
+   },
+   {
+    "citat": "Se anulează diferențele de taxă pe valoarea adăugată, precum şi obligațiile fiscale accesorii aferente acestora, stabilite de organul fiscal prin decizie de impunere emisă şi comunicată cooperativelor agricole constituite în baza Legii cooperației agricole nr. 566/2004...",
+    "text": "Se anulează diferențele de taxă pe valoarea adăugată, precum şi obligațiile fiscale accesorii aferente, stabilite prin decizie de impunere comunicată cooperativelor agricole pentru achiziții de utilaje."
+   },
+   {
+    "citat": "Diferențele de obligații fiscale principale şi/sau obligațiile fiscale accesorii prevăzute la alin. (1) şi (2)... stinse prin orice modalitate prevăzută la art. 22 din Legea nr. 207/2015... se restituie contribuabililor. Restituirea se face la cererea contribuabililor.",
+    "text": "Sumele achitate deja pentru aceste obligații fiscale anulate se restituie contribuabililor, dar numai la cererea acestora."
+   },
+   {
+    "citat": "Organul fiscal nu emite decizie de impunere pentru obligațiile fiscale şi accesorii de natura celor prevăzute la alin. (1) şi (2) pentru perioadele fiscale cuprinse între 1 ianuarie 2019 şi data intrării în vigoare a prezentei legi.",
+    "text": "Organul fiscal nu va mai emite decizii de impunere pentru aceste obligații fiscale și nu va mai comunica deciziile emise dar necomunicate anterior."
+   },
+   {
+    "citat": "Anularea obligațiilor fiscale prevăzute la alin. (1) - (3) se efectuează din oficiu de către organul fiscal competent, prin emiterea unei decizii de anulare a obligațiilor fiscale, care se comunică contribuabilului.",
+    "text": "Anularea datoriilor se face din oficiu de către organul fiscal prin emiterea unei decizii care se comunică contribuabilului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Contribuabilii care au avut înregistrarea în scopuri de TVA anulată",
+   "Cooperativele agricole",
+   "Organul fiscal"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea prevede anularea unor datorii fiscale reprezentând TVA și accesorii pentru anumite perioade. De asemenea, stabilește restituirea sumelor plătite deja pentru aceste datorii, la cererea contribuabililor.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Anularea unor obligații fiscale privind TVA-ul"
+ },
+ "generated_at": "2026-10-25T05:38:25+00:00",
+ "idp": 23412,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1c1b341f0e5570a0c0afddc6e719e603346009f417eb598b4756abf260e7d572",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr510_26.pdf"
+ },
+ "status": "ok"
+}

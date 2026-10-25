@@ -1,0 +1,46 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Beneficiarii prevăzuți la art. 2 lit. l) din Ordonanța de urgență a Guvernului nr. 124/2021 au obligația de a finaliza toate activitățile din cadrul proiectelor în perioada de implementare prevăzută în contractele/deciziile/ordinele de finanțare finanțate din PNRR sau până cel târziu la data de 31 august 2026, oricare dintre acestea survine mai devreme.",
+    "text": "Beneficiarii au obligația de a finaliza toate activitățile din cadrul proiectelor până cel târziu la data de 31 august 2026."
+   },
+   {
+    "citat": "Beneficiarii, alții decât cei prevăzuți la art. 9 alin. (1) și (1^1) și art. 10 alin. (4) din Ordonanța de urgență a Guvernului nr. 124/2021, au obligația depunerii la coordonatorii de reforme și/sau investiții, până la data de 30 septembrie 2026 inclusiv, a cererilor de transfer finale.",
+    "text": "Beneficiarii trebuie să transmită cererile de transfer finale cel târziu la data de 30 septembrie 2026."
+   },
+   {
+    "citat": "Beneficiarii investițiilor prevăzute la art. 24 alin. (1) lit. b) și c) au obligația de a finaliza investițiile aflate în implementare până la data de 31 decembrie 2026, cu respectarea indicatorilor asumați prin contractele/deciziile/ordinele de finanțare, din surse proprii și/sau alte surse legal constituite.",
+    "text": "Beneficiarii investițiilor nefinalizate au obligația de a le finaliza până la data de 31 decembrie 2026 din surse proprii și/sau alte surse."
+   },
+   {
+    "citat": "Beneficiarii contractelor/deciziilor/ordinelor de finanțare finanțate din PNRR au obligația menținerii destinației bunurilor achiziționate și a obiectivelor de investiții realizate pentru o perioadă de cel puțin 5 ani de la data de 31 august 2026.",
+    "text": "Beneficiarii au obligația să mențină destinația bunurilor și a obiectivelor de investiții pentru cel puțin 5 ani de la data de 31 august 2026."
+   }
+  ],
+  "cine_este_afectat": [
+   "Coordonatorul național",
+   "Coordonatorii de reforme și/sau investiții",
+   "Ministerul Finanțelor",
+   "Beneficiarii proiectelor finanțate din PNRR"
+  ],
+  "de_cand": "Prezenta lege intră în vigoare la 3 zile de la data publicării în Monitorul Oficial al României, Partea I.",
+  "pe_scurt": "Legea stabilește regulile, atribuțiile și termenele pentru închiderea operațională și financiară a Planului Național de Redresare și Reziliență (PNRR), precum și măsurile necesare pentru finalizarea implementării reformelor și investițiilor.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Închiderea operațională și financiară a PNRR"
+ },
+ "generated_at": "2026-10-25T05:36:32+00:00",
+ "idp": 23467,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "857df8fe28a36fb95ee61cc1cb8388556cd70c03cdc4a3a18dc3ee1cf97c4ee5",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl539_pr539_26.pdf"
+ },
+ "status": "ok"
+}

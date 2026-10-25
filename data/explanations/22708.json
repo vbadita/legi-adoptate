@@ -1,0 +1,50 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Nucleele de cercetare constituite în cadrul instituțiilor cu atribuții în domeniul apărării, ordinii publice și securității naționale, astfel cum sunt definite la art. 4 alin. (3) din Legea nr. 183/2024 privind statutul personalului de cercetare, dezvoltare și inovare, sunt cuprinse în sistemul național de cercetare-dezvoltare",
+    "text": "Nucleele de cercetare din cadrul instituțiilor cu atribuții în apărare, ordine publică și securitate națională sunt cuprinse în sistemul național de cercetare-dezvoltare."
+   },
+   {
+    "citat": "Funcția de director general la institutele naționale de cercetare-dezvoltare, denumite în continuare INCD, se ocupă prin concurs public, organizat conform metodologiei prevăzute la art. 22 din Ordonanța Guvernului nr. 57/2002",
+    "text": "Ocuparea funcției de director general la institutele naționale de cercetare-dezvoltare se face prin concurs public organizat de organul coordonator."
+   },
+   {
+    "citat": "membrii comisiei de concurs, ai comisiei de soluționare a contestațiilor și ai secretariatului tehnic sunt remunerați din fondurile proprii ale INCD cu o sumă reprezentând 10% din salariul de bază al directorului general al INCD",
+    "text": "Membrii comisiilor de concurs, de contestații și ai secretariatului tehnic primesc o sumă reprezentând 10% din salariul de bază al directorului general."
+   },
+   {
+    "citat": "Candidatul declarat admis încheie, în termen de maximum 15 zile lucrătoare de la emiterea ordinului de numire, un contract de management cu conducătorul organului coordonator",
+    "text": "Candidatul admis încheie un contract de management în termen de maximum 15 zile lucrătoare de la emiterea ordinului de numire."
+   },
+   {
+    "citat": "Anual, până la data de 15 iunie, directorul general are obligaţia publicării venitului net aferent anului anterior, pe pagina proprie de internet a INCD.",
+    "text": "Directorii generali au obligația de a publica anual, până la 15 iunie, venitul net aferent anului anterior pe pagina de internet a INCD."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul din cercetare, dezvoltare și inovare",
+   "Instituțiile cu atribuții în domeniul apărării, ordinii publice și securității naționale",
+   "Institutele naționale de cercetare-dezvoltare",
+   "Candidații la funcția de director general"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea integrează nucleele de cercetare din apărare, ordine publică și securitate națională în sistemul național și stabilește reguli detaliate pentru organizarea concursurilor pentru funcția de director general la institutele naționale de cercetare-dezvoltare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli pentru cercetare și conducerea institutelor de cercetare"
+ },
+ "generated_at": "2026-10-25T05:38:18+00:00",
+ "idp": 22708,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e10636a85106ef80daa1bece569c1dbc823ba3ec0ed37dd4e1987d7c9d38795d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr438_25_(reex).pdf"
+ },
+ "status": "ok"
+}

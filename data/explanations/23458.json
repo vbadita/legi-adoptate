@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "60% din valoarea solicitată prin cererea de decontare, depusă conform prevederilor alin. (5), prin derogare de la prevederile art. 52 alin. (8) din Legea nr. 500/2002 privind finanţele publice... din bugetul de stat şi din alte surse legal constituite",
+    "text": "Furnizorii pot primi un avans de 60% din valoarea solicitată prin cererea de decontare din bugetul de stat."
+   },
+   {
+    "citat": "în situaţiile în care este necesară recuperarea unor sume plătite în conformitate cu prevederile prezentului articol, iar recuperarea nu se realizează în termenul de 10 zile lucrătoare prevăzut la lit. c), pentru sumele nerecuperate se calculează şi se percep dobânzi şi penalităţi de întârziere",
+    "text": "Pentru sumele care trebuie recuperate la bugetul de stat și care nu sunt returnate în termen de 10 zile lucrătoare se calculează dobânzi și penalități de întârziere."
+   },
+   {
+    "citat": "termenul final de introducere a datelor necesare decontării sumelor de la bugetul de stat sau, după caz, regularizării sumelor decontate de la bugetul de stat este 31 decembrie 2026.",
+    "text": "Termenul final pentru introducerea datelor necesare decontării și regularizării sumelor este 31 decembrie 2026."
+   },
+   {
+    "citat": "Dacă valoarea determinată de ANRE ca urmare a procesului de regularizare este mai mică decât valoarea decontată, furnizorii au obligaţia returnării diferenţei dintre cele două valori în termen de 10 zile lucrătoare de la data comunicării valorii determinate de către ANRE.",
+    "text": "Dacă valoarea stabilită de ANRE la regularizare este mai mică decât cea decontată, furnizorii trebuie să returneze diferența în 10 zile lucrătoare."
+   },
+   {
+    "citat": "furnizorii pot depune o cerere adițională... prin care solicită plata sumei reprezentând contravaloarea unui procent de 20% din valoarea cererii de decontare, determinată prin raportare la procentul de 60% stabilit prin prezenta lege şi procentul de 40% aplicabil... cererea adițională este depusă în termen de 30 de zile de la data intrării în vigoare a prezentei legi",
+    "text": "Pentru cererile depuse înainte de lege, dacă s-au plătit deja sume de 40%, furnizorii pot depune o cerere adițională în 30 de zile pentru diferența de 20%."
+   }
+  ],
+  "cine_este_afectat": [
+   "Furnizorii de energie electrică și gaze naturale",
+   "Ministerul Energiei",
+   "Agenția Națională pentru Plăți și Inspecție Socială",
+   "Autoritatea Națională de Reglementare în Domeniul Energiei"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile de decontare pentru furnizorii de energie electrică și gaze naturale, stabilind un avans de 60% din cererile de decontare și termene clare pentru regularizare și restituiri către bugetul de stat.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind decontarea în energie"
+ },
+ "generated_at": "2026-10-25T05:36:51+00:00",
+ "idp": 23458,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0dbd1408f37ec1aa826b051f277d611281027e6e64165e25d2b090b8ab3b80c1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl535_pr535_26.pdf"
+ },
+ "status": "ok"
+}

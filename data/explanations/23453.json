@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Declarațiile de avere și de interese se completează și se transmit Agenției exclusiv prin intermediul platformei online de declarare a averii și a intereselor, denumită în continuare e-DAI, gestionată de Agenție.",
+    "text": "Declarațiile de avere și de interese se completează și se transmit Agenției exclusiv prin intermediul platformei online de declarare a averii și a intereselor, denumită în continuare e-DAI."
+   },
+   {
+    "citat": "Amenzile aplicate de inspectorii de integritate din cadrul Agenției se constituie venit la bugetul statului.",
+    "text": "Amenzile aplicate de inspectorii de integritate din cadrul Agenției se constituie venit la bugetul statului."
+   },
+   {
+    "citat": "Prin diferențe semnificative, în sensul prezentei legi, se înțelege diferența mai mare de 10.000 de euro sau echivalentul în lei al acestei sume între modificările intervenite în avere ... și veniturile realizate în aceeași perioadă.",
+    "text": "Prin diferențe semnificative se înțelege diferența mai mare de 10.000 de euro sau echivalentul în lei între modificările intervenite în avere și veniturile realizate."
+   },
+   {
+    "citat": "Nerespectarea obligației de a răspunde solicitărilor Agenției, prevăzute de prezenta lege, constituie contravenție și se sancționează cu amendă de la 3.000 lei la 30.000 lei.",
+    "text": "Nerespectarea obligației de a răspunde solicitărilor Agenției constituie contravenție și se sancționează cu amendă de la 3.000 lei la 30.000 lei."
+   }
+  ],
+  "cine_este_afectat": [
+   "Agenția Națională de Integritate",
+   "Persoanele cu funcții și demnități publice",
+   "Alesii locali",
+   "Deputații și senatorii"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări regulilor privind declarațiile de avere și de interese, activitatea ANI și regimul incompatibilităților pentru diverse funcții publice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări în domeniul integrității"
+ },
+ "generated_at": "2026-10-25T05:36:07+00:00",
+ "idp": 23453,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "d10cf0f50258fb0605dde00787cb1d5b7c41f782e6723e1e021aed56628ac423",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L464LP.PDF"
+ },
+ "status": "ok"
+}

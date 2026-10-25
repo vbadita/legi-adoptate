@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-25T05:36:54+00:00",
+ "idp": 23454,
+ "prompt_version": 5,
+ "reason": "unexpected gemini response",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "9d8a48100b3af23d0bb614ba46d1c4e813391396b08df8d273d1a1aceed807db",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L466LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

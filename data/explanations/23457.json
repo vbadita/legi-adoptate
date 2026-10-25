@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Cu cel puțin 12 luni înainte de data estimată a dezinstituționalizării, persoana adultă cu dizabilități participă la un program de pregătire pentru viață independentă, organizat de către direcțiile generale de asistență socială și protecția copilului județene...",
+    "text": "Persoanele adulte cu dizabilități participă la un program de pregătire pentru viață independentă cu cel puțin 12 luni înainte de dezinstituționalizare."
+   },
+   {
+    "citat": "Beneficiul pentru locuire reprezintă indemnizația lunară în valoare de un salariu minim brut pe țară și se acordă pentru acoperirea tipurilor de cheltuieli prevăzute la art. 4 lit. b) din prezenta lege, cu încadrarea în valoarea maximă corespunzătoare acestuia, pe baza documentelor justificative.",
+    "text": "Beneficiul pentru locuire reprezintă o indemnizație lunară în valoare de un salariu minim brut pe țară pentru cheltuielile de utilități și locuință."
+   },
+   {
+    "citat": "Beneficiul de tranziție este în valoare maximă de două salarii de bază minime brute pe țară garantate în plată și se acordă pentru acoperirea cheltuielilor prevăzute la art. 4 lit. a) din prezenta lege, cu încadrarea în valoarea maximă corespunzătoare acestuia, pe baza documentelor justificative.",
+    "text": "Beneficiul de tranziție este în valoare maximă de două salarii de bază minime brute pe țară garantate în plată."
+   },
+   {
+    "citat": "...se acordă standardul de cost aferent centrului rezidențial din care provin, pe o perioadă de 24 de luni de la data încetării măsurii de protecție în centrul rezidențial.",
+    "text": "Se acordă standardul de cost aferent centrului rezidențial pe o perioadă de 24 de luni pentru persoanele care părăsesc centrele și primesc servicii de locuire asistată."
+   },
+   {
+    "citat": "...beneficiază de standardul de cost aferent centrului rezidențial din care provin, pentru o perioadă de 6 luni de la data încetării măsurii de protecție în centrul rezidențial din care provin.",
+    "text": "Persoanele vârstnice cu dizabilități care părăsesc centrele și sunt admise într-un centru pentru vârstnice primesc standardul de cost pe o perioadă de 6 luni."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele adulte cu dizabilități",
+   "Persoanele dezinstituționalizate sau aflate în risc de instituționalizare",
+   "Direcțiile generale de asistență socială și protecția copilului",
+   "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește norme clare și proceduri pentru dezinstituționalizarea persoanelor adulte cu dizabilități, acordarea beneficiilor de locuire și tranziție, precum și sprijinul financiar aferent.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli privind dezinstituționalizarea și sprijinul pentru persoanele cu dizabilități"
+ },
+ "generated_at": "2026-10-25T05:36:47+00:00",
+ "idp": 23457,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2750bff0adb23fa9017f97176a9eab833d4f112d64e95e898a061e1fa1740fae",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr534_26_(fin).pdf"
+ },
+ "status": "ok"
+}

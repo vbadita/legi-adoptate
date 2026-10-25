@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Cuantumul ajutorului de stat acordat beneficiarilor prevăzuți la art. 3 este de 68 euro/cap bovină/bubalină.",
+    "text": "Se acordă un ajutor financiar de 68 euro pentru fiecare cap de bovină sau bubalină deținut."
+   },
+   {
+    "citat": "Valoarea totală maximă a schemei de ajutor de stat este de 54,4 milioane euro, echivalentul în lei al sumei de 277.184.320 lei... respectiv de 5,0953 lei/euro.",
+    "text": "Valoarea totală maximă a schemei este de 54,4 milioane euro, adică 277.184.320 lei, la cursul de 5,0953 lei/euro."
+   },
+   {
+    "citat": "cu respectarea pragului maxim de 50.000 euro/beneficiar",
+    "text": "Suma totală primită de un beneficiar prin acest tip de ajutor nu poate depăși pragul maxim de 50.000 euro."
+   },
+   {
+    "citat": "Perioada de depunere a cererilor de solicitare a ajutorului de stat și a documentelor justificative prevăzute la alin. (1) este de 20 de zile lucrătoare, începând cu ziua următoare intrării în vigoare a prezentei legi.",
+    "text": "Crescătorii trebuie să depună o cerere la centrele APIA în termen de 20 de zile lucrătoare de la intrarea în vigoare a legii."
+   },
+   {
+    "citat": "Sumele acordate cu titlu de ajutor de stat în condițiile prezentei legi nu sunt supuse executării silite prin poprire în cazul în care împotriva beneficiarilor acestora a fost pornită procedura de executare silită.",
+    "text": "Sumele primite ca ajutor de stat nu pot fi supuse executării silite prin poprire dacă beneficiarul are o astfel de procedură pornită împotriva sa."
+   }
+  ],
+  "cine_este_afectat": [
+   "Crescătorii de bovine și bubaline",
+   "Agenția de Plăți și Intervenție pentru Agricultură (APIA)",
+   "Ministerul Agriculturii și Dezvoltării Rurale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie o schemă de ajutor de stat pentru crescătorii de bovine și bubaline în anul 2026, pentru a acoperi parțial pierderile cauzate de creșterea prețurilor la îngrășăminte și combustibili în contextul crizei din Orientul Mijlociu.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ajutor de stat pentru crescătorii de bovine în 2026"
+ },
+ "generated_at": "2026-10-25T05:39:54+00:00",
+ "idp": 23417,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c51bdcf257a9fa29efb6b6ddac3a19ae0c6d58f912b23a2ad8d662bf5217d730",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr503_26_(rev).pdf"
+ },
+ "status": "ok"
+}

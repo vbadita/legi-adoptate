@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "scoaterea treptată din exploatare a capacităților de producție de energie electrică pe bază de lignit şi huilă se realizează numai după instalarea, racordarea şi punerea în funcțiune comercială a uneia sau mai multor capacități energetice similare de producere a energiei cu emisii reduse de carbon",
+    "text": "Scoaterea treptată din exploatare a capacităților pe bază de lignit și huilă se face doar după instalarea și punerea în funcțiune a unor noi capacități cu emisii reduse."
+   },
+   {
+    "citat": "Se interzice punerea în funcțiune de noi capacități de producere a energiei electrice pe bază de lignit, antracit, turbă sau huilă.",
+    "text": "Se interzice punerea în funcțiune de noi capacități de producere a energiei electrice pe bază de lignit, antracit, turbă sau huilă, cu anumite excepții."
+   },
+   {
+    "citat": "Se permite explorarea și exploatarea de lignit, antracit, turbă sau huilă în scop neenergetic, pentru producerea, furnizarea și comercializarea care deservesc industriei farmaceutice, medicale, alimentare, textile, de construcții, chimice și altor asemenea.",
+    "text": "Este permisă explorarea și exploatarea cărbunelui în scop neenergetic pentru diverse industrii, precum cea farmaceutică, medicală sau alimentară."
+   },
+   {
+    "citat": "Emiterea licențelor şi a permiselor pentru prospectarea şi punerea în funcțiune de noi capacități de producere a energiei electrice pe bază de lignit, antracit, turbă sau huilă, în conformitate cu unul sau mai multe dintre cazurile prevăzute la alin. (3) este condiționată de obținerea, de către solicitant, a unui aviz conform emis de Consiliul Suprem de Apărare a Țării. ... Emiterea avizului se realizează în maximum 30 de zile calendaristice de la solicitare.",
+    "text": "Punerea în funcțiune de noi capacități pe bază de cărbune în cazurile excepționale prevăzute de lege este condiționată de obținerea unui aviz conform de la CSAT, emis în maximum 30 de zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Producătorii de energie electrică și termică",
+   "Industria extractivă de lignit, antracit, turbă și huilă",
+   "Consumatorii industriali și casnici racordați la sistemul energetic"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile pentru scoaterea din exploatare a capacităților pe bază de lignit și huilă și stabilește excepții clare când se pot folosi sau construi noi capacități energetice pe bază de cărbune.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor privind decarbonizarea sectorului energetic"
+ },
+ "generated_at": "2026-10-25T05:38:08+00:00",
+ "idp": 22922,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d2d13e0c7e899c710af7fb3574e0518812ef96b835b92b29d11c4efacf2c7bd7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl004_pr004_26.pdf"
+ },
+ "status": "ok"
+}

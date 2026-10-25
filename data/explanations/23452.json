@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Tranzacțiile încheiate de către stat se aprobă prin hotărâre a Guvernului, pentru tranzacțiile care au ca obiect drepturi şi obligații asupra unor bunuri proprietate privată a statului.",
+    "text": "Tranzacțiile statului care au ca obiect drepturi și obligații asupra unor bunuri proprietate privată a statului se aprobă prin hotărâre a Guvernului."
+   },
+   {
+    "citat": "Oportunitatea şi necesitatea negocierii care îndeplineşte condițiile prevăzute la alin. (1), instituțiile publice care îndeplinesc formalitățile pentru negocierea în numele statului, precum şi mandatul acestora se aprobă, în prealabil, de către Guvern, prin memorandum...",
+    "text": "Oportunitatea, necesitatea negocierii, instituțiile care negociază în numele statului și mandatul acestora se aprobă în prealabil de Guvern prin memorandum."
+   },
+   {
+    "citat": "Tranzacțiile încheiate potrivit alin. (1) și cu respectarea alin. (2) intră în vigoare la data intrării în vigoare a hotărârilor Guvernului prin care sunt aprobate.",
+    "text": "Tranzacțiile intră în vigoare la data intrării în vigoare a hotărârilor Guvernului prin care sunt aprobate."
+   },
+   {
+    "citat": "Inițiatorul proiectului de hotărâre prevăzut la alin. (1) determină valoarea tranzacției pe baza valorii concesiilor, a renunțărilor la drepturi, a bunurilor imobile ori a drepturilor care urmează să fie transferate. Valoarea bunurilor imobile este valoarea de piață determinată de către un evaluator...",
+    "text": "Valoarea tranzacției se determină pe baza concesiilor, renunțărilor la drepturi sau a bunurilor imobile, iar valoarea imobilelor este stabilită de un evaluator sau prin dispoziții legale speciale."
+   },
+   {
+    "citat": "Curtea de Conturi a României controlează modul în care s-a realizat tranzacția, aprobată potrivit prevederilor prezentului articol, a unui bun aflat în proprietatea privată a statului, având rol de audit și control...",
+    "text": "Curtea de Conturi a României controlează modul în care s-a realizat tranzacția unui bun aflat în proprietatea privată a statului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Ministerele de resort și autoritățile tutelare",
+   "Curtea de Conturi a României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă reguli noi în Codul administrativ privind modul în care statul încheie tranzacții pentru bunurile aflate în proprietatea sa privată, stabilind pașii de aprobare, negociere și control.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Completarea Codului administrativ privind tranzacțiile statului"
+ },
+ "generated_at": "2026-10-25T05:36:38+00:00",
+ "idp": 23452,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "7b2e84e99d94db024039700419c3782dbde123c2afd33a38be0aba52d76d7607",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl529_pr529_26.pdf"
+ },
+ "status": "ok"
+}

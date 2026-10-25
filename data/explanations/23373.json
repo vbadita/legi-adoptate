@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "...degrevat parțial nu poate depăși 40% din norma didactică prevăzută de art.207 alin.(4), respectiv 30% în cazul personalului didactic de conducere din inspectoratele școlare.",
+    "text": "Degrevarea parțială nu poate depăși 40% din norma didactică sau 30% în cazul personalului din inspectoratele școlare."
+   },
+   {
+    "citat": "Personalul didactic degrevat, prevăzut la alin.(11), nu poate desfășura activități didactice de predare remunerate prin plata cu ora sau cumul.",
+    "text": "Personalul didactic degrevat nu poate desfășura activități didactice de predare remunerate prin plata cu ora sau cumul."
+   },
+   {
+    "citat": "...se poate aproba efectuarea de activități în regim de plată cu ora, în unități de învățământ preuniversitar din zone izolate geografic și lingvistic, cu aprobarea consiliului de administrație al inspectoratului școlar județean.",
+    "text": "Se poate aproba plata cu ora în unități din zone izolate geografic și lingvistic, cu aprobarea consiliului de administrație al inspectoratului școlar județean."
+   },
+   {
+    "citat": "Termenul de intrare în vigoare prevăzut la art. 248 alin.(23) din Legea învățământului preuniversitar nr. 198/2023... se prorogă până la data de 1 septembrie 2027.",
+    "text": "Termenul de intrare în vigoare prevăzut la art. 248 alin. (23) din Legea învățământului preuniversitar nr. 198/2023 se prorogă până la data de 1 septembrie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul didactic de conducere, de îndrumare și control",
+   "Inspectoratele școlare",
+   "Unitățile de învățământ preuniversitar"
+  ],
+  "de_cand": "la 3 zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea modifică regulile privind degrevarea normei didactice pentru personalul de conducere și îndrumare din învățământ, amână un termen din Legea învățământului preuniversitar până la 1 septembrie 2027 și abrogă un articol dintr-o lege fiscal-bugetară.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind norma didactică și termene în educație"
+ },
+ "generated_at": "2026-10-25T05:36:02+00:00",
+ "idp": 23373,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "3d1e68f417fac3b697a017b7d62a07d7d3853b5f6a8c5c24704ee3d62d68301a",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L469LP.PDF"
+ },
+ "status": "ok"
+}

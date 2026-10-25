@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-10-24T19:54:50+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "...la cererea pârâtului, instanța poate să îl oblige pe reclamant la depunerea, până la termenul pe care îl fixează, a unei cauțiuni care să acopere cheltuielile de judecată estimate și să asigure plata de despăgubiri...",
+    "text": "Pârâtul poate cere depunerea unei cauțiuni de către reclamant pentru a acoperi cheltuielile de judecată și despăgubirile."
+   },
+   {
+    "citat": "Pârâtul poate, până la soluționarea cauzei în primă instanță, să ceară respingerea rapidă a cererii de chemare în judecată ca vădit neîntemeiată.",
+    "text": "Pârâtul poate cere respingerea rapidă a cererii de chemare în judecată ca vădit neîntemeiată, până la soluționarea cauzei în primă instanță."
+   },
+   {
+    "citat": "Reclamantul care a inițiat o procedură judiciară abuzivă împotriva mobilizării publice poate fi obligat, în condițiile legii, la plata unei amenzi judiciare de la 10.000 lei la 100.000 lei.",
+    "text": "Reclamantul care a inițiat o procedură judiciară abuzivă poate fi obligat la plata unei amenzi judiciare de la 10.000 lei la 100.000 lei."
+   },
+   {
+    "citat": "asociațiile, sindicatele, alte organizații sau entități... pot sprijini apărările pârâtului, cu acordul acestuia, sau pot depune înscrisuri la dosarul cauzei.",
+    "text": "Asociațiile, sindicatele sau alte organizații pot sprijini apărările pârâtului cu acordul acestuia sau pot depune înscrisuri."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoane fizice și juridice implicate în acțiuni de mobilizare publică",
+   "Reclamanți în acțiuni civile considerate abuzive sau vădit neîntemeiate",
+   "Instanțele de judecată",
+   "Instituția Avocatul Poporului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea oferă garanții și mijloace de apărare pentru persoanele implicate în acțiuni de mobilizare publică care se confruntă cu cereri judiciare abuzive sau vădit neîntemeiate.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Protecția împotriva proceselor abuzive pentru mobilizare publică"
+ },
+ "generated_at": "2026-10-25T05:35:48+00:00",
  "idp": 22968,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "unexpected gemini response",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "b182d63751bdcf9595d79800728775612c7982b105b89cd6fa76a47817da9772",
   "url": "https://www.senat.ro/legis/PDF/2026/26L276LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

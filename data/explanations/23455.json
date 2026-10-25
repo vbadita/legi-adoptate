@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Strategia națională și Planul național de acțiune au caracter programatic și nu pot constitui temei direct pentru instituirea de obligații, interdicții sau restrângeri ale exercițiului unor drepturi fără adoptarea unor măsuri legislative distincte.",
+    "text": "Strategia și Planul național de acțiune au caracter programatic și nu pot constitui temei direct pentru instituirea de obligații sau restricții fără măsuri legislative distincte."
+   },
+   {
+    "citat": "Măsurile prevăzute în Planul național de acțiune care afectează activități economice sau dreptul de proprietate se aplică numai după realizarea unei analize de impact economic și social și organizarea consultării publice.",
+    "text": "Măsurile din Planul național de acțiune care afectează activități economice sau dreptul de proprietate se aplică doar după o analiză de impact și consultare publică."
+   },
+   {
+    "citat": "Autoritățile publice competente au obligația solicitării unui aviz consultativ, prin hotărâre de consiliu comunal/orășenesc/ municipal/județean, după caz, cu caracter normativ, anterior adoptării măsurilor prevăzute în Planul național de acțiune care produc efecte asupra comunităților locale/județene. Consiliul are obligația de a se pronunța prin hotărâre în maximum 60 de zile de la data solicitării transmise de autoritatea publică competentă.",
+    "text": "Autoritățile publice locale trebuie să emită un aviz consultativ pentru măsurile din Planul național de acțiune care afectează comunitățile locale, în maximum 60 de zile."
+   },
+   {
+    "citat": "Ministerul Mediului, Apelor și Pădurilor prezintă anual Parlamentului un raport privind implementarea Strategiei naționale, gradul de realizare a indicatorilor, sursele de finanțare utilizate și impactul economic și social al măsurilor adoptate.",
+    "text": "Ministerul Mediului prezintă anual Parlamentului un raport despre implementarea strategiei, indicatori, finanțare și impact."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Mediului, Apelor și Pădurilor",
+   "Autoritățile publice centrale și locale",
+   "Proprietarii de terenuri și administratorii de păduri",
+   "Operatorii economici din agricultură, silvicultură, transport, energie și turism"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Strategia națională și Planul național de acțiune pentru conservarea biodiversității 2026-2030. Aceasta stabilește obiective și măsuri pentru protejarea naturii, administrarea ariilor protejate și utilizarea durabilă a resurselor, cerând totodată analize de impact și consultări publice pentru măsurile care afectează activitățile economice sau dreptul de proprietate.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Strategia și Planul de acțiune pentru conservarea biodiversității 2026-2030"
+ },
+ "generated_at": "2026-10-25T05:38:02+00:00",
+ "idp": 23455,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "371a07c92efb4f5c800cb7650d67ba26e9183ce60e24a1cbbd16dc58a955c550",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr532_26_(complet).pdf"
+ },
+ "status": "ok"
+}
