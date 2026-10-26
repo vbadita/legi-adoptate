@@ -1,0 +1,50 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Scutirea directă de taxă pe valoarea adăugată se realizează prin facturare fără taxa pe valoarea adăugată de către furnizorii de bunuri și/sau prestatorii de servicii, în favoarea persoanelor scutite stabilite în România... pe bază de certificat de scutire.",
+    "text": "Scutirea directă de TVA se face prin facturare fără TVA de către furnizori pe bază de certificat de scutire, stabilindu-se reguli clare pentru situațiile în care certificatul este obținut ulterior livrării, în timpul unei inspecții fiscale sau după aceasta."
+   },
+   {
+    "citat": "pentru transmisiunea dreptului de proprietate şi a dezmembrămintelor acestuia cu titlul de moștenire, nu se datorează impozit pentru succesiunile dezbătute și finalizate până la data de 30 septembrie 2026 inclusiv, pentru care termenul de doi ani de la data decesului autorului succesiunii se împlinește în perioada 14 iulie – 30 septembrie 2026.",
+    "text": "Pentru transmisiunea dreptului de proprietate prin moștenire, nu se datorează impozit pentru succesiunile dezbătute și finalizate până la data de 30 septembrie 2026 inclusiv, pentru care termenul de doi ani de la deces se împlinește în perioada 14 iulie – 30 septembrie 2026."
+   },
+   {
+    "citat": "La închiderea procedurii de prevenire a insolvenței, creanțele care au fost reduse prin acordul de restructurare confirmat de instanța de judecată sau prin planul de restructurare omologat, după caz, se anulează sub rezerva ca debitorul să se conformeze acordului de restructurare sau planului de restructurare, după caz.",
+    "text": "La închiderea procedurii de prevenire a insolvenței, creanțele reduse prin acordul de restructurare confirmat sau prin planul omologat se anulează, dacă debitorul respectă documentul respectiv."
+   },
+   {
+    "citat": "finanțări temporare acordate întreprinderilor publice... destinate exclusiv asigurării continuității activității, în cazul indisponibilizării totale sau parțiale a resurselor bănești proprii ca urmare a unor măsuri de executare silită... pentru obligații ale statului ce decurg din hotărâri pronunțate în litigii internaționale...",
+    "text": "Exim Banca Românească poate acorda finanțări temporare fără dobândă întreprinderilor publice centrale afectate de indisponibilizarea resurselor bănești din cauza unor executări silite pentru obligații ale statului din litigii internaționale."
+   },
+   {
+    "citat": "Începând cu data de 31 august 2026, pe domeniul SETRE România se introduce sistemul de tarifare rutieră electronică în România, denumit STRR... Începând cu data de 31 august 2026 se introduce TollRo... pentru toate vehiculele înmatriculate... concepute și construite pentru transportul de marfă cu masă totală maximă autorizată (MTMA) mai mare de 3,5 tone",
+    "text": "Începând cu data de 31 august 2026, pe domeniul SETRE România se introduce sistemul de tarifare rutieră electronică STRR și taxa TollRo pentru vehiculele de transport marfă cu masa totală maximă autorizată mai mare de 3,5 tone."
+   }
+  ],
+  "cine_este_afectat": [
+   "Furnizorii și prestatorii care aplică scutiri de TVA",
+   "Moștenitorii ale căror succesiuni se finalizează în perioada 14 iulie – 30 septembrie 2026",
+   "Debitorii aflați în proceduri de prevenire a insolvenței",
+   "Întreprinderile publice și ROMATSA"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește reguli noi privind TVA-ul, scutirea de impozit pentru anumite succesiuni, reguli pentru contribuabilii aflați în proceduri de prevenire a insolvenței, precum și sprijin financiar pentru unele întreprinderi publice și pentru ROMATSA.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri fiscal-bugetare și modificarea unor acte normative"
+ },
+ "generated_at": "2026-10-26T05:38:03+00:00",
+ "idp": 23450,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "92331581bb73493eb5f5565d6728e3913bceedb17ca5244f825acac01c4a6d7a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr527_26.pdf"
+ },
+ "status": "ok"
+}

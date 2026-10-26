@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "operatorii economici care gestionează instalații cu o putere termică instalată totală mai mare sau egală cu 7,5 MW, în cazul combustibililor din biomasă solidă, sau cu o putere termică instalată totală mai mare sau egală cu 2 MW, în cazul combustibililor gazoși din biomasă, au obligația ca biomasa forestieră utilizată să fie exclusiv biomasă forestieră certificabilă.",
+    "text": "Operatorii economici care gestionează instalații mari au obligația să folosească exclusiv biomasă forestieră certificabilă."
+   },
+   {
+    "citat": "(2) Contravențiile prevăzute la alin. (1) se sancționează astfel: a) cele prevăzute la alin. (1) lit. a), cu amendă de la 12.500 lei la 25.000 lei; b) cele prevăzute la alin. (1) lit. b), cu amendă de la 7.500 lei la 15.000 lei; c) cele prevăzute la alin. (1) lit. c), cu amendă de la 25.000 lei la 40.000 lei; d) cele prevăzute la alin. (1) lit. d), cu amendă de la 20.000 lei la 40.000 lei.",
+    "text": "Se stabilesc amenzi contravenționale cu valori cuprinse între 7.500 lei și 40.000 lei pentru nerespectarea regulilor privind biomasa și a obligațiilor de raportare."
+   },
+   {
+    "citat": "În imobilele de tip condominiu racordate la sistemul de alimentare centralizată cu energie termică este obligatorie montarea contoarelor până la data de 31 decembrie 2030 pentru individualizarea consumurilor de energie pentru încălzire/răcire și apă caldă la nivelul fiecărui apartament sau spațiu cu altă destinație. În cazul în care utilizarea de contoare individuale nu este fezabilă din punct de vedere tehnic sau nu este eficientă din punct de vedere al costurilor este obligatorie montarea repartitoarelor individuale de costuri.",
+    "text": "În imobilele de tip condominiu racordate la sistemul centralizat este obligatorie montarea contoarelor sau a repartitoarelor de costuri până la data de 31 decembrie 2030."
+   },
+   {
+    "citat": "autoritățile administrației publice locale ale unităților administrativ-teritoriale cu cel puțin 20.000 de locuitori au următoarele atribuții: a) începând cu data de 1 ianuarie 2027, elaborează și actualizează, o dată la 4 ani, planul local de încălzire și răcire",
+    "text": "Autoritățile administrației publice locale ale unităților cu cel puțin 20.000 de locuitori elaborează și actualizează planuri locale de încălzire și răcire, o dată la 4 ani."
+   }
+  ],
+  "cine_este_afectat": [
+   "operatorii economici care utilizează biomasă",
+   "autoritățile administrației publice locale și centrale",
+   "locuitorii din imobile de tip condominiu racordate la sistemul centralizat"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește măsuri pentru utilizarea surselor regenerabile de energie în sectorul de încălzire și răcire, stabilind reguli pentru biomasa forestieră și introducerea de programe de sprijin pentru înlocuirea sistemelor vechi de încălzire.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Decarbonizarea sectorului de încălzire și răcire"
+ },
+ "generated_at": "2026-10-26T05:37:51+00:00",
+ "idp": 23442,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "e20a5e28f7a1a00e1f7327913670b66a20e01bb769e129cd357efd181b2aa566",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L462LP.PDF"
+ },
+ "status": "ok"
+}

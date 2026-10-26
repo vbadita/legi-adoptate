@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-26T05:37:35+00:00",
+ "idp": 23422,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "64a4f55777bfd5094e7a6364c6b214b27389ae2cf6067edcd4815783d9ff5710",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr501_26_(rev).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

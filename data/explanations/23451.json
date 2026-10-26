@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În anul 2026, începând cu data intrării în vigoare a prevederilor prezentei legi, se autorizează Administrația Națională a Rezervelor de Stat şi Probleme Speciale să introducă în bugetul propriu creditele de angajament aferente achizițiilor...",
+    "text": "În anul 2026, începând cu data intrării în vigoare a prezentei legi, se autorizează Administrația Națională a Rezervelor de Stat şi Probleme Speciale să introducă în bugetul propriu creditele de angajament aferente achizițiilor."
+   },
+   {
+    "citat": "Nivelul creditelor de angajament se aprobă de către Guvern, prin hotărâre inițiată de Secretariatul General al Guvernului, la propunerea Administrației Naționale a Rezervelor de Stat şi Probleme Speciale.",
+    "text": "Nivelul creditelor de angajament se aprobă de către Guvern, prin hotărâre inițiată de Secretariatul General al Guvernului."
+   },
+   {
+    "citat": "...să le comunice Ministerului Finanțelor în termen de 10 zile de la efectuarea acestora, în limita stabilită potrivit hotărârii prevăzute la alin. (1).",
+    "text": "Ordonatorul principal de credite comunică modificările Ministerului Finanțelor în termen de 10 zile."
+   },
+   {
+    "citat": "Sumele de bani necesare acoperirii vărsămintelor în numerar pentru majorarea capitalului social al Băncii de Investiții şi Dezvoltare S.A., în condițiile art. 67 din Legea bugetului de stat pe anul 2026 nr. 43/2026, se plătesc până la data de 30 septembrie 2026.",
+    "text": "Sumele de bani pentru majorarea capitalului social al Băncii de Investiții şi Dezvoltare S.A. se plătesc până la data de 30 septembrie 2026."
+   }
+  ],
+  "cine_este_afectat": [
+   "Administrația Națională a Rezervelor de Stat şi Probleme Speciale",
+   "Guvernul României",
+   "Ministerul Finanțelor",
+   "Banca de Investiții şi Dezvoltare S.A."
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea autorizează introducerea unor credite de angajament pentru Administrația Națională a Rezervelor de Stat și stabilește termenul de plată pentru majorarea capitalului social la Banca de Investiții și Dezvoltare S.A.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Măsuri bugetare pentru rezervele de stat și Banca de Investiții"
+ },
+ "generated_at": "2026-10-26T05:38:18+00:00",
+ "idp": 23451,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ae939df1411d575630bb42e9c8ed1912932cb27037a0ecf151f1e469bf4687f3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr528_26.pdf"
+ },
+ "status": "ok"
+}

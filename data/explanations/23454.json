@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-10-25T05:36:54+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se ratifică Acordul de împrumut (...) în valoare de 544 milioane de euro, denumit în continuare Acord de împrumut.",
+    "text": "Se ratifică Acordul de împrumut în valoare de 544 milioane de euro semnat la Washington la 16 aprilie 2026."
+   },
+   {
+    "citat": "Sumele trase din împrumutul prevăzut la art.1 şi virate în contul de valută deschis pe numele Ministerului Finanţelor la Banca Naţională a României se utilizează pe măsură necesităţilor de finanţare a deficitului bugetului de stat şi de refinanţare a datoriei publice guvernamentale",
+    "text": "Sumele trase din împrumut se folosesc pentru finanțarea deficitului bugetului de stat și refinanțarea datoriei publice."
+   },
+   {
+    "citat": "Plata serviciului datoriei publice aferent împrumutului prevăzut la art. 1, respectiv rambursarea capitalului, achitarea dobânzilor, comisioanelor şi a altor costuri (...) se asigură conform legislaţiei în vigoare privind datoria publică",
+    "text": "Plata serviciului datoriei publice se asigură prin mecanismul aferent finanțărilor rambursabile contractate de Guvern."
+   },
+   {
+    "citat": "Se autorizează Guvernul României ca, prin Ministerul Finanţelor, să convină cu Banca Internaţională pentru Reconstrucţie şi Dezvoltare, amendamente la conţinutul Acordului de împrumut care nu sunt de natură să majoreze obligaţiile financiare asumate de România",
+    "text": "Guvernul poate conveni amendamente la acord care nu majorează obligațiile financiare ale României, aprobate prin hotărâre."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Ministerul Finanțelor",
+   "Banca Națională a României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă un acord de împrumut de 544 milioane de euro încheiat între România și Banca Internațională pentru Reconstrucție și Dezvoltare.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Ratificarea împrumutului de la BIRD pentru politici fiscale"
+ },
+ "generated_at": "2026-10-26T05:37:23+00:00",
  "idp": 23454,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "unexpected gemini response",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "9d8a48100b3af23d0bb614ba46d1c4e813391396b08df8d273d1a1aceed807db",
   "url": "https://www.senat.ro/legis/PDF/2026/26L466LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
