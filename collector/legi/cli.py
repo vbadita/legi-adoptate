@@ -21,7 +21,7 @@ from zoneinfo import ZoneInfo
 
 from . import cdep, explain, monitor, sources, store
 from .http import Blocked, FetchError, PoliteClient
-from .text import is_scanned, page_images, pdf_to_text
+from .text import is_scanned, page_count, page_images, pdf_to_text
 
 LIST_URL = cdep.BASE + "/ords/pls/proiecte/upl_pck2015.lista?cam=2&{query}"
 ACTS_URL = cdep.BASE + "/ords/pls/dic/legis_acte_parlam2015?cam=0&tip=1&an={year}"
@@ -45,10 +45,11 @@ def today() -> date:
     return datetime.now(TZ).date()
 
 
-RECHECK_HOURS = 6  # an unfinished law is fetched at most every 6 hours
+RECHECK_HOURS = 6  # an unfinished law is fetched at most every 6 hours (each daily run)
 # A bill not adopted yet changes slowly; when the Chamber adopts it, it shows
-# up on a vote page (fetched at once), so a slow re-check of the rest is enough.
-PENDING_RECHECK_HOURS = 48
+# up on a vote page (fetched at once), so a slow re-check of the rest is enough:
+# every second daily run (40, not 48: the timer's jitter would skip a day more).
+PENDING_RECHECK_HOURS = 40
 MONITOR_RESERVE = 8  # requests kept for column 3 (Monitorul Oficial) each run
 
 
@@ -253,6 +254,10 @@ def cmd_mo_check(args: argparse.Namespace) -> int:
 
 
 MAX_TRIES = 3  # runs per law and prompt version before giving up on it
+# Most laws have ~4 pages. A code of 490 pages took >8 min of CPU to extract
+# here and ~400k tokens: over the free tier's per-minute limit (a 429) and it
+# stalled every run from 26 to 28 Oct 2026. Such laws get no AI explanation.
+MAX_PAGES = 100
 
 
 def needs_explanation(rec: dict, existing: dict | None) -> bool:
@@ -297,7 +302,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
         if needs_explanation(rec, store.load_explanation(data, rec["idp"]))
     ]
     todo.sort(key=lambda r: r["rounds"][-1]["adopted_on"], reverse=True)
-    stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0}
+    stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0, "too_long": 0}
     calls = usage.setdefault("gemini_calls", {})
 
     def record_usage(in_flight: int = 0) -> None:
@@ -341,17 +346,27 @@ def cmd_explain(args: argparse.Namespace) -> int:
             stats["no_source"] += 1
             continue
         label, url, pdf = source
-        scanned = is_scanned(pdf)
-        text = None if scanned else pdf_to_text(pdf)
-        if text is not None and len(text) < 200:  # no usable text layer: read it as images
-            text, scanned = None, True
         result_base = {
             "idp": rec["idp"],
             "round": rec["rounds"][-1]["round"],
             "source": {"label": label, "url": url, "sha256": hashlib.sha256(pdf).hexdigest()},
-            "scanned": scanned,
             "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
+            "prompt_version": explain.PROMPT_VERSION,
         }
+        pages = page_count(pdf)
+        if pages > MAX_PAGES:  # not retried: only a new text or prompt brings it back
+            store.save_json(
+                store.explanation_path(data, rec["idp"]),
+                {**result_base, "status": "too_long", "pages": pages},
+            )
+            stats["too_long"] += 1
+            log("too_long", idp=rec["idp"], pages=pages)
+            continue
+        scanned = is_scanned(pdf)
+        text = None if scanned else pdf_to_text(pdf)
+        if text is not None and len(text) < 200:  # no usable text layer: read it as images
+            text, scanned = None, True
+        result_base["scanned"] = scanned
         log("asking_gemini", idp=rec["idp"], chars=len(text or ""), scanned=scanned)
         record_usage(in_flight=1)
         try:

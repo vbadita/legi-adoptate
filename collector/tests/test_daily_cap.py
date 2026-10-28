@@ -107,3 +107,22 @@ def test_usage_is_saved_before_the_run_is_killed(data, monkeypatch):
         run(d, daily_limit=20)
     # the call cut off mid-flight may have reached Gemini: it counts too
     assert len(calls) == 1 and usage(d) == {"2026-10-24": 2}
+
+
+def test_a_giant_law_is_marked_too_long_not_sent_to_gemini(data, monkeypatch, tmp_path):
+    """A 490-page code stalled every run (CPU) and would exceed the free token limit."""
+    d, calls = data
+    monkeypatch.setattr(cli, "page_count", lambda pdf: 490)
+    monkeypatch.setattr(cli, "pdf_to_text", lambda pdf: pytest.fail("must not parse"))
+    assert run(d, daily_limit=20) == cli.EXIT_OK
+    assert calls == []
+    saved = json.loads(next((d / "explanations").glob("*.json")).read_text())
+    assert saved["status"] == "too_long" and saved["pages"] == 490
+    assert run(d, daily_limit=20) == cli.EXIT_OK and calls == []  # not retried
+    assert "2026-10-24" not in usage(d) or usage(d)["2026-10-24"] == 0
+
+    from legi import site
+
+    site.build(d, tmp_path / "site", today=date(2026, 10, 24))
+    page = (tmp_path / "site" / "lege" / f"{saved['idp']}.html").read_text()
+    assert "Legea are 490 de pagini" in page

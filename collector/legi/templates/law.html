@@ -32,6 +32,8 @@
     {% else %}Textul sursă este scanat: verificarea automată a citatelor nu a fost posibilă.{% endif %}
     Poate conține greșeli; textul oficial este cel publicat în Monitorul Oficial.</p>
 </section>
+{% elif v.too_long %}
+<p class="note">Legea are {{ v.too_long }} de pagini: este prea lungă pentru o explicație automată. Textul complet este în sursele de mai jos.</p>
 {% else %}
 <p class="note">Explicația pe înțelesul tuturor nu este încă disponibilă pentru această lege.</p>
 {% endif %}

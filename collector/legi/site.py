@@ -55,6 +55,9 @@ def _law_view(rec: dict, explanation: dict | None) -> dict:
         "cols": status.columns(rec),
         "ex": ok["explanation"] if ok else None,
         "meta": ok,
+        "too_long": explanation["pages"]
+        if explanation and explanation.get("status") == "too_long"
+        else None,
         "url": f"{BASE}/lege/{rec['idp']}.html",
     }
 

@@ -88,8 +88,8 @@ runner, while senat.ro and monitoruloficial.ro answer). So the collection runs o
 GitHub tests, builds and publishes:
 
 ```
-VM: legi-collect.timer (07:30 daily, 13:30/16:30/19:30 weekdays, Bucharest)
-  update (cdep.ro, <=60 requests) -> mo-check (1/day) -> explain (<=20 Gemini calls/day)
+VM: legi-collect.timer (once a day, 20:30 Bucharest)
+  update (cdep.ro, <=150 requests) -> mo-check (1/day) -> explain (<=20 Gemini calls/day)
   -> commit data/ -> push (deploy key: this repository only)
         |
 GitHub Actions (.github/workflows/site.yml, on that push; no secrets)

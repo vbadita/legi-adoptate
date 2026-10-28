@@ -1,9 +1,10 @@
 [Unit]
-Description=Collect laws: daily 07:30, and weekdays after the plenary sittings (Bucharest time)
+Description=Collect laws once a day, in the evening after the plenary sittings (Bucharest time)
 
 [Timer]
-OnCalendar=*-*-* 07:30 Europe/Bucharest
-OnCalendar=Mon..Fri *-*-* 13,16,19:30 Europe/Bucharest
+# One run a day: the day's votes are in, so "adopted today" is complete the
+# same evening. Persistent: a run missed while the VM was down happens at boot.
+OnCalendar=*-*-* 20:30 Europe/Bucharest
 Persistent=true
 RandomizedDelaySec=2min
 

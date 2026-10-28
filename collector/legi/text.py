@@ -108,6 +108,17 @@ def pdf_to_text(data: bytes) -> str:
     return text.strip()
 
 
+def page_count(data: bytes) -> int:
+    """Fast (no text parsing): decides whether a law is too long to explain."""
+    import pypdfium2  # installed with pdfplumber
+
+    doc = pypdfium2.PdfDocument(data)
+    try:
+        return len(doc)
+    finally:
+        doc.close()
+
+
 def is_scanned(data: bytes) -> bool:
     """A scan carries only a (bad) OCR text layer: the producer is a scanner."""
     with pdfplumber.open(io.BytesIO(data)) as pdf:
