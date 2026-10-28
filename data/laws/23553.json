@@ -65,7 +65,7 @@
   {
    "day": "2026-10-13",
    "kind": "other",
-   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire aviz de la: Comisia pentru politică economică, reformă şi privatizare primire aviz de la: Comisia pentru industrii şi servicii primire raport favorabil de la: Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
+   "text": "primire aviz de la: Comisia pentru politică economică, reformă şi privatizare primire aviz de la: Comisia pentru industrii şi servicii primire aviz de la: Comisia juridică, de disciplină şi imunităţi primire raport favorabil de la: Comisia pentru buget, finanţe şi bănci Comisia pentru administraţie publică şi amenajarea teritoriului face parte din categoria legilor ordinare"
   },
   {
    "day": "2026-10-14",
@@ -86,6 +86,11 @@
    "day": "2026-10-20",
    "kind": "deposited",
    "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-10-26",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
   }
  ],
  "title": "Proiect de Lege pentru prorogarea termenului prevăzut la art.7 alin.(1<sup>1</sup>) din Ordonanţa de urgenţă a Guvernului nr.95/2021 pentru aprobarea Programului naţional de investiţii ,,Anghel Saligny",

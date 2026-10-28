@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Furnizorii de servicii care oferă servicii în Uniunea Europeană au obligaţia de a desemna cel puţin un destinatar responsabil pentru primirea, respectarea şi executarea deciziilor şi ordinelor ... în scopul obţinerii de probe electronice în cadrul procedurilor penale",
+    "text": "Anumiți furnizori de servicii care oferă servicii în Uniunea Europeană trebuie să desemneze un sediu sau să numească un reprezentant legal pentru primirea și executarea deciziilor și ordinelor privind probele electronice."
+   },
+   {
+    "citat": "Autoritatea Națională pentru Administrare și Reglementare în Comunicații, denumită în continuare ANCOM, este desemnată ca Autoritate Centrală în înțelesul prezentei legi.",
+    "text": "ANCOM este desemnată ca Autoritate Centrală și cooperează cu autoritățile din alte state membre și cu Comisia Europeană."
+   },
+   {
+    "citat": "Furnizorii de servicii ... au obligaţia de a notifica în mod corect şi complet Autorităţii Centrale a statului membru al Uniunii Europene unde au ales să desemneze un destinatar responsabil ... datele de contact ale sediului său desemnat sau ale reprezentantului legal",
+    "text": "Furnizorii vizați trebuie să transmită notificări cu datele de contact și informații despre sedii sau reprezentanți prin platforma Comisiei Europene sau către ANCOM."
+   },
+   {
+    "citat": "Următoarele fapte se sancţionează cu amendă judiciară de la 100.000 lei la maximum 2% din cifra de afaceri anuală la nivel mondial înregistrată în exerciţiul financiar precedent",
+    "text": "Nerespectarea obligațiilor de desemnare, notificare sau asigurare a resurselor necesare constituie contravenții sancționate cu amenzi care pot ajunge până la 2% din cifra de afaceri anuală mondială."
+   }
+  ],
+  "cine_este_afectat": [
+   "Furnizorii de servicii de comunicații electronice, servicii legate de domenii de internet și servicii ale societății informaționale",
+   "ANCOM",
+   "Furnizorii de servicii stabiliți în România sau în alte state care oferă servicii în Uniunea Europeană"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește reguli pentru ca anumiți furnizori de servicii să desemneze sedii sau reprezentanți legali în Uniunea Europeană pentru obținerea de probe electronice în procese penale. De asemenea, stabilește atribuțiile ANCOM și amenzile pentru nerespectarea obligațiilor.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Sedii și reprezentanți pentru probe electronice"
+ },
+ "generated_at": "2026-10-28T19:18:03+00:00",
+ "idp": 23259,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "54387323315d8e517f54ba1467a1555eda627e16c77642b1879bedec572c771a",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L568LP.PDF"
+ },
+ "status": "ok"
+}

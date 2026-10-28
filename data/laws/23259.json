@@ -1,0 +1,91 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Senat",
+ "idp": 23259,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 372/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-10-21",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-09-14",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-10-21",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L568/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L568&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi Comisia pentru tehnologia informaţiei şi comunicaţiilor termen depunere amendamente: 19.05.2026 termen depunere raport: 26.05.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru industrii şi servicii Comisia pentru administraţie publică şi amenajarea teritoriului Comisia pentr"
+  },
+  {
+   "day": "2026-05-19",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2026-05-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-06-03",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru apărare, ordine publică şi siguranţă naţională"
+  },
+  {
+   "day": "2026-06-30",
+   "kind": "other",
+   "text": "primire raport favorabil (98 amend. admise, 2 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi Comisia pentru tehnologia informaţiei şi comunicaţiilor face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-09-14",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-10-21",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României PA"
+  },
+  {
+   "day": "2026-10-26",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege pentru desemnarea sediilor desemnate şi numirea reprezentanţilor legali în scopul obţinerii de probe electronice în cadrul procedurilor penale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23259"
+}

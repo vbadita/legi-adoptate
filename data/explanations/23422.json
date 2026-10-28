@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-26T05:37:35+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "a) 11,9 euro/loc de cazare porc gras; b) 13,7 euro/loc de cazare animale de reproducție, respectiv scroafe și scrofițe.",
+    "text": "Se acordă un ajutor de stat pentru crescătorii de porci, în valoare de 11,9 euro pe fiecare loc de cazare pentru porc gras și 13,7 euro pentru animale de reproducție."
+   },
+   {
+    "citat": "Valoarea totală ce poate fi acordată pentru întreprinderea care își desfășoară activitatea în domeniul producției primare de produse agricole nu depășește echivalentul în lei al sumei de 50.000 euro.",
+    "text": "Suma maximă pe care o poate primi o întreprindere în total este de 50.000 euro."
+   },
+   {
+    "citat": "Perioada de depunere a cererilor de solicitare a ajutorului de stat pentru sectorul suin și a documentelor justificative prevăzute la art. 6 alin. (1) este de 20 de zile lucrătoare, de la data intrării în vigoare a prezentei legi.",
+    "text": "Cererile de solicitare a ajutorului de stat se depun la centrele APIA în termen de 20 de zile lucrătoare de la intrarea în vigoare a legii."
+   },
+   {
+    "citat": "Sumele acordate cu titlu de ajutor de stat în condițiile prezentei legi nu sunt supuse executării silite prin poprire în cazul în care împotriva beneficiarilor acestora a fost pornită procedura de executare silită.",
+    "text": "Sumele primite ca ajutor de stat nu pot fi supuse executării silite prin poprire dacă beneficiarul are o procedură de executare silită pornită împotriva sa."
+   },
+   {
+    "citat": "Plata ajutorului de stat pentru sectorul suin se efectuează până la data de 31 decembrie 2026.",
+    "text": "Plata ajutorului de stat se efectuează până la data de 31 decembrie 2026."
+   }
+  ],
+  "cine_este_afectat": [
+   "Crescătorii de suine (persoane fizice autorizate, întreprinderi individuale, întreprinderi familiale, cooperative agricole sau societăți agricole)",
+   "Agenția de Plăți și Intervenție pentru Agricultură (APIA)",
+   "Ministerul Agriculturii și Dezvoltării Rurale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se stabilește o schemă de ajutor de stat pentru crescătorii de porci din România, pentru a acoperi parțial pierderile cauzate de creșterea prețului la combustibili în anul 2026. Banii se acordă în funcție de numărul de locuri de cazare pentru porci grași sau animale de reproducție.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ajutor financiar pentru crescătorii de porci în 2026"
+ },
+ "generated_at": "2026-10-28T19:18:14+00:00",
  "idp": 23422,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 4: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +45,5 @@
   "sha256": "64a4f55777bfd5094e7a6364c6b214b27389ae2cf6067edcd4815783d9ff5710",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr501_26_(rev).pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
