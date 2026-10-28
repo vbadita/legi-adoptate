@@ -13,6 +13,12 @@ export GIT_SSH_COMMAND="ssh -i $CONF/deploy_key -o IdentitiesOnly=yes -o UserKno
 set -a; . "$CONF/gemini.env"; set +a            # GEMINI_API_KEY (never printed)
 log() { printf '{"event":"collect","step":"%s","exit":%s}\n' "$1" "$2"; }
 
+# The journal on this VM rotates within hours: keep each day's runs in a file
+# (30 days), still copied to the journal.
+mkdir -p "$STATE/logs" && find "$STATE/logs" -name '*.log' -mtime +30 -delete
+exec > >(tee -a "$STATE/logs/$(TZ=Europe/Bucharest date +%F).log") 2>&1
+echo "=== run $(TZ=Europe/Bucharest date '+%F %T %Z')"
+
 cd "$REPO" || exit 1
 # Exactly the code and data on GitHub; this checkout is never edited by hand.
 git fetch -q origin main && git reset -q --hard origin/main || exit 1
@@ -32,7 +38,7 @@ failed=0
 "$VENV/bin/python" -m legi update --data ../data --budget 60;                       rc=$?; log update $rc;   [ $rc -eq 0 ] || failed=1
 "$VENV/bin/python" -m legi mo-check --data ../data;                                 rc=$?; log mo-check $rc; [ $rc -eq 0 ] || failed=1
 "$VENV/bin/python" -m legi explain --data ../data --cache "$STATE/pdf-cache" \
-  --daily-limit 20 --budget 30;                                                     rc=$?; log explain $rc;  [ $rc -eq 0 ] || failed=1
+  --daily-limit 20 --budget 30 --max-minutes 20;                                                rc=$?; log explain $rc;  [ $rc -eq 0 ] || failed=1
 cd ..
 
 # Publish whatever was gathered, even after a failed step.

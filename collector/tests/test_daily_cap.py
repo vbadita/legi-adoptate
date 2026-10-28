@@ -38,7 +38,9 @@ def data(tmp_path, monkeypatch):
 
 
 def run(d, **kw):
-    args = cli.argparse.Namespace(data=str(d), cache=None, limit=20, daily_limit=2, budget=60)
+    args = cli.argparse.Namespace(
+        data=str(d), cache=None, limit=20, daily_limit=2, budget=60, max_minutes=20
+    )
     for k, v in kw.items():
         setattr(args, k, v)
     return cli.cmd_explain(args)
@@ -70,4 +72,37 @@ def test_usage_is_recorded_when_a_run_stops_early(data, monkeypatch):
 
     monkeypatch.setattr(PoliteClient, "get_pdf", pdf_then_blocked)
     assert run(d, daily_limit=20) == cli.EXIT_BLOCKED
+    assert len(calls) == 1 and usage(d) == {"2026-10-24": 1}
+
+
+def test_no_new_law_is_started_after_the_deadline(data, monkeypatch):
+    """Gemini can be slow; the run must end (and commit) before systemd kills it."""
+    d, calls = data
+    clock = {"t": 0.0}
+    monkeypatch.setattr(cli.time, "monotonic", lambda: clock["t"])
+    slow = explain.explain
+
+    def eleven_minutes(**kw):
+        clock["t"] += 11 * 60
+        return slow(**kw)
+
+    monkeypatch.setattr(explain, "explain", eleven_minutes)
+    assert run(d, daily_limit=20, max_minutes=20) == cli.EXIT_OK
+    assert len(calls) == 2  # started at 0 and 11 min; the third would start at 22 min
+    assert usage(d) == {"2026-10-24": 2}
+
+
+def test_usage_is_saved_before_the_run_is_killed(data, monkeypatch):
+    """systemd's timeout kills the process: calls already made must stay counted."""
+    d, calls = data
+    real = explain.explain
+
+    def killed_on_second(**kw):
+        if len(calls) == 1:
+            raise SystemExit("SIGTERM")
+        return real(**kw)
+
+    monkeypatch.setattr(explain, "explain", killed_on_second)
+    with pytest.raises(SystemExit):
+        run(d, daily_limit=20)
     assert len(calls) == 1 and usage(d) == {"2026-10-24": 1}

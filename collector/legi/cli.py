@@ -14,6 +14,7 @@ import argparse
 import hashlib
 import json
 import sys
+import time
 from datetime import UTC, date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -40,15 +41,19 @@ def today() -> date:
 
 
 RECHECK_HOURS = 6  # an unfinished law is fetched at most every 6 hours
+# A bill not adopted yet changes slowly; when the Chamber adopts it, it shows
+# up on a vote page (fetched at once), so a slow re-check of the rest is enough.
+PENDING_RECHECK_HOURS = 48
+MONITOR_RESERVE = 8  # requests kept for column 3 (Monitorul Oficial) each run
 
 
 def gather_candidates(
     client: PoliteClient, data: Path, years: list[int], vote_days: int
 ) -> tuple[dict, set[int]]:
-    """(idp -> (law number, law date) or None, bills with a final vote TODAY).
-    Today's bills are always fetched, whatever the re-check interval."""
+    """(idp -> (law number, law date) or None, bills with a final vote in the
+    last vote_days sitting days). Those are always fetched first."""
     cands: dict[int, tuple[str, date] | None] = {}
-    voted_today: set[int] = set()
+    voted_recently: set[int] = set()
     for year in years:
         for e in cdep.parse_list(client.get(LIST_URL.format(query=f"anl={year}"))):
             cands[e.idp] = cdep.parse_law_extra(e.extra)
@@ -63,13 +68,19 @@ def gather_candidates(
             client.get(cdep.VOTE_DAY_URL.format(ymd=day.strftime("%Y%m%d")))
         ):
             cands.setdefault(idp, None)
-            if day == today():
-                voted_today.add(idp)
+            voted_recently.add(idp)
         day -= timedelta(days=1)
     for rec in store.load_all(data):  # anything stored but not complete is refreshed
         if not store.is_complete(rec) and store.in_coverage(rec):
             cands.setdefault(rec["idp"], None)
-    return cands, voted_today
+    return cands, voted_recently
+
+
+def sweep_order(cands: dict, voted_recently: set[int], known: set[int]) -> list[int]:
+    """Most likely to be news first: just voted, then never seen, then the
+    newest bills. A run that hits its request budget still covers what matters
+    (ascending order used to spend every run on the same oldest bills)."""
+    return sorted(cands, key=lambda i: (i not in voted_recently, i in known, -i))
 
 
 def cmd_update(args: argparse.Namespace) -> int:
@@ -86,24 +97,34 @@ def cmd_update(args: argparse.Namespace) -> int:
         "not_adopted": 0,
         "written": 0,
         "errors": 0,
+        "partial": False,
     }
     checks = store.Checks(data)
     now = datetime.now(TZ)
+    cands = None
     try:
-        cands, voted_today = gather_candidates(client, data, years, args.vote_days)
-        log("candidates", count=len(cands), years=years, voted_today=len(voted_today))
-        for idp, law in sorted(cands.items()):
+        cands, voted_recently = gather_candidates(client, data, years, args.vote_days)
+        log("candidates", count=len(cands), years=years, voted_recently=len(voted_recently))
+        known = {r["idp"] for r in store.load_all(data)} | {
+            int(k) for k in checks.data.get("proc", {})
+        }
+        for idp in sweep_order(cands, voted_recently, known):
+            law = cands[idp]
             prev = store.load(data, idp)
-            if prev and not args.refresh_all:
-                if store.is_complete(prev):
+            if not args.refresh_all and idp not in voted_recently:
+                if prev and store.is_complete(prev):
                     stats["skipped_complete"] += 1
                     continue
-                if not store.in_coverage(prev):  # e.g. a 2005 bill stuck at the CCR
+                if prev and not store.in_coverage(prev):  # e.g. a 2005 bill stuck at the CCR
                     stats["skipped_out_of_coverage"] += 1
                     continue
-                if idp not in voted_today and checks.recent("proc", idp, now, RECHECK_HOURS):
+                hours = RECHECK_HOURS if prev else PENDING_RECHECK_HOURS
+                if checks.recent("proc", idp, now, hours):
                     stats["skipped_recent"] += 1
                     continue
+            if client.budget - client.requests <= MONITOR_RESERVE:
+                stats["partial"] = True  # the rest waits for the next run, oldest last
+                break
             try:
                 proc = cdep.parse_procedure(client.get(cdep.PROCEDURE_URL.format(idp=idp)), idp)
                 checks.mark("proc", idp, now)
@@ -125,9 +146,11 @@ def cmd_update(args: argparse.Namespace) -> int:
     except Blocked as exc:
         log("blocked", error=str(exc), requests=client.requests, **stats)
         return EXIT_BLOCKED
-    except FetchError as exc:  # includes the request budget: the next run continues
-        log("stopped", error=str(exc), requests=client.requests, **stats)
-        return EXIT_OK if "budget" in str(exc) else EXIT_ERRORS
+    except FetchError as exc:
+        if "budget" not in str(exc) or cands is None:  # lists unread: not fresh
+            log("stopped", error=str(exc), requests=client.requests, **stats)
+            return EXIT_ERRORS
+        stats["partial"] = True  # newest first: what is left is the oldest; next run
     finally:  # what was fetched stays recorded even if the run stops early
         # keep checks of known laws and of bills fetched but not adopted (yet)
         checks.save(
@@ -270,9 +293,24 @@ def cmd_explain(args: argparse.Namespace) -> int:
     ]
     todo.sort(key=lambda r: r["rounds"][-1]["adopted_on"], reverse=True)
     stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0}
+    calls = usage.setdefault("gemini_calls", {})
+
+    def record_usage() -> None:
+        # after every law: a run killed by the service timeout still counts its calls
+        calls[day] = used_today + stats["explained"] + stats["rejected"]
+        for old_day in sorted(calls)[:-31]:  # keep a month of history
+            del calls[old_day]
+        store.save_json(usage_path, usage)
+
+    # Gemini can take 2 x 120 s per law; stop starting new laws well before the
+    # service's 45 min timeout kills the run (and with it the commit).
+    deadline = time.monotonic() + args.max_minutes * 60
     exit_code: int | None = None
     for rec in todo:
         if stats["explained"] + stats["rejected"] >= allowed:
+            break
+        if time.monotonic() > deadline:
+            log("explain_deadline", minutes=args.max_minutes, **stats)
             break
         source = None
         for label, url in sources.text_sources(rec):
@@ -333,6 +371,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
                 },
             )
             log("explanation_rejected", idp=rec["idp"], reason=str(exc))
+            record_usage()
             continue
         if text is not None:
             store.save_text(data, rec["idp"], text)
@@ -340,6 +379,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
             store.explanation_path(data, rec["idp"]), {**result_base, "status": "ok", **r}
         )
         stats["explained"] += 1
+        record_usage()
         log(
             "explained",
             idp=rec["idp"],
@@ -347,12 +387,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
             attempts=r["attempts"],
             scanned=scanned,
         )
-    spent = stats["explained"] + stats["rejected"]
-    calls = usage.setdefault("gemini_calls", {})
-    calls[day] = used_today + spent
-    for old_day in sorted(calls)[:-31]:  # keep a month of history
-        del calls[old_day]
-    store.save_json(usage_path, usage)
+    record_usage()
     log(
         "explain_done",
         **stats,
@@ -429,6 +464,7 @@ def main(argv: list[str] | None = None) -> int:
     e.add_argument("--limit", type=int, default=20, help="max Gemini explanations per run")
     e.add_argument("--daily-limit", type=int, default=20, help="max per calendar day, all runs")
     e.add_argument("--budget", type=int, default=60, help="max downloads per site per run")
+    e.add_argument("--max-minutes", type=float, default=20, help="start no new law after this")
     e.set_defaults(func=cmd_explain)
     s = sub.add_parser("site", help="build the static site from data/")
     s.add_argument("--data", required=True)
