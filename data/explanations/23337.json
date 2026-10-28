@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-28T20:07:50+00:00",
+ "idp": 23337,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 2: numerele 10 nu apar în citatul punctului', 'punctul 5: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4fc63157ff85d3d205e3acc7edc8161d7f19abf41b6fa14bc4445b053fd0fc50",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl466_pr466_26_(1).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

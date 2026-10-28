@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se declară erou şi martir al naţiunii române preotul Aurel Munteanu, protopop al Huedinului, pentru prodigioasa sa activitate culturală, naţională, socială şi ecleziastică în zona Huedinului şi a Munţilor Vlădeasa din județul Cluj, precum şi pentru martiriul suferit în data de 10 septembrie 1940...",
+    "text": "Preotul Aurel Munteanu, protopop al Huedinului, este declarat erou şi martir al naţiunii române."
+   },
+   {
+    "citat": "...se va comemora anual, în data de 10 septembrie, Ziua Martirilor Români din Huedin.",
+    "text": "În data de 10 septembrie se comemorează anual Ziua Martirilor Români din Huedin."
+   },
+   {
+    "citat": "Ceremoniile se vor desfăşura anual, în data de 10 septembrie, şi pot fi marcate de autorităţile publice centrale, judeţene şi locale, precum şi de instituțiile publice de cultură din ţară şi din străinătate, prin organizarea unor programe şi manifestări cu caracter cultural-ştiinţific.",
+    "text": "Ceremoniile se desfășoară anual în data de 10 septembrie prin programe și manifestări cultural-științifice."
+   },
+   {
+    "citat": "Autorităţile administrației publice centrale şi locale pot sprijini material sau logistic organizarea şi desfăşurarea programelor şi manifestărilor prevăzute la art. 2... Societatea Română de Radiodifuziune şi Societatea Română de Televiziune... pot include în programele lor emisiuni culturale ori aspecte de la manifestările dedicate acestei sărbători.",
+    "text": "Autoritățile și serviciile publice de radiodifuziune și televiziune pot sprijini sau include în programe manifestările dedicate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autorităţile administrației publice centrale şi locale",
+   "Instituțiile publice de cultură din ţară şi din străinătate",
+   "Societatea Română de Radiodifuziune şi Societatea Română de Televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea îl declară pe preotul Aurel Munteanu martir și erou al națiunii române și stabilește comemorarea anuală a Zilei Martirilor Români din Huedin în data de 10 septembrie.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Protopopul Aurel Munteanu declarat martir şi erou al naţiunii române"
+ },
+ "generated_at": "2026-10-28T20:08:56+00:00",
+ "idp": 20798,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "31415474f107ca211293ae9b5f94cb095ab32da4a0ccb15b695db8b6a767945c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl200_pr200_23.pdf"
+ },
+ "status": "ok"
+}

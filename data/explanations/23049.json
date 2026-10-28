@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-28T20:09:48+00:00",
+ "idp": 23049,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: numerele 292, 2011 nu apar în citatul punctului']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "bcecc4a39f494815e381f1e81def5b70fe10911c68451282dd816131c7e7f754",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl146_pr146_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

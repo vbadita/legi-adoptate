@@ -1,0 +1,46 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Durata mandatului viceprimarului constituie vechime în muncă și în specialitatea studiilor absolvite.",
+    "text": "Durata mandatului viceprimarului constituie vechime în muncă și în specialitatea studiilor absolvite."
+   },
+   {
+    "citat": "în situația unei stări de incompatibilitate constatată în condițiile prevăzute de Legea nr. 176/2010, cu modificările și completările ulterioare, ca urmare a unui raport de evaluare definitiv sau a unei hotărâri judecătorești definitive;",
+    "text": "O stare de incompatibilitate constatată prin Legea nr. 176/2010 poate duce la încetarea mandatului."
+   },
+   {
+    "citat": "Numărul total cumulat al funcțiilor publice de execuție din clasa I având unul din nivelurile stabilite pentru gradul profesional superior, prevăzute la alin. (2) lit. e)-g), ce se pot înființa la nivel de ordonator de credite este de maximum 20% din numărul total al posturilor aprobate la nivelul ordonatorului de credite, în condițiile legii.",
+    "text": "Numărul total al funcțiilor publice de execuție din clasa I cu grad profesional superior de la nivelul unui ordonator de credite este de maximum 20%."
+   },
+   {
+    "citat": "Personalul contractual care se regăsește în una din situațiile prevăzute de art. 1 alin. (1) din Legea nr. 176/2010, cu modificările și completările ulterioare are obligația de a depune declarații de avere și de interese în condițiile prevăzute la art. 1 din același act normativ.",
+    "text": "Personalul contractual are obligația de a depune declarații de avere și de interese și de a respecta regulile privind conflictele de interese."
+   }
+  ],
+  "cine_este_afectat": [
+   "Viceprimarii",
+   "Funcționarii publici",
+   "Personalul contractual din sectorul public",
+   "Autoritățile și instituțiile publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări Codului administrativ privind statutul viceprimarilor, organizarea funcțiilor publice, concursurile de angajare și regulile pentru personalul contractual.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Codului administrativ"
+ },
+ "generated_at": "2026-10-28T20:08:03+00:00",
+ "idp": 23444,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e37ab1c293eb2907085ca4645757a4e6626779714cb40cabde77f332822da6fe",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr524_26_(final).pdf"
+ },
+ "status": "ok"
+}

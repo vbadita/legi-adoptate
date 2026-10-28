@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "poate achiziționa o singură locuință cu cota redusă de TVA de 9% ... locuința are o suprafață utilă de maximum 120 mp, exclusiv anexele gospodărești, şi o valoare, inclusiv a terenului pe care este construită, care nu depășește suma de 600.000 lei, exclusiv taxa pe valoarea adăugată",
+    "text": "Se poate achiziționa o singură locuință cu cota redusă de TVA de 9% dacă are o suprafață de maximum 120 mp și o valoare de cel mult 600.000 lei, exclusiv TVA."
+   },
+   {
+    "citat": "pentru actele juridice între vii care au ca obiect plata în avans pentru achiziționarea unei locuințe, încheiate în perioada 3 iulie - 31 iulie 2025 inclusiv, la data livrării locuinței trebuie să facă dovada achitării unui avans de 20% din valoarea locuinței exclusiv TVA, achitat integral până la data de 31 iulie 2025 inclusiv.",
+    "text": "Pentru actele încheiate între 3 iulie și 31 iulie 2025, cumpărătorul trebuie să facă dovada achitării unui avans de 20% integral până la 31 iulie 2025."
+   },
+   {
+    "citat": "Notarii publici sunt obligați: a) să verifice îndeplinirea condiției referitoare la achiziția unei singure locuințe cu cota redusă de TVA, prin consultarea „Registrului achizițiilor de locuințe cu cota redusă de TVAˮ... b) să completeze „Registrul achizițiilor de locuințe cu cota redusă de TVAˮ",
+    "text": "Notarii publici sunt obligați să verifice în Registrul achizițiilor de locuințe dacă persoana a mai cumpărat o locuință cu TVA redus și să completeze registrul."
+   },
+   {
+    "citat": "Persoana fizică, care a achiziționat ... una sau mai multe locuințe cu cota standard de TVA în perioada cuprinsă între data de 1 august 2026 și data intrării în vigoare a prezentei legi, poate solicita restituirea sumei rezultate din diferența între cota standard de TVA și cota redusă de TVA de 9%",
+    "text": "Persoanele fizice care au cumpărat locuințe cu cota standard de TVA în perioada 1 august 2026 și data intrării în vigoare a legii pot cere restituirea diferenței până la cota de 9%."
+   },
+   {
+    "citat": "Primăriile care au achiziționat cu cota standard de TVA, în perioada cuprinsă între data de 1 august 2026 și data intrării în vigoare a prezentei legi, clădiri ... pot solicita restituirea sumei rezultate din diferența între cota standard de TVA și cota redusă de TVA de 9%",
+    "text": "Primăriile care au cumpărat clădiri cu cota standard de TVA pentru chirii subvenționate pot solicita restituirea diferenței până la cota redusă de 9%."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoane fizice care cumpără locuințe",
+   "Notari publici",
+   "Primării"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește condițiile în care persoanele fizice și primăriile pot beneficia de o cotă redusă de TVA de 9% pentru anumite locuințe sau pot recupera diferența de TVA plătită în plus.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri fiscal-bugetare privind TVA-ul pentru anumite locuințe"
+ },
+ "generated_at": "2026-10-28T20:08:38+00:00",
+ "idp": 23445,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ec793c9881bc26bc174186ce3bf7c263937c453b37127ba9d9263481d6d15b95",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl525_pr525_26_(1).pdf"
+ },
+ "status": "ok"
+}

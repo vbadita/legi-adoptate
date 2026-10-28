@@ -1,0 +1,40 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Acordul de împrumut (SAFE) dintre Uniunea Europeană şi România, semnat la Bucureşti, la 12 mai 2026 şi la Bruxelles, la 20 mai 2026 şi la 21 mai 2026, în valoare de 16.680.055.394 euro, denumit în continuare Acord de împrumut.",
+    "text": "Se aprobă Acordul de împrumut (SAFE) în valoare de 16.680.055.394 euro."
+   },
+   {
+    "citat": "Plata serviciului datoriei publice aferente împrumutului, respectiv rambursarea capitalului, achitarea costurilor de finanţare, a costurilor de administrare a lichidităţii, a costurilor serviciilor pentru cheltuielile de regie şi a altor costuri aferente împrumutului se asigură de Ministerul Finanţelor",
+    "text": "Plata serviciului datoriei publice și a costurilor legate de împrumut se asigură de Ministerul Finanțelor."
+   },
+   {
+    "citat": "Se autorizează Guvernul României ca, prin Ministerul Finanţelor, să conveagă cu Comisia Europeană amendamente la Acordul de împrumut care nu sunt de natură să majoreze obligaţiile financiare asumate de România faţă de Uniunea Europeană.",
+    "text": "Guvernul României este autorizat să conveagă amendamente la acord care nu majorează obligațiile financiare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Finanțelor",
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Acordul de împrumut (SAFE) în valoare de 16.680.055.394 euro încheiat între România și Uniunea Europeană. Plata datoriei și a costurilor aferente este asigurată de Ministerul Finanțelor.",
+  "tip": "altele",
+  "titlu_simplu": "Aprobarea Acordului de împrumut (SAFE) dintre Uniunea Europeană și România"
+ },
+ "generated_at": "2026-10-28T20:07:38+00:00",
+ "idp": 23439,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "e78a6116f4c5604a403f76563c368270808e280509a144d4bb160f3dc4ae99b0",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L460LP.PDF"
+ },
+ "status": "ok"
+}

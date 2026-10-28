@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-28T20:09:43+00:00",
+ "idp": 22948,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "75e7ad71d4b9be1137a33c938318a660b2aff16e20058facb7ef4101b661fc36",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl331_pr331_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

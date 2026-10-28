@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "(1) Măsura educativă a stagiului de formare civică constă în obligaţia minorului de a participa la un program cu o durată de cel mult 6 luni, pentru a-l ajuta să înţeleagă consecinţele legale şi sociale la care se expune în cazul săvârşirii de infracţiuni...",
+    "text": "Stagiul de formare civică pentru minori constă într-un program de cel mult 6 luni."
+   },
+   {
+    "citat": "Măsura educativă a supravegherii constă în controlarea şi îndrumarea minorului în cadrul programului său zilnic, pe o durată cuprinsă între 4 luni şi un an, sub coordonarea serviciului de probaţiune...",
+    "text": "Măsura supravegherii se stabilește pe o durată cuprinsă între 4 luni și un an."
+   },
+   {
+    "citat": "(1) Măsura educativă a consemnării la sfârşit de săptămână constă în obligaţia minorului de a nu părăsi locuinţa în zilele de sâmbătă şi duminică, pe o durată cuprinsă între 8 şi 24 săptămâni...",
+    "text": "Consemnarea la sfârșit de săptămână are o durată cuprinsă între 8 și 24 săptămâni."
+   },
+   {
+    "citat": "(2) Măsura educativă a asistării zilnice se ia pe o durată cuprinsă între 6 luni şi un an, iar supravegherea se face sub coordonarea serviciului de probaţiune.",
+    "text": "Măsura asistării zilnice se ia pe o durată cuprinsă între 6 luni și un an."
+   }
+  ],
+  "cine_este_afectat": [
+   "Minori care au săvârșit infracțiuni",
+   "Serviciile de probațiune",
+   "Instanțele de judecată"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică duratele și condițiile pentru mai multe măsuri educative aplicate minorilor care au comis fapte prevăzute de legea penală, cum ar fi stagiul de formare civică, supravegherea, consemnarea la sfârșit de săptămână și asistarea zilnică.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea măsurilor educative în Codul penal"
+ },
+ "generated_at": "2026-10-28T20:09:33+00:00",
+ "idp": 22549,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "f35184da5035ce51a0645bb2061fe9b180fe2be7283ca9dc57a5913e35563de0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl584_pr584_25.pdf"
+ },
+ "status": "ok"
+}

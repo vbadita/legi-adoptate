@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa Guvernului nr. 10 din 1 februarie 2025 pentru modificarea şi completarea unor acte normative, adoptată în temeiul art. 1 pct. I.3 şi 4 din Legea nr. 332/2024 privind abilitarea Guvernului de a emite ordonanţe, şi publicată în Monitorul Oficial al României, Partea I, nr. 95 din 1 februarie 2025.",
+    "text": "Se aprobă Ordonanța Guvernului nr. 10 din 1 februarie 2025 pentru modificarea și completarea unor acte normative."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile statului",
+   "Publicul larg vizat de actele normative modificate prin ordonanță"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul adoptă o lege prin care se aprobă Ordonanța Guvernului nr. 10 din 1 februarie 2025 referitoare la modificarea și completarea unor acte normative.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 10/2025"
+ },
+ "generated_at": "2026-10-28T20:09:28+00:00",
+ "idp": 22283,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a48d7f14498828b7e2c3eeb085cce58ae80164115dd6798abbf7831e361051f0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl092_pr092_25.pdf"
+ },
+ "status": "ok"
+}

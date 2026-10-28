@@ -1,0 +1,37 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Obligațiile fiscale reprezentând contribuții de asigurări sociale achitate în numele angajaților de către Institutul Teologic Baptist din Bucureşti în contul Casei de Pensii şi Ajutoare a Cultului Creştin Baptist din România în perioada 2011 – 2016, se consideră obligații achitate potrivit legii.",
+    "text": "Contribuțiile de asigurări sociale plătite de Institutul Teologic Baptist din București pentru angajați către Casa de Pensii și Ajutoare a Cultului Creștin Baptist din România între 2011 și 2016 sunt considerate achitate legal."
+   },
+   {
+    "citat": "Agenția Națională de Administrare Fiscală emite decizia de anulare a plății către bugetul asigurărilor sociale de stat a obligațiilor prevăzute la alin. (1), inclusiv a dobânzilor, penalităților şi tuturor accesoriile aferente, şi o comunică Institutului Teologic Baptist din Bucureşti până cel mai târziu la data de 20 decembrie 2026.",
+    "text": "ANAF va emite decizia de anulare a plății către bugetul asigurărilor sociale de stat pentru aceste sume, inclusiv a dobânzilor și accesoriilor, până la data de 20 decembrie 2026."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institutul Teologic Baptist din Bucureşti",
+   "Casa de Pensii şi Ajutoare a Cultului Creştin Baptist din România",
+   "Agenţia Naţională de Administrare Fiscală"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 107/2024 și aduce o completare privind obligațiile fiscale plătite de Institutul Teologic Baptist din București.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 107/2024 privind măsuri fiscal-bugetare"
+ },
+ "generated_at": "2026-10-28T20:09:17+00:00",
+ "idp": 22023,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6210b0ea80cbf45f9b7cf49334f40f2145b75a6073a3e615ac8f51e8bc7529af",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr548_24-re.pdf"
+ },
+ "status": "ok"
+}

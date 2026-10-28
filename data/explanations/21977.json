@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-28T20:09:11+00:00",
+ "idp": 21977,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 3: citatul nu apare exact în text']",
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9aa9ff081a4eb84bfdd89e28fe9f7aa2f89ab79ed60c4bfe2932d9f87b71a92e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?F92412122/pr514_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

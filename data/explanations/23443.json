@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-28T20:07:57+00:00",
+ "idp": 23443,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 3: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "be1dc337bdcf8ec759d9e1b483baeb803e88497f6433aae39597ce6a1163591b",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl523_pr523_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

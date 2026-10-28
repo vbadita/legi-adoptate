@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Amenințarea săvârşită nemijlocit ori prin mijloace de comunicare directă contra personalului medical, auxiliar sanitar, respectiv personalului nemedical care îşi desfăşoară activitatea în unități publice ori private de asistență medicală... se pedepseşte cu închisoare de la 6 luni la 2 ani sau cu amendă.",
+    "text": "Amenințarea la adresa personalului medical, auxiliar sanitar sau nemedical din unitățile medicale publice sau private se pedepsește cu închisoare de la 6 luni la 2 ani sau cu amendă."
+   },
+   {
+    "citat": "Lovirea sau alte violențe săvârşite împotriva persoanelor prevăzute la alin. (1)... se pedepseşte cu închisoare de la 1 an la 5 ani.",
+    "text": "Lovirea sau alte violențe împotriva acestor persoane se pedepsesc cu închisoare de la 1 an la 5 ani."
+   },
+   {
+    "citat": "Vătămarea corporală săvârşită împotriva persoanelor prevăzute la alin.(1)... se pedepsește cu închisoare de la 2 la 7 ani.",
+    "text": "Vătămarea corporală se pedepsește cu închisoare de la 2 la 7 ani."
+   },
+   {
+    "citat": "Lovirile sau vătămările cauzatoare de moarte săvârşite împotriva persoanelor prevăzute la alin. (1)... se pedepsesc cu închisoare de la 5 la 15 ani.",
+    "text": "Lovirile sau vătămările cauzatoare de moarte se pedepsesc cu închisoare de la 5 la 15 ani."
+   },
+   {
+    "citat": "Omorul săvârşit împotriva persoanelor prevăzute la alin. (1)... se pedepseşte cu închisoare de la 15 la 25 ani. (6) Cu aceeaşi pedeapsă se sancționează faptele comise în condițiile alin. (1) - (5), dacă privesc un membru de familie...",
+    "text": "Omorul se pedepsește cu închisoare de la 15 la 25 ani, iar aceleași pedepse se aplică și dacă faptele sunt comise asupra unui membru de familie."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul medical, auxiliar sanitar și nemedical din unitățile sanitare",
+   "Membrii de familie ai personalului medical",
+   "Unitățile și instituțiile din subordinea Ministerului Sănătății",
+   "Unitățile sanitare din subordinea ministerelor, instituțiilor cu rețea sanitară proprie și a autorităților locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește pedepse pentru fapte îndreptate împotriva personalului din sănătate și a membrilor de familie ai acestora, și prevede exceptarea unor unități sanitare de la anumite restricții bugetare privind ocuparea posturilor.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Protecția personalului medical și exceptarea posturilor"
+ },
+ "generated_at": "2026-10-28T20:07:44+00:00",
+ "idp": 23318,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "23872350adf33f3a40b745d1c35410e90ec37163bcb6a90662aba170332e9e14",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl448_pr448_26.pdf"
+ },
+ "status": "ok"
+}

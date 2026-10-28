@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgenţă a Guvernului nr. 124 din 23 octombrie 2024 privind prorogarea unor termene şi consolidarea capacității administrative în domeniul impozitării proprietății",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 124 din 23 octombrie 2024 privind prorogarea unor termene și consolidarea capacității administrative în domeniul impozitării proprietății."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institucțiile publice implicate în impozitarea proprietății"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 124 din 23 octombrie 2024, care se referă la prorogarea unor termene și consolidarea capacității administrative în domeniul impozitării proprietății.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 124/2024 privind impozitarea proprietății"
+ },
+ "generated_at": "2026-10-28T20:09:23+00:00",
+ "idp": 22120,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "bee80a201a5a5392f2ddf3900a6f3ac3cfa75fbe3e1d0cfc28a24e97760173ae",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl640_pr640_24.pdf"
+ },
+ "status": "ok"
+}

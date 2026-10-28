@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Pe perioada în care spectatorii se află pe stadion, organizatorul se asigură că toate uşile şi porţile de ieşire ale stadionului, precum şi toate porţile care duc din zonele destinate spectatorilor pe terenul de joc rămân descuiate.",
+    "text": "Toate uşile şi porţile de ieşire ale stadionului, precum şi porţile spre teren trebuie lăsate descuiate şi păzite permanent de un agent special."
+   },
+   {
+    "citat": "să interzică, sub orice formă, vânzarea, distribuirea sau consumul băuturilor alcoolice în arena sportivă, cu excepția băuturilor slab alcoolizate, cu maximum 5,5% alcool care se vor comercializa numai ı̂ n pahare din hârtie sau din material plastic",
+    "text": "Organizatorii pot vinde băuturi slab alcoolizate de maximum 5,5% în pahare din hârtie sau plastic fără capac, iar în loji și zone premium se pot servi și alte băuturi în recipiente din sticlă."
+   },
+   {
+    "citat": "în cazul stadioanelor destinate desfășurării competițiilor sportive de nivel național și internațional, să se asigure că minimum 10% din capacitatea peluzei gazdă poate fi amenajată și omologată ca zonă destinată vizionării evenimentelor sportive din poziția în picioare «safe standing»",
+    "text": "Stadioanele de nivel național și internațional trebuie să amenajeze minimum 10% din capacitatea peluzei gazdă ca zonă «safe standing» pentru vizionarea în picioare."
+   },
+   {
+    "citat": "Organizatorul de competiţii sau de jocuri sportive poate desfăşura spectacole pirotehnice organizate doar de către o societate specializată şi autorizată conform legii şi doar pe stadioane.",
+    "text": "Organizatorul poate desfășura spectacole pirotehnice doar pe stadioane, prin intermediul unei societăți autorizate, folosind exclusiv articole din categoriile permise."
+   },
+   {
+    "citat": "Împotriva procesului-verbal prevăzut la alin. (2) contravenientul poate face plângere în termen de 15 zile de la momentul înmânării sau comunicării procesului-verbal de constatare a contravenției.",
+    "text": "Contravenientul poate face plângere împotriva procesului-verbal în termen de 15 zile, iar plângerea suspendă executarea sancţiunilor aplicate până la o hotărâre definitivă."
+   }
+  ],
+  "cine_este_afectat": [
+   "organizatorii de competiții și jocuri sportive",
+   "spectatorii și grupurile de suporteri",
+   "jandarmeria și structurile de ordine",
+   "societățile specializate în activități pirotehnice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea schimbă titlul Legii nr. 4/2008 şi introduce reguli detaliate privind siguranţa pe stadioane, accesul suporterilor, vânzarea băuturilor alcoolice şi spectacolele pirotehnice organizate. De asemenea, sunt aduse modificări privind adunările publice legate de băuturile alcoolice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi pentru organizarea jocurilor sportive şi stadion"
+ },
+ "generated_at": "2026-10-28T20:09:38+00:00",
+ "idp": 22730,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4a30c62af4e5227b039876e981b5eb5af08380bd2da09d783e6b75ddce86181b",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr455_25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,13 @@
+{
+ "generated_at": "2026-10-28T20:07:33+00:00",
+ "idp": 21012,
+ "pages": 490,
+ "prompt_version": 5,
+ "round": 1,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8ce96de990c5f9eed97788262db11cac4e5805cd03ae6f2e724aa1db24076f90",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl418_pr418_23.pdf"
+ },
+ "status": "too_long"
+}

@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "a) închirierea de autoturisme pentru organizarea summiturilor, vizitelor oficiale și de stat ale delegațiilor străine în România, precum și închirierea de autoturisme, pe plan local, necesare pentru deplasarea delegațiilor oficiale și de însoțire ale României în străinătate;",
+    "text": "Se introduc excepții de la regulile existente pentru închirierea de autoturisme destinate organizării summiturilor, vizitelor oficiale și de stat ale delegațiilor străine în România, sau deplasării delegațiilor oficiale în străinătate."
+   },
+   {
+    "citat": "b) achiziţiile efectuate în cadrul proiectelor finanțate potrivit: i) Hotărârii Guvernului nr. 973/2012 ... ii) Hotărârii Guvernului nr. 798/2016 ... iii) Hotărârii Guvernului nr. 193/2018 ... iv) Hotărârii Guvernului nr. 435/2022 ...",
+    "text": "Se introduc excepții pentru achizițiile făcute în cadrul proiectelor finanțate prin Hotărârile Guvernului nr. 973/2012, nr. 798/2016, nr. 193/2018 și nr. 435/2022."
+   },
+   {
+    "citat": "(1^1) Începând cu data intrării în vigoare a legii de aprobare a prezentei ordonanţe de urgenţă, fac excepţie de la prevederile alin. (1) furnizorii publici de servicii sociale prevăzuţi de Legea asistenţei sociale nr. 292/2011, cu modificările și completările ulterioare, posturile putând fi ocupate cu încadrarea în bugetul aprobat.",
+    "text": "Furnizorii publici de servicii sociale prevăzuți de Legea asistenței sociale nr. 292/2011 fac excepție și pot ocupa posturile cu încadrarea în bugetul aprobat."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institucții publice implicate în organizarea de summituri și vizite oficiale",
+   "Furnizorii publici de servicii sociale",
+   "Autorități care derulează proiecte pentru centre de zi, rezidențiale și persoane vulnerabile"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 34/2023 și aduce completări privind închirierea unor autoturisme, achizițiile pentru anumite proiecte și ocuparea posturilor pentru furnizorii publici de servicii sociale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 34/2023 privind măsuri fiscal-bugetare"
+ },
+ "generated_at": "2026-10-28T20:09:01+00:00",
+ "idp": 21015,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b136e862d08bd7e05a39606324a846550e966314e28454901c02e1ffc4389c6e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr415_23.pdf"
+ },
+ "status": "ok"
+}
