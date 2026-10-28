@@ -9,6 +9,7 @@ STATE=/var/lib/legi-collector
 REPO=$STATE/repo
 VENV=$STATE/venv
 CONF=/etc/legi-collector
+export HOME=$STATE  # ProtectHome=yes: git would warn about ~/.config on every run
 export GIT_SSH_COMMAND="ssh -i $CONF/deploy_key -o IdentitiesOnly=yes -o UserKnownHostsFile=$CONF/known_hosts -o StrictHostKeyChecking=yes"
 set -a; . "$CONF/gemini.env"; set +a            # GEMINI_API_KEY (never printed)
 log() { printf '{"event":"collect","step":"%s","exit":%s}\n' "$1" "$2"; }
@@ -35,18 +36,26 @@ fi
 
 cd collector
 failed=0
-"$VENV/bin/python" -m legi update --data ../data --budget 60;                       rc=$?; log update $rc;   [ $rc -eq 0 ] || failed=1
-"$VENV/bin/python" -m legi mo-check --data ../data;                                 rc=$?; log mo-check $rc; [ $rc -eq 0 ] || failed=1
-"$VENV/bin/python" -m legi explain --data ../data --cache "$STATE/pdf-cache" \
-  --daily-limit 20 --budget 30 --max-minutes 20;                                                rc=$?; log explain $rc;  [ $rc -eq 0 ] || failed=1
+# Hard wall-clock limits per step (exit 124 = cut off). A network call can stall
+# far past its socket timeout (seen: 36 min on 2026-10-28); without these the
+# service's 45 min timeout killed the whole run before its commit.
+# Total: 10 + 2 + 16 + 3 (git) = 31 min < 45.
+step() { local name=$1 limit=$2; shift 2
+  timeout --kill-after=30s "$limit" "$VENV/bin/python" -m legi "$@"; rc=$?
+  log "$name" $rc; [ $rc -eq 0 ] || failed=1; }
+step update   10m update   --data ../data --budget 60
+step mo-check  2m mo-check --data ../data
+step explain  16m explain  --data ../data --cache "$STATE/pdf-cache" \
+  --daily-limit 20 --budget 30 --max-minutes 12
 cd ..
 
-# Publish whatever was gathered, even after a failed step.
+# Publish whatever was gathered, even after a failed or cut-off step.
 git add data
 if ! git diff --cached --quiet; then
   git -c user.name="legi-adoptate collector (VM)" -c user.email="legi-collector@apps.badita.com" \
     commit -q -m "data: $(TZ=Europe/Bucharest date '+%Y-%m-%d %H:%M') (VM collector)"
-  git push -q origin HEAD:main || { git pull -q --rebase origin main && git push -q origin HEAD:main; } || failed=1
-  log push $?
+  push() { timeout 90s git push -q origin HEAD:main; }
+  push || { timeout 60s git pull -q --rebase origin main && push; }; rc=$?
+  log push $rc; [ $rc -eq 0 ] || failed=1
 fi
 exit $failed

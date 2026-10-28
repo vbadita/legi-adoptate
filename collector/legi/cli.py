@@ -33,7 +33,12 @@ EXIT_OK, EXIT_ERRORS, EXIT_BLOCKED = 0, 1, 3
 
 
 def log(event: str, **fields) -> None:
-    print(json.dumps({"event": event, **fields}, ensure_ascii=False, default=str), file=sys.stderr)
+    at = datetime.now(TZ).strftime("%H:%M:%S")  # shows where a slow run spent its time
+    print(
+        json.dumps({"at": at, "event": event, **fields}, ensure_ascii=False, default=str),
+        file=sys.stderr,
+        flush=True,
+    )
 
 
 def today() -> date:
@@ -295,9 +300,10 @@ def cmd_explain(args: argparse.Namespace) -> int:
     stats = {"todo": len(todo), "explained": 0, "rejected": 0, "no_source": 0}
     calls = usage.setdefault("gemini_calls", {})
 
-    def record_usage() -> None:
-        # after every law: a run killed by the service timeout still counts its calls
-        calls[day] = used_today + stats["explained"] + stats["rejected"]
+    def record_usage(in_flight: int = 0) -> None:
+        # saved before and after every call: a run killed by a time limit still
+        # counts the calls it made
+        calls[day] = used_today + stats["explained"] + stats["rejected"] + in_flight
         for old_day in sorted(calls)[:-31]:  # keep a month of history
             del calls[old_day]
         store.save_json(usage_path, usage)
@@ -313,6 +319,7 @@ def cmd_explain(args: argparse.Namespace) -> int:
             log("explain_deadline", minutes=args.max_minutes, **stats)
             break
         source = None
+        log("fetching_text", idp=rec["idp"])
         for label, url in sources.text_sources(rec):
             client = clients["senat" if "senat.ro" in url else "cdep"]
             try:
@@ -345,6 +352,8 @@ def cmd_explain(args: argparse.Namespace) -> int:
             "scanned": scanned,
             "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
         }
+        log("asking_gemini", idp=rec["idp"], chars=len(text or ""), scanned=scanned)
+        record_usage(in_flight=1)
         try:
             r = explain.explain(
                 text=text, images=page_images(pdf) if scanned else None, title=rec["title"]

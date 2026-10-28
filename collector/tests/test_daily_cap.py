@@ -105,4 +105,5 @@ def test_usage_is_saved_before_the_run_is_killed(data, monkeypatch):
     monkeypatch.setattr(explain, "explain", killed_on_second)
     with pytest.raises(SystemExit):
         run(d, daily_limit=20)
-    assert len(calls) == 1 and usage(d) == {"2026-10-24": 1}
+    # the call cut off mid-flight may have reached Gemini: it counts too
+    assert len(calls) == 1 and usage(d) == {"2026-10-24": 2}
