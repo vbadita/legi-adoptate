@@ -6,7 +6,11 @@
   "day": "2026-06-24",
   "number": "105/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-06-24",
+  "number": "520/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 340/2026",
  "promulgation": {
   "day": "2026-06-24",
@@ -106,7 +110,7 @@
   {
    "day": "2026-06-24",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 344/2026 devine Legea nr.105/2026"
+   "text": "promulgata prin Decret nr. 344/2026 devine Legea nr. 105/2026"
   }
  ],
  "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.22/2026 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare",

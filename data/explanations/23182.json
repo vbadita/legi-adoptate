@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se instituie Programul Național de Accesibilizare a Locuințelor – „Lift pentru viață”, program multianual, de interes și utilitate publică, coordonat de Ministerul Dezvoltării, Lucrărilor Publice și Administrației și Ministerul Investițiilor și Proiectelor Europene",
+    "text": "Se instituie Programul Național de Accesibilizare a Locuințelor – „Lift pentru viață”, program multianual, de interes și utilitate publică, coordonat de Ministerul Dezvoltării, Lucrărilor Publice și Administrației și Ministerul Investițiilor și Proiectelor Europene"
+   },
+   {
+    "citat": "prima etapă – proiectul pilot, derulat cu finanțare asigurată cu precădere din fonduri europene, vizează accesibilizarea fizică a maximum 100 de condominii prin instalarea lifturilor, în termen de 18 luni de la intrarea în vigoare a prezentei legi. Pentru realizarea primei etape, se acordă finanțare pentru un număr de două condominii din fiecare reședință de județ/subdiviziune administrativ-teritorială",
+    "text": "Prima etapă reprezintă un proiect-pilot derulat în termen de 18 luni pentru cel mult 100 de condominii prin instalarea lifturilor, câte două pentru fiecare reședință de județ sau subdiviziune administrativ-teritorială."
+   },
+   {
+    "citat": "În primele 18 luni de implementare, finanțarea programului național se realizează cu prioritate din fonduri europene.",
+    "text": "În primele 18 luni de implementare, finanțarea programului național se realizează cu prioritate din fonduri europene."
+   },
+   {
+    "citat": "Lucrările de accesibilizare fizică realizate în temeiul prezentei legi se autorizează cu respectarea prevederilor Legii nr. 50/1991, republicată, cu modificările și completările ulterioare, fără perceperea taxelor prevăzute de Legea nr. 227/2015, cu modificările și completările ulterioare.",
+    "text": "Lucrările de accesibilizare fizică se autorizează fără perceperea taxelor prevăzute de Legea nr. 227/2015 privind Codul fiscal."
+   },
+   {
+    "citat": "În cadrul lucrărilor de intervenție pentru creșterea performanței energetice a blocurilor de locuințe pot fi realizate, în mod integrat, lucrări de accesibilizare constând în instalarea de lifturi și/sau instalații alternative/complementare de tipul scărilor mecanizate, platformelor elevatoare sau rampelor.",
+    "text": "Pentru clădirile încadrate în clasele de risc seismic RsI sau RsII ori în cadrul lucrărilor de creștere a performanței energetice pot fi realizate în mod integrat lucrări de accesibilizare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele vârstnice",
+   "Persoanele cu mobilitate redusă",
+   "Persoanele cu dizabilități",
+   "Asociațiile de proprietari"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Se instituie Programul Național de Accesibilizare a Locuințelor – „Lift pentru viață” pentru montarea de lifturi, rampe sau platforme în blocuri. Programul are două etape: un proiect-pilot pentru maximum 100 de condominii și extinderea la nivel național.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Programul Național Lift pentru viață"
+ },
+ "generated_at": "2026-10-29T18:40:35+00:00",
+ "idp": 23182,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b75bcafbb3560ae463cca38b8295d0d52257ea96011bb00f3c68e513119ac3f2",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl296_pr296_26.pdf"
+ },
+ "status": "ok"
+}

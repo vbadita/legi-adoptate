@@ -6,7 +6,11 @@
   "day": "2026-06-24",
   "number": "104/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-06-24",
+  "number": "520/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 495/2024",
  "promulgation": {
   "day": "2026-06-24",
@@ -121,7 +125,7 @@
   {
    "day": "2026-06-24",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 343/2026 devine Legea nr.104/2026"
+   "text": "promulgata prin Decret nr. 343/2026 devine Legea nr. 104/2026"
   }
  ],
  "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.100/2024 privind modificarea şi completarea Legii cetăţeniei române nr.21/1991, precum şi pentru modificarea şi completarea altor acte normative",

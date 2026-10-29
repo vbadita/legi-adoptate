@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 168 din 8 decembrie 2022 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și pentru modificarea și completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 1186 din 9 decembrie 2022, cu modificările şi completările ulterioare.",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 168 din 8 decembrie 2022."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institucțiile publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aprobă Ordonanța de urgență a Guvernului nr. 168/2022, care se referă la măsuri fiscal-bugetare, prorogarea unor termene și modificarea altor acte normative.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 168/2022 privind măsuri fiscal-bugetare"
+ },
+ "generated_at": "2026-10-29T18:42:01+00:00",
+ "idp": 20633,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "45c44239064cbfdeeb165ea3a129fb219e0e9d3a535dd95e5c9f152447cd5eee",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl043_pr043_23.pdf"
+ },
+ "status": "ok"
+}

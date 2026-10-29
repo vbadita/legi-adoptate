@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 139 din 28 decembrie 2021... cu următoarea completare:... finanţarea şi realizarea obiectivului de investiţii prevăzut la art. 12 alin. (1) lit. c) se asigură în perioada 2022 – 2026, iar sumele alocate Teatrului Naţional «Mihai Eminescu» din Timişoara rămase neutilizate la sfârşitul anului financiar se reportează... până la finalizarea obiectivului de investiţii, dar nu mai târziu de data de 31 decembrie 2026.",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 139 din 28 decembrie 2021 cu o completare referitoare la perioada de finanțare și realizare a obiectivului de investiții și utilizarea sumelor rămase neutilizate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Teatrul Național „Mihai Eminescu” din Timișoara"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 139/2021 și aduce completări privind finanțarea și realizarea unui obiectiv de investiții pentru Teatrul Național „Mihai Eminescu” din Timișoara până în anul 2026.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 139/2021 pentru Programul Timișoara - Capitală Europeană a Culturii"
+ },
+ "generated_at": "2026-10-29T18:41:37+00:00",
+ "idp": 19768,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "08fdac2db4d56f218afbfce33a3c3b66ccbc737f3efdcf3d8e5bb59e6ea69d76",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pl028_pr028_22.pdf"
+ },
+ "status": "ok"
+}

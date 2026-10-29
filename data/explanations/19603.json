@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanța Guvernului nr. 11 din 30 august 2021 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală şi reglementarea unor măsuri fiscale, adoptată în temeiul art. 1 pct. I poz. 3 și 14 din Legea nr. 195/2021...",
+    "text": "Se aprobă Ordonanța Guvernului nr. 11 din 30 august 2021 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și reglementarea unor măsuri fiscale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Contribuabilii vizați de Codul de procedură fiscală"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă o lege prin care aprobă Ordonanța Guvernului nr. 11 din 30 august 2021 referitoare la modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală și reglementarea unor măsuri fiscale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 11/2021 privind Codul de procedură fiscală"
+ },
+ "generated_at": "2026-10-29T18:41:51+00:00",
+ "idp": 19603,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2e31b9d23e27a6287c9e592173da4f0dfed974d153aa4d619ba166559be2a96c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pl481_pr481_21.pdf"
+ },
+ "status": "ok"
+}

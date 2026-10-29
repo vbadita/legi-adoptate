@@ -6,7 +6,11 @@
   "day": "2026-07-02",
   "number": "114/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-07-02",
+  "number": "545/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 642/2024",
  "promulgation": {
   "day": "2026-07-02",
@@ -121,7 +125,7 @@
   {
    "day": "2026-07-02",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 368/2026 devine Legea nr.114/2026"
+   "text": "promulgata prin Decret nr. 368/2026 devine Legea nr. 114/2026"
   }
  ],
  "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.126/2024 pentru modificarea şi completarea Legii nr.96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK- S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative",

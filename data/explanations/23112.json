@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-29T18:41:40+00:00",
+ "idp": 23112,
+ "prompt_version": 5,
+ "reason": "unexpected gemini response",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "aab3c64d4bf45e239105246d03298968b7ef469ead1a57ee7ad347b629136eff",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L337LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

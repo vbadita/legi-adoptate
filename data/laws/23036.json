@@ -6,7 +6,11 @@
   "day": "2026-07-02",
   "number": "116/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-07-02",
+  "number": "546/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 109/2026",
  "promulgation": {
   "day": "2026-07-02",
@@ -131,7 +135,7 @@
   {
    "day": "2026-07-02",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 370/2026 devine Legea nr.116/2026"
+   "text": "promulgata prin Decret nr. 370/2026 devine Legea nr. 116/2026"
   }
  ],
  "title": "Proiect de Lege pentru instituirea anului 2026 ca Anul Traian Vuia - inventator român, pionier al aviaţiei la nivel internaţional",

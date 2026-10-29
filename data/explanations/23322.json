@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-29T18:40:42+00:00",
+ "idp": 23322,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: citat prea fragmentat']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "924eece6f246367762d9a33f8a557a2faea4c8b8980ed6b8858cb0c3d5507059",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr446_26_(v.r.).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

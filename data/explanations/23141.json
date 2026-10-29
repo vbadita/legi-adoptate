@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La negocierea, încheierea sau modificarea contractului de activitate sportivă ori pe durata unui conflict în legătură cu activitatea sportivă, oricare dintre părți poate fi asistată de către un avocat, consilier sportiv sau după caz de către un reprezentant al sindicatului al cărui membru este sportivul, conform propriei opțiuni.",
+    "text": "La negocierea, încheierea, modificarea contractului de activitate sportivă sau în timpul unui conflict legat de aceasta, oricare parte poate fi asistată de un avocat, consilier sportiv sau un reprezentant al sindicatului."
+   },
+   {
+    "citat": "participanții la activitatea sportivă de către avocat, consilier sportiv sau de către un reprezentant al sindicatului ai cărui membri sunt, conform propriei opțiuni;",
+    "text": "Participanții la activitatea sportivă pot fi reprezentați sau asistați în fața organismelor și comisiilor din cadrul federațiilor sau structurilor sportive de un avocat, consilier sportiv sau reprezentant al sindicatului."
+   },
+   {
+    "citat": "structurile sportive, de către un avocat, consilier juridic sau de către un consilier sportiv, conform propriei opțiuni.",
+    "text": "Structurile sportive pot fi reprezentate sau asistați în fața comisiilor sportive de un avocat, consilier juridic sau consilier sportiv."
+   }
+  ],
+  "cine_este_afectat": [
+   "Sportivi",
+   "Structuri sportive",
+   "Avocați",
+   "Consilieri sportivi și juridici"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă reguli noi privind dreptul la asistență și reprezentare pentru sportivi și structurile sportive în contracte și în fața comisiilor sportive.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Asistență juridică și sindicală în activitatea sportivă"
+ },
+ "generated_at": "2026-10-29T18:40:22+00:00",
+ "idp": 23141,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d7e6d03b72976b72318fdb8b197e81dbc30e1d2a1519429b77bea8fc3780b901",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl253_pr253_26.pdf"
+ },
+ "status": "ok"
+}

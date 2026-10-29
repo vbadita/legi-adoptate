@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2026 ca Anul Statelor Unite ale Americii în România.",
+    "text": "Se instituie anul 2026 ca Anul Statelor Unite ale Americii în România."
+   },
+   {
+    "citat": "autoritățile administrației publice centrale şi locale pot organiza sau sprijini material ori logistic, în limita alocărilor bugetare aprobate, organizarea şi desfăşurarea de: a) conferinţe şi dezbateri publice; b) evenimente culturale, academice şi educaționale dedicate istoriei şi valorilor americane; c) acţiuni de diplomaţie publică și comunicare româno-americană; d) orice alte activități de promovare a cooperării româno-americane şi a valorilor democratice.",
+    "text": "Autoritățile publice centrale și locale pot organiza sau sprijini evenimente precum conferințe, evenimente culturale și academice sau acțiuni de diplomație publică, în limita bugetului aprobat."
+   },
+   {
+    "citat": "Societatea Română de Radiodifuziune şi Societatea Română de Televiziune pot difuza materiale tematice realizate cu ocazia Anului Statelor Unite ale Americii în România.",
+    "text": "Televiziunea Română și Radioul Public pot difuza materiale tematice dedicate acestui an."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice centrale și locale",
+   "Societatea Română de Radiodifuziune",
+   "Societatea Română de Televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 ca Anul Statelor Unite ale Americii în România. Autoritățile și instituțiile publice pot organiza diverse evenimente culturale, educaționale sau de dezbatere pentru a promova relația româno-americană.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Anul 2026 ca Anul Statelor Unite ale Americii în România"
+ },
+ "generated_at": "2026-10-29T18:40:27+00:00",
+ "idp": 23157,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "3ba0b67b0daec6c4f1f62384c0dd657a5be09600f47447bf113b590cb1b61259",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl266_pr266_26.pdf"
+ },
+ "status": "ok"
+}

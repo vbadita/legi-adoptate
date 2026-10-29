@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-10-28T20:07:50+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Pentru anul școlar/ universitar 2025-2026, pentru creșele cu personalitate juridică nearondate unei unități de învățământ, pentru care autoritățile administrației publice locale au calitatea de persoană juridică fondatoare, colegiile naționale militare, unitățile de învățământ preuniversitar din sistemul de apărare, de informații, de ordine publică și de securitate națională, precum și pentru unitățile de învățământ preuniversitar subordonate Ministerului Justiției, inspectoratele școlare transmit către Ministerul Educației și Cercetării lista beneficiarilor finali, în vederea centralizării.",
+    "text": "Pentru anul școlar 2025-2026, inspectoratele școlare transmit la Ministerul Educației și Cercetării listele cu beneficiarii din creșe fără personalitate juridică, colegii militare, unități din apărare, ordine publică și justiție."
+   },
+   {
+    "citat": "Beneficiarii finali ai primei de carieră didactică acordată în anul școlar/universitar 2025-2026 care rămân în activitate în anul școlar/universitar 2026-2027 pot utiliza prima până la finalul anului școlar/universitar 2026-2027, respectiv până la data de 31 august 2027 pentru anul școlar și, respectiv, până la data de 30 septembrie 2027 pentru anul universitar.",
+    "text": "Cadrele didactice care păstrează prima din anul 2025-2026 și rămân în activitate în 2026-2027 o pot folosi până la 31 august 2027 pentru școală sau până la 30 septembrie 2027 pentru universități."
+   },
+   {
+    "citat": "Pentru beneficiarii finali identificați în anul școlar/universitar 2025-2026, cuprinși în lista prevăzută la alin. (7^1) care nu mai sunt în activitate în sistemul de învățământ în anul școlar/universitar 2026-2027, se retrag sumele din prima de carieră didactică rămase neutilizate la finalul anului școlar/universitar 2025-2026.",
+    "text": "Sumele rămase neutilizate din prima de carieră didactică la finalul anului școlar 2025-2026 se retrag de la persoanele care nu mai sunt în activitate în anul școlar 2026-2027."
+   },
+   {
+    "citat": "În termen de maximum 5 luni de la data utilizării sumei aferente primei de carieră didactică pentru achiziționarea cursurilor de formare profesională, dar nu mai târziu de 31 martie 2028, beneficiarul final personal didactic și personal didactic auxiliar are obligația de a încărca în aplicația informatică dezvoltată de către Serviciul de Telecomunicații Speciale certificatul care atestă absolvirea/participarea la cursul de pregătire profesională...",
+    "text": "Documentul care dovedește absolvirea cursurilor de formare profesională plătite din primă trebuie încărcat în aplicație în maximum 5 luni de la utilizarea banilor, dar cel târziu până la 31 martie 2028."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul didactic și didactic auxiliar",
+   "Personalul administrativ din învățământul de stat",
+   "Ministerul Educației și Cercetării",
+   "Serviciul de Telecomunicații Speciale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență care stabilește reguli noi pentru acordarea și utilizarea primelor de carieră didactică și profesională, gestionarea listelor de beneficiari și termenele de valabilitate a sumelor.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG privind prima de carieră didactică și profesională"
+ },
+ "generated_at": "2026-10-29T18:39:29+00:00",
  "idp": 23337,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: numerele 10 nu apar în citatul punctului', 'punctul 5: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "4fc63157ff85d3d205e3acc7edc8161d7f19abf41b6fa14bc4445b053fd0fc50",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl466_pr466_26_(1).pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

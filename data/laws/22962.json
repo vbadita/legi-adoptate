@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-10-14",
    "chamber": "Camera Deputaților",
-   "confirmed": true,
+   "confirmed": false,
    "public_vote": {
     "abtineri": 37,
     "chamber": "Camera Deputaților",
@@ -90,17 +90,12 @@
   {
    "day": "2026-10-14",
    "kind": "adopted",
-   "text": "adoptat de Camera Deputatilor rezultat vot pentru=192, contra=23, abtineri=37, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+   "text": "adoptat de Camera Deputatilor titlu: Lege privind Programul pentru investiţii şi locuri de muncă la nivel naţional rezultat vot pentru=192, contra=23, abtineri=37, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare SE"
   },
   {
-   "day": "2026-10-20",
-   "kind": "deposited",
-   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
-  },
-  {
-   "day": "2026-10-26",
-   "kind": "sent_to_president",
-   "text": "trimitere la Presedintele României pentru promulgare"
+   "day": "2026-10-29",
+   "kind": "other",
+   "text": "înaintat la Senat potrivit art.117 alin.(4) din Regulamentul Camerei Deputaţilor s-a decis transmiterea acestei legi Senatului"
   }
  ],
  "title": "Proiect de Lege privind Programul pentru investiţii şi locuri de muncă în judeţele Hunedoara, Gorj, Dolj, Galaţi, Prahova şi Mureş şi pentru modificarea şi completarea unor acte normative",

@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-28T20:09:48+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Persoanele încadrate în grad de handicap grav, accentuat sau mediu care părăsesc serviciile de locuire asistată în comunitate pentru viaţă independentă, pot primi beneficiul pentru locuire prevăzut la alin. (1)",
+    "text": "Persoanele cu handicap grav, accentuat sau mediu care părăsesc serviciile de locuire asistată pot primi beneficiul pentru locuire."
+   },
+   {
+    "citat": "Standardul de cost aferent serviciului de tip centru pentru o viață independentă... devine standard de cost al serviciului social de locuire asistată în comunitate pentru viață independentă de tip centru pentru o viață independentă.",
+    "text": "Se stabilesc reguli noi privind denumirile și transformarea unor standarde de cost pentru serviciile sociale de locuire asistată."
+   },
+   {
+    "citat": "preşedinte - medic primar sau specialist în una dintre specialităţile: expertiză medicală a capacităţii de muncă, medicină de familie sau medicină generală, medicină internă, medicină fizică şi de reabilitare, cu drept de liberă practică",
+    "text": "Se modifică cerințele pentru medicii care fac parte din comisiile de evaluare a persoanelor adulte cu handicap."
+   },
+   {
+    "citat": "2 membri, medici specialişti în una dintre specialitățile: expertiză medicală a capacității de muncă sau medicină fizică și de reabilitare, cu drept de liberă practică",
+    "text": "Se stabilesc noi categorii de membri în componența comisiilor superioare de evaluare, incluzând medici, asistenți sociali și psihologi."
+   },
+   {
+    "citat": "servicii sociale cu cazare de tip: servicii rezidențiale și servicii de suport cu cazare; ... servicii sociale fără cazare de tip: servicii de suport în comunitate și servicii de locuire asistată în comunitate",
+    "text": "Se actualizează tipurile de servicii sociale cu și fără cazare și denumirile instituțiilor de asistență socială."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele cu dizabilități",
+   "Beneficiarii de servicii sociale",
+   "Membrii comisiilor de evaluare a persoanelor adulte cu handicap",
+   "Instituțiile și unitățile de asistență socială"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență cu modificări privind serviciile sociale, standardele de cost și comisiile de evaluare a persoanelor cu dizabilități, aducând și schimbări la Legea asistenței sociale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea ordonanței privind serviciile sociale și protecția persoanelor cu dizabilități"
+ },
+ "generated_at": "2026-10-29T18:40:04+00:00",
  "idp": 23049,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 4: numerele 292, 2011 nu apar în citatul punctului']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "bcecc4a39f494815e381f1e81def5b70fe10911c68451282dd816131c7e7f754",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl146_pr146_26.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

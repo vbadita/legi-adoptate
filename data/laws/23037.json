@@ -6,7 +6,11 @@
   "day": "2026-07-03",
   "number": "119/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-07-03",
+  "number": "550/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 128/2026",
  "promulgation": {
   "day": "2026-07-03",
@@ -126,7 +130,7 @@
   {
    "day": "2026-07-03",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 373/2026 devine Legea nr.119/2026"
+   "text": "promulgata prin Decret nr. 373/2026 devine Legea nr. 119/2026"
   }
  ],
  "title": "Proiect de Lege privind evidenţa şi administrarea infrastructurii digitale publice, precum şi crearea Platformei Naţionale a Infrastructurii Digitale Publice",

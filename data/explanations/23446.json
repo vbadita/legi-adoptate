@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-28T20:08:43+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie situația de criză pe piața țițeiului și/sau a produselor petroliere, respectiv benzină și motorină, de la data intrării în vigoare a prezentei legi până la data de 31 octombrie 2026, inclusiv.",
+    "text": "Se instituie situația de criză pe piața țițeiului și a produselor petroliere de la data intrării în vigoare a legii până la 31 octombrie 2026."
+   },
+   {
+    "citat": "valoarea medie a adaosului comercial pentru benzină și motorină în segmentul rafinare și vânzare angro și cu amănuntul... este limitată la cel mult valoarea medie anuală a adaosului comercial practicat pentru aceste produse în anul 2025",
+    "text": "Valoarea medie a adaosului comercial pentru benzină și motorină este limitată la media anuală a adaosului din anul 2025."
+   },
+   {
+    "citat": "operatorii economici care comercializează benzină și motorină cu amănuntul către consumatorii finali pot majora prețurile de vânzare cel mult o singură dată într-o zi, până la ora 12:00, inclusiv.",
+    "text": "Operatorii economici care vând benzină și motorină cu amănuntul pot majora prețurile cel mult o dată pe zi, până la ora 12:00."
+   },
+   {
+    "citat": "datorează contribuția pe venituri excepționale următorii operatori economici: a) operatorii economici... care extrag țiței... b) operatorii economici... care extrag țiței... prelucrează acest țiței și obțin venituri din comercializarea produselor energetice",
+    "text": "Se instituie o contribuție pe veniturile excepționale pentru companiile care extrag țiței sau îl prelucrează, în funcție de prețul țițeiului Brent și al motorinei Platts."
+   },
+   {
+    "citat": "încheierea și/sau executarea contractelor de export și/sau de livrare intracomunitară de motorină și țiței se pot realiza de către operatorii economici exclusiv cu acordul prealabil scris emis de către Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului și Ministerul Energiei.",
+    "text": "Exportul și livrările intracomunitare de motorină și țiței se pot face doar cu acordul prealabil scris a două ministere."
+   }
+  ],
+  "cine_este_afectat": [
+   "operatorii economici care importă, produc, distribuie sau comercializează benzină și motorină",
+   "titularii de acorduri petroliere care extrag sau prelucrează țiței pe teritoriul României",
+   "consumatorii finali de carburanți",
+   "instituțiile statului cu atribuții de control și monitorizare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea institutie o situație de criză pe piața țițeiului și a produselor petroliere până la 31 octombrie 2026. Pe această durată se limitează adaosul comercial pentru benzină și motorină, se stabilește un mecanism de reducere temporară a accizei la motorină și se introduce o contribuție pe veniturile excepționale pentru companiile petroliere.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Situație de criză pe piața carburanților, reduceri de accize și contribuție de solidaritate"
+ },
+ "generated_at": "2026-10-29T18:39:48+00:00",
  "idp": 23446,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 5: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "01697b98b1e4a2e52ca5d1cc4d5eb33271a2734bc9f2acbaf0f9bd13c1006fe0",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl526_pr526_26.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

@@ -6,7 +6,11 @@
   "day": "2026-06-24",
   "number": "101/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-06-24",
+  "number": "520/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 369/2026",
  "promulgation": {
   "day": "2026-06-24",
@@ -106,7 +110,7 @@
   {
    "day": "2026-06-24",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 340/2026 devine Legea nr.101/2026"
+   "text": "promulgata prin Decret nr. 340/2026 devine Legea nr. 101/2026"
   }
  ],
  "title": "Proiect de Lege privind instituirea unei scheme de ajutor de stat pentru apicultori",

@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "având obligația de a se asigura că toate procedurile aferente competițiilor/apelurilor de proiecte de CDI se desfășoară integral în format digital. (2) În aplicarea prevederilor alin. (1) se instituie un punct unic electronic de contact",
+    "text": "Toate procedurile aferente competițiilor și apelurilor de proiecte de cercetare-dezvoltare și inovare finanțate din fonduri publice se vor desfășura integral în format digital, prin intermediul unui punct unic electronic de contact."
+   },
+   {
+    "citat": "Începând cu anul 2027 nicio competiție/apel de proiecte de cercetare finanțată/finanțat din fonduri publice nu poate fi lansată/lansat în absența utilizării unei soluții informatice care respectă standardele de interoperabilitate.",
+    "text": "Începând cu anul 2027, nicio competiție sau apel de proiecte de cercetare finanțat din fonduri publice nu va putea fi lansat fără utilizarea unei soluții informatice care respectă standardele de interoperabilitate."
+   },
+   {
+    "citat": "în termen de un an de la data finalizării proiectului, autoritatea de stat pentru cercetare-dezvoltare sau agenția de finanțare, după caz, are obligația recuperării integrale sau parțiale a fondurilor plătite",
+    "text": "Beneficiarii proiectelor finanțate din fonduri publice trebuie să publice rezultatele în regim de acces deschis în termen de un an de la finalizare, altfel fondurile plătite pot fi recuperate parțial sau integral."
+   },
+   {
+    "citat": "Observatorul de Cercetare, Dezvoltare și Inovare, denumit în continuare OCDI, se înființează și se organizează ca direcție cu caracter permanent în cadrul autorității de stat pentru cercetare-dezvoltare",
+    "text": "Se înființează Observatorul de Cercetare, Dezvoltare și Inovare (OCDI) ca direcție permanentă în cadrul autorității de stat, pentru a monitoriza performanța sistemului și a fundamenta politicile din domeniu."
+   },
+   {
+    "citat": "Unitatea centrală pentru inovare, denumită în continuare RoInovare, se înființează și se organizează ca structură de specialitate operațională în subordinea autorității de stat pentru cercetare-dezvoltare",
+    "text": "Se înființează Unitatea centrală pentru inovare (RoInovare) ca structură de specialitate în subordinea autorității de stat, pentru stimularea inovării și a investițiilor private în domeniu."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritatea de stat pentru cercetare-dezvoltare",
+   "Agențiile de finanțare și instituțiile care derlează programe de cercetare-dezvoltare și inovare",
+   "Beneficiarii de finanțări publice pentru proiecte de cercetare-dezvoltare și inovare",
+   "Întreprinderile și mediul privat implicat în investiții și parteneriate de inovare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește reguli pentru digitalizarea activităților de cercetare-dezvoltare și inovare, crearea unor instrumente de sprijin pentru investiții publice și private și înființarea unor structuri noi, precum Observatorul de Cercetare, Dezvoltare și Inovare și Unitatea centrală pentru inovare (RoInovare).",
+  "tip": "lege nouă",
+  "titlu_simplu": "Măsuri pentru digitalizarea cercetării și stimularea investițiilor în inovare"
+ },
+ "generated_at": "2026-10-29T18:40:58+00:00",
+ "idp": 23386,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0e932392bf35af763351c59ac0cb325a86d9e63ff7fb371d1391afa2b62d2e9f",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr490_26.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-10-29T18:41:04+00:00",
+ "idp": 23389,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 1: numerele 5 nu apar în citatul punctului']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "be959322073385894ea1f17ea02690f5e1573c54607734d6c98a9596846af688",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr497_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

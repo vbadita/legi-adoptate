@@ -6,7 +6,11 @@
   "day": "2026-07-03",
   "number": "121/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-07-03",
+  "number": "550/2026",
+  "verified": null
+ },
  "number": "Pl-x nr. 321/2026",
  "promulgation": {
   "day": "2026-07-03",
@@ -106,7 +110,7 @@
   {
    "day": "2026-07-03",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 375/2026 devine Legea nr.121/2026"
+   "text": "promulgata prin Decret nr. 375/2026 devine Legea nr. 121/2026"
   }
  ],
  "title": "Propunere legislativă pentru modificarea şi completarea Legii audiovizualului nr.504/2002",

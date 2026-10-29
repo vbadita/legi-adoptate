@@ -1,0 +1,41 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Începând cu semestrul II al anului 2026, Casa Națională de Asigurări de Sănătate dezvoltă, administrează și pune la dispoziția asiguraților portalul «e-SănătateaMea»...",
+    "text": "Casa Națională de Asigurări de Sănătate dezvoltă și pune la dispoziție portalul e-SănătateaMea începând cu semestrul II al anului 2026."
+   },
+   {
+    "citat": "...un portal electronic pentru programarea pacienților, pe care toți furnizorii au obligația să îl utilizeze începând cu trimestrul IV al anului 2026.",
+    "text": "Toți furnizorii au obligația să folosească portalul electronic pentru programarea pacienților începând cu trimestrul IV al anului 2026."
+   },
+   {
+    "citat": "Până la data prevăzută la alin. (2^3) se derulează un proiect-pilot de operaționalizare a acestui portal.",
+    "text": "Un proiect-pilot pentru operaționalizarea portalului de programări se derulează până la data de începere a obligativității."
+   }
+  ],
+  "cine_este_afectat": [
+   "Asigurații",
+   "Casa Națională de Asigurări de Sănătate",
+   "Furnizorii de servicii medicale, medicamente și dispozitive medicale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce portalul informatic e-SănătateaMea pentru pacienți, administrat de Casa Națională de Asigurări de Sănătate.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Portalul e-SănătateaMea"
+ },
+ "generated_at": "2026-10-29T18:41:31+00:00",
+ "idp": 23421,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "29360d315add15a280a8dce7c20d2c2b0f94635a6d3df6360185013a3f198393",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl500_pr500_26.pdf"
+ },
+ "status": "ok"
+}

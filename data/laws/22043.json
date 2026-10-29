@@ -6,7 +6,11 @@
   "day": "2026-07-02",
   "number": "113/2026"
  },
- "monitor": null,
+ "monitor": {
+  "day": "2026-07-02",
+  "number": "545/2026",
+  "verified": null
+ },
  "number": "PL-x nr. 564/2024",
  "promulgation": {
   "day": "2026-07-02",
@@ -186,7 +190,7 @@
   {
    "day": "2026-07-02",
    "kind": "promulgated",
-   "text": "promulgata prin Decret nr. 367/2026 devine Legea nr.113/2026"
+   "text": "promulgata prin Decret nr. 367/2026 devine Legea nr. 113/2026"
   }
  ],
  "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.108/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
