@@ -2,10 +2,16 @@
  "character": "ordinar",
  "decisional_chamber": "Camera Deputaților",
  "idp": 23280,
- "law": null,
+ "law": {
+  "day": "2026-10-30",
+  "number": "205/2026"
+ },
  "monitor": null,
  "number": "PL-x nr. 410/2026",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-10-30",
+  "decree": "824/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-07",
@@ -111,6 +117,11 @@
    "day": "2026-10-14",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-10-30",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 824/2026 devine Legea nr.205/2026"
   }
  ],
  "title": "Proiect de Lege pentru completarea Ordonanţei Guvernului nr.22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii",

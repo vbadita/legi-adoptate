@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic.- Se ratifică Acordul dintre Guvernul României şi Guvernul Republicii Moldo~a privind controlul coordonat pe teritoriul României, pe ambele sensuri de control, in punctul feroviar de trecere a ti-ontierei de stat Fălciu (România) - Cantemir (Republica Moldo.a), semnat In I octombrie 2025 la Bucureşti.",
+    "text": "Se aprobă ratificarea acordului dintre Guvernul României și Guvernul Republicii Moldova referitor la controlul coordonat în punctul feroviar de trecere a frontierei Fălciu - Cantemir."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile cu atribuții de frontieră",
+   "Călătorii care trec frontiera prin punctul feroviar Fălciu - Cantemir"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă legea prin care se ratifică Acordul cu Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României, pe ambele sensuri, în punctul feroviar de trecere a frontierei Fălciu - Cantemir, semnat la 1 octombrie 2025 la București.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Ratificarea Acordului privind controlul coordonat la Fălciu - Cantemir"
+ },
+ "generated_at": "2026-10-30T18:37:46+00:00",
+ "idp": 23111,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "16b57d7eeeac7f41923f7921c643596e20deb481c411f83863805ee0c2c2e7c2",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L326LP.PDF"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "g) telereabilitarea.",
+    "text": "Lista serviciilor de telemedicină este completată cu telereabilitarea."
+   },
+   {
+    "citat": "a) medicii cu specialitatea recuperare, medicină fizică şi balneologie/medicină fizică şi de reabilitare;",
+    "text": "Serviciile de telereabilitare pot fi oferite de medici cu specialitatea recuperare, medicină fizică și balneologie/medicină fizică și de reabilitare."
+   },
+   {
+    "citat": "Telereabilitarea reprezintă furnizarea la distanţă a serviciilor de medicină fizică şi de reabilitare şi a serviciilor conexe actului medical, utilizând mijloace digitale pentru realizarea consultului, evaluării funcţionale, intervenţiei terapeutice de specialitate, educării pacientului şi monitorizării acestuia.",
+    "text": "Telereabilitarea reprezintă furnizarea la distanță a serviciilor de medicină fizică și de reabilitare și a serviciilor conexe, folosind mijloace digitale."
+   },
+   {
+    "citat": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Ministerul Sănătății elaborează normele metodologice de punere în aplicare a acesteia, care vor fi aprobate prin hotărâre a Guvernului.",
+    "text": "Ministerul Sănătății elaborează normele metodologice în termen de 30 de zile de la intrarea în vigoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Medicii de recuperare, cardiologie, neurologie, ortopedie și alte specialități",
+   "Furnizorii de servicii conexe actului medical autorizați",
+   "Pacienții care au nevoie de servicii de recuperare la distanță",
+   "Ministerul Sănătății"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce telereabilitarea ca serviciu de telemedicină ce poate fi oferit la distanță de către medici de specialitate și furnizori autorizați.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Servicii de telereabilitare în sistemul de sănătate"
+ },
+ "generated_at": "2026-10-30T18:37:42+00:00",
+ "idp": 23063,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "fdc5031e84fe246e117829c5a1aac256f30b8306db9821f832f880f12466f1cc",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl153_pr153_26.pdf"
+ },
+ "status": "ok"
+}

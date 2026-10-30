@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "o indemnizaţie lunară reparatorie, în cuantum de 5.000 lei",
+    "text": "Se acordă o indemnizație lunară reparatorie în cuantum de 5.000 lei pentru titularii certificatului de recunoaștere."
+   },
+   {
+    "citat": "reducerea cu 5 ani a vârstei standard de pensionare prevăzută de lege, fără penalizare, cu condiția realizării unui stagiu de cotizare de cel puțin de 15 ani",
+    "text": "Titularii beneficiază de reducerea cu 5 ani a vârstei standard de pensionare, fără penalizare, dacă au un stagiu de cotizare de cel puțin 15 ani."
+   },
+   {
+    "citat": "accesul gratuit la tratamente şi medicamente în spitalele, policlinicile, bazele de tratament şi unităţile din staţiuni balneare, climatice şi balneoclimatice, aparţinând Ministerului Sănătăţii, Ministerului Apărării Naţionale şi Ministerului Afacerilor Interne",
+    "text": "Se asigură accesul gratuit la tratamente și medicamente în spitalele și unitățile deținute de Ministerul Sănătății, MAI și MApN."
+   },
+   {
+    "citat": "scutirea de la plata taxelor şi impozitelor pentru o locuinţă şi terenul aferent acesteia, pentru un autoturism hycomat sau hidramat şi mototriciclu, aflate în proprietate sau în coproprietate cu soţul/soţia",
+    "text": "Se acordă scutirea de la plata taxelor și impozitelor pentru o locuință și terenul aferent, precum și pentru un autoturism hycomat, hidramat sau mototriciclu."
+   },
+   {
+    "citat": "transportul urban gratuit cu mijloacele de transport în comun şi, anual, 12 călătorii gratuite pe calea ferată, la clasa I, dus-întors, cu toate categoriile de trenuri de călători",
+    "text": "Se asigură transportul urban gratuit și anual 12 călătorii gratuite pe calea ferată, la clasa I, dus-întors, cu toate categoriile de trenuri."
+   }
+  ],
+  "cine_este_afectat": [
+   "Urmașii persoanelor decedate în timpul evenimentelor din 13-15 iunie 1990",
+   "Persoanele rănite în timpul evenimentelor",
+   "Persoanele care au fost arestate sau reținute din cauza participării la evenimente",
+   "Instituțiile statului implicate în acordarea drepturilor și verificarea dosarelor"
+  ],
+  "de_cand": "1 ianuarie 2027",
+  "pe_scurt": "Legea stabilește calitățile și drepturile acordate victimelor evenimentelor din 13-15 iunie 1990 de la București, inclusiv o indemnizație lunară, gratuități medicale, de transport și reduceri la vârsta de pensionare.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Drepturi pentru victimele mineriadei din 13-15 iunie 1990"
+ },
+ "generated_at": "2026-10-30T18:37:02+00:00",
+ "idp": 20674,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "83b0ff39508d4f6fd6894eded33b18c885ebbec412de48c9c8579d7398f98437",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl079_pr079_23.pdf"
+ },
+ "status": "ok"
+}

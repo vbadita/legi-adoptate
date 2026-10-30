@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "15% din suma brută se face venit la Ministerul Energiei, se reține în contul de disponibil deschis pe numele Ministerului Finanțelor la Trezoreria operativă centrală și se virează de către gestionarul contului, în termen de 5 zile lucrătoare de la solicitarea Ministerului Energiei... dar nu mai puțin de contravaloarea în lei a sumei de 150 milioane euro",
+    "text": "15% din suma brută obținută merge la Ministerul Energiei pentru măsuri financiare în favoarea sectoarelor expuse riscului de relocare a emisiilor sau proiecte de reducere a gazelor, dar nu mai puțin de 150 milioane euro."
+   },
+   {
+    "citat": "În situația în care contravaloarea în lei a sumelor obținute din vânzarea de certificate în procent de 15% nu acoperă valoarea de 150 milioane euro pentru plata ajutorului de stat, diferența se acoperă din sumele prevăzute la lit. a).",
+    "text": "Dacă suma de 15% nu acoperă 150 milioane euro pentru ajutorul de stat, diferența se completează din alte sume încasate conform legii."
+   },
+   {
+    "citat": "Dacă până la data de 30 noiembrie a fiecărui an, suma virată conform alin. (1) lit. c) nu atinge pragul de 150 milioane euro, plata sumelor suplimentare reprezentând diferența... se efectuează către beneficiarii finali de către Ministerul Energiei până în data de 15 decembrie a fiecărui an.",
+    "text": "Dacă până la 30 noiembrie suma virată nu atinge pragul de 150 milioane euro, Ministerul Energiei face plata diferenței către beneficiari până la 15 decembrie."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Energiei",
+   "Ministerul Finanțelor",
+   "Întreprinderile din sectoare expuse riscului de relocare a emisiilor de dioxid de carbon"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 55/2025 și stabilește reguli clare pentru repartizarea sumelor obținute din vânzarea certificatelor de emisii de gaze cu efect de seră, stabilind un prag de 150 milioane euro pentru ajutoarele destinate sectoarelor expuse costurilor indirecte.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG privind licitarea certificatelor de emisii de gaze cu efect de seră"
+ },
+ "generated_at": "2026-10-30T18:37:32+00:00",
+ "idp": 22748,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6c79eb9065af5b9bb5de7b5a7eb7f76035bb34e37aa3b86cee87d46f8313917b",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?F1778107575/pr464_25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-10-29T18:41:16+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În anii bugetari 2027 - 2031, finanțarea obiectivelor de investiții, conform listei obiectivelor de investiții, este de cel puțin 12 % din totalul cheltuielilor din surse proprii, raportat la bugetul de venituri și cheltuieli anual, aprobat initial.",
+    "text": "În anii bugetari 2027 - 2031, finanțarea obiectivelor de investiții este de cel puțin 12% din totalul cheltuielilor din surse proprii."
+   },
+   {
+    "citat": "Începând cu anul bugetar 2032, finanțarea obiectivelor de investiții, conform listei obiectivelor de investiții, este de cel puțin 18% din totalul cheltuielilor din surse proprii, raportat la bugetul de venituri și cheltuieli anual, aprobat inițial.",
+    "text": "Începând cu anul bugetar 2032, finanțarea obiectivelor de investiții este de cel puțin 18% din totalul cheltuielilor din surse proprii."
+   },
+   {
+    "citat": "Administrația Națională «Apele Române» are dreptul de a institui un sistem propriu de contorizare și un sistem informatic integrat de monitorizare a volumelor de apă utilizate și/sau evacuate",
+    "text": "Administrația Națională „Apele Române” poate institui un sistem propriu de contorizare și monitorizare a volumelor de apă."
+   },
+   {
+    "citat": "începând cu data de 1 ianuarie 2027, aplicarea unei majorări procentuale de 2,00 % la contribuțiile, tarifele și penalitățile aferente mecanismului economic, pentru fiecare categorie de utilizatori de apă, cu excepția contribuției pentru irigații - apă brută suprafață și subteran",
+    "text": "Se aplică o majorare procentuală de 2,00% la contribuții, tarife și penalități începând cu 1 ianuarie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Administrația Națională „Apele Române”",
+   "Operatorii economici care utilizează sau evacuează resurse de apă",
+   "Producătorii de energie electrică prin hidrocentrale",
+   "Operatorii economici din sectorul de gospodărie comunală, instituțiile publice și unitățile de cult"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări privind finanțarea investițiilor Administrației Naționale „Apele Române”, sistemul de contorizare a apei și actualizează contribuțiile, tarifele și penalitățile din domeniu.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări în domeniul apelor, finanțare și contorizare"
+ },
+ "generated_at": "2026-10-30T18:36:32+00:00",
  "idp": 23419,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 4: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "fc68bc16771d5fdb225a8507cb4fe586b94be0a23563dd11264feefb164d764a",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr505_26.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

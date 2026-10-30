@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 163 din 29 noiembrie 2022 pentru completarea cadrului legal de promovare a utilizării energiei din surse regenerabile, precum şi pentru modificarea şi completarea unor acte normative",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 163 din 29 noiembrie 2022."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile statului",
+   "Actorii implicați în domeniul energiei regenerabile"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 163/2022 referitoare la completarea cadrului legal pentru energia din surse regenerabile și modificarea altor acte normative.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 163/2022 privind energia regenerabilă"
+ },
+ "generated_at": "2026-10-30T18:36:55+00:00",
+ "idp": 20634,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "90bcaff50512df3e01d47bbc5410f78a5a5434e61875d7c909ab6360b57e1eec",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?F1837299486/pr038_23.pdf"
+ },
+ "status": "ok"
+}

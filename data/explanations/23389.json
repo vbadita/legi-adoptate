@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-29T18:41:04+00:00",
+ "generated_at": "2026-10-30T18:36:23+00:00",
  "idp": 23389,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: numerele 5 nu apar în citatul punctului']",
+ "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text', 'punctul 4: numerele 0,5 nu apar în citatul punctului']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr497_26.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

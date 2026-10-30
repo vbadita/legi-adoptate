@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-10-29T18:41:40+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Contractul de finanțare - Autostrada A1 Cofinanțare aferentă fondurilor de coeziune ale UE B - dintre România și Banca Europeană de Investiții, semnat la București la 15 ianuarie 2026 și la Luxemburg la 19 ianuarie 2026, în valoare de 500 de milioane de euro",
+    "text": "Se aprobă Contractul de finanțare în valoare de 500 de milioane de euro semnat cu Banca Europeană de Investiții."
+   },
+   {
+    "citat": "Ministerului Transporturilor și Infrastructurii i se deleagă întreaga autoritate și responsabilitate privind realizarea proiectului „Autostrada A1” ... Ministerul Transporturilor și Infrastructurii asigură implementarea Proiectului prin Compania Națională de Administrare a Infrastructurii Rutiere - S.A.",
+    "text": "Ministerul Transporturilor și Infrastructurii se ocupă de realizarea proiectului Autostrada A1 prin Compania Națională de Administrare a Infrastructurii Rutiere - S.A."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Transporturilor și Infrastructurii",
+   "Ministerul Finanțelor",
+   "Compania Națională de Administrare a Infrastructurii Rutiere - S.A."
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă un contract de finanțare de 500 de milioane de euro între România și Banca Europeană de Investiții pentru Autostrada A1. Sumele sunt utilizate pentru finanțarea deficitului bugetului de stat și refinanțarea datoriei publice.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Finanțare pentru Autostrada A1"
+ },
+ "generated_at": "2026-10-30T18:36:45+00:00",
  "idp": 23112,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "unexpected gemini response",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +33,5 @@
   "sha256": "aab3c64d4bf45e239105246d03298968b7ef469ead1a57ee7ad347b629136eff",
   "url": "https://www.senat.ro/legis/PDF/2026/26L337LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

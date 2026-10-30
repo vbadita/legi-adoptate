@@ -1,0 +1,33 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic.- Se ratitică Memorandumul de În~elegere privind cooperarea militară dintre Guvernul României, reprezentat de Ministerul Apărării Nationale, şi Guvernul Republicii Arabe Egipt, reprezentat de Ministerul Apărării, semnat la Cairo, la 2 noiembrie 2025.",
+    "text": "Se aprobă ratificarea Memorandumului de Înțelegere privind cooperarea militară semnat la Cairo la 2 noiembrie 2025."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Apărării Naționale",
+   "Guvernul României",
+   "Guvernul Republicii Arabe Egipt"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă legea prin care se ratifică Memorandumul de Înțelegere privind cooperarea militară dintre Guvernul României și Guvernul Republicii Arabe Egipt, semnat la Cairo în 2 noiembrie 2025.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Ratificarea cooperării militare cu Egiptul"
+ },
+ "generated_at": "2026-10-30T18:37:51+00:00",
+ "idp": 23136,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "99dceebe41e89ba3e6dc7e1a0064f85a1b9b6eb7d5a98dfef18eac16b0ae3431",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L338LP.PDF"
+ },
+ "status": "ok"
+}

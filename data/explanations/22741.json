@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Participarea gospodăriilor ţărăneşti în cadrul Programului se realizează pe baza declaraţiei de înregistrare depusă la primărie şi a certificatului de producător de activităţi rurale emis de primărie.",
+    "text": "Participarea gospodăriilor țărănești în cadrul Programului se face pe baza unei declarații de înregistrare și a unui certificat de producător emis de primărie."
+   },
+   {
+    "citat": "Pentru derularea şi susţinerea Programului, Ministerul Agriculturii şi Dezvoltării Rurale dezvoltă o platformă electronică națională denumită „Viaţa la ţară”.",
+    "text": "Ministerul Agriculturii dezvoltă o platformă electronică națională „Viaţa la ţară” pentru înscriere, prezentare, rezervare și plată online a serviciilor."
+   },
+   {
+    "citat": "Veniturile realizate de persoanele fizice în baza activităţilor Programului reprezintă venituri din activităţi independente pentru care venitul net anual se determină pe baza normelor de venit...",
+    "text": "Veniturile realizate din activitățile din Program sunt considerate venituri din activități independente, impozitate pe baza normelor de venit stabilite prin ordin comun."
+   },
+   {
+    "citat": "Statul sprijină gospodăriile țărănești participante prin: a) elaborarea de ghiduri de bune practici... b) cursuri gratuite de instruire... c) programe de finanţare...",
+    "text": "Statul oferă sprijin prin ghiduri de bune practici, cursuri gratuite de instruire și programe de finanțare pentru conservarea ecosistemelor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Gospodăriile țărănești",
+   "Ministerul Agriculturii şi Dezvoltării Rurale",
+   "Primăriile",
+   "Agenția Națională de Administrare Fiscală"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se înființează Programul național „Viaţa la ţară” pentru a promova gospodăriile țărănești și patrimoniul rural. Participarea se face pe baza unei declarații la primărie și a unui certificat de producător de activități rurale.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Programul național Viaţa la ţară pentru agroturism"
+ },
+ "generated_at": "2026-10-30T18:37:27+00:00",
+ "idp": 22741,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c08f0e80bf5ef3c287c25fad2131ac30167a5a7c4ef73670789ca2d8ed29c370",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl122_pr122_26.pdf"
+ },
+ "status": "ok"
+}
