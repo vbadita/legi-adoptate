@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanța de urgență a Guvernului nr. 42 din 25 aprilie 2024 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 173/2022...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 42 din 25 aprilie 2024."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituciile publice implicate în gestionarea fondurilor din Planul Național de Redresare și Reziliență"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul adoptă legea prin care se aprobă Ordonanța de urgență a Guvernului nr. 42/2024. Aceasta se referă la măsuri pentru îndeplinirea unor jaloane și ținte din Planul Național de Redresare și Reziliență.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 42/2024 privind măsuri pentru Planul Național de Redresare și Reziliență"
+ },
+ "generated_at": "2026-10-31T18:35:34+00:00",
+ "idp": 21792,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "79248741df01799c54516ea27b8ac5d06f1be1faa9617fa2414425ba0a734ad2",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl319_pr319_24.pdf"
+ },
+ "status": "ok"
+}

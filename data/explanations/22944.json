@@ -1,0 +1,40 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Începând cu data de 1 octombrie 2026, rovinietele emise în baza prevederilor Ordonanței Guvernului nr. 15/2002 ... îşi încetează valabilitatea, cu excepția celor emise pentru vehiculele prevăzute la art. 4 alin. (1) care își mențin valabilitatea până la data expirării.",
+    "text": "Rovinietele își încetează valabilitatea la data de 1 octombrie 2026, cu excepția celor emise pentru vehiculele de la art. 4 alin. (1)."
+   },
+   {
+    "citat": "Termenele prevăzute la art. 4 alin. (1), art. 11 alin. (1), art. 12 alin. (1), art. 24 alin. (1) și (3) şi art. 29 alin. (1) și (2) din Legea nr. 226/2023 ... se prorogă până la data de 1 octombrie 2026.",
+    "text": "Mai multe termene din Legea nr. 226/2023 sunt prorogate până la data de 1 octombrie 2026."
+   },
+   {
+    "citat": "Prevederile art. 11 alin. (2) din Legea nr. 226/2023 ... se aplică începând cu data de 15 ianuarie 2027.",
+    "text": "Prevederile art. 11 alin. (2) din Legea nr. 226/2023 se aplică începând cu data de 15 ianuarie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Șoferii și deținătorii de vehicule",
+   "Instituțiile responsabile cu aplicarea tarifelor rutiere"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 74/2025 și prelungește anumite termene referitoare la tarifele rutiere și roviniete.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG 74/2025 și modificarea unor termene privind tarifele rutiere"
+ },
+ "generated_at": "2026-10-31T18:36:19+00:00",
+ "idp": 22944,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "5fe4e261d342873e3ca7841f2ea1630cd57887ef984586b3211fd8e6134dc330",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl034_pr034_26.pdf"
+ },
+ "status": "ok"
+}

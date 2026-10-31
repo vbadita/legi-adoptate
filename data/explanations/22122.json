@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 126 din 23 octombrie 2024 pentru modificarea şi completarea Legii nr. 96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK – S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative",
+    "text": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 126 din 23 octombrie 2024."
+   }
+  ],
+  "cine_este_afectat": [
+   "Banca de Export-Import a României EXIMBANK – S.A."
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 126/2024 care modifică și completează Legea nr. 96/2000 despre Banca de Export-Import a României EXIMBANK – S.A., aduce măsuri bugetare și modifică alte acte normative.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 126/2024 privind EXIMBANK"
+ },
+ "generated_at": "2026-10-31T18:35:54+00:00",
+ "idp": 22122,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "24020e2d0dd699362f0fc37975c335517bca6d7f9c2b752bf48cb0fe9c3234d3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl642_pr642_24.pdf"
+ },
+ "status": "ok"
+}

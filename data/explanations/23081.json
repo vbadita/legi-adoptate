@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. - Se aprobă Ordonanța de urgență a Guvernului nr. 3 din 12 februarie 2026 pentru modificarea şi completarea Ordonanței de urgență a Guvernului nr. 23/2023 ... precum şi a Ordonanței de urgență a Guvernului nr. 124/2021 ... precum şi pentru modificarea şi completarea Ordonanței de urgență a Guvernului nr. 155/2020 ...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 3 din 12 februarie 2026 pentru modificarea şi completarea unor ordonanțe de urgență privind gestionarea fondurilor europene și a Planului național de redresare şi reziliență."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile implicate în gestionarea fondurilor europene și a Planului național de redresare și reziliență"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 3 din 12 februarie 2026. Aceasta se referă la gestionarea fondurilor europene și a Planului național de redresare și reziliență.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 3/2026 pentru fonduri europene"
+ },
+ "generated_at": "2026-10-31T18:36:41+00:00",
+ "idp": 23081,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b6d477b3214cc375bd21d6a3751bdd172f5e6e0e6b190bc3b136f4124a40fc40",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl172_pr172_26.pdf"
+ },
+ "status": "ok"
+}

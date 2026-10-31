@@ -1,0 +1,34 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Ministerul Culturii și instituțiile publice aflate în subordinea acestuia, bibliotecile centrale universitare, care sunt în subordinea și finanțarea Ministerului Educației și Cercetării, precum și bibliotecile județene aflate în subordinea consiliilor județene au dreptul să rețină, în condițiile legii, din chirie o cotă-parte de 50%, stabilită, după caz, prin hotărâre a Guvernului sau a consiliului județean.",
+    "text": "Ministerul Culturii, instituțiile sale subordonate, bibliotecile centrale universitare și bibliotecile județene pot reține 50% din chirie."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Culturii",
+   "Instituțiile publice din subordinea Ministerului Culturii",
+   "Bibliotecile centrale universitare",
+   "Bibliotecile județene"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește ce cotă-parte din chirie pot păstra Ministerul Culturii, instituțiile din subordinea sa, bibliotecile centrale universitare și bibliotecile județene.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Codului administrativ privind chiriile unor biblioteci și instituții de cultură"
+ },
+ "generated_at": "2026-10-31T18:36:14+00:00",
+ "idp": 22881,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "cb28526f0adbde17fcfd4c13d22f9150494296aa10965f13724c9c3395edb21a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl582_pr582_25.pdf"
+ },
+ "status": "ok"
+}

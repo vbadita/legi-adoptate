@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-10-30T18:36:23+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "evidențierea distinctă fizică și valorică a lucrărilor auxiliare nefinalizate, dar fără a se depăși 5% din valoarea contractului",
+    "text": "Se poate aproba recepția lucrărilor executate cu suspendarea recepției pentru lucrări auxiliare nefinalizate care nu depășesc 5% din valoarea contractului."
+   },
+   {
+    "citat": "Termenul prevăzut la alin. (2) lit. f) nu poate depăși 120 de zile de la data semnării procesului-verbal de recepție și nu poate fi prelungit",
+    "text": "Termenul pentru finalizarea lucrărilor auxiliare pentru care s-a suspendat recepția nu poate depăși 120 de zile de la semnarea procesului-verbal de recepție."
+   },
+   {
+    "citat": "Lipsa racordării definitive la rețeaua publică de energie electrică nu împiedică admiterea recepției lucrărilor executate, dacă sunt îndeplinite condițiile prevăzute de prezenta lege și există o soluție provizorie sau alternativă de alimentare cu energie electrică.",
+    "text": "Lipsa racordării definitive la rețeaua electrică nu împiedică recepția lucrărilor dacă există o soluție provizorie și sunt îndeplinite cerințele de calitate."
+   },
+   {
+    "citat": "Nu pot fi emise certificate de edificare și nu pot fi intabulate clădirile pentru care se aplică mecanismul prevăzut de prezenta lege, înainte de finalizarea tuturor lucrărilor de execuție autorizate, atât esențiale, cât și auxiliare.",
+    "text": "Nu se pot emite certificate de edificare și nu se pot intabula clădirile până la finalizarea tuturor lucrărilor autorizate, atât esențiale, cât și auxiliare."
+   },
+   {
+    "citat": "cu amendă de la 1% la 5% din valoarea lucrărilor încadrate nelegal, fără a depăși 500.000 lei, pentru contravențiile prevăzute la alin. (3) lit. a)",
+    "text": "Nerespectarea regulilor privind încadrarea lucrărilor, termenele sau regularizarea financiară se sancționează cu amenzi stabilite ca procent din valoarea lucrărilor sau sume fixe."
+   }
+  ],
+  "cine_este_afectat": [
+   "Beneficiarii de investiții publice",
+   "Constructorii și executanții de lucrări",
+   "Proiectanții și diriginții de șantier",
+   "Inspectoratul de Stat în Construcții"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce reguli temporare care permit recepționarea și decontarea investițiilor publice în construcții chiar dacă anumite lucrări auxiliare sau branșamente electrice definitive nu sunt gata, cu condiția ca lucrările esențiale să fie finalizate.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Măsuri pentru accelerarea investițiilor publice în construcții"
+ },
+ "generated_at": "2026-10-31T18:35:16+00:00",
  "idp": 23389,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text', 'punctul 4: numerele 0,5 nu apar în citatul punctului']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "be959322073385894ea1f17ea02690f5e1573c54607734d6c98a9596846af688",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?pr497_26.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

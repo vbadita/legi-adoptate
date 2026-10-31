@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. 1. - Se instituie anul 2026 ca Anul Traian Vuia pentru ... 120 de ani de la primul zbor din istoria omenirii cu un aparat mai greu decât aerul, care s-a ridicat de la sol prin mijloace proprii.",
+    "text": "Se instituie anul 2026 ca Anul Traian Vuia pentru celebrarea a 120 de ani de la primul zbor din istoria omenirii cu un aparat mai greu decât aerul, care s-a ridicat de la sol prin mijloace proprii."
+   },
+   {
+    "citat": "Parlamentul, Administrația Prezidențială, Guvernul, autoritățile administrației publice locale, precum şi instituțiile publice ... pot organiza sau sprijini logistic şi material manifestări de celebrare a personalității lui Traian Vuia, inclusiv evenimente culturale, educaționale şi ştiințifice",
+    "text": "Autoritățile publice pot organiza sau sprijini manifestări culturale, educaționale și științifice."
+   },
+   {
+    "citat": "pot aloca fonduri din bugetele proprii în vederea organizării şi derulării în bune condiții a manifestărilor prevăzute la alin. (1), în limita alocărilor bugetare aprobate.",
+    "text": "Instituțiile statului pot aloca fonduri din bugetele proprii pentru organizarea manifestărilor, în limita sumelor aprobate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Parlamentul",
+   "Administrația Prezidențială",
+   "Guvernul",
+   "Autoritățile administrației publice locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 ca Anul Traian Vuia pentru a celebra 120 de ani de la primul zbor din istoria omenirii cu un aparat mai greu decât aerul. Autoritățile pot organiza evenimente și pot aloca fonduri pentru acestea.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Anul 2026 declarat Anul Traian Vuia"
+ },
+ "generated_at": "2026-10-31T18:36:29+00:00",
+ "idp": 23036,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "852763725de6aa2ff24b2dbfb3ba7d8606e16dbf95e34128d003fa0e63f47d64",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl109_pr109_26.pdf"
+ },
+ "status": "ok"
+}

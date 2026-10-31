@@ -1,0 +1,33 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La solicitarea asociațiilor de proprietari, autoritățile deliberative ale administrației publice locale pot aproba, prin hotărâre, finanțarea din bugetele locale a cheltuielilor necesare pentru reparații și întreținere, respectiv realizarea lucrărilor de reparații și întreținere, după caz, a fondului privat de adăpostire situat în condominii de tip bloc.",
+    "text": "Autoritățile locale pot aproba finanțarea din bugetul local a cheltuielilor sau a lucrărilor pentru reparații și întreținere a adăposturilor din blocuri, la cererea asociațiilor de proprietari."
+   }
+  ],
+  "cine_este_afectat": [
+   "Asociațiile de proprietari",
+   "Autoritățile administrației publice locale",
+   "Locatarii din blocuri cu fond privat de adăpostire"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea permite autorităților locale să finanțeze din bugetul local reparațiile și întreținerea adăposturilor de protecție civilă din blocuri, la cererea asociațiilor de proprietari.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Finanțarea adăposturilor din blocuri de la bugetul local"
+ },
+ "generated_at": "2026-10-31T18:36:24+00:00",
+ "idp": 22981,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4df230265f8302109d6fc6edaf21f0787452f589c52defd7f3cf7f66df055901",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl066_pr066_26.pdf"
+ },
+ "status": "ok"
+}

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T18:37:57+00:00",
+ "generated_at": "2026-10-31T18:35:27+00:00",
  "idp": 23219,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text', 'punctul 5: citatul nu apare exact în text']",
+ "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2026/26L328LP.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 108 din 9 septembrie 2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 109/2011...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 108 din 9 septembrie 2024."
+   }
+  ],
+  "cine_este_afectat": [
+   "Întreprinderile publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă Ordonanța de urgență a Guvernului nr. 108/2024 care modifică și completează legislația privind guvernanța corporativă a întreprinderilor publice.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 108/2024 privind guvernanța corporativă"
+ },
+ "generated_at": "2026-10-31T18:35:49+00:00",
+ "idp": 22043,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e2370172af0fa114a19b261a3fb094d6dd768a44135c091a5cd9ca759c76bc0c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl564_pr564_24.pdf"
+ },
+ "status": "ok"
+}

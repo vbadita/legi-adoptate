@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La nivelul Autorităţii Naţionale pentru Cetăţenie se implementează, în condițiile stabilite prin hotărâre a Guvernului, dosarul electronic al solicitantului în materie de cetățenie sub forma unei platforme online şi a unui sistem informatic de management al documentelor",
+    "text": "Se creează un dosar electronic al solicitantului de cetățenie sub formă de platformă online și sistem informatic administrat de Autoritatea Națională pentru Cetățenie."
+   },
+   {
+    "citat": "solicitanții în cauză au obligația de a-şi crea un cont individual în platforma online prevăzută la alin. (1) şi de a efectua, din contul creat, o cerere de acces la dosarul electronic, în termen de cel mult 90 zile de la data depunerii cererii.",
+    "text": "Persoanele care depun cereri la misiunile diplomatice sau oficiile consulare în străinătate trebuie să își facă cont online și să ceară acces la dosar în cel mult 90 de zile."
+   },
+   {
+    "citat": "solicitanții care au depus cereri de acordare, de redobândire ori de renunțare la cetățenia română anterior datei operaționalizării dosarului electronic... au obligația de a-şi crea un cont individual... în termen de cel mult 180 zile de la data operaționalizării",
+    "text": "Cei care au depus deja cereri aflate în curs de soluționare trebuie să își facă cont și să ceară acces în cel mult 180 de zile de la operaționalizarea sistemului."
+   },
+   {
+    "citat": "Actele şi corespondenţa Autorităţii Naţionale pentru Cetăţenie se consideră comunicate: a) la momentul accesării... b) la expirarea unui termen de 30 de zile de la momentul încărcării documentului... c) la expirarea unui termen de 30 de zile",
+    "text": "Documentele și corespondența de la Autoritatea Națională pentru Cetățenie se consideră comunicate electronic după accesare sau în termen de 30 de zile."
+   },
+   {
+    "citat": "intră în vigoare la data de 30 noiembrie 2026, care reprezintă data operaționalizării dosarului electronic al solicitantului în materie de cetățenie.",
+    "text": "Data de 30 noiembrie 2026 reprezintă data operaționalizării dosarului electronic al solicitantului în materie de cetățenie."
+   }
+  ],
+  "cine_este_afectat": [
+   "Solicitanții de acordare, redobândire sau renunțare la cetățenia română",
+   "Autoritatea Națională pentru Cetățenie",
+   "Misiunile diplomatice și oficiile consulare ale României în străinătate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se introduce dosarul electronic pentru solicitanții de cetățenie română și se stabilesc regulile pentru utilizarea platformei online a Autorității Naționale pentru Cetățenie.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Dosarul electronic pentru cetățenia română"
+ },
+ "generated_at": "2026-10-31T18:35:44+00:00",
+ "idp": 21971,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "27e4b15b63e547e3c57054e6956a33160448e843c45abaa843cca2bb3c80d884",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl495_pr495_24.pdf"
+ },
+ "status": "ok"
+}

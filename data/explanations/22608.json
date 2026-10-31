@@ -1,0 +1,33 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Cererile prevăzute la art. 41 alin. (1)-(6) şi (11)-(16), art. 41^3 alin. (1), art. 41^17 alin. (2), art. 44 alin. (1), (1^2), (2) şi (4), art. 46 alin. (2), art. 47, 48 şi art. 54 alin. (1^3), pot fi depuse şi prin avocat împuternicit de către titular...",
+    "text": "Anumite cereri de stare civilă pot fi depuse prin avocat împuternicit de către titular, reprezentanții legali sau persoanele îndreptățite, în baza împuternicirii avocațiale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Cetățenii care au nevoie de servicii de stare civilă",
+   "Avocații",
+   "Instituțiile cu atribuții în domeniul stării civile"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea permite ca anumite cereri legate de actele de stare civilă să fie depuse și prin avocat împuternicit, folosind împuternicirea avocațială.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Depunerea cererilor de stare civilă prin avocat"
+ },
+ "generated_at": "2026-10-31T18:35:59+00:00",
+ "idp": 22608,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e05cce65c60fa23443839bfdb39557aecbcdb9226bad7c83f98022056a1a3c92",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl012_pr012_26.pdf"
+ },
+ "status": "ok"
+}

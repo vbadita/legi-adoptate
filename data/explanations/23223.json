@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Unitățile emitente de tichete de masă, cadou și sociale, inclusiv cele emise prin Programul Sprijin pentru România, indiferent de modalitatea prin care tichetele sunt emise, în format electronic sau pe suport hârtie, și de tipul acestora, pot aplica comercianților la momentul decontării lor un comision de maximum 2% pentru produsele agricole și alimentare care se pot achiziționa cu acestea, prevăzute în anexa la prezenta ordonanță de urgență.",
+    "text": "Unitățile emitente de tichete pot aplica comercianților un comision de maximum 2% pentru produsele agricole și alimentare achiziționate cu acestea."
+   },
+   {
+    "citat": "Prezenta ordonanță de urgență se aplică până la data de 31 decembrie 2026 inclusiv.",
+    "text": "Măsurile se aplică până la data de 31 decembrie 2026 inclusiv."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile emitente de tichete",
+   "Comercianții și distribuitorii"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență care modifică regulile privind tichetele și adaosul comercial pentru anumite produse agricole și alimentare.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea ordonanței privind prețurile la produse agricole și alimentare"
+ },
+ "generated_at": "2026-10-31T18:36:51+00:00",
+ "idp": 23223,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "df1bbb3f55c6d8df37bd1487a52a95c9a9cf504f8e71970bec469a1f08dd669f",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl340_pr340_26.pdf"
+ },
+ "status": "ok"
+}
