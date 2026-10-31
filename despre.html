@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Despre, surse și metodă · Legi adoptate</title>
+<meta name="description" content="Ce legi a adoptat Parlamentul României, pe zile, explicate pe înțelesul tuturor.">
+<link rel="stylesheet" href="/legi-adoptate/style.css">
+<link rel="alternate" type="application/atom+xml" title="Legi adoptate" href="/legi-adoptate/feed.xml">
+<link rel="icon" href="data:,">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="/legi-adoptate/">Legi adoptate</a>
+  <form class="pick" action="/legi-adoptate/" method="get" role="search">
+    <label for="zi">Alege o zi</label>
+    <input id="zi" name="zi" type="date" min="2026-01-01" max="2026-10-31" required>
+    <button type="submit">Arată</button>
+  </form>
+</header>
+<main>
+<h1>Despre această pagină</h1>
+<p class="lead">Arată, pe zile, legile adoptate definitiv de Parlamentul României și ce schimbă ele, explicat pe înțelesul tuturor.</p>
+
+<h2>Cele trei etape</h2>
+<ol>
+  <li><b>Adoptată de Parlament</b>: ziua votului final. O lege trece prin ambele camere; votul care contează este cel din camera decizională. Imediat după, legea este depusă la Secretarul general, unde poate fi contestată câteva zile la Curtea Constituțională.</li>
+  <li><b>Promulgată</b>: Președintele semnează decretul, iar legea primește numărul (de exemplu Legea nr. 201/2026). Președintele poate cere și reexaminarea; atunci legea se votează din nou și apare încă o dată, în ziua noii adoptări.</li>
+  <li><b>Publicată în Monitorul Oficial</b>: de regulă intră în vigoare la 3 zile după publicare, dacă legea nu prevede altceva.</li>
+</ol>
+
+<h2>Surse</h2>
+<ul>
+  <li><a href="https://www.cdep.ro">Camera Deputaților</a>: parcursul fiecărei legi, voturile, textul trimis la promulgare, numărul legii și Monitorul Oficial în care a apărut.</li>
+  <li><a href="https://www.senat.ro">Senatul</a>: textul legilor pentru care Senatul este cameră decizională.</li>
+  <li><a href="https://monitoruloficial.ro/e-monitor/">Monitorul Oficial, e-Monitor</a> (gratuit prin lege): o verificare pe zi că numărul Monitorului Oficial raportat există în acea zi.</li>
+</ul>
+<p>Datele se citesc automat, politicos (o cerere la câteva secunde), cu identificare publică. Codul și istoricul complet al datelor sunt publice pe <a href="https://github.com/vbadita/legi-adoptate">GitHub</a>.</p>
+
+<h2>Cum se fac explicațiile</h2>
+<p>Pentru fiecare lege, un model de inteligență artificială (Google Gemini) primește <b>doar textul adoptat</b> și scrie o explicație neutră, fără aprecieri și fără comparații cu legea veche (pe care nu o vede). Înainte de publicare, un program verifică automat explicația:</p>
+<ul>
+  <li>fiecare punct are un citat care trebuie să existe <b>exact</b> în textul legii;</li>
+  <li>orice cifră dintr-un punct (pedeapsă, sumă, termen) trebuie să apară în citatul acelui punct;</li>
+  <li>o explicație care nu trece verificarea nu se publică.</li>
+</ul>
+<p>Când textul sursă este doar o scanare (unele legi de la Senat), citatele nu pot fi verificate automat; pagina legii spune asta.</p>
+
+<h2>Limite</h2>
+<ul>
+  <li>Acoperirea începe cu 1 ianuarie 2026: legile adoptate de atunci încoace.</li>
+  <li>O lege votată azi apare după ce Camera Deputaților publică votul, de obicei în aceeași zi; pentru legile decise de Senat, după depunerea la Secretarul general (câteva zile).</li>
+  <li>Explicațiile pot conține greșeli. Textul oficial este cel publicat în Monitorul Oficial.</li>
+</ul>
+<p>Legi urmărite în prezent: 234.</p>
+</main>
+<footer>
+  <p>Date din surse publice: <a href="https://www.cdep.ro">Camera Deputaților</a>, <a href="https://www.senat.ro">Senat</a>, <a href="https://monitoruloficial.ro/e-monitor/">Monitorul Oficial</a>.
+  Explicațiile sunt generate automat și verificate cu textul legii, dar pot conține greșeli: textul oficial este cel din Monitorul Oficial.</p>
+<p>Date actualizate la 31.10.2026, 20:34.</p>  <p><a href="/legi-adoptate/despre.html">Despre, surse și metodă</a> · <a href="https://github.com/vbadita/legi-adoptate">cod sursă</a> · <a href="/legi-adoptate/feed.xml">abonare (Atom)</a> · <a href="/">toate aplicațiile</a></p>
+</footer>
+</body>
+</html>
