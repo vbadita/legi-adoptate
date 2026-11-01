@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-01T18:37:10+00:00",
+ "idp": 22135,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0b0690c5ff27138eaf9b7f6db1f260b4a8a7ae6a0e09460d4ef626c316612c83",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl649_pr_plx_649-24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

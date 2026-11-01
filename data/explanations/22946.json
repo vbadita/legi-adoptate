@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. I. - Se aprobă Ordonanța de urgenţă a Guvernului nr. 76 din 11 decembrie 2025 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 36/2023...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 76 din 11 decembrie 2025."
+   },
+   {
+    "citat": "Art. II. - (1) În anul 2026, începând cu data intrării în vigoare a prezentei legi, se autorizează Ministerul Finanțelor să efectueze, cu încadrarea în nivelul total al fondurilor de la bugetul de stat aprobate, redistribuiri de credite de angajament între ordonatorii principali de credite...",
+    "text": "Ministerul Finanțelor este autorizat să efectueze redistribuiri de credite de angajament între ordonatorii principali de credite pentru contracte de achiziții publice de produse din domeniile apărării și securității în anul 2026."
+   },
+   {
+    "citat": "(2) Se autorizează ordonatorii principali de credite să introducă modificările determinate de aplicarea prevederilor prezentului articol în anexele la bugetele acestora și să le comunice Ministerului Finanțelor în termen de 10 zile de la efectuarea acestora.",
+    "text": "Ordonatorii principali de credite trebuie să comunice modificările bugetare către Ministerul Finanțelor în termen de 10 zile de la efectuarea acestora."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Finanțelor",
+   "Ordonatorii principali de credite",
+   "Instituțiile din sistemul de apărare, ordine publică și siguranță națională"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 76/2025 și stabilește măsuri privind redistribuirea unor credite de angajament pentru achiziții publice în domeniul apărării și securității în anul 2026.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG nr. 76/2025 și redistribuiri de credite pentru apărare"
+ },
+ "generated_at": "2026-11-01T18:37:59+00:00",
+ "idp": 22946,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "aa8aef07a0f38a99d14d3c3b8eabb6e01152f7d0b0438fb3a3c3f4b9012d3f09",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl035_plx_35_26prstema.pdf"
+ },
+ "status": "ok"
+}

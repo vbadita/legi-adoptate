@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Furnizorii de servicii sociale acreditați, publici sau privați, destinați persoanelor cu handicap, au obligația să asigure accesibilizarea informațiilor, comunicării procedurilor interne şi mediului informațional în funcție de tipul de dizabilitate al beneficiarilor direcți, incluzând dizabilități senzoriale, intelectuale, psihice sau de comunicare.",
+    "text": "Furnizorii de servicii sociale acreditați, publici sau privați, trebuie să asigure accesul la informații și proceduri interne adaptat tipului de dizabilitate."
+   },
+   {
+    "citat": "În cadrul serviciilor sociale destinate persoanelor cu dizabilități, furnizorii sunt obligați să asigure, după caz: a) materiale accesibile de tipul: Braille, audio, video subtitrat, interpretare în limbajul mimico-gestual, interpretare în limba semnelor române, comunicare augmentativă şi alternativă; b) persoane specializate în comunicare adaptată... c) semnalizare adaptată cu pictograme... d) proceduri şi ghiduri simplificate... e) tehnologii asistive relevante.",
+    "text": "Furnizorii trebuie să asigure, după caz, materiale accesibile, personal specializat, semnalizare adaptată, proceduri simplificate și tehnologii asistive."
+   }
+  ],
+  "cine_este_afectat": [
+   "Furnizorii de servicii sociale acreditați, publici sau privați",
+   "Persoanele cu handicap sau dizabilități"
+  ],
+  "de_cand": "la un an de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea obligă furnizorii de servicii sociale pentru persoane cu handicap să facă informațiile și mediul informațional accesibile în funcție de tipul dizabilității.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Accesibilizarea serviciilor sociale pentru persoane cu handicap"
+ },
+ "generated_at": "2026-11-01T18:36:43+00:00",
+ "idp": 22847,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "5d14a875dfa6890353264c90b7ce9807dc7d5e8c42dad2d0e36596a22b9950d7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl553_pr553_25.pdf"
+ },
+ "status": "ok"
+}

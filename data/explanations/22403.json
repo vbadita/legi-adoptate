@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Lista organizațiilor internaționale interguvernamentale la care România este parte și pentru care achită cotizații anuale, se aprobă de către Guvern, prin hotărâre.",
+    "text": "Lista organizațiilor internaționale interguvernamentale la care România plătește cotizații anuale se aprobă de Guvern printr-o hotărâre."
+   },
+   {
+    "citat": "Autoritățile publice afișează pe pagina proprie de internet lista entităților menționate la alin. (1) la care participă.",
+    "text": "Autoritățile publice pot decide să participe și la alte entități internaționale și au obligația să afișeze lista acestora pe internet."
+   },
+   {
+    "citat": "Cotizația la bugetul organizațiilor internaționale interguvernamentale la care România este parte, precum și contribuția la bugetul entităților internaționale menționate la art. 2 se plătește conform baremelor stabilite și comunicate de fiecare organizație, respectiv entitate în parte, din bugetul autorității publice competente.",
+    "text": "Plata cotizațiilor și a contribuțiilor se face din bugetul autorității publice competente, pe baza sumelor cerute de fiecare organizație sau entitate."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Guvernul, la inițiativa Ministerului Afacerilor Externe, adoptă hotărârea privind aprobarea listei organizațiilor internaționale interguvernamentale...",
+    "text": "Guvernul are termen de 90 de zile de la intrarea în vigoare a legii să adopte hotărârea cu lista organizațiilor, la propunerea Ministerului Afacerilor Externe."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Autoritățile publice",
+   "Ministerul Afacerilor Externe"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege stabilește cum se aprobă lista organizațiilor internaționale la care România plătește cotizații și cum se fac aceste plăți din bugetul autorităților publice.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Legea privind cotizațiile la organizațiile internaționale"
+ },
+ "generated_at": "2026-11-01T18:36:38+00:00",
+ "idp": 22403,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "74936cd843115bdfb9856d15f37d4a1f39a18262df568d3903f3e9532a46d5a9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?F750354337/pr402_25.pdf"
+ },
+ "status": "ok"
+}

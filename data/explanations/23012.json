@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "sumele acordate angajaților cu contract individual de muncă, cu titlu de participare la profit, în limita a 15% din profitul brut al exercițiului financiar precedent, potrivit condițiilor stabilite la art. 25^2.",
+    "text": "Companiile pot acorda angajaților cu contract individual de muncă venituri din participarea la profit, în limita a 15% din profitul brut al exercițiului financiar precedent."
+   },
+   {
+    "citat": "angajatul beneficiar a avut un raport de muncă cu același angajator și o vechime neîntreruptă de minimum 24 de luni, calculată la data efectuării plății, și nu a avut calitatea de acționar, asociat sau administrator în cadrul contribuabilului în ultimii 5 ani",
+    "text": "Pentru a primi acești bani, angajatul trebuie să aibă o vechime neîntreruptă de cel puțin 24 de luni la același angajator și să nu fi fost acționar, asociat sau administrator în ultimii 5 ani."
+   },
+   {
+    "citat": "Cuantumul venitului din participarea la profit acordat unui angajat beneficiar nu poate depăși, pe an financiar, totalul veniturilor salariale nete încasate de acesta de la același angajator în ultimele 12 luni",
+    "text": "Suma maximă primită de un angajat într-un an nu poate depăși totalul veniturilor salariale nete încasate de la același angajator în ultimele 12 luni."
+   },
+   {
+    "citat": "Companiile cu capital majoritar de stat, precum și regiile autonome, agențiile și autoritățile statului nu vor folosi facilitatea prevăzută la art. 25^2 din Legea nr. 227/2015 privind Codul fiscal",
+    "text": "Companiile de stat și regiile autonome nu pot folosi această facilitate de participare a angajaților la profit."
+   }
+  ],
+  "cine_este_afectat": [
+   "Contribuabilii obligați la plata impozitului pe profit",
+   "Angajații cu contract individual de muncă",
+   "Companiile cu capital majoritar de stat și regiile autonome"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea permite companiilor care plătesc impozit pe profit să ofere angajaților sume din profitul brut, în anumite condiții și limite. Aceste sume sunt considerate cheltuieli deductibile pentru firme și sunt scutite de anumite contribuții sociale obligatorii pentru salariați.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Participarea angajaților la profit"
+ },
+ "generated_at": "2026-11-01T18:37:33+00:00",
+ "idp": 23012,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "5abe5b289987131d5b61d710a7f0484b66ab397cfae5cd7fa11ef43c348e6c89",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl118_pr_plx_118-26.pdf"
+ },
+ "status": "ok"
+}

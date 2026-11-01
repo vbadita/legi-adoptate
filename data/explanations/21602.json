@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-01T18:37:43+00:00",
+ "idp": 21602,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 3: citatul nu apare exact în text', 'punctul 4: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d9e7829526a3d947c3abe66278367384bbc66afdff0478775ff8bbdf8ea94236",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl132_plx_132_24prstema.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie ziua de 15 iunie ca Ziua Națională a Memoriei Victimelor Mineriadei din 13-15 iunie 1990 şi a Represiunii Antidemocratice, cu scopul de a cinsti memoria victimelor represiunii violente din iunie 1990, de a promova educația civică și de a preveni repetarea atrocităților.",
+    "text": "Se stabilește data de 15 iunie ca zi națională pentru a cinsti victimele din iunie 1990, pentru educație civică și prevenirea atrocităților."
+   },
+   {
+    "citat": "autoritățile și instituțiile publice, unitățile și instituțiile de învățământ, mass-media şi organizațiile neguvernamentale pot organiza manifestări culturale, educative şi comemorative dedicate memoriei victimelor şi promovării valorilor democratice.",
+    "text": "Autoritățile, școlile, mass-media și organizațiile neguvernamentale pot organiza evenimente culturale, educative și comemorative."
+   },
+   {
+    "citat": "Societatea Română de Televiziune şi Societatea Română de Radiodifuziune pot difuza emisiuni tematice despre evenimentele din 13-15 iunie 1990.",
+    "text": "Televiziunea Română și Radioul Românesc pot difuza emisiuni despre evenimentele din 13-15 iunie 1990."
+   },
+   {
+    "citat": "Finanțarea cheltuielilor pentru organizarea manifestărilor se poate asigura din bugetele autorităților administrației publice centrale și locale, în limita fondurilor aprobate anual cu această destinație.",
+    "text": "Banii pentru organizarea manifestărilor pot veni din bugetele locale sau centrale, în limita fondurilor aprobate anual."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile și instituțiile publice",
+   "Unitățile și instituțiile de învățământ",
+   "Mass-media",
+   "Organizațiile neguvernamentale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie ziua de 15 iunie ca Ziua Națională a Memoriei Victimelor Mineriadei din 13-15 iunie 1990 și a Represiunii Antidemocratice.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ziua Națională a Memoriei Victimelor Mineriadei"
+ },
+ "generated_at": "2026-11-01T18:38:04+00:00",
+ "idp": 23035,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d2463e78802e1e399b5fc2fbb77895a1b1f5a89aebe36b2dd5518e96ba569a4e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl108_pr108_26.pdf"
+ },
+ "status": "ok"
+}

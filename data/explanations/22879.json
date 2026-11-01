@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Comitetele sectoriale sunt instituții de dialog social de utilitate publică, cu personalitate juridică, organizate în baza dispozițiilor prezentei legi la nivelul sectoarelor de negociere colectivă, astfel cum acestea sunt aprobate prin ordin al ministrului responsabil cu dialogul social",
+    "text": "Comitetele sectoriale sunt definite ca instituții de dialog social de utilitate publică, cu personalitate juridică, organizate la nivelul sectoarelor de negociere colectivă."
+   },
+   {
+    "citat": "Două posturi în cadrul secretariatului tehnic al comitetului sectorial/multisectorial sunt finanțate de la bugetul de stat, la nivelul câștigului salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat, pentru fiecare post.",
+    "text": "Două posturi în cadrul secretariatului tehnic al fiecărui comitet sectorial sau multisectorial sunt finanțate de la bugetul de stat."
+   },
+   {
+    "citat": "Cererile pentru dobândirea personalității juridice de către comitetele sectoriale/multisectoriale, precum și cererile pentru modificarea actelor constitutive ale acestora sunt scutite de taxa judiciară de timbru.",
+    "text": "Cererile pentru dobândirea personalității juridice de către comitete și pentru modificarea actelor constitutive sunt scutite de taxa judiciară de timbru."
+   },
+   {
+    "citat": "Comitetele sectoriale constituite anterior datei de intrare în vigoare a prezentei legi, sunt obligate ca, în termen de 180 de zile de la data intrării în vigoare a prezentei legi, să facă demersurile necesare pentru îndeplinirea condițiilor prevăzute la art. 4^1 și 4^2",
+    "text": "Comitetele sectoriale deja existente au la dispoziție un termen de 180 de zile pentru a se conforma noilor cerințe și a depune documentația la Tribunalul București."
+   }
+  ],
+  "cine_este_afectat": [
+   "Comitetele sectoriale și multisectoriale",
+   "Organizațiile patronale și sindicale",
+   "Ministerul Educației și Cercetării",
+   "Ministerul responsabil cu dialogul social"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile de înființare, organizare, finanțare și funcționare a comitetelor sectoriale și multisectoriale. Acestea sunt instituții de dialog social care se ocupă de calificări profesionale și piața muncii.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii privind comitetele sectoriale și formarea profesională"
+ },
+ "generated_at": "2026-11-01T18:37:27+00:00",
+ "idp": 22879,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "57af7662f13cc5d17a4a71294c8dcd158a99de6c2feed096f14e36526f39268a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl581_pr_plx_581-25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Conducătorii auto ai vehiculelor de transport rutier contra cost de mărfuri cu vehicule ce au o masă maximă autorizată mai mare de 12,5 tone, nu pot fi constrânși de către beneficiarul transportului, furnizorul mărfurilor, intermediari sau reprezentanți ai acestora să efectueze operațiuni de descărcare sau încarcare a mărfurilor, suporturilor sau ambalajelor.",
+    "text": "Șoferii de camioane cu o masă maximă autorizată mai mare de 12,5 tone nu pot fi obligați să facă operațiuni de descărcare sau încărcare a mărfurilor de către beneficiar, furnizor sau intermediari."
+   },
+   {
+    "citat": "conducătorii auto ai vehiculelor de transport rutier contra cost de mărfuri cu vehicule ce au o masă maximă autorizată mai mare de 12,5 tone pot efectua operațiuni de descărcare a mărfurilor, exclusiv în cazul transporturilor specializate, atunci când natura transportului impune acest lucru, iar contractele de muncă sau actele adiționale la acestea încheiate cu propriul angajator, prevăd această posibilitate.",
+    "text": "Șoferii pot face descărcare la transporturi specializate dacă natura transportului impune acest lucru și contractul de muncă prevede asta."
+   },
+   {
+    "citat": "Clauzele contractuale asumate de transportator în relația cu beneficiarul transportului, furnizorul mărfurilor, intermediarii sau reprezentanți acestora, prin care conducătorii auto angajați ai acestuia ar avea obligația să descarce sau să încarce mărfuri, suporturi sau ambalaje, în afara situațiilor prevăzute la art. 2 alin. (2) sunt nule de drept.",
+    "text": "Clauzele contractuale prin care șoferii sunt obligați să încarce sau să descarce mărfuri sunt nule de drept, în afara excepțiilor legale."
+   },
+   {
+    "citat": "Încălcarea prevederilor art. 2, alin. (1) constituie contravenție și se sancționează cu amendă de la 5.000 lei la 20.000 lei aplicată beneficiarului transportului, furnizorului mărfurilor sau intermediarilor, după caz.",
+    "text": "Obligarea șoferilor la încărcare sau descărcare se sancționează cu amendă de la 5.000 lei la 20.000 lei pentru beneficiar, furnizor sau intermediari."
+   },
+   {
+    "citat": "Încălcarea prevederilor art. 3, alin. (1) constituie contravenție și se sancționează cu amendă de la 10.000 lei la 20.000 lei aplicată transportatorului.",
+    "text": "Includerea unor clauze ilegale în contracte se sancționează cu amendă de la 10.000 lei la 20.000 lei pentru transportator."
+   }
+  ],
+  "cine_este_afectat": [
+   "conducătorii auto",
+   "transportatorii rutieri",
+   "furnizorii de mărfuri",
+   "beneficiarii transporturilor și intermediarii"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea stabilește că șoferii de camioane cu o masă maximă autorizată mai mare de 12,5 tone nu pot fi obligați să încarce sau să descarce mărfurile, cu anumite excepții. Sunt stabilite amenzi pentru nerespectarea acestor reguli.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Reguli privind încărcarea și descărcarea mărfurilor în transportul rutier"
+ },
+ "generated_at": "2026-11-01T18:36:48+00:00",
+ "idp": 23010,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d88a8e6e7208c1a3e46fe205ea501706f942f82a716523e1411f82a89c860112",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl105_pr105_26.pdf"
+ },
+ "status": "ok"
+}

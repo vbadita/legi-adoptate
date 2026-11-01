@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "i) finanțare nerambursabilă cu caracter multianual - alocație financiară din fonduri publice pentru desfăşurarea de către persoane fizice sau persoane juridice fără scop patrimonial a unor activități nonprofit... j) acord-cadru de finanțare multianuală - acordul încheiat în formă scrisă între autoritatea finanțatoare şi beneficiar... k) proiect multianual - ansamblu de activități...",
+    "text": "Se introduc definiții noi pentru finanțarea nerambursabilă cu caracter multianual, acordul-cadru de finanțare multianuală și proiectul multianual."
+   },
+   {
+    "citat": "Pentru proiectele multianuale, declarația prevăzută la alin. (3) se depune o singură dată, la încheierea acordului-cadru de finanțare multianuală, şi rămâne valabilă pe întreaga durată a acestuia.",
+    "text": "Pentru proiecte multianuale, declarația necesară se depune o singură dată, la încheierea acordului-cadru, fiind valabilă pe toată durata acestuia."
+   },
+   {
+    "citat": "Autoritatea finanțatoare poate acorda finanțări nerambursabile cu caracter multianual pentru proiecte a căror perioadă de implementare excedează un an bugetar. (2) Acordul-cadru de finanțare multianuală se încheie pentru o perioadă de maximum 4 ani...",
+    "text": "Autoritatea finanțatoare poate acorda finanțări multianuale prin acorduri-cadru încheiate pentru o perioadă de maximum 4 ani."
+   },
+   {
+    "citat": "Beneficiarii contractelor multianuale sunt obligați să depună la autoritatea finanțatoare, până la 31 ianuarie a fiecărui an, raportul de progres şi raportul financiar pentru anul anterior.",
+    "text": "Beneficiarii finanțărilor multianuale trebuie să depună raportul de progres și cel financiar anual până la data de 31 ianuarie."
+   },
+   {
+    "citat": "Autoritatea finanțatoare şi beneficiarul pot stabili în contractul de finanțare nerambursabilă sau în acordul-cadru de finanțare multianuală ca plățile către beneficiar să se facă în tranşe, în avans...",
+    "text": "Plățile către beneficiar se pot face în tranșe sau în avans, în baza contractului de finanțare sau a acordului-cadru multianual."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autorități finanțatoare din fonduri publice",
+   "Persoane fizice fără scop patrimonial",
+   "Persoane juridice fără scop patrimonial"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea introduce posibilitatea acordării de finanțări nerambursabile cu caracter multianual, pe o perioadă de maximum 4 ani, pentru proiecte desfășurate de entități fără scop patrimonial. Se stabilesc reguli pentru acordurile-cadru, contractele anuale subsecvente și plățile în tranșe.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Finanțări nerambursabile multianuale pentru activități nonprofit"
+ },
+ "generated_at": "2026-11-01T18:37:49+00:00",
+ "idp": 22666,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "74af7ef4090209a479d9a768df40cfa542a5a373d1adbcc4e338982044117ce8",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl056_pr_plx_56_26.pdf"
+ },
+ "status": "ok"
+}

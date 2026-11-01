@@ -1,0 +1,37 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Repartizarea fondurilor acordate României către instituțiile prevăzute la art.1^1 alin.(1) lit.c) se stabileşte, în conformitate cu Planul, prin hotărâre a Guvernului inițiată de Ministerul Finanțelor în termen de 30 de zile de la data semnării acordului de împrumut.",
+    "text": "Repartizarea fondurilor acordate României se stabilește prin hotărâre a Guvernului în termen de 30 de zile de la data semnării acordului de împrumut."
+   },
+   {
+    "citat": "Instituțiile din sistemul de apărare, ordine publică și siguranță națională prevăzute la art.1^1 alin.(1) lit.c) au dreptul de a încheia angajamente legale în cadrul Instrumentului SAFE, de la data semnării acordului de împrumut...",
+    "text": "Instituțiile din sistemul de apărare, ordine publică și siguranță națională pot încheia angajamente legale în cadrul Instrumentului SAFE de la data semnării acordului de împrumut."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile din sistemul de apărare, ordine publică și siguranță națională",
+   "Ministerul Finanțelor",
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr.21/2026 cu privire la măsurile pentru Instrumentul Acțiunea pentru securitatea Europei (SAFE) și aduce modificări referitoare la repartizarea fondurilor și încheierea de angajamente legale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG privind Instrumentul Acțiunea pentru securitatea Europei SAFE"
+ },
+ "generated_at": "2026-11-01T18:37:01+00:00",
+ "idp": 23171,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "24e5b08804bd457f81b8c790288bdf16bd20130d38a70d20946713456feded9b",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L292LP.PDF"
+ },
+ "status": "ok"
+}

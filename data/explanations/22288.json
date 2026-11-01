@@ -1,0 +1,40 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. I. – Se aprobă Ordonanţa de urgenţă a Guvernului nr. 5 din 27 februarie 2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative...",
+    "text": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 5 din 27 februarie 2025 privind unele măsuri din domeniul social şi pentru modificarea şi completarea unor acte normative."
+   },
+   {
+    "citat": "Termenul de încadrare în categoria funcţiilor contractuale, prevăzut la art. 1 din Ordonanţa de urgenţă a Guvernului nr. 90/2021... se prelungeşte până la data de 30 iunie 2027.",
+    "text": "Termenul de încadrare în categoria funcțiilor contractuale se prelungește până la data de 30 iunie 2027."
+   },
+   {
+    "citat": "Prevederile referitoare la numărul maxim de posturi cuprinse în Hotărârea Guvernului nr. 118/2012... se modifică în mod corespunzător, pentru posturile prevăzute la alin. (1), de la data de 30 iunie 2026 până la data de 30 iunie 2027.",
+    "text": "Prevederile referitoare la numărul maxim de posturi se modifică în mod corespunzător pentru posturile menționate, de la data de 30 iunie 2026 până la data de 30 iunie 2027."
+   }
+  ],
+  "cine_este_afectat": [
+   "Casa Națională de Pensii Publice",
+   "Personalul încadrat în funcții contractuale vizat de prelungirea termenului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aprobă Ordonanța de urgență a Guvernului nr. 5/2025 și prelungește termenul de încadrare în funcții contractuale pentru anumite posturi din domeniul pensiilor publice.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 5/2025 privind măsuri sociale și alte acte normative"
+ },
+ "generated_at": "2026-11-01T18:37:17+00:00",
+ "idp": 22288,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "173ce7d25843759c67f1b7bf38987d98ab7f70fa87b876493575a2ff9b86d8bf",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl096_pr_plx_96-25.pdf"
+ },
+ "status": "ok"
+}

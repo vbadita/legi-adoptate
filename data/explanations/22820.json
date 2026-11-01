@@ -1,0 +1,37 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "f^1) Asociația foştilor deținuți politici din România;",
+    "text": "La ceremoniile oficiale se adaugă Asociația foștilor deținuți politici din România."
+   },
+   {
+    "citat": "f^2) Asociația Națională a Veteranilor de Război și Asociația Militarilor Veterani și Veteranilor cu Dizabilități «Sfântul Mare Mucenic Dimitrie Izvorâtorul de Mir» – AMVVD, asociații militare reprezentative la nivel național și de utilitate publică;",
+    "text": "Se adaugă Asociația Națională a Veteranilor de Război și Asociația Militarilor Veterani și Veteranilor cu Dizabilități «Sfântul Mare Mucenic Dimitrie Izvorâtorul de Mir» – AMVVD."
+   }
+  ],
+  "cine_este_afectat": [
+   "Asociația foștilor deținuți politici din România",
+   "Asociația Națională a Veteranilor de Război",
+   "Asociația Militarilor Veterani și Veteranilor cu Dizabilități «Sfântul Mare Mucenic Dimitrie Izvorâtorul de Mir» – AMVVD"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă noi entități la ceremoniile oficiale prin introducerea a două litere noi la articolul 16 alineatul (3) din Legea nr. 215/2016.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Completarea legii privind ceremoniile oficiale"
+ },
+ "generated_at": "2026-11-01T18:37:22+00:00",
+ "idp": 22820,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "abc04c1c7c65ac8a0af619259283e44a89cf552b0d7f888c31b01e60f93193b3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl158_pr_plx_158-26.pdf"
+ },
+ "status": "ok"
+}

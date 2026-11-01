@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se interzice, până la data de 31 decembrie 2027, înstrăinarea acțiunilor deținute de stat la companiile și societățile naționale, la instituții de credit, precum și la orice altă societate la care statul are calitatea de acționar, indiferent de cota de capital social deținută.",
+    "text": "Se interzice vânzarea acțiunilor deținute de stat la companii, societăți naționale și instituții de credit până la data de 31 decembrie 2027."
+   },
+   {
+    "citat": "Dispoziţiile alin. (l) nu se aplică pentru acţiunile deţinute de stat la companiile, societăţile şi instituţiile de credit care înregistrează pierderi pe o perioadă de 5 ani consecutiv sau pentru care a fost deschisă, prin hotărâre judecătorească definitivă, procedura de insolvenţă, precum şi pentru acţiunile a căror valoare totală, la data de 31 decembrie a anului fiscal precedent, nu depăşeşte 5 milioane lei pentru fiecare companie, societate sau instituţie de credit în parte.",
+    "text": "Interdicția nu se aplică pentru acțiunile deținute la entități cu pierderi pe 5 ani consecutiv, în insolvență sau cu o valoare sub 5 milioane lei."
+   },
+   {
+    "citat": "Se suspendă, până la data de 31 decembrie 2027, orice operațiuni privind înstrăinarea acțiunilor deținute de stat la companiile și societățile naționale, precum și la alte societăți la care statul are calitatea de acționar, aflate în curs de realizare.",
+    "text": "Operațiunile de înstrăinare a acțiunilor deținute de stat aflate în curs de realizare se suspendă până la data de 31 decembrie 2027."
+   },
+   {
+    "citat": "Orice act juridic de înstrăinare încheiat cu încălcarea dispozițiilor alin. (2) este lovit de nulitate absolută.",
+    "text": "Orice act juridic de înstrăinare făcut cu încălcarea regulilor este lovit de nulitate absolută."
+   },
+   {
+    "citat": "emisiunea și plasarea de obligațiuni convertibile în acțiuni, precum și majorarea capitalului social prin emisiunea de acțiuni noi sau părți sociale noi, subscrise de investitori, sunt permise dacă aceste operațiuni nu au ca obiect înstrăinarea acțiunilor ori părților sociale deținute de stat și nu conduc la pierderea controlului de către stat.",
+    "text": "Sunt permise majorarea capitalului social și emiterea de obligațiuni convertibile în acțiuni dacă nu se înstrăinează acțiunile statului și statul nu pierde controlul."
+   }
+  ],
+  "cine_este_afectat": [
+   "Statul român ca acționar",
+   "Companiile și societățile naționale",
+   "Instituțiile de credit la care statul este acționar",
+   "Investitorii pe piața de capital"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea interzice și suspendă până la data de 31 decembrie 2027 înstrăinarea acțiunilor deținute de stat la companii, societăți naționale și instituții de credit, cu anumite excepții.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Protejarea intereselor naționale în economia națională"
+ },
+ "generated_at": "2026-11-01T18:36:58+00:00",
+ "idp": 23254,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c10458cf0a95508f9c48f92272a661d8cd46ebcabd78e25a6fc6ba58b2fc8a68",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl376_pr376_26.pdf"
+ },
+ "status": "ok"
+}
