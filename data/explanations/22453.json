@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "hotărârile,judecătoreşti pronuntate in primă instantă prin care se dispune suspendarea ordinului ministrului mediului, apelor şi pădurilor emis in temeiul prevederilor alin.(I) lit.f) şi t~) şi alin.(4) ale prezentului articol... produc efecte numai de la data rămânerii definitive a acestora.",
+    "text": "Hotărârile judecătorești în primă instanță care suspendă anumite ordine ale ministrului mediului își fac efectul doar de la data rămânerii definitive."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Mediului, Apelor și Pădurilor",
+   "Instanțele de judecată"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că hotărârile judecătorești în primă instanță care suspendă ordinele ministrului mediului privind vânătoarea produc efecte doar după ce devin definitive.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii vânătorii pentru suspendarea ordinelor de ministru"
+ },
+ "generated_at": "2026-11-02T18:35:23+00:00",
+ "idp": 22453,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "39ab6814928f6ed5752a2f76f9cbfcd0dc7d13ee0f4078fe44d8450b99488861",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L327LP.PDF"
+ },
+ "status": "ok"
+}

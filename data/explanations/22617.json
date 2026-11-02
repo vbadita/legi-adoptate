@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanţa Guvernului nr. 17 din 28 august 2025 pentru aprobarea unor măsuri în vederea asigurării îndeplinirii atribuţiilor ce revin Oficiului Registrului Naţional al Informaţiilor Secrete de Stat privind curieratul extern al materialelor clasificate",
+    "text": "Se aprobă Ordonanța Guvernului nr. 17 din 28 august 2025 referitoare la măsurile pentru curieratul extern al materialelor clasificate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Oficiul Registrului Național al Informațiilor Secrete de Stat"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României a aprobat Ordonanța Guvernului nr. 17 din 28 august 2025, care stabilește măsuri pentru curieratul extern al materialelor clasificate gestionat de Oficiul Registrului Național al Informațiilor Secrete de Stat.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 17/2025 pentru curieratul extern al materialelor clasificate"
+ },
+ "generated_at": "2026-11-02T18:36:12+00:00",
+ "idp": 22617,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d2f2c6d75d5dba24b1fe99481e53dc4f2ef1a6d8a2e58cc3993e9b6726b046a4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl366_pr366_25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "d) suma echivalentă pentru 12 litri combustibil/1.000 ha, lunar, pentru efectuarea patrulărilor în vederea depistării cadavrelor de mistreți.",
+    "text": "Se acordă suma echivalentă pentru 12 litri de combustibil pe 1.000 hectare, lunar, pentru efectuarea patrulărilor în vederea depistării cadavrelor de mistreți."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile și persoanele implicate în patrularea pentru depistarea cadavrelor de mistreți"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică o prevedere din Legea nr. 122/2023 referitoare la cantitatea de combustibil alocată lunar pentru patrulările destinate găsirii cadavrelor de mistreți.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea cantitatii de combustibil pentru patrularea mistretilor"
+ },
+ "generated_at": "2026-11-02T18:35:36+00:00",
+ "idp": 22503,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "bc9486d6fb203dfcb2cc937474fdf8a89affc015ed2b657ac15a365d1989da70",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl451_plx_451_25pr_stema.pdf"
+ },
+ "status": "ok"
+}

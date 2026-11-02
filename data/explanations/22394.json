@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-02T18:35:31+00:00",
+ "idp": 22394,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 2: numerele 1, 597 nu apar în citatul punctului']",
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "dc35da29009ad3d727d38ca2fa3a33841fda202fadf0ee6c8cf9f509a5a9da4e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl180_plx_180-25pr.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

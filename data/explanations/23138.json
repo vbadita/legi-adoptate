@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanţa de urgenţă a Guvernului nr. 4 din 12 februarie 2026 privind stabilirea cadrului instituţional, precum şi a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2023/1.804...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 4 din 12 februarie 2026 privind stabilirea cadrului instituțional, precum și a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2023/1.804."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile statului implicate în punerea în aplicare a regulamentului european"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aprobă Ordonanța de urgență a Guvernului nr. 4 din 12 februarie 2026, care stabilește cadrul instituțional și măsurile pentru punerea în aplicare a Regulamentului (UE) 2023/1.804 privind instalarea infrastructurii pentru combustibili alternativi.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 4/2026 privind combustibilii alternativi"
+ },
+ "generated_at": "2026-11-02T18:35:21+00:00",
+ "idp": 23138,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a9e808b7eecc652a12f2640831db861f21b6596bde9f87246c0c2d4d79faeaca",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl242_pr242_26.pdf"
+ },
+ "status": "ok"
+}

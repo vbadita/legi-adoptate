@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. - Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 25 septembrie 2025 pentru modificarea art. 8 din Ordonanța de urgență a Guvernului nr. 67/2023...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 48 din 25 septembrie 2025 pentru modificarea art. 8 din Ordonanța de urgență a Guvernului nr. 67/2023."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituciile statului implicate în aplicarea Ordonanței de urgență a Guvernului nr. 67/2023"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 48 din 25 septembrie 2025, care modifică art. 8 din Ordonanța de urgență a Guvernului nr. 67/2023 referitoare la măsurile temporare pentru combaterea creșterii excesive a prețurilor la unele produse agricole și alimentare.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 48/2025 privind prețurile la alimente"
+ },
+ "generated_at": "2026-11-02T18:36:27+00:00",
+ "idp": 22657,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ae8404781a22822fea73505b8dcc64dab6a8d68739fa9deb85f14a818d18dee5",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl384_pr384_25_(2).pdf"
+ },
+ "status": "ok"
+}

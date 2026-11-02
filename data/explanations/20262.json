@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanţa Guvernului nr. 13 din 13 iulie 2022 privind reglementarea unor măsuri de implementare a sistemului de garanţie-returnare pentru ambalaje nereutilizabile",
+    "text": "Se aprobă Ordonanța Guvernului nr. 13 din 13 iulie 2022 privind reglementarea unor măsuri de implementare a sistemului de garanție-returnare pentru ambalaje nereutilizabile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile statului",
+   "Operatorii economici implicați în sistemul de garanție-returnare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă Ordonanța Guvernului nr. 13 din 13 iulie 2022 referitoare la sistemul de garanție-returnare pentru ambalaje nereutilizabile.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 13/2022 privind ambalajele"
+ },
+ "generated_at": "2026-11-02T18:35:47+00:00",
+ "idp": 20262,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "dddd37067759525736535fe66f0be8940096ed8d7def08c2f4ac156110163d38",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pl488_pr488_22.pdf"
+ },
+ "status": "ok"
+}

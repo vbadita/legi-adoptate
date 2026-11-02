@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "instanțele judecătorești pot hotărî ca participarea părților și a reprezentanților acestora la ședințele de judecată să se desfășoare prin mijloace de telecomunicație audiovizuală care permit verificarea identității părților și garantează securitatea, integritatea, confidențialitatea și calitatea transmisiunii, precum și respectarea legislației privind datele cu caracter personal",
+    "text": "Instanțele pot hotărî ca participarea părților și a reprezentanților la ședințele de judecată să se facă prin mijloace video care permit verificarea identității, securitatea și protecția datelor."
+   },
+   {
+    "citat": "instanțele judecătorești hotărăsc cu privire la participarea părților și a reprezentanților acestora la ședințele de judecată prin mijloace de telecomunicație audiovizuală ținând seama de disponibilitatea unei astfel de tehnologii, opinia părților cu privire la utilizarea acestei tehnologii, precum și caracterul adecvat al utilizării acesteia în circumstanțele specifice ale cauzei.",
+    "text": "La decizia privind participarea online, instanța ține cont de disponibilitatea tehnologiei, opinia părților și caracterul adecvat al utilizării acesteia în caz."
+   },
+   {
+    "citat": "Citația va cuprinde mențiunea că participarea părții la ședința de judecată se va desfășura prin mijloace de telecomunicație audiovizuală, intervalul orar orientativ al strigării cauzei, precum și modalitatea tehnică de acces și de autentificare. Când este cazul, părțile vor fi înștiințate și telefonic, prin e-mail sau prin alte asemenea mijloace",
+    "text": "Citația va menționa participarea prin mijloace video, intervalul orar orientativ și modalitatea tehnică de acces. Părțile pot fi înștiințate și telefonic sau prin e-mail."
+   },
+   {
+    "citat": "Cel care asistă sau reprezintă partea, traducătorul sau interpretul poate participa la ședința de judecată desfășurată prin mijloace prevăzute la art. 1, chiar fără a fi prezent fizic lângă parte.",
+    "text": "Avocații, reprezentanții, traducătorii sau interpreții pot participa la ședința video fără a fi prezenți fizic lângă parte."
+   }
+  ],
+  "cine_este_afectat": [
+   "Părțile din procesele civile aflate în alte state membre ale Uniunii Europene",
+   "Instanțele judecătorești",
+   "Avocații și reprezentanții legali",
+   "Traducătorii și interpreții"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește reguli clare pentru participarea la procese civile din alte state din Uniunea Europeană prin mijloace de telecomunicație audiovizuală. Instanțele pot decide participarea online a părților sau reprezentanților aflați în alt stat membru.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli pentru participarea la judecată prin video în cauze civile din alte țări"
+ },
+ "generated_at": "2026-11-02T18:35:42+00:00",
+ "idp": 22931,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "a2f996b201214be27005282de9bed68bdf93b8573a8cb63154fb377e81f58b92",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L220LP.PDF"
+ },
+ "status": "ok"
+}

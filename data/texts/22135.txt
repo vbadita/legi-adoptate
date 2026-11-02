@@ -1,0 +1,137 @@
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAŢILOR SENATUL
+L E G E
+privind aprobarea Ordonanței de urgență a Guvernului
+nr. 128/2024 pentru modificarea şi completarea Legii nr. 227/2015
+privind Codul fiscal şi măsuri specifice pentru digitalizare, precum şi
+pentru modificarea şi completarea unor acte normative
+Parlamentul României adoptă prezenta lege.
+Art. I. – Se aprobă Ordonanţa de urgență a Guvernului nr. 128
+din 7 noiembrie 2024 pentru modificarea şi completarea Legii
+nr. 227/2015 privind Codul fiscal şi măsuri specifice pentru digitalizare,
+precum şi pentru modificarea şi completarea unor acte normative,
+publicată în Monitorul Oficial al României, Partea I, nr. 1125 din
+11 noiembrie 2024.
+Art. II. – Suporturile electronice care urmează să expire până la
+data de 31 martie 2027 și al căror sold este mai mic de 10 lei, aferente
+măsurilor prevăzute de Ordonanța de urgență a Guvernului nr. 63/2022
+privind unele măsuri temporare pentru acordarea de sprijin material
+categoriilor de persoane aflate în situații de risc de deprivare materială
+și/sau risc de sărăcie extremă, suportate parțial din fonduri externe
+nerambursabile, precum și unele măsuri de distribuire a acestuia, aprobată
+prin Legea nr. 302/2023, cu modificările și completările ulterioare,
+precum și cele aferente măsurilor prevăzute de art. XLVIII din Ordonanța
+de urgență a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare
+în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea
+evaziunii fiscale, pentru modificarea și completarea unor acte normative,
+precum și pentru prorogarea unor termene, cu modificările și completările
+ulterioare, se înlocuiesc la solicitarea destinatarului final, adresată unității
+emitente a suportului electronic.
+Art. III. – Ordonanța de urgență a Guvernului nr. 120/2021
+privind administrarea, funcţionarea şi implementarea sistemului naţional
+privind factura electronică RO e-Factura şi factura electronică în
+România, precum şi pentru completarea Ordonanţei Guvernului
+nr. 78/2000 privind omologarea, eliberarea cărţii de identitate a
+vehiculului şi certificarea autenticităţii vehiculelor rutiere în vederea
+introducerii pe piaţă, punerii la dispoziţie pe piaţă, înmatriculării sau
+înregistrării în România, precum şi supravegherea pieţei pentru acestea,
+publicată în Monitorul Oficial al României, Partea I, nr. 960 din
+7 octombrie 2021, aprobată cu modificări și completări prin Legea
+nr. 139/2022, cu modificările și completările ulterioare, se modifică după
+cum urmează:
+1. La articolul 10^1, alineatele (3) și (4) se modifică și vor avea
+următorul cuprins:
+„(3) Livrările de bunuri/Prestările de servicii efectuate către o
+persoană fizică care nu se identifică în relaţia cu furnizorul/prestatorul
+prin niciun cod de identificare fiscală sau optează să se identifice prin
+codul numeric personal se consideră efectuate în relaţia B2C, cu excepţia
+situaţiei în care beneficiarii sunt înscrişi în Registrul RO e-Factura
+opțional. Dacă beneficiarul, persoană fizică, nu se identifică prin niciun
+cod de identificare fiscală, facturile se emit utilizând un cod format din
+13 cifre de zero în locul codului de identificare fiscală al beneficiarului.
+(4) Furnizorii/Prestatorii prevăzuţi la alin. (1) şi (2) sunt obligaţi
+să transmită facturile emise către destinatari conform prevederilor art. 319
+din Legea nr. 227/2015, cu modificările şi completările ulterioare, cu
+excepţia situaţiei în care beneficiarii sunt înscrişi în Registrul RO
+e-Factura opțional.”
+2. La articolul 10^5, alineatul (2) se modifică și va avea
+următorul cuprins:
+„(2) Utilizarea sistemului național RO e-Factura nu este obligatorie
+pentru livrările de bunuri/prestările de servicii efectuate de către
+institutele/centrele culturale ale altor state care activează pe teritoriul
+României în baza unor acorduri interguvernamentale.”
+3. La articolul 10^5, alineatul (6) se modifică și va avea
+următorul cuprins:
+„(6) Operatorii economici – persoane impozabile stabilite în
+România conform art. 266 alin. (2) din Legea nr. 227/2015, cu
+modificările și completările ulterioare, care livrează bunuri/prestează
+servicii către persoanele prevăzute la alin. (2) nu au obligația transmiterii
+facturilor emise către acestea prin sistemul național RO e-Factura, cu
+excepția situației în care beneficiarii au optat pentru utilizarea sistemului.”
+4. La articolul 10^7, alineatul (1) se modifică și va avea
+următorul cuprins:
+„(1) Agricultorii persoane fizice care aplică Regimul special
+pentru agricultori prevăzut la art. 315^1 din Legea nr. 227/2015, cu
+modificările şi completările ulterioare, nu au obligaţia utilizării sistemului
+naţional RO e-Factura.”
+5. La articolul 10^7, alineatul (4) se abrogă.
+6. La articolul 10^7, alineatul (5) se modifică și va avea
+următorul cuprins:
+„(5) Operatorii economici – persoane impozabile stabilite în
+România conform art. 266 alin. (2) din Legea nr. 227/2015, cu
+modificările şi completările ulterioare, care livrează bunuri/prestează
+servicii către persoanele prevăzute la alin. (1) nu au obligaţia transmiterii
+facturilor emise către acestea prin sistemul naţional RO e-Factura, cu
+excepţia situaţiei în care beneficiarii sunt înscrişi în Registrul
+RO e-Factura opțional.”
+7. Articolul 10^8 se modifică și va avea următorul cuprins:
+„(1) Procedura privind organizarea şi înscrierea în cadrul
+Registrului RO e-Factura opţional, Registrului RO e-Factura executări
+silite şi Registrului RO e-Factura obligatoriu se stabileşte prin ordin al
+preşedintelui Agenţiei Naţionale de Administrare Fiscală. Registrul RO
+e-Factura opţional şi Registrul RO e-Factura obligatoriu sunt publice şi se
+afişează pe site-ul Agenţiei Naţionale de Administrare Fiscală.
+(2) Furnizorii/Prestatorii care nu au obligația utilizării sistemului și
+care au fost înregistraţi în Registrul RO e-Factura obligatoriu și cei
+înregistrați în Registrul RO e-Factura opţional pot solicita scoaterea din
+aceste registre, potrivit procedurii prevăzute la alin (1), şi sunt scoşi din
+Registrul RO e-Factura obligatoriu sau din Registrul RO e-Factura opțional
+începând cu data de 1 a lunii umătoare celei în care au solicitate scoaterea
+din acestea.”
+8. Articolul 10^10 se modifică și va avea următorul cuprins:
+„(1) Furnizorii/Prestatorii care se identifică fiscal prin codul
+numeric personal nu au obligaţia să respecte prevederile art. 5, 9^1, art. 10
+alin. (1) şi art. 10^1 alin. (2).
+(2) Persoanele prevăzute la alin. (1) pot opta pentru utilizarea
+sistemului naţional RO e-Factura. În situaţia în care optează pentru
+transmiterea facturilor în sistemul naţional RO e-Factura, aceste persoane
+sunt obligate să fie înregistrate în Registrul RO e-Factura opţional.
+(3) Persoanele prevăzute la alin. (1) care au optat pentru utilizarea
+sistemului naţional RO e-Factura sunt înscrise în Registrul RO e-Factura
+opţional începând cu data de 1 a lunii următoare exercitării opţiunii.”
+Art. IV. – (1) Prevederile art. III intră în vigoare începând cu
+data de 1 a lunii următoare publicării prezentei legi în Monitorul Oficial
+al României, Partea I.
+(2) În termen de 30 de zile de la data intrării în vigoare a prezentei
+legi, Procedura privind organizarea şi înscrierea în cadrul Registrului RO
+e-Factura opţional, Registrului RO e-Factura executări silite şi Registrului
+RO e-Factura obligatoriu, prevăzută la art. 10^8 din Ordonanța de urgență
+a Guvernului nr. 120/2021, privind administrarea, funcţionarea şi
+implementarea sistemului naţional privind factura electronică
+RO e-Factura şi factura electronică în România, precum şi pentru
+completarea Ordonanţei Guvernului nr. 78/2000 privind omologarea,
+eliberarea cărţii de identitate a vehiculului şi certificarea autenticităţii
+vehiculelor rutiere în vederea introducerii pe piaţă, punerii la dispoziţie
+pe piaţă, înmatriculării sau înregistrării în România, precum şi
+supravegherea pieţei pentru acestea, aprobată cu modificări și completări
+prin Legea nr. 139/2022, cu modificările și completările ulterioare, se
+modifică prin ordin al preşedintelui Agenţiei Naţionale de Administrare
+Fiscală, care se publică în Monitorul Oficial al României, Partea I.
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 şi ale art. 76 alin. (2) din Constituţia
+României, republicată.
+p. PREŞEDINTELE PREŞEDINTELE
+CAMEREI DEPUTAŢILOR SENATULUI
+NATALIA – ELENA INTOTERO MIRCEA ABRUDEAN
+Bucureşti,
+Nr.

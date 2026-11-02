@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. - Se aprobă Ordonanța Guvernului nr. 23 din 29 august 2025 pentru modificarea şi completarea Ordonanței Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe rețeaua de drumuri naționale din România",
+    "text": "Se aprobă Ordonanța Guvernului nr. 23 din 29 august 2025 pentru modificarea şi completarea Ordonanței Guvernului nr. 15/2002."
+   }
+  ],
+  "cine_este_afectat": [
+   "Șoferii și transportatorii care folosesc rețeaua de drumuri naționale din România"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 23 din 29 august 2025 care modifică și completează Ordonanța Guvernului nr. 15/2002 despre tarifele de utilizare și de trecere pe rețeaua de drumuri naționale din România.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 23/2025 privind tarifele pe drumurile naționale"
+ },
+ "generated_at": "2026-11-02T18:36:08+00:00",
+ "idp": 22576,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4b08815e64af584450a6014af2df1a6f1036a3b44b9267a1ac0550629acc407f",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl308_pr308_25_(1).pdf"
+ },
+ "status": "ok"
+}

@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-01T18:37:10+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Suporturile electronice care urmează să expire până la data de 31 martie 2027 și al căror sold este mai mic de 10 lei, aferente măsurilor prevăzute de Ordonanța de urgență a Guvernului nr. 63/2022 ... se înlocuiesc la solicitarea destinatarului final, adresată unității emitente a suportului electronic.",
+    "text": "Suporturile electronice care urmează să expire până la data de 31 martie 2027 și al căror sold este mai mic de 10 lei se înlocuiesc la solicitarea destinatarului final."
+   },
+   {
+    "citat": "Dacă beneficiarul, persoană fizică, nu se identifică prin niciun cod de identificare fiscală, facturile se emit utilizând un cod format din 13 cifre de zero în locul codului de identificare fiscală al beneficiarului.",
+    "text": "Dacă beneficiarul persoană fizică nu are cod de fiscalizare, se utilizează un cod de 13 de degete de zero în loc."
+   },
+   {
+    "citat": "Utilizarea sistemului național RO e-Factura nu este obligatorie pentru livrările de bunuri/prestările de servicii efectuate de către institutele/centrele culturale ale altor state care activează pe teritoriul României în baza unor acorduri interguvernamentale.",
+    "text": "Utilizarea RO e-Factura nu este obligatorie pentru institutele sau centrele culturale străine care activează în baza unor acorduri interguvernamentale."
+   },
+   {
+    "citat": "Agricultorii persoane fizice care aplică Regimul special pentru agricultori prevăzut la art. 315^1 din Legea nr. 227/2015, cu modificările şi completările ulterioare, nu au obligaţia utilizării sistemului naţional RO e-Factura.",
+    "text": "Agricultorii persoane fizice care aplică regimul special nu au obligația de utilizare a sistemului RO e-Factura."
+   },
+   {
+    "citat": "Persoanele prevăzute la alin. (1) pot opta pentru utilizarea sistemului naţional RO e-Factura. În situaţia în care optează pentru transmiterea facturilor în sistemul naţional RO e-Factura, aceste persoane sunt obligate să fie înregistrate în Registrul RO e-Factura opţional.",
+    "text": "Furnizorii care se identifică prin cod numeric personal pot opta pentru sistemul RO e-Factura și vor fi înscriși în Registrul RO e-Factura opțional."
+   }
+  ],
+  "cine_este_afectat": [
+   "persoanele fizice",
+   "operatorii economici",
+   "agricultorii persoane fizice",
+   "institutele și centrele culturale ale altor state"
+  ],
+  "de_cand": "data de 1 a lunii următoare publicării prezentei legi în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea aprobă o ordonanță de urgență referitoare la Codul fiscal și aduce modificări regulilor privind sistemul RO e-Factura, stabilind reguli pentru anumite categorii de contribuabili, persoane fizice și institute culturale. De asemenea, stabilește posibilitatea înlocuirii unor suporturi electronice.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG 128/2024 privind Codul fiscal și e-Factura"
+ },
+ "generated_at": "2026-11-02T18:34:59+00:00",
  "idp": 22135,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "0b0690c5ff27138eaf9b7f6db1f260b4a8a7ae6a0e09460d4ef626c316612c83",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl649_pr_plx_649-24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

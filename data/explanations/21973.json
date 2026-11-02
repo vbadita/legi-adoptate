@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 104 din 28 august 2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+    "text": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 104 din 28 august 2024."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituciile implicate in gestionarea Fondului pentru mediu si a Fondului pentru modernizare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aprobă Ordonanţa de urgenţă a Guvernului nr. 104/2024, care aduce modificări Fondului pentru mediu şi cadrului pentru Fondul pentru modernizare.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 104/2024 privind Fondul pentru mediu"
+ },
+ "generated_at": "2026-11-02T18:36:02+00:00",
+ "idp": 21973,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "246a0e3b0d2bf7cc15921587113d04a63275375a9223dc9d01de2826628ae957",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl496_pr496_24.pdf"
+ },
+ "status": "ok"
+}

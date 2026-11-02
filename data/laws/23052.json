@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-10-28",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 1,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L256/2026",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L256&an_cls=2026#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl455_pr455_26.docx.pdf",
  "timeline": [
   {
    "day": "2026-03-09",
@@ -125,7 +125,12 @@
   {
    "day": "2026-10-28",
    "kind": "adopted",
-   "text": "adoptata de Camera Deputatilor rezultat vot pentru=205, contra=29, abtineri=1"
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=205, contra=29, abtineri=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-02",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice",
