@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "unitatea administrativ-teritorială poate încheia un singur contract de prestări servicii de permanență/intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun cu un singur medic veterinar de liberă practică",
+    "text": "Primăria poate încheia un singur contract de servicii de permanență sau intervenție pentru urși cu un singur medic veterinar de liberă practică."
+   },
+   {
+    "citat": "personalul structurilor de jandarmi sau polițistul local, aflat în serviciu în zona unde a fost semnalată prezența exemplarului de urs, desfășoară exclusiv activitățile cuprinse la pct. 1.1 din Procedura privind modul de acțiune",
+    "text": "Jandarmii și polițiștii locali prezenți la acțiunile de eutanasiere sau împușcare a urșilor desfășoară exclusiv activitățile de la punct 1.1 din procedură."
+   },
+   {
+    "citat": "După finalizarea acțiunii de intervenție imediată, în cel mult 24 de ore, se întocmește un raport al evenimentului, în 3 exemplare, conform modelului prevăzut în anexa nr. 4, care este semnat de majoritatea membrilor din echipa de intervenție",
+    "text": "Raportul evenimentului de intervenție se întocmește în cel mult 24 de ore, în 3 exemplare, semnate de majoritatea membrilor echipei."
+   },
+   {
+    "citat": "Costurile privind contravaloarea serviciilor de permanență/serviciilor de intervenție imediată, precum și costurile legate de prepararea blănurilor şi a craniilor exemplarelor de urs extrase prin eutanasiere sau împuşcare sunt suportate de către autoritatea publică locală",
+    "text": "Costurile pentru serviciile de permanență, intervenție și prepararea blănurilor și craniilor de urs sunt suportate de primărie și decontate de gărzile forestiere."
+   },
+   {
+    "citat": "Constatarea contravenției și aplicarea sancțiunii prevăzute la art. 15 se realizează de către ofițeri și subofițeri din cadrul Jandarmeriei Române, respectiv ofițeri, cât și agenți din cadrul Poliției Române, precum și funcționari publici din cadrul Poliției locale.",
+    "text": "Contravențiile pot fi constatate și sancționate de ofițeri și subofițeri din Jandarmerie, Poliția Română și funcționari din Poliția locală."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile administrativ-teritoriale (primării)",
+   "Medicii veterinari de liberă practică",
+   "Jandarmeria Română și Poliția Română",
+   "Gărzile forestiere"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă ordonanța de urgență care stabilește reguli clare pentru intervenția rapidă în cazul apariției urșilor bruni, contractarea unui singur medic veterinar de către primării, întocmirea rapoartelor de eveniment și decontarea costurilor.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG privind intervenția în cazurile cu urși bruni"
+ },
+ "generated_at": "2026-11-03T18:37:04+00:00",
+ "idp": 22844,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9636e7ae63d6b6b7f11ea4880a18339ba832930710d43ed73087f102544986d9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl545_plx_545-25pr25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Antepreșcolarii/preșcolarii/elevii și personalul didactic de predare din învățământul de stat și din învățământul obligatoriu particular acreditat/autorizat și confesional beneficiază de manuale școlare gratuite, precum și de jocuri/jucării, caiete de lucru și alte materiale didactice, atât pentru învățământul în limba română, cât și pentru cel în limbile minorităților naționale, în condițiile legii.",
+    "text": "Copiii și profesorii din învățământul de stat, particular acreditat sau autorizat și confesional primesc gratuit manuale, jocuri, jucării, caiete de lucru și alte materiale didactice pentru învățământul în limba română sau în limbile minorităților."
+   },
+   {
+    "citat": "Ministerul Educației și Cercetării asigură, în mod gratuit, pentru elevii clasei pregătitoare din învățământul de stat, particular și confesional, materiale didactice alternative, jocuri didactice, precum și cărți educative, fișe de lucru adecvate unităților tematice studiate, caiete de lucru și alte materiale didactice conforme curriculumului național, în format tipărit și digital, în condițiile legii.",
+    "text": "Ministerul Educației și Cercetării asigură gratuit pentru elevii din clasa pregătitoare materiale didactice alternative, jocuri, cărți educative, fișe, caiete de lucru și alte materiale în format tipărit și digital."
+   },
+   {
+    "citat": "Pentru buna desfășurare a procesului educațional, în baza libertății inițiativei profesionale, personalul didactic de predare poate selecta și utiliza la clasă jocuri/jucării, caiete de lucru, materiale și auxiliare didactice, resurse educaționale deschise care sunt aprobate/avizate de Ministerul Educației și Cercetării sau pentru a căror siguranță în utilizare sunt respectate prevederile legale.",
+    "text": "Personalul didactic poate selecta și folosi la clasă jocuri, jucării, caiete de lucru, materiale și auxiliare aprobate sau pentru care se respectă normele de siguranță."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, se stabilesc materialele didactice și alte auxiliare didactice prevăzute la art. 93 alin. (41) din Legea învățământului preuniversitar nr. 198/2023... conform metodologiei aprobate prin ordin al ministrului educației și cercetării",
+    "text": "În termen de 90 de zile de la intrarea în vigoare, materialele didactice pentru clasa pregătitoare se stabilesc printr-o metodologie aprobată prin ordin al ministrului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Antepreșcolari, preșcolari și elevi",
+   "Elevi ai clasei pregătitoare",
+   "Personalul didactic de predare",
+   "Ministerul Educației și Cercetării"
+  ],
+  "de_cand": "începând cu anul școlar 2027-2028",
+  "pe_scurt": "Legea aduce schimbări privind acordarea gratuită de manuale, jocuri, caiete de lucru și alte materiale didactice pentru antepreșcolari, preșcolari, elevi și cadre didactice, introducând și materiale specifice pentru elevii din clasa pregătitoare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii învățământului preuniversitar privind manualele și materialele didactice"
+ },
+ "generated_at": "2026-11-03T18:37:42+00:00",
+ "idp": 22558,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c79ba5672f07e75a4ed42f6b4f59c93d6493b190ca4b4c1cf09254e0c1eb52c4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl292_pr292_25.pdf"
+ },
+ "status": "ok"
+}

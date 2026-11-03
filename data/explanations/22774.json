@@ -1,0 +1,45 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se înfiinţează Universitatea ,,Tomis” din Constanţa, ca instituţie de învăţământ superior particulară, persoană juridică de drept privat şi de utilitate publică",
+    "text": "Se înființează Universitatea Tomis din Constanța ca instituție de învățământ superior particulară, persoană juridică de drept privat și de utilitate publică."
+   },
+   {
+    "citat": "Universitatea „Tomis” din Constanţa are în componență Facultatea de Studii Economice şi Administrative cu programele de studii universitare de licență: a) Administrarea afacerilor... b) Economia comerţului, turismului şi serviciilor... c) Finanţe şi bănci",
+    "text": "Facultatea de Studii Economice și Administrative are programe de licență în Administrarea afacerilor, Economia comerțului, turismului și serviciilor, și Finanțe și bănci."
+   },
+   {
+    "citat": "Personalul didactic şi nedidactic din cadrul Fundaţiei „Gaudeamus” - Universitatea ,,Tomis” din Constanța, care a fost autorizată să funcţioneze provizoriu, se preia, în condițiile legii, de instituția nou-înfiinţată, începând cu data intrării în vigoare a prezentei legi.",
+    "text": "Personalul didactic și nedidactic din cadrul unei fundații autorizate este preluat de noua instituție la data intrării în vigoare a legii."
+   },
+   {
+    "citat": "Universitatea „Tomis” din Constanţa dispune de patrimoniu propriu, prevăzut în anexa care face parte integrantă din prezenta lege.",
+    "text": "Patrimoniul universității include bunurile imobile, mobile, imobilizările financiare și activele circulante prevăzute în anexa legii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Studenții programelor de studii menționate",
+   "Personalul didactic și nedidactic preluat",
+   "Fondatorii universității"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se înființează Universitatea „Tomis” din Constanța ca instituție de învățământ superior particulară, cu sediul în județul Constanța. Aceasta preia facultatea, programele de studii, personalul și patrimoniul stabilite prin lege.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Înființarea Universității „Tomis” din Constanța"
+ },
+ "generated_at": "2026-11-03T18:36:56+00:00",
+ "idp": 22774,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "81edbacd96237f44fee2b8ff54c23058f3337deb3538a6d8064f462f7968df13",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl494_pr494_25_(2).pdf"
+ },
+ "status": "ok"
+}

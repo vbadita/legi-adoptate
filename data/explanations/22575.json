@@ -1,0 +1,37 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa Guvernului nr. 16 din 21 august 2025 pentru transpunerea art. 17 alin. (15) din Directiva (UE) 2024/1.275...",
+    "text": "Se aprobă Ordonanţa Guvernului nr. 16 din 21 august 2025."
+   },
+   {
+    "citat": "...autoritățile administrației publice locale din fonduri proprii sau autoritățile și instituțiile publice centrale din fonduri europene pot acorda stimulente financiare pentru instalarea de cazane autonome alimentate cu combustibili fosili sau a altor sisteme individuale de încălzire, în cazul imobilelor sau ansamblurilor de imobile racordate la puncte termice care deservesc mai puțin de 50 de utilizatori finali, pentru o perioadă de maximum 2 ani de la intrarea în vigoare a legii privind aprobarea prezentei ordonanțe.",
+    "text": "Autoritățile locale sau centrale pot acorda stimulente financiare pentru instalarea de cazane autonome sau alte sisteme de încălzire în imobile racordate la puncte termice cu mai puțin de 50 de utilizatori, pentru cel mult 2 ani."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice locale",
+   "Autoritățile și instituțiile publice centrale",
+   "Utilizatorii finali din imobile racordate la puncte termice care deservesc mai puțin de 50 de utilizatori"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 16/2025 și aduce o completare referitoare la acordarea de stimulente financiare pentru anumite sisteme de încălzire.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 16/2025 privind performanța energetică a clădirilor"
+ },
+ "generated_at": "2026-11-03T18:37:47+00:00",
+ "idp": 22575,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "253db19a2a58e88c44a5307b99a123af441e9ae07e145a7e1107225f6d8865c1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl299_pr299_25.pdf"
+ },
+ "status": "ok"
+}

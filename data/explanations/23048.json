@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "asiguratul nu beneficiază de indemnizaţia aferentă concediului medical.",
+    "text": "Dacă la control se constată că certificatul de concediu medical nu respectă legea, asiguratul pierde banii aferenti."
+   },
+   {
+    "citat": "indemnizațiile de asigurări sociale de sănătate se calculează şi se plătesc prin diminuarea cu o singură zi, indiferent de numărul certificatelor de concediu medical eliberate.",
+    "text": "Pentru un concediu medical acordat fără întrerupere pentru aceeași boală, indemnizațiile se calculează și se plătesc prin scăderea unei singure zile, indiferent de numărul de certificate eliberate."
+   },
+   {
+    "citat": "în termen de 30 de zile de la data intrării în vigoare a legii de aprobare a prezentei ordonanțe de urgență.",
+    "text": "Ministerul Sănătății și Casa Națională de Asigurări de Sănătate stabilesc prin ordin comun modul de aplicare în termen de 30 de zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Asigurații care beneficiază de concedii medicale",
+   "Medicii prescriptori",
+   "Casa Națională de Asigurări de Sănătate",
+   "Ministerul Sănătății"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență din 2025 și aduce modificări privind certificatele de concediu medical, modul de calcul al indemnizațiilor și controalele în sănătate.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Măsuri în sistemul de sănătate"
+ },
+ "generated_at": "2026-11-03T18:37:11+00:00",
+ "idp": 23048,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "3bbfa177c6fc6b265f119cb6700c493bc1076f8cefc58dea1d09451ca7eca47f",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl147_pr147_26.pdf"
+ },
+ "status": "ok"
+}

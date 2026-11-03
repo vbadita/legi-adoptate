@@ -1,0 +1,33 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 72 din 21 iunie 2024 pentru autorizarea Ministerului Afacerilor Interne, prin Direcția Generală Permise de Conducere și Înmatriculări, a Serviciului Român de Informații și a Consiliului Superior al Magistraturii să achiziționeze autovehicule necesare desfășurării activităților structurilor din cadrul acestora",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 72 din 21 iunie 2024 pentru autorizarea Ministerului Afacerilor Interne, prin Direcția Generală Permise de Conducere și Înmatriculări, a Serviciului Român de Informații și a Consiliului Superior al Magistraturii să achiziționeze autovehicule..."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Afacerilor Interne, prin Direcția Generală Permise de Conducere și Înmatriculări",
+   "Serviciul Român de Informații",
+   "Consiliul Superior al Magistraturii"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 72/2024, care permite Ministerului Afacerilor Interne, Serviciului Român de Informații și Consiliului Superior al Magistraturii să cumpere autovehicule pentru activitățile lor.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea achiziției de autovehicule pentru MAI, SRI și CSM"
+ },
+ "generated_at": "2026-11-03T18:36:26+00:00",
+ "idp": 21928,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a27ae1c83a509f33668b6bb7b6ed6886959a52ebf7161dbd2b9ee3862eed6fb7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl460_pr460_24.pdf"
+ },
+ "status": "ok"
+}

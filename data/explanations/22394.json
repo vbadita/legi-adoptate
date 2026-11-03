@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-11-02T18:35:31+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Condamnatul aflat în stare de detenție sau internat într-un centru educativ este adus la judecată numai când instanța dispune acest lucru. În cazul în care instanța nu dispune aducerea la judecată, aceasta asigură participarea condamnatului prin intermediul videoconferinței, la locul de deținere sau de internare, în prezența apărătorului ales sau numit din oficiu şi, după caz, a interpretului.",
+    "text": "Condamnatul aflat în detenție sau centru educativ participă prin videoconferință dacă instanța nu dispune aducerea lui fizică."
+   },
+   {
+    "citat": "Participarea procurorului este obligatorie. Decizia instanței prin care se soluționează contestația este definitivă.",
+    "text": "La judecarea contestației, participarea procurorului este obligatorie, iar decizia este definitivă."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele condamnate aflate în stare de detenție",
+   "Persoanele internate într-un centru educativ",
+   "Instanțele de judecată",
+   "Procurorii"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind aducerea la instanță a persoanelor condamnate aflate în detenție sau în centre educative, permițând participarea acestora prin videoconferință atunci când instanța nu dispune aducerea lor fizică.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Codului de procedură penală privind prezența condamnaților la judecată"
+ },
+ "generated_at": "2026-11-03T18:36:11+00:00",
  "idp": 22394,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: numerele 1, 597 nu apar în citatul punctului']",
  "round": 2,
  "scanned": false,
  "source": {
@@ -10,6 +34,5 @@
   "sha256": "dc35da29009ad3d727d38ca2fa3a33841fda202fadf0ee6c8cf9f509a5a9da4e",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl180_plx_180-25pr.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

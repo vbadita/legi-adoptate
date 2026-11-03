@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 17 iulie 2018 pentru completarea art. 1 din Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice... cu următoarele modificări și completări:",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 73 din 17 iulie 2018, cu modificări și completări."
+   },
+   {
+    "citat": "Titlul se modifică și va avea următorul cuprins: „ORDONANȚĂ DE URGENȚĂ pentru completarea Ordonanței de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice”",
+    "text": "Titlul ordonanței aprobate se modifică."
+   },
+   {
+    "citat": "În cazul întreprinderilor publice ale căror acțiuni sunt admise la tranzacționare, cheltuielile cu reprezentarea, transportul, diurna și cazarea ale administratorilor şi directorilor... nu reprezintă beneficii sau avantaje...",
+    "text": "La întreprinderile publice cu acțiuni tranzacționate, anumite cheltuieli făcute de administratori și directori în exercitarea mandatului nu sunt considerate beneficii sau avantaje."
+   }
+  ],
+  "cine_este_afectat": [
+   "Întreprinderile publice ale căror acțiuni sunt admise la tranzacționare",
+   "Administratorii și directorii întreprinderilor publice",
+   "Membrii consiliului de supraveghere și membrii directoratului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul aprobă o ordonanță de urgență care modifică titlul și aduce o completare privind cheltuielile administratorilor și directorilor de la întreprinderile publice cu acțiuni la bursă.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea unei ordonanțe privind guvernanța corporativă"
+ },
+ "generated_at": "2026-11-03T18:37:18+00:00",
+ "idp": 17403,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "3a98749ca080960f94cd13bbbd433821feff3a36296c3ad93987074ad73c16cc",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pl559_pr559_18.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 19 din 27 martie 2025 privind modificarea şi completarea unor acte normative, publicată în Monitorul Oficial al României, Partea I, nr. 282 din 31 martie 2025.",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 19 din 27 martie 2025."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile publice vizate de ordonanța aprobată"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aprobă Ordonanța de urgență a Guvernului nr. 19 din 27 martie 2025 care modifică și completează alte acte normative.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 19/2025 privind acte normative"
+ },
+ "generated_at": "2026-11-03T18:36:41+00:00",
+ "idp": 22326,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a7df8652d73d2f3cf6008bd2b1f69400cf7b5f699e8ccb426dc85adf3f7631ac",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl126_pr126_25.pdf"
+ },
+ "status": "ok"
+}

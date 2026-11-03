@@ -2,10 +2,16 @@
  "character": "ordinar",
  "decisional_chamber": "Camera Deputaților",
  "idp": 22683,
- "law": null,
+ "law": {
+  "day": "2026-11-03",
+  "number": "207/2026"
+ },
  "monitor": null,
  "number": "PL-x nr. 417/2025",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-03",
+  "decree": "830/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-07",
@@ -96,6 +102,11 @@
    "day": "2026-10-17",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-03",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 830/2026 devine Legea nr.207/2026"
   }
  ],
  "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",

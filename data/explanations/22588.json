@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 43 din 28 august 2025 pentru completarea Ordonanței de urgență a Guvernului nr. 87/2020...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 43 din 28 august 2025."
+   }
+  ],
+  "cine_este_afectat": [
+   "Corpul de control al prim-ministrului",
+   "Preșcolarii și elevii dezavantajați"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 43/2025, care se referă la Corpul de control al prim-ministrului și la sprijinul educațional pentru preșcolari și elevi dezavantajați.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 43/2025 privind Corpul de control și educația"
+ },
+ "generated_at": "2026-11-03T18:36:46+00:00",
+ "idp": 22588,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8325afb84b2b01494fcd11597974f737530fab2c52ed918c73ffa9a979c4feb3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl319_pr319_25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "servicii de consiliere psihologică pentru părinții ori tutorii legali ai copiilor cu sindrom Down sau cu tulburări din spectrul autist;",
+    "text": "Se introduc servicii de consiliere psihologică pentru părinții sau tutorii legali ai copiilor cu sindrom Down sau cu tulburări din spectrul autist."
+   },
+   {
+    "citat": "...acordarea de servicii medicale, servicii de consiliere psihologică acordate părinților ori tutorilor legali ai copiilor cu sindrom Down sau cu tulburări din spectrul autist... servicii de îngrijiri paliative şi servicii conexe actului medical pentru persoanele diagnosticate cu tulburări din spectrul autist...",
+    "text": "Programele naționale de sănătate curative vor include servicii de consiliere psihologică pentru părinții sau tutorii copiilor cu sindrom Down sau autism, precum și îngrijiri paliative și servicii conexe actului medical pentru persoanele cu autism."
+   },
+   {
+    "citat": "Părinții ori tutorii legali ai copiilor cu sindrom Down sau cu tulburări din spectrul autist pot beneficia de servicii de consiliere psihologică, cu decontare integrală din fondurile asigurărilor sociale de sănătate.",
+    "text": "Părinții sau tutorii legali ai copiilor cu sindrom Down sau cu tulburări din spectrul autist pot beneficia de consiliere psihologică cu decontare integrală din fondurile asigurărilor sociale de sănătate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Părinții sau tutorii legali ai copiilor cu sindrom Down",
+   "Părinții sau tutorii legali ai copiilor cu tulburări din spectrul autist",
+   "Persoanele diagnosticate cu tulburări din spectrul autist"
+  ],
+  "de_cand": "în termen de 30 de zile de la data intrării în vigoare a Legii bugetului de stat pe anul 2027",
+  "pe_scurt": "Legea introduce servicii de consiliere psihologică decontate integral pentru părinții sau tutorii copiilor cu sindrom Down sau tulburări din spectrul autist.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Consiliere psihologică pentru părinții copiilor cu sindrom Down sau autism"
+ },
+ "generated_at": "2026-11-03T18:37:28+00:00",
+ "idp": 22759,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "50e19239ac96cbc831b07109cf876222a506f1a1610d5ace1c058da9f44b9a4b",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl027_pr027_26.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. 1. - Se instituie ziua de 24 iunie ca Ziua Sătmarului.",
+    "text": "Se instituie ziua de 24 iunie ca Ziua Sătmarului."
+   },
+   {
+    "citat": "Art. 2. - Cu prilejul Zilei Sătmarului, autoritățile administrației publice centrale şi locale, instituțiile publice de cultură... pot organiza activități culturale, sociale, educative și artistice prin care să fie promovate istoria, tradițiile, obiceiurile şi patrimoniul cultural al județului Satu Mare.",
+    "text": "Autoritățile și alte instituții pot organiza activități culturale, sociale, educative și artistice."
+   },
+   {
+    "citat": "Art. 3. - (1) Autoritățile administrației publice centrale şi locale, serviciile publice deconcentrate... pot acorda sprijin material, financiar şi logistic pentru organizarea de evenimente culturale şi educative dedicate Zilei Sătmarului...",
+    "text": "Se poate acorda sprijin material, financiar și logistic pentru organizarea evenimentelor."
+   },
+   {
+    "citat": "Art. 4. - Cu ocazia sărbătoririi anuale a Zilei Sătmarului, Agenția Națională de Presă AGERPRES, Societatea Română de Radiodifuziune şi Societatea Română de Televiziune... pot produce, difuza sau redifuza conținut editorial care promovează patrimoniul cultural şi istoric al județului Satu Mare...",
+    "text": "Instituțiile publice de presă și de radiodifuziune pot difuza conținut despre patrimoniul și evenimentele județului Satu Mare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice centrale și locale",
+   "Instituțiile publice de cultură și de învățământ superior",
+   "Organizațiile aparținând minorităților naționale",
+   "Serviciile publice de presă, radio și televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie ziua de 24 iunie ca „Ziua Sătmarului”. Autoritățile și instituțiile pot organiza evenimente pentru promovarea județului Satu Mare.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Instituirea Zilei Sătmarului"
+ },
+ "generated_at": "2026-11-03T18:37:23+00:00",
+ "idp": 22508,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "791424c30acfcac41a668602c3bef61afdb3ecae4dbc3c9d798435bb8aa435bf",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl534_pr534_25_(3).pdf"
+ },
+ "status": "ok"
+}

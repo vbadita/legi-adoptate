@@ -2,10 +2,16 @@
  "character": "ordinar",
  "decisional_chamber": "Camera Deputaților",
  "idp": 23188,
- "law": null,
+ "law": {
+  "day": "2026-11-03",
+  "number": "208/2026"
+ },
  "monitor": null,
  "number": "PL-x nr. 509/2026",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-03",
+  "decree": "831/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-07",
@@ -101,6 +107,11 @@
    "day": "2026-10-17",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-03",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 831/2026 devine Legea nr.208/2026"
   }
  ],
  "title": "Proiect de Lege pentru completarea Ordonanţei Guvernului nr.26/2000 cu privire la asociaţii şi fundaţii",

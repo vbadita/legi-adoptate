@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "România aderă la Acordul de Consortiu ELIXIR de stabilire a infrastructurii europene de ştiinţe ale vieţii pentru informaţii biologice (ELIXIR), aprobat la Copenhaga, la 22-23 aprilie 2013, intrat in vigoare la 12 ianuarie 2014.",
+    "text": "România aderă oficial la Acordul de Consorțiu ELIXIR aprobat la Copenhaga."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile din domeniul științelor vieții",
+   "Cercetătorii din domeniul informațiilor biologice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "România aderă la Acordul de Consorțiu ELIXIR care stabilește infrastructura europeană de științe ale vieții pentru informații biologice.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Aderarea României la Acordul de Consorțiu ELIXIR"
+ },
+ "generated_at": "2026-11-03T18:37:16+00:00",
+ "idp": 22771,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "350aa5277e633aa4129e242b10457c2f4d79ed097efe3bb04a9c5d95e1191d9e",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L128LP.PDF"
+ },
+ "status": "ok"
+}
