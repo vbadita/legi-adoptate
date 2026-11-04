@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Indemnizațiile prevăzute la alin. (4^1) şi (4^2) se instituie ca formă de ocrotire a statului acordată tuturor tinerilor, fără discriminare. Beneficiază de aceste indemnizaţii toţi tinerii în vârstă de până la 26 de ani, care au ieşit din sistemul de protecţie specială...",
+    "text": "Indemnizațiile sunt o formă de ocrotire a statului acordată tuturor tinerilor fără discriminare, până la vârsta de 26 de ani."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, ministrul muncii, familiei, tineretului și solidarității sociale stabilește prin ordin procedura de acordare şi plată a indemnizaţiei...",
+    "text": "Ministrul muncii stabilește procedura de acordare și plată a indemnizației în termen de 90 de zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Tinerii de până la 26 de ani ieșiți din sistemul de protecție specială",
+   "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că indemnizațiile pentru tinerii care au ieșit din sistemul de protecție specială sunt o formă de ocrotire a statului acordată tuturor tinerilor de până la 26 de ani, fără discriminare, dacă îndeplinesc condițiile din lege.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Indemnizații pentru tinerii ieșiți din sistemul de protecție"
+ },
+ "generated_at": "2026-11-04T18:38:29+00:00",
+ "idp": 22179,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "46e66a3b19a5bdf83881af384707b7f31bc8cf81ed35bb4e7fadfd9752e70692",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr022_25.pdf"
+ },
+ "status": "ok"
+}

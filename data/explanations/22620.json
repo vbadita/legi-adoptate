@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 45 din 11 septembrie 2025 pentru instituirea unor măsuri în domeniul gestionării fondurilor europene nerambursabile",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 45 din 11 septembrie 2025."
+   },
+   {
+    "citat": "Se autorizează Autoritatea de Management pentru Programul Dezvoltare Durabilă 2021-2027 să încheie acte adiționale cu acordul părților la contractele/deciziile de finanțare şi să emită ordine de modificare şi/sau completare a ordinelor de finanțare... în vederea ajustării prețurilor",
+    "text": "Autoritatea de Management pentru Programul Dezvoltare Durabilă 2021-2027 este autorizată să încheie acte adiționale și să emită ordine de modificare pentru ajustarea prețurilor la proiecte de apă și apă uzată."
+   },
+   {
+    "citat": "Sumele prevăzute la art. I alin. (2) din Ordonanța de urgență a Guvernului nr. 9/2025... pot fi utilizate de către MIPE, pentru plata cheltuielilor solicitate de beneficiarii proiectelor... pentru care a fost formulată o sesizare de fraudă. Aceste sume se pot achita de către MIPE, până la punerea în mişcare a acţiunii penale.",
+    "text": "Ministerul Investițiilor și Proiectelor Europene poate utiliza anumite sume pentru plata cheltuielilor cerute de beneficiarii unor proiecte de gaze naturale pentru care s-a făcut o sesizare de fraudă, până la punerea în mișcare a acțiunii penale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Investițiilor și Proiectelor Europene",
+   "Autoritatea de Management pentru Programul Dezvoltare Durabilă 2021-2027",
+   "Beneficiarii proiectelor de infrastructură publică din domeniul apă și apă uzată",
+   "Beneficiarii proiectelor prevăzute în anexa la OUG nr. 9/2025"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență despre fonduri europene și aduce completări privind gestionarea fondurilor pentru perioada 2021-2027, inclusiv ajustarea prețurilor pentru proiecte de apă și apă uzată și plata unor cheltuieli.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri privind fondurile europene"
+ },
+ "generated_at": "2026-11-04T18:39:28+00:00",
+ "idp": 22620,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c43ea8e61afbe8c56095b5ca7816a104f57fd1c2e3b9f2b9841608fab09c5510",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl354_pr354_25_re.pdf"
+ },
+ "status": "ok"
+}

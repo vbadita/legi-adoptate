@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-04T18:36:57+00:00",
+ "idp": 22934,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 1: numerele 1 nu apar în citatul punctului']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "5e4a753a6fe7a6c83428306514c3f18edca6802fc16c7a59a3a5536dfaddef56",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L130LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

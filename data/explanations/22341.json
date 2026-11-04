@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Plata asigurării de răspundere profesională este efectuată de întreprinderea publică, nu face parte din remuneraţie şi va fi menţionată în contractul de mandat în cuantumul şi limitele de răspundere stabilite de autoritatea publică tutelară.",
+    "text": "Plata asigurării de răspundere profesională este plătită de întreprinderea publică, nu este inclusă în remunerație și se menționează în contractul de mandat în limitele stabilite de autoritatea tutelară."
+   },
+   {
+    "citat": "În contractul de mandat vor fi menţionate şi alte beneficii, sub condiţia ca totalul beneficiilor acordate într-un an de mandat să nu depăşească valoarea a două indemnizaţii fixe brute lunare.",
+    "text": "Alte beneficii din contractul de mandat se menționează în acesta, cu condiția ca totalul beneficiilor dintr-un an de mandat să nu depășească valoarea a două indemnizații fixe brute lunare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Întreprinderile publice",
+   "Autoritățile publice tutelare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 22/2025 și aduce o completare referitoare la plata asigurării de răspundere profesională și la beneficiile din contractul de mandat pentru întreprinderile publice.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 22/2025 privind guvernanța corporativă"
+ },
+ "generated_at": "2026-11-04T18:38:44+00:00",
+ "idp": 22341,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "10f6b43773104d210687c45e92f51d7e8fa19ea91c0092438ea191fc1f0455b1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr137_25.pdf"
+ },
+ "status": "ok"
+}

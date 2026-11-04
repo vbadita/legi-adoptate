@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-04T18:36:46+00:00",
+ "idp": 22940,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ffb086256bfad0d84f6e6c5f2ed68f3b21618d78ba1e338feac82570d3df3507",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl042_pr042_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

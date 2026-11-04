@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Art. 1. - Se instituie ziua de 10 septembrie ca Ziua Țării Moților.",
+    "text": "Se instituie data de 10 septembrie ca Ziua Țării Moților."
+   },
+   {
+    "citat": "Art. 2. - Cu prilejul Zilei Ţării Moților, autoritățile publice... pot organiza activități culturale, sociale, educative şi artistice...",
+    "text": "Autoritățile și instituțiile pot organiza activități culturale și educative dedicate acestei zile."
+   },
+   {
+    "citat": "Art. 3. - (1) Autorităţile... pot acorda sprijin material, financiar şi logistic... în limita resurselor financiare şi logistice disponibile.",
+    "text": "Instituțiile pot acorda sprijin material și logistic în limita resurselor disponibile."
+   },
+   {
+    "citat": "Art. 4. - ...Societatea Română de Radiodifuziune şi Societatea Română de Televiziune... pot produce, difuza sau redifuza conținut editorial care promovează acţiunile şi activitățile realizate...",
+    "text": "Televiziunea și radioul publice pot difuza conținut despre acțiunile dedicate Zilei Țării Moților."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile publice centrale și locale",
+   "Instituțiile publice de cultură",
+   "Instituțiile de învățământ superior",
+   "Serviciile publice de presă, radio și televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie ziua de 10 septembrie ca Ziua Țării Moților. Autoritățile și instituțiile publice pot organiza activități culturale, sociale, educative și artistice.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Instituirea Zilei Țării Moților pe 10 septembrie"
+ },
+ "generated_at": "2026-11-04T18:39:39+00:00",
+ "idp": 22793,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "601b327baaf693f5be2f650ee38d63f3a0482d540eca2266c409ba8dc854f6a9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr512_25.pdf"
+ },
+ "status": "ok"
+}

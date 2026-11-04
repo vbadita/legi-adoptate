@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă incetarea valabilităţii, prin retragere, a Tratatului privind Carta Energiei, incheiat la Lisabona la 17 decembrie 1994, ratificat prin Legea nr.14/1997.",
+    "text": "Se aprobă încetarea valabilității, prin retragere, a Tratatului privind Carta Energiei, încheiat la Lisabona la 17 decembrie 1994."
+   },
+   {
+    "citat": "Ministerul Afacerilor Externe va face cunoscută, prin ordin publicat in Monitorul Oficial al Romaniei, Partea I, in conformitate cu art.34 alin.(5) din Legea nr.590/2003 privind tratatele, data la care tratatul prevăzut la art.! işi incetează valabilitatea in relaţie cu Romania.",
+    "text": "Ministerul Afacerilor Externe va face cunoscută data încetării valabilității tratatului printr-un ordin publicat în Monitorul Oficial."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Afacerilor Externe"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă încetarea valabilității, prin retragere, a Tratatului privind Carta Energiei, încheiat la Lisabona la 17 decembrie 1994. Ministerul Afacerilor Externe va publica în Monitorul Oficial data la care tratatul își încetează valabilitatea.",
+  "tip": "altele",
+  "titlu_simplu": "Retragerea României din Tratatul privind Carta Energiei"
+ },
+ "generated_at": "2026-11-04T18:39:57+00:00",
+ "idp": 22863,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "327ed491d127faa656701ee13158c779340e81cbb985ac2869621d1a1b9feba5",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L154LP.PDF"
+ },
+ "status": "ok"
+}

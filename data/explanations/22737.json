@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-04T18:35:42+00:00",
+ "idp": 22737,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8c9e3a88ed19a2747faecfefce533cef590f0c71c93714ee351370a74032015d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl124_pr124_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

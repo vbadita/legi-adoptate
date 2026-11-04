@@ -1,0 +1,38 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În cazul terenurilor aferente casei de locuit şi anexelor gospodăreşti edificate anterior datei de 1 ianuarie 1990, precum şi curţii şi grădinii din jurul acestora, proprietarii caselor de locuit, inclusiv cei care au cumpărat imobilul potrivit prevederilor Legii nr. 112/1995 ... sau cei care au dobândit aceste imobile prin acte translative de proprietate pot solicita primăriei localităţii ... atribuirea în proprietate a terenurilor deţinute;",
+    "text": "Proprietarii caselor construite înainte de 1 ianuarie 1990, inclusiv cei care au cumpărat imobilul conform Legii nr. 112/1995 sau prin acte de proprietate, pot cere primăriei atribuirea terenurilor deținute."
+   },
+   {
+    "citat": "prefectul emite ordin privind atribuirea dreptului de proprietate pe baza propunerii primăriilor, care verifică întrunirea cumulativă a următoarelor condiţii:",
+    "text": "Prefectul emite ordinul privind atribuirea dreptului de proprietate pe baza propunerii primăriilor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Proprietarii caselor de locuit edificate anterior datei de 1 ianuarie 1990",
+   "Persoanele care au cumpărat imobile conform Legii nr. 112/1995",
+   "Persoanele care au dobândit imobile prin acte translative de proprietate",
+   "Primăriile localităților și prefecții"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică condițiile în care proprietarii caselor de locuit construite înainte de 1 ianuarie 1990 și ai terenurilor aferente pot cere primăriei atribuirea în proprietate a acestor terenuri.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii fondului funciar privind terenurile aferente caselor"
+ },
+ "generated_at": "2026-11-04T18:39:19+00:00",
+ "idp": 22547,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c5dcb05c99d2bd2d53b050cfc6242dd800217a8d547eb532896a391999e3bedf",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pr022_26.pdf"
+ },
+ "status": "ok"
+}

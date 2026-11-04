@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-04T18:37:19+00:00",
+ "idp": 23113,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 4: citat prea fragmentat']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "10eb429a9acc69f3d9a9285d645f40355773bbce508e242ba2074bb848d05ef4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl213_pr213_26_(1).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

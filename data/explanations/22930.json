@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:37:34+00:00",
+ "generated_at": "2026-11-04T18:35:26+00:00",
  "idp": 22930,
  "prompt_version": 5,
  "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text']",
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2026/26L155LP.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

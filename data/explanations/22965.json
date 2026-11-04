@@ -1,0 +1,44 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La Anexa nr. 1 - UNITĂȚI ADMINISTRATIV-TERITORIALE cu resurse naturale și antropice mari şi foarte mari, județul Bihor se modifică și va avea următorul cuprins",
+    "text": "Se modifică lista unităților administrativ-teritoriale cu resurse naturale și antropice mari și foarte mari din județul Bihor."
+   },
+   {
+    "citat": "La Anexa nr. 3 - UNITĂȚI ADMINISTRATIV-TERITORIALE cu resurse naturale și antropice mari şi foarte mari, care au probleme ale infrastructurii turistice, județul Bihor se modifică și va avea următorul cuprins",
+    "text": "Se actualizează lista localităților din județul Bihor care au probleme ale infrastructurii turistice."
+   },
+   {
+    "citat": "La Anexa nr. 5 - UNITĂȚI ADMINISTRATIV-TERITORIALE cu resurse naturale şi antropice mari şi foarte mari, care au probleme ale infrastructurii tehnice, județul Bihor se modifică și va avea următorul cuprins",
+    "text": "Se modifică situația localităților din județul Bihor privind problemele infrastructurii tehnice."
+   },
+   {
+    "citat": "La Anexa nr. 7 - UNITĂȚI ADMINISTRATIV-TERITORIALE cu resurse naturale și antropice mari și foarte mari, care au probleme ale infrastructurii turistice și tehnice, județul Bihor se modifică și va avea următorul cuprins",
+    "text": "Se actualizează datele pentru localitățile din județul Bihor care au probleme atât ale infrastructurii turistice, cât și ale celei tehnice."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile administrativ-teritoriale din județul Bihor",
+   "Autoritățile publice locale din județul Bihor"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică listele localităților din județul Bihor care au resurse turistice naturale și antropice mari și foarte mari, precum și situația infrastructurii turistice și tehnice a acestora.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea anexelor privind județul Bihor în legea privind zonele cu resurse turistice"
+ },
+ "generated_at": "2026-11-04T18:39:59+00:00",
+ "idp": 22965,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "59ddc33011ecd7c98920d1ac60c81a202f584954364a2ffcbb50c23cdeac4ed3",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pr049_26.pdf"
+ },
+ "status": "ok"
+}

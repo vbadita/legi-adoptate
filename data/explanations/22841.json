@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se accept ă amendamentele adoptate la cea de-a l3-a sesiune a Adunării Generale a Organizatiei Interguvernamentale privind Transporturile Internationale Feroviare (OTIF), desfăşurată la Berna in perioada 25 - 26 septembrie 2018, la Conventia privind transporturile internationale feroviare (COTIF) şi anexele E (CUI), G (ATMF) şi H (EST), semnată la Berna la 9 mai 1980, ratificată prin Decretul Consiliului de Stat nr.100/1983.",
+    "text": "Se acceptă amendamentele la Convenția privind transporturile internaționale feroviare (COTIF) și anexele E (CUI), G (ATMF) și H (EST)."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile statului cu atribuții în domeniul transporturilor feroviare internaționale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă o lege prin care se acceptă amendamentele adoptate la cea de-a 13-a sesiune a Adunării Generale a Organizației Interguvernamentale privind Transporturile Internaționale Feroviare (OTIF), desfășurată la Berna în perioada 25-26 septembrie 2018.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Acceptarea amendamentelor privind transporturile internaționale feroviare"
+ },
+ "generated_at": "2026-11-04T18:40:32+00:00",
+ "idp": 22841,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "5274a9db812d1c17a9e476649b4e532c52afe5cbd4ddc4bb2ad528f36dfa42ba",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L115LP.PDF"
+ },
+ "status": "ok"
+}

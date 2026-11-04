@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2027 ca Anul Ilie Năstase.",
+    "text": "Anul 2027 este instituit ca Anul Ilie Năstase."
+   },
+   {
+    "citat": "Se desemnează Comitetul Olimpic și Sportiv Român ca instituție coordonatoare a întregii activități derulate pe perioada anului 2027 în baza alin. (1), care va elabora un calendar cu activități sportive și educative...",
+    "text": "Comitetul Olimpic și Sportiv Român coordonează activitățile din anul 2027 și elaborează un calendar de activități sportive și educative."
+   },
+   {
+    "citat": "autoritățile administrației publice centrale și locale, instituțiile sportive din țară, precum și organizațiile cetățenilor aparținând minorităților naționale pot organiza acțiuni și evenimente cu caracter sportiv, educativ și artistic.",
+    "text": "Autoritățile administrației publice centrale și locale, instituțiile sportive și organizațiile minorităților naționale pot organiza acțiuni și evenimente sportive, educative și artistice."
+   },
+   {
+    "citat": "autoritățile administrației publice locale, precum și instituțiile publice... pot aloca fonduri din bugetele proprii sau din alte surse atrase potrivit legii, pentru a organiza sau sprijini logistic și/sau financiar manifestările...",
+    "text": "Autoritățile și instituțiile publice pot aloca fonduri din bugetele proprii sau din alte surse pentru a organiza sau sprijini manifestările."
+   },
+   {
+    "citat": "Societatea Română de Radiodifuziune și Societatea Română de Televiziune, în calitate de servicii publice, pot produce, difuza sau redifuza conținut editorial care promovează acțiunile și activitățile realizate...",
+    "text": "Televiziunea și Radioul publice pot produce sau difuza conținut care promovează activitățile dedicate Anului Ilie Năstase."
+   }
+  ],
+  "cine_este_afectat": [
+   "Comitetul Olimpic și Sportiv Român",
+   "Autoritățile administrației publice centrale și locale",
+   "Instituțiile sportive și publice",
+   "Societatea Română de Radiodifuziune și Societatea Română de Televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2027 ca Anul Ilie Năstase. Sunt stabilite activități sportive, educative și artistice, precum și posibilitatea autorităților și instituțiilor publice de a aloca fonduri pentru organizarea sau sprijinirea acestora.",
+  "tip": "lege simbolică",
+  "titlu_simplu": "Anul 2027 declarat Anul Ilie Năstase"
+ },
+ "generated_at": "2026-11-04T18:36:06+00:00",
+ "idp": 23034,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "7bd9a23f6b905af11d2e3a1dfeecf15cee8790d0a2e47d94be2329ea128aba47",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl126_pr126_26_(1).pdf"
+ },
+ "status": "ok"
+}

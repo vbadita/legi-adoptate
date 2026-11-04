@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanţa Guvernului nr. 11 din 24 iulie 2025 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
+    "text": "Se aprobă Ordonanţa Guvernului nr. 11 din 24 iulie 2025 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală."
+   }
+  ],
+  "cine_este_afectat": [
+   "Contribuabilii",
+   "Instituțiile statului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României a aprobat Ordonanța Guvernului nr. 11 din 24 iulie 2025. Această ordonanță modifică și completează Legea nr. 207/2015 privind Codul de procedură fiscală.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 11/2025 privind Codul de procedură fiscală"
+ },
+ "generated_at": "2026-11-04T18:36:33+00:00",
+ "idp": 22616,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "7d836d5863595194921b62e6f3001e3b553f2de728ef3233d9ffb4044c87d835",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl365_pr365_25.pdf"
+ },
+ "status": "ok"
+}
