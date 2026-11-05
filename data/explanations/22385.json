@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:39:49+00:00",
+ "idp": 22385,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "282c607c018e40413a3802c3ca265d976b510b36d3c318a536f5b61bd78de265",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr176_25.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

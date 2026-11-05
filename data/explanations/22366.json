@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:38:19+00:00",
+ "idp": 22366,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ee6c3d4a1905e4ceb6650cbeb7c7cd43d261ffd6af9715a0534a984312c9cca7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl330_pr330_25.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

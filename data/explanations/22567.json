@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:39:40+00:00",
+ "idp": 22567,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "1ce07261debb62f71abc59f365231f9131ffe73b2e4cffe8fd910ec18d61bf1b",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L554LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

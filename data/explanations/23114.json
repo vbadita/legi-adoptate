@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T18:37:49+00:00",
+ "generated_at": "2026-11-05T18:38:09+00:00",
  "idp": 23114,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 3: numerele 2026 nu apar în citatul punctului']",
+ "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pr214_26.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

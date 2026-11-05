@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:38:27+00:00",
+ "idp": 22745,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "82796ff5e93e3399f3d90216ce5774c1139921751467a332213dc510bf8945a6",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L114LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

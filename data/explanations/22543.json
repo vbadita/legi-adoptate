@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:39:03+00:00",
+ "idp": 22543,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "22143d894dce98128fe1705699b6bccc339647c730bc4c1c68970876bc40aac9",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L470LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

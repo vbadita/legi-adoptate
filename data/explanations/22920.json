@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "autorităţile administraţiei publice locale au obligaţia de a contacta victima, în termen de 3 zile de la emiterea ordinului de protecţie... Cu cel puţin 14 zile anterioare expirării duratei pentru care a fost emis ordinul de protecţie, autorităţile administraţiei publice locale au obligaţia de a contacta victima...",
+    "text": "Autoritățile locale trebuie să contacteze victima în termen de 3 zile de la emiterea ordinului de protecție și la expirarea lui, precum și cu cel puțin 14 zile înainte de expirare."
+   },
+   {
+    "citat": "Măsura privind obligarea agresorului să urmeze, pe întreaga durată a ordinului de protecție, consiliere psihologică și/sau psihoterapie... nu mai puțin de o ședință pe lună.",
+    "text": "Instanța obligă agresorul la consiliere psihologică sau psihoterapie cu o frecvență de cel puțin o ședință pe lună pe toată durata ordinului."
+   },
+   {
+    "citat": "Încălcarea de către persoana împotriva căreia a fost emis un ordin de protecție a uneia dintre măsurile prevăzute la art. 12 alin. (3) și (3^1)... constituie contravenție și se sancționează cu amendă de la 5.000 lei la 10.000 lei.",
+    "text": "Încălcarea de către agresor a măsurilor de consiliere psihologică sau psihoterapie este contravenție și se sancționează cu amendă de la 5.000 lei la 10.000 lei."
+   },
+   {
+    "citat": "durata măsurilor dispuse printr-un ordin de protecţie emis în termen de 5 ani de la expirarea celui anterior se stabileşte de judecător, fără a putea depăşi 24 luni de la data emiterii acestuia.",
+    "text": "Durata unui nou ordin de protecție emis în termen de 5 ani de la expirarea unuia anterior se stabilește de judecător, fără a depăși 24 de luni."
+   },
+   {
+    "citat": "se comunică, în maximum 5 ore de la momentul pronunţării hotărârii, structurilor Poliţiei Române... Direcţiei pentru Evidenţa Persoanelor... precum şi reprezentantului autorităţii... la nivelul unităţii administrativ-teritoriale",
+    "text": "O copie a hotărârii privind ordinul de protecție se comunică Poliției, Evidenței Persoanelor și autorităților locale în maximum 5 ore de la pronunțare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Victimele violenței domestice",
+   "Agresorii cărora li se aplică ordine de protecție",
+   "Autoritățile administrației publice locale",
+   "Poliția Română"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări regulilor privind ordinele de protecție, stabilind obligații pentru autorități de a contacta victimele, reguli noi privind consilierea psihologică obligatorie a agresorilor și amenzi pentru nerespectarea acesteia.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea legilor privind prevenirea violenței domestice și ordinul de protecție"
+ },
+ "generated_at": "2026-11-05T18:38:47+00:00",
+ "idp": 22920,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "187d7fa22172ad37c873d6ebaaaeab2b356a85b937dae18584c346c4d375596e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl016_pr016_26.pdf"
+ },
+ "status": "ok"
+}

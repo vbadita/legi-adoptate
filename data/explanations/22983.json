@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:38:57+00:00",
+ "idp": 22983,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "dc15c32c72076ddd6e6837b1a6b2cc9e0abb8cadb971811696dc3e94e5a04eb9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl067_pr067_26_(3).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

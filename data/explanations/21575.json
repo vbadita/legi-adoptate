@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:38:52+00:00",
+ "idp": 21575,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "32e9c4134bb366d41aa556dd3bce7a1da01258de8bdfb5124beb7fa14286d8d1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl108_pr108_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

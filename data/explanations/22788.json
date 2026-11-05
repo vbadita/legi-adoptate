@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-05T18:38:31+00:00",
+ "idp": 22788,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "bda1a941580f869d056c3dc4b41cffc0a8a4aa254367e53d87dcd4220e1c4af5",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl505_pr505_25_(4).pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}
