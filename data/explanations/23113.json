@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-05T18:38:06+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Regula prevăzută la art. 6 se consideră respectată dacă este îndeplinită una dintre următoarele condiții: a) limita inferioară a soldului structural anual al administrației publice nu este mai mică de -0,5% din produsul intern brut la prețurile pieței; ...",
+    "text": "Condițiile în care se consideră respectată regula fiscală privind soldul structural anual au fost actualizate prin raportare la produsul intern brut și la recomandările instituțiilor Uniunii Europene."
+   },
+   {
+    "citat": "Ministerul Finanțelor publică pe propria pagină de internet date bugetare bazate pe contabilitatea de casă sau datele echivalente provenite din contabilitatea publică ... a) lunar și înainte de sfârșitul lunii următoare, pentru administrația centrală și subsectoarele administrațiilor de securitate socială; b) trimestrial și înainte de sfârșitul trimestrului următor, pentru subsectorul administrației locale.",
+    "text": "Ministerul Finanțelor publică periodic pe internet date bugetare și date privind datoria publică, respectând anumite termene pentru administrația centrală, de securitate socială și locală."
+   },
+   {
+    "citat": "Institutul Național de Statistică publică, pe propria pagină de internet, date trimestriale privind deficitul bugetar, pentru total administrație publică și detaliat pe subsectoarele administrației publice în termen de cel mult 10 zile de la publicarea datelor relevante de către Comisia Europeană (Eurostat).",
+    "text": "Institutul Național de Statistică publică pe pagina sa de internet date trimestriale privind deficitul bugetar în cel mult 10 zile de la publicarea datelor relevante de către Comisia Europeană (Eurostat)."
+   },
+   {
+    "citat": "Persoanele nominalizate pentru a face parte din Consiliul fiscal trebuie să facă dovada integrității comportamentale și fiscale neavând înscrise date în cazierul fiscal sau judiciar, să fie cetățeni români cu drept de vot, să aibă studii universitare în domeniul economic, să aibă o bună reputație, competență și experiență profesională în domeniul politicilor macroeconomice, finanțelor publice sau managementului bugetar public și o vechime în specialitate de minimum 10 ani.",
+    "text": "Se stabilesc noi criterii de integritate și experiență pentru membrii Consiliului fiscal, aceștia trebuind să aibă o vechime în specialitate de minimum 10 ani și studii universitare economice."
+   },
+   {
+    "citat": "Entitatea respectivă va transmite informațiile/documentele/datele solicitate, în forma solicitată, în termen de 10 zile de la solicitarea lor de către Consiliul fiscal. Prin excepție, în cazul solicitărilor privind legile bugetare anuale, rectificările bugetare sau strategia fiscal-bugetară, termenul de transmitere este de maximum 3 zile lucrătoare.",
+    "text": "Entitățile cărora Consiliul fiscal le solicită informații sau date au obligația să le transmită în termen de 10 zile, iar în cazul legilor bugetare sau al strategiei fiscal-bugetare, termenul este de maximum 3 zile lucrătoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Finanțelor",
+   "Institutul Național de Statistică",
+   "Consiliul fiscal",
+   "Autoritățile și instituțiile publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind responsabilitatea fiscal-bugetară pentru a le alinia la cerințele Uniunii Europene și stabilește noi atribuții pentru Ministerul Finanțelor, Institutul Național de Statistică și Consiliul fiscal.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii responsabilităţii fiscal-bugetare nr. 69/2010"
+ },
+ "generated_at": "2026-11-06T18:37:19+00:00",
  "idp": 23113,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "10eb429a9acc69f3d9a9285d645f40355773bbce508e242ba2074bb848d05ef4",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl213_pr213_26_(1).pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

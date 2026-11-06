@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-05T18:38:24+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "sintagma „Staţiunea de Cercetare-Dezvoltare Agricolă Lovrin” se înlocuieşte cu sintagma «Staţiunea de Cercetare-Dezvoltare Agricolă „Prof. univ. dr. Valeriu Tabără” Lovrin».",
+    "text": "Denumirea Stațiunii de Cercetare-Dezvoltare Agricolă Lovrin se înlocuiește în toată legea cu noua denumire care include numele Prof. univ. dr. Valeriu Tabără."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Guvernul va modifica în mod corespunzător Hotărârea Guvernului nr. 784/2017",
+    "text": "Guvernul are la dispoziție un termen de 90 de zile pentru a modifica hotărârea de Guvern privind reorganizarea stațiunii și inventarul bunurilor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Stațiunea de Cercetare-Dezvoltare Agricolă Lovrin"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea schimbă denumirea unei stațiuni de cercetare din agricultură și stabilește termenul în care Guvernul trebuie să modifice actele normative aferente.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Denumirea stațiunii de cercetare Lovrin"
+ },
+ "generated_at": "2026-11-06T18:37:40+00:00",
  "idp": 22402,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +32,5 @@
   "sha256": "c691b584915ed8b855a301daea3e9d597b4bbc51acf8f26a446a65b75fa6f5ef",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl323_pr323_25.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

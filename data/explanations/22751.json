@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-11-05T18:38:12+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "„y) resort turistic – structură de primire turistică integrată, realizată prin investiție nouă sau prin reconversia unor structuri existente, alcătuită dintr-un ansamblu coerent de spații de cazare dispuse în una sau mai multe clădiri, clasificată la categoria de minimum 3 stele, respectiv 4 sau 5 stele... Resortul turistic este amplasat pe o suprafață de minimum 10.000 m²...",
+    "text": "Se introduce definiția oficială a resortului turistic ca structură de primire turistică integrată, de minimum 3, 4 sau 5 stele, cu o suprafață de cel puțin 10.000 m²."
+   },
+   {
+    "citat": "Criteriile de clasificare pentru resorturile turistice sunt identice cu cele prevăzute în normele metodologice pentru hotelurile de 3, 4 şi 5 stele.",
+    "text": "Criteriile de clasificare pentru resorturile turistice sunt identice cu cele pentru hotelurile de 3, 4 și 5 stele."
+   },
+   {
+    "citat": "Structurile de primire turistică existente pot solicita reclasificarea în resort turistic, în condițiile legii, fără întreruperea activității, dacă îndeplinesc cumulativ condiţiile prevăzute la art. 2 lit. y)...",
+    "text": "Structurile de cazare existente pot cere reclasificarea ca resort turistic fără să își întrerupă activitatea, dacă îndeplinesc condițiile cerute."
+   }
+  ],
+  "cine_este_afectat": [
+   "Operatorii economici din turism",
+   "Unitățile de cazare existente care vor să se reclasifice",
+   "Turiștii"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea definește ce este un resort turistic și stabilește condițiile pe care acesta trebuie să le îndeplinească. De asemenea, oferă posibilitatea ca unitățile de cazare existente să ceară reclasificarea.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Definirea resortului turistic în legea turismului"
+ },
+ "generated_at": "2026-11-06T18:37:29+00:00",
  "idp": 22751,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "b465f003cb06423a55ce180219789c1f2c89cb2eb6d577370461b9ae785eb8e0",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl467_pr467_25.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

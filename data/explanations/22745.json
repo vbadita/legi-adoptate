@@ -1,8 +1,37 @@
 {
- "generated_at": "2026-11-05T18:38:27+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "România aderă la Tratatul de prietenie şi cooperare in Asia de Sud-Est, adoptat Ia Denpasar, Bali, la 24 februarie 1976",
+    "text": "România aderă la Tratatul de prietenie şi cooperare în Asia de Sud-Est."
+   },
+   {
+    "citat": "România aderă la Protocolul adoptat Ia Manila, la 15 decembrie 1987, de modificare a Tratatului de prietenie şi cooperare in Asia de Sud-Est",
+    "text": "România aderă la primul protocol de modificare a tratatului."
+   },
+   {
+    "citat": "România aderă la al doilea Protocol adoptat Ia Manila, la 25 iulie 1998, de modificare a Tratatului de prietenie şi cooperare in Asia de Sud-Est",
+    "text": "România aderă la al doilea protocol de modificare a tratatului."
+   },
+   {
+    "citat": "România aderă la al treilea Protocol, adoptat la Hanoi, la 23 iulie 2010, de modificare a Tratatului de prietenie şi cooperare in Asia de Sud-Est",
+    "text": "România aderă la al treilea protocol de modificare a tratatului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Statul român"
+  ],
+  "de_cand": null,
+  "pe_scurt": "România aderă la Tratatul de prietenie şi cooperare în Asia de Sud-Est din 1976, precum şi la protocoalele sale de modificare din 1987, 1998 şi 2010.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Aderarea României la Tratatul de prietenie și cooperare în Asia de Sud-Est"
+ },
+ "generated_at": "2026-11-06T18:37:42+00:00",
  "idp": 22745,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +39,5 @@
   "sha256": "82796ff5e93e3399f3d90216ce5774c1139921751467a332213dc510bf8945a6",
   "url": "https://www.senat.ro/legis/PDF/2026/26L114LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

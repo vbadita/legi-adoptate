@@ -1,8 +1,42 @@
 {
- "generated_at": "2026-11-05T18:38:31+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "6¹. contraparte centrală sau CPC - o persoană juridică, astfel cum este definită la art. 2 pct. 1 din Regulamentul (UE) nr. 648/2012 ... 6^2. contraparte centrală calificată sau CPCC - o persoană juridică astfel cum este definită la art. 4 alin. (1) pct. 88 din Regulamentul (UE) nr. 575/2013;",
+    "text": "Se introduc definițiile pentru contraparte centrală (CPC) și contraparte centrală calificată (CPCC)."
+   },
+   {
+    "citat": "b) procese eficace de identificare, administrare, monitorizare şi raportare a riscurilor la care este sau poate fi expusă S.S.I.F. sau a riscurilor pe care S.S.I.F. le prezintă sau le poate prezenta pentru alții, inclusiv a riscului de concentrare rezultat din expunerile față de contrapărți centrale, potrivit dispozițiilor art. 7a din Regulamentul (UE) nr. 648/2012;",
+    "text": "Se introduc reguli privind procesele de identificare și administrare a riscului de concentrare rezultat din expunerile față de contrapărți centrale."
+   },
+   {
+    "citat": "(6) În sensul prevederilor alin. (1) lit. e), organul de conducere al S.S.I.F. elaborează planuri specifice și obiective cuantificabile în conformitate cu cerințele prevăzute la art. 7a din Regulamentul (UE) nr. 648/2012 pentru a monitoriza şi a aborda riscul de concentrare...",
+    "text": "Organul de conducere al societăților de servicii de investiții financiare elaborează planuri specifice și obiective pentru a monitoriza riscul de concentrare."
+   },
+   {
+    "citat": "(3) În sensul prevederilor alin. (1) lit.a), A.S.F. evaluează şi monitorizează evoluțiile practicilor S.S.I.F. în ceea ce priveşte gestionarea riscului de concentrare rezultat pentru acestea din expunerile față de contrapărți centrale...",
+    "text": "Autoritatea de Supraveghere Financiară evaluează și monitorizează evoluțiile practicilor societăților în gestionarea riscului de concentrare."
+   },
+   {
+    "citat": "n) de a impune S.S.I.F. să reducă expunerile față de o contraparte centrală sau să realinieze expunerile din conturile lor de compensare în conformitate cu dispozițiile art. 7a din Regulamentul (UE) nr. 648/2012, în cazul în care A.S.F. consideră că există un risc de concentrare excesiv cauzat de expunerile față de contrapartea centrală respectivă.",
+    "text": "Autoritatea de Supraveghere Financiară poate impune reducerea expunerilor față de o contraparte centrală dacă există un risc de concentrare excesiv."
+   }
+  ],
+  "cine_este_afectat": [
+   "Societățile de servicii de investiții financiare",
+   "Autoritatea de Supraveghere Financiară"
+  ],
+  "de_cand": "25 iunie 2026",
+  "pe_scurt": "Legea aduce modificări privind supravegherea prudențială a societăților de servicii de investiții financiare, introducând reglementări legate de contrapărțile centrale și riscul de concentrare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Supravegherea prudențială a societăților de servicii de investiții financiare"
+ },
+ "generated_at": "2026-11-06T18:37:44+00:00",
  "idp": 22788,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +44,5 @@
   "sha256": "bda1a941580f869d056c3dc4b41cffc0a8a4aa254367e53d87dcd4220e1c4af5",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl505_pr505_25_(4).pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

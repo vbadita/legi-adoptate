@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-05T18:37:44+00:00",
+ "generated_at": "2026-11-06T18:37:08+00:00",
  "idp": 22940,
  "prompt_version": 5,
- "reason": "gemini http 503",
+ "reason": "rejected after 2 attempts: ['punctul 3: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl042_pr042_26.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }
