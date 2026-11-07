@@ -1,0 +1,40 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă participarea României la runda de suplimentare a fondurilor Asociației Internaționale pentru Dezvoltare în cadrul rundei IDA21 printr-o subscripție voluntară în valoare de 5.800.000 dolari SUA.",
+    "text": "România participă la runda de suplimentare a fondurilor Asociației Internaționale pentru Dezvoltare - IDA21 cu suma de 5.800.000 dolari SUA."
+   },
+   {
+    "citat": "Plata aferentă subscripției prevăzute la alin. (1) se asigură în tranșe inegale conform următorului calendar: a) suma de 1.930.000 dolari SUA în cursul anului 2026; b) suma de 1.930.000 dolari SUA în cursul anului 2027; c) suma de 1.940.000 dolari SUA în cursul anului 2028.",
+    "text": "Plata se face în trei tranșe, câte 1.930.000 dolari SUA în 2026 și 2027, și 1.940.000 dolari SUA în 2028."
+   },
+   {
+    "citat": "Plata subscripției prevăzute la alin. (1)... se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor, în limita sumelor aprobate prin legea bugetară anuală.",
+    "text": "Sumele pentru plata subscripției sunt asigurate de la bugetul de stat, prin bugetul Ministerului Finanțelor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Finanțelor",
+   "Bugetul de stat"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă participarea României la runda de suplimentare a fondurilor Asociației Internaționale pentru Dezvoltare, denumită IDA21, cu o sumă totală de 5.800.000 dolari SUA, plătită în tranșe anuale între 2026 și 2028.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Participarea României la fondurile IDA21"
+ },
+ "generated_at": "2026-11-07T18:37:07+00:00",
+ "idp": 22875,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "145882aab550876760b7b8ffdd43337abb9c3683448bb63d699789091d33f33c",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl571_pr571_25.pdf"
+ },
+ "status": "ok"
+}

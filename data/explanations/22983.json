@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-05T18:38:57+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2026 ca ,,Anul episcop Márton Áron” având drept scop evocarea vieții, personalității și activității episcopului Márton Áron...",
+    "text": "Se instituie anul 2026 ca „Anul episcop Márton Áron” având ca scop evocarea vieții, personalității și activității episcopului."
+   },
+   {
+    "citat": "Autoritățile administrației publice centrale și locale, precum și instituțiile publice aflate în subordinea ori coordonarea acestora pot aloca fonduri din bugetele proprii pentru organizarea ori sprijinirea logistică și/sau financiară a manifestărilor...",
+    "text": "Autoritățile și instituțiile publice pot aloca fonduri pentru organizarea de manifestări culturale, educaționale și artistice."
+   },
+   {
+    "citat": "Societatea Română de Televiziune și Societatea Română de Radiodifuziune pot realiza și difuza emisiuni și programe dedicate ,,Anului episcop Márton Áron”...",
+    "text": "Televiziunea Română și Radiodifuziunea Română pot difuza emisiuni și programe dedicate acestui an."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice centrale și locale",
+   "Instituțiile publice",
+   "Societatea Română de Televiziune",
+   "Societatea Română de Radiodifuziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 drept „Anul episcop Márton Áron” pentru a evoca viața și activitatea acestuia și permite organizarea de evenimente culturale și educaționale finanțate din fonduri publice.",
+  "tip": "lege simbolică",
+  "titlu_simplu": "Anul 2026 ca Anul episcop Márton Áron"
+ },
+ "generated_at": "2026-11-07T18:36:53+00:00",
  "idp": 22983,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +38,5 @@
   "sha256": "dc15c32c72076ddd6e6837b1a6b2cc9e0abb8cadb971811696dc3e94e5a04eb9",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl067_pr067_26_(3).pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

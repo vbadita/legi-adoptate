@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-05T18:39:03+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "transmiterea informaţiilor şi a comunicatelor oficiale ale autorităţilor publice cu privire la pericolul dezinformării şi importanţa verificării informaţiilor din surse sigure şi multiple",
+    "text": "Consiliul transmite comunicate oficiale despre pericolul dezinformării și importanța verificării informațiilor din surse sigure."
+   },
+   {
+    "citat": "Comunicările audiovizuale cu caracter educativ privind pericolul dezinformării şi importanţa verificării informaţiilor din surse sigure şi multiple trebuie să respecte următoarele criterii: a) să informeze cetăţenii Cu privire la pericolul dezinformării şi la importanţa verificării informaţiilor din surse sigure şi multiple; b) să incurajeze informarea din curse oficiale ale autorităfilor şi institufiilor publice; c) să informeze cetăfenii cu privire la riscurile sociale şi institufionale generate de răspândirea ştirilor false",
+    "text": "Se introduc comunicări educative care trebuie să informeze despre riscurile știrilor false și să încurajeze informarea din surse oficiale."
+   },
+   {
+    "citat": "Consiliul inifiază discufii cu radiodifuzorii in vederea pregătirii campaniei de informare publică şi selectează posturile de radio şi de televiziune aflate in jurisdicfia României, care defin licenfă audiovizuală şi au avut in structura de programe emisiuni informative, culturale şi educative de interes public, in ordinea audienfei, pentru publicul fintă, cu vârste intre 15 şi 65 de ani, ca medie pe tot ariul anterior desfăşurării campaniei. Campania de informare publică se va derula lunar.",
+    "text": "Consiliul alege posturile de radio și TV care vor difuza campania lunară, în funcție de audiență, pentru publicul între 15 și 65 de ani."
+   },
+   {
+    "citat": "Pentru localităfile in care ponderea unei minorităfi nafionale depăşeşte 10% din totalul populafiei, furnizorii de servicii de televiziune şi de radiodifuziune, care conform licenţei audiovizuale transmit in limba minorităfilor nafionale, difuzează mesajele stabilite de Consiliu, conform alin.(2), in limbile respectivelor minorităfi.",
+    "text": "În localitățile unde o minoritate națională depășește 10% din populație, mesajele vor fi difuzate și în limba acelei minorități."
+   },
+   {
+    "citat": "În termen de 60 de zile de la data finalizării fiecărei campanii de informare, Consiliul publică un raport de monitorizare care confine numărul zilnic de difuzări ale comunicărilor audiovizuale cu caracter educativ de către posturile de radio şi de televiziune selectate, intervalele orare de difuzare, precum şi impactul pe care intreaga campanie 1-a avut...",
+    "text": "Consiliul publică un raport de monitorizare în termen de 60 de zile de la finalizarea fiecărei campanii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Posturile de radio și televiziune din România",
+   "Consiliul",
+   "Cetățenii și publicul cu vârste între 15 și 65 de ani",
+   "Minoritățile naționale din localitățile unde ponderea depășește 10%"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce campanii de informare la radio și televiziune despre pericolul dezinformării, importanța verificării știrilor din surse sigure și riscurile știrilor false.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Informare despre dezinformare la radio și TV"
+ },
+ "generated_at": "2026-11-07T18:36:55+00:00",
  "idp": 22543,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "22143d894dce98128fe1705699b6bccc339647c730bc4c1c68970876bc40aac9",
   "url": "https://www.senat.ro/legis/PDF/2025/25L470LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

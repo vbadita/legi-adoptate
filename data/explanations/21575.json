@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-11-05T18:38:52+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța Guvernului nr. 1 din 11 ianuarie 2024 pentru completarea art. 17 din Legea nr. 215/2016 privind ceremoniile oficiale",
+    "text": "Se aprobă Ordonanța Guvernului nr. 1 din 11 ianuarie 2024 pentru completarea art. 17 din Legea nr. 215/2016 privind ceremoniile oficiale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile publice implicate în ceremoniile oficiale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul adoptă o lege prin care aprobă Ordonanța Guvernului nr. 1/2024 care completează art. 17 din Legea nr. 215/2016 despre ceremoniile oficiale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 1/2024 privind ceremoniile oficiale"
+ },
+ "generated_at": "2026-11-07T18:36:52+00:00",
  "idp": 21575,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +27,5 @@
   "sha256": "32e9c4134bb366d41aa556dd3bce7a1da01258de8bdfb5124beb7fa14286d8d1",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl108_pr108_24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

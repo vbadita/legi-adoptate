@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie ziua de 21 septembrie ca Ziua Munţilor Apuseni. ... prin organizarea unor acţiuni şi evenimente cu caracter cultural, educativ, artistic şi de punere în valoare a potenţialului local, prin organizarea de excursii tematice şi prin activităţi de promovare a producătorilor locali",
+    "text": "Se stabilește data de 21 septembrie ca Ziua Munților Apuseni, zi care poate fi marcată prin evenimente culturale, educative, artistice, excursii tematice și promovarea producătorilor locali."
+   },
+   {
+    "citat": "Autorităţile publice şi autorităţile administraţiei publice centrale şi locale, serviciile publice deconcentrate, precum şi organizaţiile aparţinând minorităţilor naţionale pot sprijini material sau logistic ... în limita alocărilor bugetare aprobate.",
+    "text": "Autoritățile și instituțiile pot acorda sprijin material sau logistic, în limita banilor aprobați în buget."
+   },
+   {
+    "citat": "Societatea Română de Radiodifuziune şi Societatea Română de Televiziune, în calitate de servicii publice, pot produce, difuza sau redifuza conţinut editorial care promovează acţiunile şi activităţile realizate",
+    "text": "Televiziunea și Radioul publice pot difuza conținut pentru a promova evenimentele dedicate acestei zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile publice centrale și locale",
+   "Instituțiile publice de cultură",
+   "Organizațiile minorităților naționale",
+   "Societatea Română de Radiodifuziune și Societatea Română de Televiziune"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie data de 21 septembrie ca Ziua Munţilor Apuseni. Autorităţile și instituțiile pot organiza evenimente și pot sprijini această zi.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ziua Munţilor Apuseni"
+ },
+ "generated_at": "2026-11-07T18:37:30+00:00",
+ "idp": 22559,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "64f7cdaa96a1456650e4f7f96069133a740d720361682467633c28503e968731",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl293_pr293_25.pdf"
+ },
+ "status": "ok"
+}

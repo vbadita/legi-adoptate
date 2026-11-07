@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic.- Se aprobă Ordonanța de urgență a Guvernului nr.32 din 23 iunie 2025 privind stabilirea unor măsuri la nivelul administrației publice centrale",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr.32 din 23 iunie 2025 privind stabilirea unor măsuri la nivelul administrației publice centrale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Administrația publică centrală"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr.32/2025 privind stabilirea unor măsuri la nivelul administrației publice centrale.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 32/2025 privind administrația publică centrală"
+ },
+ "generated_at": "2026-11-07T18:37:09+00:00",
+ "idp": 22441,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "11f3f734dcd7cb4fcd28b8dc343b9331dcf50b9107834668e08a829639243412",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L333LP.PDF"
+ },
+ "status": "ok"
+}

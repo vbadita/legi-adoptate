@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-11-05T18:39:40+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "...mandatele supleantilor sunt validate in termen de 10 zile de la data constatării incetării mandatului consilierului local... Supleantii au obligatia transtniterii către secretarul general... a documentelor doveditoare... cu cel putin 5 zile înainte de implinirea termenului de 10 zile.",
+    "text": "Mandatele supleanților sunt validate în termen de 10 zile de la constatarea încetării mandatului consilierului local de către judecătorie, iar supleanții trebuie să trimită documentele doveditoare cu cel puțin 5 zile înainte de împlinirea termenului de 10 zile."
+   },
+   {
+    "citat": "...locul desfăşurării, in cazul şedinţelor desfăşurate cu participarea fizică a consilierilor locali, aplicaiiile electronice folosite, în cazul şedinţelor desfăşurate prin mijloace electronice, sau atât locul desfăşurării, cât şi aplicaţiile electronice folosite, în cazul şedinţelor desfăşurate To format m i xt...",
+    "text": "În convocarea ședințelor se indică locul pentru cele cu participare fizică, aplicațiile electronice pentru cele online, sau ambele pentru cele în format mixt."
+   }
+  ],
+  "cine_este_afectat": [
+   "Consilierii locali",
+   "Supleanții în consiliile locale",
+   "Judecătoriile",
+   "Secretarii generali ai unităților administrativ-teritoriale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea schimbă termenii de validare pentru mandatele supleanților în consiliile locale și detaliază cum se menționează locul și mijloacele electronice pentru ședințe.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări la Codul administrativ privind consilierii locali"
+ },
+ "generated_at": "2026-11-07T18:36:58+00:00",
  "idp": 22567,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +34,5 @@
   "sha256": "1ce07261debb62f71abc59f365231f9131ffe73b2e4cffe8fd910ec18d61bf1b",
   "url": "https://www.senat.ro/legis/PDF/2025/25L554LP.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

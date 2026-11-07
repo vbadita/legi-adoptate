@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 11 septembrie 2024 pentru stabilirea unor măsuri în domeniul înregistrării în registrul comerțului",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 109 din 11 septembrie 2024 pentru stabilirea unor măsuri în domeniul înregistrării în registrul comerțului."
+   },
+   {
+    "citat": "Dispozițiile art. 2 din Ordonanța de urgență a Guvernului nr. 109/2024 ... se aplică și pe o perioadă de un an de la data intrării în vigoare a prezentei legi.",
+    "text": "Dispozițiile art. 2 din ordonanță se aplică și pe o perioadă de un an de la data intrării în vigoare a prezentei legi."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele vizate de înregistrările în registrul comerțului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul adoptă legea care aprobă Ordonanța de urgență a Guvernului nr. 109/2024 referitoare la măsuri în domeniul înregistrării în registrul comerțului.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea OUG nr. 109/2024 privind registrul comerțului"
+ },
+ "generated_at": "2026-11-07T18:37:12+00:00",
+ "idp": 22044,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1d37966723647c3bfac39b607b132f9a034c2cc8646d0cb1e917c6289445b94d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pr565_24-1_(r).pdf"
+ },
+ "status": "ok"
+}
