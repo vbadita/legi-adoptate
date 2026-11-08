@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanta de urgentă a Guvernului nr. 62 din 20 noiembrie 2025... cu următoarea completare: - La articolul 4, după alineatul (4) se introduce cu un nou alineat, alin.(5)...",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 62 din 20 noiembrie 2025 cu o completare referitoare la proiectele de infrastructură de transport rutier."
+   },
+   {
+    "citat": "pentru proiectele de infrastructură de transport rutier de interes national finantate sau finantabile prin instrumentul financiar european SAFE, autoritatea contractantă are dreptul de a aplica procedura de licitatie deschisă... cu reducerea termenelor... situatia de urgentă considerându-se a fi demonstrată.",
+    "text": "Pentru proiectele de infrastructură de transport rutier de interes național finanțate prin instrumentul european SAFE, autoritatea contractantă poate folosi licitația deschisă cu termene reduse, urgența fiind considerată demonstrată."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile contractante",
+   "Instituțiile implicate în proiecte de infrastructură de transport rutier"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 62/2025 referitoare la măsurile de aplicare a Regulamentului (UE) 2025/1106 pentru instrumentul „Acțiunea pentru securitatea Europei” (SAFE) și aduce o completare privind achizițiile publice pentru infrastructura de transport rutier.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG nr. 62/2025 privind instrumentul european SAFE"
+ },
+ "generated_at": "2026-11-08T18:38:22+00:00",
+ "idp": 22783,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "084972febeebd8a1660bf15937d44331197502454e70a09f4e7bb303fa4b755f",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L594LP.PDF"
+ },
+ "status": "ok"
+}

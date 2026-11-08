@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic.- Se ratifică Acordul-cadru dintre Guvernul României şi Organizalia pentru Cooperare Comună în Domeniul Armamentului (OCCAR) pentru participarea României la programele gestionate de OCCAR, semnat la Bucureşti, la 8 octombrie 2025.",
+    "text": "Se ratifică Acordul-cadru dintre Guvernul României şi Organizalia pentru Cooperare Comună în Domeniul Armamentului (OCCAR) pentru participarea României la programele gestionate de OCCAR, semnat la Bucureşti, la 8 octombrie 2025."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă o lege prin care se ratifică Acordul-cadru dintre Guvernul României și Organizația pentru Cooperare Comună în Domeniul Armamentului (OCCAR). Acordul se referă la participarea României la programele gestionate de această organizație și a fost semnat la București la 8 octombrie 2025.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Ratificarea Acordului-cadru cu OCCAR pentru programe de armament"
+ },
+ "generated_at": "2026-11-08T18:38:17+00:00",
+ "idp": 22761,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "9a4c19e4544034afaa9d6a3d84bec80bfd052bb87af31339d0b42645b94ec534",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L591LP.PDF"
+ },
+ "status": "ok"
+}

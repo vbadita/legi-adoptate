@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-08T18:38:08+00:00",
+ "idp": 22612,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: numerele 15 nu apar în citatul punctului', 'punctul 3: citatul nu apare exact în text', 'punctul 4: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "6d1a0fc0bb75eb930ea94d7e5165fa359afef524848c2a7306a71166ce1c9a8f",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L418LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

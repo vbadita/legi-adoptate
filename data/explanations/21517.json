@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Studenţii cu dizabilităti şi/sau cerinie educaţionale speciale. au dreptul Ia acces adaptat acestora în totalitatea spatiilor universitare, la asigurarea unui interpret în limbaj mimico-gestual şi/sau în limba semnelor, precum şi la conditii adecvate...",
+    "text": "Studenții cu dizabilități și cerințe educaționale speciale au dreptul la acces adaptat în toate spațiile universitare, interpret în limbaj mimico-gestual sau al semnelor și condiții adecvate pentru activități."
+   },
+   {
+    "citat": "Studentii cu dizabilităti şi/sau cerinie educationale speciale au dreptul la participarea în format hibrid la activitătile didactice Si de cercetare, la cerere.",
+    "text": "Studenții cu dizabilități sau cerințe educaționale speciale au dreptul să participe la activitățile didactice și de cercetare în format hibrid, dacă cer acest lucru."
+   },
+   {
+    "citat": "Cerintele educationale speciale (CES) reprezintă necesitătile educationale suplimentare, complementare obiectivelor generale ale educatiei, adaptate particularitătilor individuale...",
+    "text": "Se introduce o definiție oficială pentru cerințele educaționale speciale ca reprezentând necesități suplimentare adaptate particularităților individuale."
+   },
+   {
+    "citat": "In termen de 90 de zile de Ia intrarea in vigoare a prezentei legi, Ministerul Educatiei şi Cercetării va actualiza Normele privind accesibilizarea învătământului superior...",
+    "text": "În termen de 90 de zile de la intrarea în vigoare, Ministerul Educației și Cercetării va actualiza normele privind accesibilizarea învățământului superior."
+   }
+  ],
+  "cine_este_afectat": [
+   "Studenții cu dizabilități",
+   "Studenții cu cerințe educaționale speciale",
+   "Instituțiile de învățământ superior",
+   "Ministerul Educației și Cercetării"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce drepturi noi pentru studenții cu dizabilități și cerințe educaționale speciale, inclusiv acces adaptat în spațiile universitare, interpret în limbaj mimico-gestual și participarea în format hibrid la cerere.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii învățământului superior pentru studenții cu dizabilități"
+ },
+ "generated_at": "2026-11-08T18:37:47+00:00",
+ "idp": 21517,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "799ff9112b6b3c46b3a327c26fb2343202e9605c542515243c574f40bb94e4a5",
+  "url": "https://www.senat.ro/legis/PDF/2024/24L322LP.PDF"
+ },
+ "status": "ok"
+}

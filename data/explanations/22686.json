@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Elevii din învățământul preuniversitar acreditat/autorizat... beneficiază de gratuitate, în condițiile legii, la serviciile publice de transport public local, inclusiv metropolitan şi județean, rutier, naval, cu metroul, precum şi feroviar la toate categoriile de trenuri, clasa a II-a, pe tot parcursul anului şcolar...",
+    "text": "Elevii din învățământul preuniversitar beneficiază de gratuitate la transportul public local, metropolitan, județean, rutier, naval, cu metroul și feroviar la clasa a II-a, pe tot parcursul anului școlar."
+   },
+   {
+    "citat": "pentru transportul public rutier județean şi interjudețean se asigură elevilor de nivel liceal care sunt şcolarizați în altă localitate decât cea de domiciliu pentru cheltuielile de transport dus-întors... pe durata cursurilor şcolare, precum şi pentru susținerea probelor fară taxă din cadrul Examenului național de bacalaureat, de la bugetul de stat...",
+    "text": "Se asigură de la bugetul de stat decontarea transportului rutier județean și interjudețean pentru elevii de nivel liceal școlarizați în altă localitate decât cea de domiciliu, pe durata cursurilor și pentru bacalaureat."
+   },
+   {
+    "citat": "operatorii de transport care nu au acces la sistemul informatic al Ministerului Educației şi Cercetării au obligația instalării de cititoare de card la punctele de vânzare sau în mijloacele de transport public, după caz, în termen de doi ani de la aprobarea Metodologiei de operaționalizare a cardului naţional de elev.",
+    "text": "Operatorii de transport care nu au acces la sistemul informatic al ministerului trebuie să instaleze cititoare de card în termen de doi ani de la aprobarea metodologiei."
+   },
+   {
+    "citat": "Se înființează Programul național ,,Vouchere culturale pentru elevi”... deținătorii primesc suma de 250 lei prin intermediul unor carduri reutilizabile, sumă care este la dispoziția beneficiarului pentru servicii şi evenimente culturale...",
+    "text": "Se înființează Programul național „Vouchere culturale pentru elevi”, prin care beneficiarii primesc suma de 250 lei pe carduri reutilizabile pentru servicii și evenimente culturale."
+   },
+   {
+    "citat": "Se înființează Programul național ,,O carte pentru fiecare” în vederea creşterii interesului elevilor pentru lectură, finanțat din bugetul național şi din fonduri externe.",
+    "text": "Se înființează Programul național „O carte pentru fiecare” finanțat din bugetul național și din fonduri externe pentru creșterea interesului pentru lectură."
+   }
+  ],
+  "cine_este_afectat": [
+   "Elevii din învățământul preuniversitar",
+   "Operatorii de transport public",
+   "Ministerul Educației și Cercetării",
+   "Autoritățile administrației publice locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări regulilor de gratuitate și decontare pentru transportul elevilor din învățământul preuniversitar. De asemenea, înființează programele naționale „O carte pentru fiecare” și „Vouchere culturale pentru elevi”.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor privind transportul elevilor și programe culturale"
+ },
+ "generated_at": "2026-11-08T18:37:20+00:00",
+ "idp": 22686,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "cbd3aeaa75128c8f35f9ceeff9170c37d9160d85b6cf76a4b910d83dc05f0beb",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl414_pr414_25_(1).pdf"
+ },
+ "status": "ok"
+}

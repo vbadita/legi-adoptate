@@ -1,0 +1,2763 @@
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR SENATUL
+L E G E
+privind plata pensiilor private
+Parlamentul României adoptă prezenta lege.
+CAPITOLUL I
+Obiectul și domeniul de aplicare
+Art. 1. – Obiectul de reglementare
+Prezenta lege reglementează:
+a) autorizarea, organizarea, funcționarea, supravegherea și controlul
+furnizorilor de pensii private și a fondurilor de plată a pensiilor private;
+b) avizarea, funcționarea, supravegherea și controlul instituțiilor
+de credit pentru desfășurarea activității de depozitare și de custodie a
+activelor fondurilor de plată a pensiilor private precum și a activelor
+furnizorilor de pensii private destinate acoperirii provizionului tehnic;
+c) avizarea auditorilor financiari, pentru activitatea desfășurată
+în calitate de auditor al furnizorilor de pensii private și al fondurilor de
+plată a pensiilor private;
+d) avizarea/autorizarea, funcționarea, supravegherea și controlul
+agenților de marketing.
+Art. 2. – Domeniul de aplicare
+Prezenta lege se aplică:
+a) fondurilor de plată a pensiilor private;
+b) furnizorilor de pensii private;
+c) agenților de marketing;
+d) depozitarilor, cu privire la activitatea de depozitare și custodie
+a activelor fondurilor de plată a pensiilor private, precum și a activelor
+furnizorilor de pensii private destinate acoperirii provizionului tehnic;
+e) auditorilor financiari, cu privire la activitatea de audit a
+situațiilor financiare ale fondurilor de plată a pensiilor private și ale
+furnizorului de pensii private;
+f) Fondului de garantare a drepturilor din sistemul de pensii
+private;
+g) administratorilor de fonduri de pensii private.
+Art. 3. – Definiții și abrevieri
+(1) În sensul prezentei legi, termenii și expresiile de mai jos au
+următoarele semnificații:
+1. active ale unui fond de plată a pensiilor private – instrumentele
+financiare, precum și numerarul, rezultate ca urmare a investirii activelor
+fondului de plată a pensiilor private;
+2. activ net al fondului de plată a pensiilor private la o anumită
+dată – valoarea care se obține prin deducerea valorii obligațiilor fondului
+din valoarea totală a activelor fondului de plată a pensiilor private, la o
+anumită dată;
+3. activ personal – suma deținută de către un membru al unui
+fond de plată a pensiilor de tip retragere programată, egală cu numărul de
+unități de fond deținute de acesta în contul său individual, înmulțite cu
+valoarea la zi a unei unități de fond;
+4. activitate de marketing a furnizorului – activitatea condusă de
+către furnizorul de pensii private, desfășurată prin intermediul unui agent
+de marketing, persoană fizică sau juridică, după caz, sub deplina
+răspundere a furnizorului de pensii private, în vederea atragerii de membri
+la fondul de plată a pensiilor private administrat de către furnizor;
+5. administrare specială – exercitarea răspunderii fiduciare de
+către administratorul special, pe o perioadă determinată, asupra activelor
+fondului de plată a pensiilor private, cu scopul de a proteja drepturile
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz;
+6. administrator de fonduri de pensii private – o societate care
+administrează un fond de pensii administrat privat și/sau fonduri de pensii
+facultative și/sau fonduri de pensii ocupaționale, autorizată de către
+Autoritatea de Supraveghere Financiară, denumită în continuare A.S.F.,
+conform legislației care reglementează domeniul în care activează, și a
+cărei autorizație este în vigoare;
+7. administrator special – Fondul de garantare a drepturilor din
+sistemul de pensii private, reglementat prin Legea nr. 187/2011 privind
+înființarea, organizarea și funcționarea Fondului de garantare a drepturilor
+din sistemul de pensii private, cu modificările și completările ulterioare,
+sau orice persoană juridică autorizată ca furnizor de pensii private,
+desemnată prin decizie de către A.S.F., care se subrogă în drepturile și
+obligațiile furnizorului de pensii private pentru o perioadă determinată;
+8. agent de marketing – persoana fizică sau juridică
+avizată/autorizată de către A.S.F. pentru a desfășura activitatea de
+marketing pentru un furnizor de pensii private;
+9. anuitate – valoare actuarială prezentă a unei serii de plăți
+unitare pe o perioadă, plătibilă cu titlu de pensie, uneia sau mai multor
+persoane, după caz, calculată pe baza probabilităților de supraviețuire ale
+respectivei/respectivelor persoane, a rentabilităților investiționale viitoare
+estimate și a valorii comisionului de administrare;
+10. A.S.F. – autoritatea competentă care aplică prevederile
+prezentei legi prin exercitarea prerogativelor prevăzute de Ordonanța de
+urgență a Guvernului nr. 93/2012 privind înființarea, organizarea și
+funcționarea Autorității de Supraveghere Financiară, aprobată cu
+modificări și completări prin Legea nr. 113/2013, cu modificările și
+completările ulterioare;
+11. autoritate competentă în domeniul auditului financiar – autoritate
+care își exercită atribuțiile potrivit prevederilor Legii nr. 162/2017 privind
+auditul statutar al situațiilor financiare anuale și al situațiilor financiare
+anuale consolidate și de modificare a unor acte normative, cu modificările
+și completările ulterioare;
+12. beneficiar – persoana desemnată de către membrul fondului
+de plată a pensiilor viagere în contractul de plată a pensiei private viagere
+cu perioadă certă de plată, pentru a încasa pensia lunară în cazul în care
+decesul membrului survine înainte de expirarea perioadei certe de plată;
+13. codurile de liberalizare ale O.C.D.E. – instrumente juridice
+ale Organizației pentru Cooperare și Dezvoltare Economică, denumită în
+continuare O.C.D.E, intitulate Codul de liberalizare a mișcărilor de capital
+și Codul de liberalizare a operațiunilor curente invizibile;
+14. Consiliu de supraveghere specială – consiliul constituit din
+două sau mai multe persoane, care fac parte din personalul de specialitate
+al A.S.F. și care supervizează activitatea furnizorului de pensii private,
+pentru limitarea riscurilor și asigurarea redresării fondului de plată a
+pensiilor private, conform reglementărilor A.S.F.;
+15. contract de plată a pensiei private, denumit în continuare
+contract de plată – contractul încheiat între furnizorul de pensii private și
+potențialul membru, incluzând orice acte adiționale, prin care furnizorul
+de pensii private garantează plata pensiei private/beneficiilor, pe perioada
+și către persoanele prevăzute în acesta, și prin care semnatarul își
+manifestă acordul de voință de a fi parte la contractul de societate,
+respectiv la fondul de plată a pensiilor private;
+16. depozitar – instituția de credit avizată de către A.S.F., potrivit
+prezentei legi, pentru activitatea de depozitare și custodie a activelor
+fondurilor de plată a pensiilor private, căreia îi sunt încredințate spre
+păstrare, în condiții de siguranță, respectivele active, precum și activele
+furnizorilor de pensii private destinate acoperirii provizionului tehnic, și
+care se încadrează în una din următoarele categorii:
+a) instituție de credit din România, autorizată de Banca Națională
+a României, în conformitate cu legislația instituțiilor de credit; sau
+b) sucursală din România a unei instituții de credit, autorizată
+într-un stat membru al Uniunii Europene sau aparținând Spațiului
+Economic European; sau
+c) de la data aderării României la Codurile de liberalizare ale
+O.C.D.E., sucursală din România a unei instituții de credit dintr-un stat
+aderent la respectivele Coduri, alta decât cele prevăzute la lit. b),
+autorizată de Banca Națională a României pentru a desfășura activitate
+bancară pe teritoriul României, în conformitate cu legislația instituțiilor
+de credit;
+17. Direcția Generală pentru Evidența Persoanelor – organ de
+specialitate al administrației publice centrale, cu personalitate juridică, în
+subordinea Ministerului Afacerilor Interne, finanțată integral de la bugetul
+de stat, prin bugetul respectivului minister, înființată în baza Hotărârii
+Guvernului nr. 1367/2009 privind înființarea, organizarea și funcționarea
+Direcției pentru Evidența Persoanelor și Administrarea Bazelor de Date;
+18. Fondul de garantare a drepturilor din sistemul de pensii
+private, denumit în continuare Fondul de garantare – fondul înființat în
+conformitate cu prevederile Legii nr. 187/2011, cu modificările și
+completările ulterioare;
+19. fond de pensii private – un fond de pensii administrat privat
+autorizat potrivit prevederilor Legii nr. 411/2004 privind fondurile de
+pensii administrate privat, republicată, cu modificările și completările
+ulterioare, un fond de pensii facultative, autorizat potrivit prevederilor
+Legii nr. 204/2006 privind pensiile facultative, cu modificările și
+completările ulterioare, sau un fond de pensii ocupaționale autorizat
+potrivit prevederilor Legii nr. 1/2020 privind pensiile ocupaționale, cu
+modificările și completările ulterioare;
+20. fond de plată a pensiilor private, denumit în continuare fond
+de plată – entitatea constituită printr-un contract de societate, în
+conformitate cu prevederile prezentei legi, precum și cu dispozițiile
+art. 1881 – 1954 din Legea nr. 287/2009 privind Codul civil, republicată,
+cu modificările și completările ulterioare, denumită în continuare Codul
+civil;
+21. fond de plată a pensiilor de tip retragere programată – fond
+de plată a pensiilor private care oferă pensii de tip retragere programată,
+conform prevederilor prezentei legi;
+22. fond de plată a pensiilor viagere – fond de plată a pensiilor
+private care oferă pensii viagere, conform prevederilor prezentei legi;
+23. furnizor de pensii private, denumit în continuare furnizor – o
+societate de plată a pensiilor private constituită în temeiul prevederilor
+prezentei legi, un administrator de fonduri de pensii private, o societate
+de asigurări de viață sau o societate de administrare a investițiilor,
+autorizate conform legislației care reglementează domeniile în care
+activează, a căror autorizare este în vigoare și care sunt autorizate de către
+A.S.F. în conformitate cu prevederile prezentei legi;
+24. instrumente financiare – reprezintă:
+a) valori mobiliare, astfel cum sunt definite la art. 3 alin. (1) pct. 84
+din Legea nr. 126/2018 privind piețele de instrumente financiare, cu
+modificările și completările ulterioare;
+b) instrumente ale pieței monetare, respectiv categoriile de
+instrumente care se tranzacționează în mod obișnuit pe piața monetară, cu
+excepția instrumentelor de plată;
+c) titluri de participare la organismele de plasament colectiv,
+astfel cum sunt definite la art. 2 alin. (1) din Ordonanța de urgență a
+Guvernului nr. 32/2012 privind organismele de plasament colectiv în
+valori mobiliare și societățile de administrare a investițiilor, precum și
+pentru modificarea și completarea Legii nr. 297/2004 privind piața de
+capital, aprobată cu modificări și completări prin Legea nr. 10/2015, cu
+modificările și completările ulterioare;
+25. instrumente financiare derivate – instrumente financiare
+derivate astfel cum sunt definite la art. 2 alin. (1) pct. 29 din Regulamentul
+(UE) nr. 600/2014 al Parlamentului European și al Consiliului din
+15 mai 2014 privind piețele instrumentelor financiare și de modificare a
+Regulamentului (UE) nr. 648/2012;
+26. membru al unui fond de plată, denumit în continuare
+membru – persoana care a încheiat un contract de plată, în condițiile
+prezentei legi;
+27. moștenitor – moștenitor al membrului unui fond de plată de
+tip retragere programată, definit conform prevederilor Codului civil;
+28. participație calificată – deținere directă sau indirectă din
+drepturile de vot sau din capitalul unei entități, care reprezintă cel puțin
+10% din acestea, sau care permite exercitarea unei influențe semnificative
+asupra administrării entității respective;
+29. plata pensiilor private – activitatea desfășurată de către un
+furnizor constând în administrarea unui fond de plată și în efectuarea plății
+pensiilor private, conform contractelor de plată încheiate cu membrii;
+30. pensie privată – suma plătită lunar, în conformitate cu
+dispozițiile prezentei legi, membrului, beneficiarului sau supraviețuitorului,
+după caz, conform contractului de plată, în mod suplimentar și distinct de
+pensia acordată în sistemul public de pensii;
+31. persoană afiliată – o persoană este afiliată dacă relația ei cu
+altă persoană este definită de cel puțin unul dintre următoarele cazuri:
+a) o persoană fizică este afiliată cu altă persoană fizică dacă
+acestea sunt soț/soție sau rude până la gradul al III-lea inclusiv;
+b) o persoană fizică este afiliată cu o persoană juridică dacă
+persoana fizică deține, în mod direct sau indirect, inclusiv deținerile
+persoanelor afiliate, minimum 25% din valoarea/numărul titlurilor de
+participare sau al drepturilor de vot ale unei persoane juridice ori dacă
+controlează în mod efectiv persoana juridică;
+c) o persoană juridică este afiliată cu altă persoană juridică dacă
+cel puțin aceasta deține, în mod direct sau indirect, inclusiv deținerile
+persoanelor afiliate, minimum 25% din valoarea/numărul titlurilor de
+participare sau al drepturilor de vot la cealaltă persoană juridică ori dacă
+controlează în mod efectiv acea persoană juridică;
+d) o persoană juridică este afiliată cu altă persoană juridică dacă
+o persoană deține, în mod direct sau indirect, inclusiv deținerile
+persoanelor sale afiliate, minimum 25% din valoarea/numărul titlurilor de
+participare sau al drepturilor de vot atât la prima persoană juridică, cât și
+la cea de-a doua ori dacă le controlează în mod efectiv;
+32. persoană care deține o funcție-cheie – persoană ale cărei
+atribuții au o influență semnificativă asupra desfășurării activității
+furnizorului, care nu face parte din structura de conducere, îndeplinind în
+cadrul furnizorului atribuțiile de:
+a) evaluare și administrare a riscurilor, respectiv managementul
+riscurilor;
+b) conformitate și/sau control intern;
+c) audit intern;
+d) administrare a investițiilor;
+e) actuar;
+33. provizion tehnic – volum adecvat de pasive calculat la data
+celei mai recente evaluări actuariale, necesar acoperirii obligațiilor
+actuale ale furnizorilor rezultate ca urmare a riscurilor aferente
+angajamentelor financiare asumate prin contractele de plată încheiate cu
+membrii, care pot fi îndeplinite în exercițiile financiare următoare;
+34. piață reglementată – o piață reglementată, astfel cum este
+definită la art. 3 alin. (1) pct. 60 din Legea nr. 126/2018, cu modificările
+și completările ulterioare;
+35. rată de finanțare – nivel de acoperire a obligațiilor fondului
+de plată a pensiilor viagere, calculat ca raport între valoarea totală a
+activelor fondului de plată și valoarea totală a obligațiilor viitoare de plată
+ale fondului de plată, rezultate în baza contractelor de plată încheiate cu
+membrii, până la data evaluării actuariale;
+36. rezervă tehnică – volum adecvat de pasive, calculat la data
+celei mai recente evaluări actuariale, necesar acoperirii obligațiilor
+viitoare de plată ale fondului de plată, rezultate în baza contractelor de
+plată încheiate cu membrii până la data evaluării actuariale;
+37. riscuri biometrice – riscuri legate de deces, invaliditate și
+longevitate;
+38. structură de conducere – este reprezentată de:
+a) persoane fizice care, potrivit actelor constitutive și/sau
+hotărârii structurilor statutare ale furnizorului, sunt împuternicite să
+conducă și să coordoneze activitatea curentă a acestuia și au competența
+de a angaja răspunderea societății, respectiv directorii sau membrii
+directoratului, în funcție de sistemul de administrare, unitar sau dualist;
+b) membrii consiliului de administrație sau membrii consiliului
+de supraveghere, în funcție de sistemul de administrare, unitar sau dualist;
+39. supraveghere specială – măsura având drept scop limitarea
+riscurilor și asigurarea redresării fondului de plată, în vederea protejării
+intereselor membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor,
+după caz, în situația în care se constată deficiențe în urma supravegherii
+și/sau controalelor efectuate de către A.S.F. și care nu sunt situații de
+natură a institui administrarea specială;
+40. supraviețuitor – persoana desemnată de către membrul
+fondului de plată a pensiilor viagere în contractul de plată a pensiei
+viagere cu componentă de supraviețuitor, pentru a beneficia de o pensie
+privată lunară după decesul membrului;
+41. tabel biometric – instrument statistic publicat de Institutul
+National de Statistică și care furnizează informații cu privire la
+probabilitățile de supraviețuire și deces, în funcție de vârstă;
+42. valoarea unității de fond – raport dintre valoarea activului net
+al fondului de plată la o anumită dată și numărul total de unități ale
+fondului la aceeași dată.
+(2) Termenii și expresiile utilizate în prezenta lege, care nu sunt
+definiți/definite în cuprinsul alin. (1), au semnificațiile prevăzute la art. 2
+din Legea nr. 411/2004, republicată, cu modificările și completările
+ulterioare, la art. 2 din Legea nr. 204/2006, cu modificările și completările
+ulterioare, la art. 3 din Legea nr. 1/2020, cu modificările și completările
+ulterioare, după caz.
+CAPITOLUL II
+Furnizorul
+SECȚIUNEA 1
+Autorizarea furnizorului
+Art. 4. – Entități care pot desfășura activități de plată
+(1) Pot fi furnizori în sensul prezentei legi și pot administra
+fonduri de plată:
+a) administratorii de fonduri de pensii private;
+b) societățile de asigurare de viață, conform prevederilor art. 20
+alin. (3) lit. a) din Legea nr. 237/2015 privind autorizarea și supravegherea
+activității de asigurare și reasigurare, cu modificările și completările
+ulterioare, care nu dețin o autorizare de administrare a unui fond de pensii
+private;
+c) societățile de administrare a investițiilor, autorizate în
+conformitate cu prevederile art. 9 din Ordonanța de urgență a Guvernului
+nr. 32/2012 privind organismele de plasament colectiv în valori mobiliare
+și societățile de administrare a investițiilor, precum și pentru modificarea
+și completarea Legii nr. 297/2004 privind piața de capital, aprobată cu
+modificări și completări prin Legea nr. 10/2015, cu modificările și
+completările ulterioare, care nu dețin o autorizare de administrare a unui
+fond de pensii private;
+d) administratorii de fonduri de investiții alternative, autorizați
+în conformitate cu prevederile art. 5 din Legea nr. 74/2015 privind
+administratorii de fonduri de investiții alternative, cu modificările și
+completările ulterioare;
+e) societățile de plată a pensiilor private constituite ca societăți
+pe acțiuni, potrivit prevederilor Legii societăților nr. 31/1990, republicată,
+cu modificările și completările ulterioare, și conform prevederilor
+prezentei legi, care au ca obiect exclusiv de activitate „Activități ale
+fondurilor de pensii, cu excepția celor din sistemul public de asigurări
+sociale”.
+(2) Pentru a putea desfășura activități de plată a pensiilor private,
+entitățile prevăzute la alin. (1) trebuie să obțină autorizare ca furnizor de
+la A.S.F..
+(3) Prin excepție de la prevederile alin. (2), pot desfășura
+activități de plată a pensiilor private, cu respectarea legislației aplicabile,
+următoarele entități:
+a) entitățile autorizate pentru furnizarea de pensii ocupaționale
+într-un alt stat membru al Uniunii Europene sau aparținând Spațiului
+Economic European și care desfășoară activități transfrontaliere în
+România, potrivit prevederilor Legii nr. 204/2006, cu modificările și
+completările ulterioare, și ale prevederilor Legii nr. 1/2020, cu
+modificările și completările ulterioare;
+b) furnizorii de produse paneuropene de pensii personale
+înregistrați în baza Regulamentului (UE) 2019/1238 al Parlamentului
+European și al Consiliului din 20 iunie 2019 privind un produs
+paneuropean de pensii personale (PEPP);
+c) de la data aderării României la Codurile de liberalizare ale
+O.C.D.E., entitățile autorizate, avizate sau care au fost supuse unui regim
+echivalent de autorizare în vederea furnizării de pensii ocupaționale în
+state aderente la respectivele Coduri, altele decât cele prevăzute la lit. a)
+și b).
+(4) Denumirea societății prevăzute la alin. (1) lit. e), care obține
+autorizare ca furnizor de pensii private, în conformitate cu prezenta lege,
+conține sintagma „societate de plată a pensiilor private”.
+Art. 5. – Procedura de autorizare ca furnizor a
+administratorilor de fonduri de pensii private, a societăților de
+asigurare de viață și a societăților de administrare a investițiilor
+(1) În vederea obținerii autorizării ca furnizor, entitățile
+prevăzute la art. 4 alin. (1) lit. a) – d) transmit A.S.F. o cerere însoțită de
+următoarele documente:
+a) hotărârea adunării generale a acționarilor privind activitatea
+de plată a pensiilor private și alocarea capitalului social pentru fiecare
+activitate;
+b) dovada îndeplinirii cerințelor de capital social;
+c) actul constitutiv actualizat, în care se menționează capitalul
+social alocat pentru activitatea de plată a pensiilor private;
+d) proiectul contractului de societate al fondului de plată;
+e) proiectul contractului de depozitare, al contractului de
+custodie și al contractului de audit financiar al fondului de plată;
+f) planul de afaceri întocmit pentru o perioadă de minimum 3 ani;
+g) documentele prevăzute în reglementările A.S.F. cu privire la
+persoanele propuse pentru structura de conducere, respectiv pentru o
+funcție-cheie, după caz, în situația în care nu au fost anterior
+autorizate/notificate de către/către A.S.F. pentru ocuparea poziției
+respective în cadrul unei entități din grupul entității care solicită
+autorizarea ca furnizor;
+h) dovada plății taxei de autorizare ca furnizor, precum și, după
+caz, de autorizare a fiecărei persoane propuse pentru structura de
+conducere, respectiv pentru o funcție-cheie autorizată;
+i) certificat constatator de la registrul comerțului, emis cu cel
+mult 30 de zile anterior datei depunerii, în cazul entităților prevăzute la
+art. 4 alin. (1) lit. b) – d).
+(2) A.S.F. analizează documentele și, în termen de 30 de zile de
+la data înregistrării cererii și a documentației complete, procedează la
+autorizarea furnizorului sau la respingerea cererii de autorizare, prin
+decizie scrisă și motivată.
+(3) Orice solicitare a A.S.F. de informații suplimentare sau de
+modificare a documentației prevăzute la alin. (1), întrerupe termenul
+prevăzut la alin. (2), un nou termen începând să curgă de la data
+transmiterii respectivelor informații sau modificări, transmitere care nu
+poate fi făcută mai târziu de 30 de zile de la data solicitării A.S.F., sub
+sancțiunea respingerii cererii de autorizare ca furnizor.
+Art. 6. – Autorizarea privind constituirea societății de plată
+a pensiilor private
+(1) Societatea prevăzută la art. 4 alin. (1) lit. e) trebuie autorizată
+de către A.S.F. pentru constituire și ca furnizor de pensii private și nu
+poate fi înmatriculată în registrul comerțului fără decizia de autorizare de
+constituire emisă de către A.S.F..
+(2) Societatea de plată a pensiilor private, denumită în continuare
+societate de plată, se constituie sub forma unei societăți pe acțiuni, iar
+persoanele care intenționează să înființeze o societate de plată transmit
+către A.S.F. cererea pentru autorizarea de constituire.
+(3) Cererea pentru autorizarea de constituire a societății de plată
+este însoțită de următoarele documente:
+a) proiectul actului constitutiv;
+b) dovada că fondatorii dețin resursele financiare necesare
+vărsării capitalului social, precum și proveniența acestora, conform
+reglementărilor A.S.F.;
+c) cazierele judiciare și cazierele fiscale ale fondatorilor;
+d) documente privind fondatorii, cu informații referitoare la
+statutul lor juridic, la identitatea acționarilor direcți și indirecți ai acestora,
+deținerea de participații calificate și cuantumul acestora, calitatea de
+persoane afiliate, precum și natura legăturilor dintre ei, documente din
+care să reiasă situația financiară a fondatorilor în ultimii 3 ani, auditate de
+un auditor financiar, în cazul fondatorilor persoane juridice;
+e) declarația pe propria răspundere a fondatorilor, a persoanelor
+propuse pentru structura de conducere, din care să rezulte dacă dețin,
+individual sau în legătură cu alte persoane implicate în orice societate, cel
+puțin 5% din capitalul social sau din drepturile de vot;
+f) documente privind adecvarea persoanelor propuse pentru
+structura de conducere, din care să reiasă că aceștia îndeplinesc cerințele
+A.S.F. referitoare la competență și experiență profesională, integritate și
+bună reputație, guvernanță, cu respectarea prevederilor art. 23 alin. (3),
+precum și a reglementărilor A.S.F. emise în aplicarea prezentei legi,
+referitoare la evaluarea și aprobarea acestor persoane;
+g) certificatul de cazier judiciar și certificatul de cazier fiscal, în
+termenul de valabilitate legal, ale persoanelor propuse pentru structura de
+conducere sau alt document echivalent eliberat de autoritățile competente
+din țara în care aceștia au stabilit/stabilită domiciliul și/sau reședința, cu
+respectarea prevederilor art. 23 alin. (3);
+h) proiectul regulamentului de organizare și funcționare a
+societății de plată;
+i) dovada vărsării integrale și în numerar a capitalului social;
+j) dovada plății taxei pentru cererea de autorizare de constituire
+și de autorizare a fiecărei persoane propuse pentru structura de conducere.
+Art. 7. – Analiza cererii pentru autorizarea de constituire
+(1) A.S.F. analizează cererea pentru autorizarea de constituire și,
+în termen de 30 de zile de la data înregistrării acesteia și a documentației
+complete prevăzute la art. 6 alin. (3) și în reglementările A.S.F. emise în
+aplicarea prezentei legi, procedează la aprobarea sau la respingerea
+cererii, prin decizie scrisă și motivată.
+(2) Orice solicitare a A.S.F. de informații suplimentare sau de
+modificare a documentelor prezentate întrerupe termenul prevăzut la alin. (1),
+un nou termen începând să curgă de la data transmiterii respectivelor
+informații sau modificări, transmitere care nu poate fi făcută mai târziu de
+30 de zile de la data solicitării A.S.F., sub sancțiunea respingerii cererii
+pentru autorizarea de constituire.
+Art. 8. – Aprobarea cererii pentru autorizarea de constituire
+A.S.F. aprobă cererea pentru autorizarea de constituire, dacă sunt
+îndeplinite următoarele condiții referitoare la:
+a) integritatea și buna reputație a fondatorilor;
+b) competența, experiența profesională, integritatea și buna
+reputație a persoanelor propuse pentru structura de conducere, conform
+reglementărilor A.S.F. emise în aplicarea prezentei legi;
+c) soliditatea financiară a fondatorilor;
+d) inexistența motivelor rezonabile de a suspecta că o operațiune
+de spălare de bani ori de finanțare a terorismului, în sensul dispozițiilor
+Legii nr. 129/2019 pentru prevenirea și combaterea spălării banilor și
+finanțării terorismului, precum și pentru modificarea și completarea unor
+acte normative, cu modificările și completările ulterioare, a avut loc sau
+se încearcă a se comite de către fondatori sau de către persoanele propuse
+pentru structura de conducere;
+e) fondatorii și persoanele propuse pentru structura de conducere
+nu sunt în procedură de reorganizare judiciară sau de faliment și nu le este
+imputabil falimentul unor persoane juridice;
+f) denumirea societății de plată nu este de natură să inducă în
+eroare viitorii membri sau alte persoane;
+g) fondatorii fac dovada vărsării integrale și în numerar a
+capitalului social.
+Art. 9. – Respingerea cererii pentru autorizarea de constituire
+(1) A.S.F. respinge cererea pentru autorizarea de constituire, în
+următoarele situații:
+a) documentația prezentată rămâne incompletă sau nu este
+întocmită în conformitate cu dispozițiile legale în vigoare;
+b) neîndeplinirea uneia dintre condițiile prevăzute la art. 8,
+precum și a celor, prevăzute în reglementările A.S.F. emise în aplicarea
+prezentei legi.
+(2) Decizia de respingere, scrisă și motivată, se comunică
+fondatorilor în termen de 10 zile lucrătoare de la adoptarea acesteia.
+Art. 10. – Înregistrarea societății de plată a pensiilor private
+în registrul comerțului
+(1) Fondatorii înregistrează societatea la Oficiul Național al
+Registrului Comerțului, în condițiile prevederilor Legii nr. 31/1990,
+republicată, cu modificările și completările ulterioare, și ale Legii
+nr. 265/2022 privind registrul comerțului și pentru modificarea și
+completarea altor acte normative cu incidență asupra înregistrării în
+registrul comerțului, cu modificările și completările ulterioare, în termen
+de 30 de zile de la data primirii deciziei de autorizare de constituire.
+(2) Depășirea termenului prevăzut la alin. (1), din motive
+imputabile entității, conduce la pierderea valabilității deciziei de
+autorizare de constituire.
+(3) Obținerea autorizării de constituire a unei societăți de plată
+nu garantează obținerea autorizării ca furnizor.
+(4) Cererea de autorizare ca furnizor trebuie transmisă către
+A.S.F. în termen de un an de la data emiterii deciziei de autorizare de
+constituire, în caz contrar, autorizarea de constituire își pierde
+valabilitatea.
+(5) În situația pierderii valabilității autorizării de constituire
+conform alin. (4), societatea de plată are obligația de a-și modifica
+denumirea și obiectul de activitate în termen de 3 luni de la data pierderii
+valabilității autorizării de constituire, cu aplicarea prevederilor art. 99
+alin. (2), cu informarea A.S.F. în termen de 5 zile de la data înregistrării
+mențiunilor în registrul comerțului.
+Art. 11. – Procedura de autorizare ca furnizor a societăților
+de plată a pensiilor private
+(1) În vederea obținerii autorizării ca furnizor, entitățile
+prevăzute la art. 4 alin. (1) lit. e) transmit A.S.F. o cerere însoțită de
+următoarele documente:
+a) certificatul de înregistrare în registrul comerțului;
+b) certificat constatator de la registrul comerțului, emis cu cel
+mult 30 de zile anterior datei depunerii cererii;
+c) actul constitutiv;
+d) proiectul contractului de societate al fondului de plată;
+e) proiectul contractului de depozitare, contractului de custodie
+și al contractului de audit financiar al fondului de plată;
+f) planul de afaceri întocmit pentru o perioadă de minimum 3 ani
+care cuprinde cel puțin estimări privind resursele financiare care urmează
+a acoperi provizionul tehnic, cheltuielile de administrare, proiecții
+financiare;
+g) notificarea cu privire la persoana care conduce activitatea de
+audit intern;
+h) notificarea cu privire la persoana responsabilă de funcția
+actuarială;
+i) documente privind adecvarea persoanelor propuse pentru
+funcții-cheie autorizate, cu respectarea prevederilor art. 23 alin. (3);
+j) documentele depuse odată cu cererea de autorizare de
+constituire, în cazul în care acestea au suferit modificări;
+k) dovada plății taxei de autorizare ca furnizor și de autorizare a
+fiecărei persoane propuse pentru o funcție-cheie autorizată, iar în situația
+modificării persoanelor autorizate în cadrul procesului de autorizare de
+constituire, și dovada taxei de autorizare a fiecărei persoane propuse
+pentru structura de conducere.
+(2) A.S.F. poate solicita entităților prevăzute la art. 4 alin. (1) lit. e)
+în termen de 30 de zile de la data înregistrării cererii pentru autorizare ca
+furnizor, documente și informații suplimentare, pe care acesta trebuie să
+le furnizeze în maximum 30 de zile de la data solicitării, sub sancțiunea
+respingerii cererii de autorizare.
+(3) A.S.F. analizează cererea pentru autorizare ca furnizor,
+precum și documentele însoțitoare și, în termen de 30 de zile de la data
+înregistrării solicitării sau, după caz, a ultimului set de documente și
+informații, procedează la aprobarea sau la respingerea cererii, prin decizie
+scrisă și motivată.
+(4) Decizia de autorizare sau decizia de respingere, după caz, se
+comunică solicitantului în termen de 10 zile lucrătoare de la adoptarea
+acesteia.
+(5) A.S.F. respinge cererea de autorizare dacă documentația
+prezentată rămâne incompletă, nu este întocmită în conformitate cu
+dispozițiile legale în vigoare sau dacă nu mai sunt îndeplinite condițiile
+avute în vedere la autorizarea de constituire.
+(6) Decizia de autorizare ca furnizor se publică în Monitorul
+Oficial al României, Partea a IV-a.
+Art. 12. – Retragerea autorizării furnizorului
+(1) A.S.F. poate retrage, prin decizie scrisă și motivată,
+autorizarea ca furnizor în una dintre următoarele situații:
+a) nerespectarea prevederilor art. 13 alin. (1), art. 19, art. 23 alin. (5)
+și (7) și ale art. 26 alin. (1);
+b) a încălcat grav prevederile prezentei legi și/sau ale reglementărilor
+A.S.F. emise în aplicarea acesteia;
+c) furnizorul se află în incapacitate de plată;
+d) furnizorul nu mai îndeplinește condițiile care au stat la baza
+autorizării;
+e) furnizorul nu respectă drepturile membrilor, moștenitorilor,
+beneficiarilor sau supraviețuitorilor, după caz;
+f) acționarii au decis divizarea furnizorului;
+g) furnizorul nu a început operațiunile pentru care a fost
+autorizat, în termen de un an de la primirea deciziei de autorizare ca
+furnizor, sau nu și-a exercitat mai mult de 6 luni consecutiv activitatea;
+h) furnizorul nu a stabilit provizioane tehnice suficiente pentru
+întreaga activitate sau nu are suficiente active pentru a acoperi
+provizioanele tehnice.
+(2) A.S.F. retrage, prin decizie scrisă și motivată, autorizarea ca
+furnizor, în una dintre următoarele situații:
+a) lichidarea furnizorului;
+b) fuziunea prin absorbție a furnizorului, în cazul furnizorului
+absorbit;
+c) fuziunea prin contopire;
+d) la cererea furnizorului.
+(3) În cazul retragerii autorizării ca furnizor, acesta prezintă
+A.S.F situația financiară a fondului de plată, auditată de un auditor
+financiar, anterior luării de către A.S.F. a deciziei de aprobare a retragerii.
+(4) Decizia de retragere a autorizării ca furnizor, scrisă și
+motivată, se comunică furnizorului în termen de 10 zile lucrătoare de la
+adoptarea acesteia și se publică în Monitorul Oficial al României, Partea
+a IV-a.
+Art. 13. – Modificarea conținutului documentelor și a condițiilor
+avute în vedere la autorizarea ca furnizor
+(1) Modificarea conținutului documentelor care au stat la baza
+autorizării de constituire și/sau, după caz, la baza autorizării ca furnizor
+se supune aprobării A.S.F. sau se notifică acesteia, conform
+reglementărilor A.S.F. emise în aplicarea prezentei legi.
+(2) A.S.F. analizează modificările supuse aprobării conform alin. (1)
+și aprobă sau respinge, prin decizie, modificările solicitate.
+(3) Furnizorul are obligația să mențină, pe toată durata
+desfășurării activității, condițiile avute în vedere la autorizarea de către
+A.S.F..
+Art. 14. – Registrul fondurilor de pensii private și al
+administratorilor
+(1) Fondurile de plată, furnizorii, precum și entitățile/persoanele
+autorizate sau avizate să desfășoare activități în sistemul de plată a
+pensiilor private sunt înscrise în Registrul fondurilor de pensii private și
+al administratorilor, prevăzut la art. 13 alin. (1) din Legea nr. 204/2006,
+cu modificările și completările ulterioare, într-o nouă secțiune referitoare
+la entitățile din sistemul de plată a pensiilor private.
+(2) În Registrul fondurilor de pensii private și al administratorilor
+prevăzut la alin. (1) sunt cuprinse informații cu privire la: fonduri de plată,
+furnizori, agenți de marketing, depozitari și auditori financiari, precum și
+alte informații prevăzute în reglementările A.S.F. emise în aplicarea
+prezentei legi.
+(3) La data deciziei de autorizare/avizare a entităților sau
+persoanelor prevăzute la alin. (2), A.S.F. înscrie entitatea/persoana
+respectivă în Registrul fondurilor de pensii private și al administratorilor.
+(4) În toate documentele referitoare la activitatea de plată a
+pensiilor private, entitățile/persoanele prevăzute la alin. (2) trebuie să
+precizeze, pe lângă datele proprii de identificare, numărul și data deciziei
+de autorizare/avizare, precum și codul de înscriere în Registrul fondurilor
+de pensii private și al administratorilor.
+(5) Retragerea autorizării/avizelor emise de către A.S.F., precum
+și orice modificare cu privire la acestea, se consemnează în Registrul
+fondurilor de pensii private și al administratorilor.
+SECȚIUNEA a 2-a
+Cerințe privind capitalul social și acționariatul furnizorului
+Art. 15. – Capitalul social minim
+(1) Capitalul social aferent activității de plată a pensiilor private
+are următoarele valori minime:
+a) capitalul social minim necesar pentru administrarea fondurilor
+de plată a pensiilor de tip retragere programată este echivalentul în lei al
+sumei de 1,5 milioane euro, calculat la cursul de schimb publicat de Banca
+Națională a României la data vărsării capitalului social;
+b) capitalul social minim necesar pentru administrarea fondurilor
+de plată a pensiilor viagere este echivalentul în lei al sumei de 4 milioane
+euro, calculat la cursul de schimb comunicat de Banca Națională a
+României la data vărsării capitalului social.
+(2) Furnizorul care administrează ambele tipuri de fonduri de
+plată prevăzute de prezenta lege deține un capital social minim aferent
+activității de plată a pensiilor private care reprezintă echivalentul cumulat
+al capitalului social prevăzut la alin. (1).
+(3) Capitalul social minim al furnizorului, societate de plată, este
+subscris și vărsat integral, exclusiv în numerar, la momentul constituirii,
+într-un cont deschis la o instituție de credit, persoană juridică română, sau
+la o sucursală a unei instituții de credit străine autorizate să funcționeze
+pe teritoriul României, iar valoarea acestuia este menținută pe toată durata
+de funcționare.
+(4) Capitalul social aferent activității de plată a pensiilor private
+este constituit și evidențiat separat pentru fiecare tip de fond de plată a
+pensiilor private administrat de către furnizor, precum și față de capitalul
+social aferent activității de administrare a fondurilor de pensii private,
+respectiv față de capitalul social aferent activității de asigurări de viață sau
+de cel aferent activității de administrare a investițiilor.
+(5) Furnizorul prevăzut la art. 4 alin. (1) lit. a), b), c) sau d)
+constituie capitalul social prevăzut la alin. (1) suplimentar capitalului pe
+care îl deține conform legislației specifice în baza căreia a fost autorizat
+inițial. Acest capital va fi subscris și vărsat integral, exclusiv în numerar,
+la momentul autorizării ca furnizor, într-un cont deschis la o instituție de
+credit, persoană juridică română, sau la o sucursală a unei instituții de
+credit străine, autorizate să funcționeze pe teritoriul României.
+Art. 16. – Acțiunile și activele financiare ale furnizorului
+(1) Acțiunile furnizorului sunt nominative, nu pot constitui
+garanții, nu pot fi utilizate pentru acordarea de împrumuturi, sub
+sancțiunea nulității absolute a actelor prin care se constituie garanțiile sau
+se acordă respectivele împrumuturi.
+(2) Furnizorii nu pot emite acțiuni preferențiale.
+(3) Acționarii nu pot beneficia de drepturi preferențiale sau de
+alte avantaje și este interzisă limitarea drepturilor sau impunerea de
+obligații suplimentare.
+(4) Activele financiare proprii ale furnizorului nu pot fi utilizate
+pentru:
+a) acordarea de împrumuturi;
+b) garantarea de împrumuturi pentru terți.
+Art. 17. – Proveniența capitalului
+Capitalul social al furnizorului nu poate proveni din
+împrumuturi, nu poate fi constituit și nici majorat prin subscripție publică
+și nu poate fi grevat de sarcini.
+Art. 18. – Acționariatul furnizorului
+(1) Calitatea acționarilor trebuie să răspundă nevoii de garantare
+a unei gestiuni prudente a fondului de plată și să permită realizarea unei
+supravegheri eficiente în scopul protejării intereselor membrilor,
+moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz.
+(2) Acționarii furnizorului trebuie să îndeplinească condițiile
+avute în vedere pentru fondatorii societății de plată, precum și
+următoarele:
+a) să justifice proveniența fondurilor destinate participației la
+capitalul social;
+b) să dispună de o situație financiară solidă, care să susțină
+entitatea în caz de necesitate;
+c) să furnizeze toate informațiile necesare pentru identificarea
+relațiilor de afiliere cu alte persoane;
+d) să fi funcționat, în cazul acționarilor persoane juridice,
+minimum 3 ani, cu excepția celor rezultați în urma fuziunii sau divizării
+unei alte persoane juridice care, înainte de fuziune sau de divizare, a
+funcționat minimum 3 ani;
+e) probitatea morală, în cazul acționarilor persoane fizice;
+f) să nu existe motive rezonabile de a suspecta, în legătură cu
+proiectul de achiziție, că o operațiune de spălare de bani ori de finanțare
+a terorismului este în curs, a avut loc sau se încearcă a se comite ori că
+proiectul de achiziție ar putea crește riscul cu privire la acestea, potrivit
+prevederilor Legii nr. 129/2019, cu modificările și completările ulterioare.
+(3) Participația cumulată a persoanelor fizice nu poate depăși 5%
+din capitalul social al furnizorului.
+Art. 19. – Achizițiile
+(1) Tranzacțiile cu acțiunile unui furnizor prin care se dobândește
+sau se majorează în mod direct cel puțin o participație calificată la
+capitalul social al acestuia sunt supuse aprobării prealabile a A.S.F., sub
+sancțiunea nulității.
+(2) Tranzacțiile cu acțiunile unui furnizor prin care se dobândește
+în mod indirect o participație la capitalul social al acestuia, precum și
+tranzacțiile cu acțiunile unui furnizor prin care se dobândește în mod
+direct o participație mai mică decât cea prevăzută la alin. (1), sunt
+notificate A.S.F., atât de către acționarii care intenționează să cedeze
+acțiuni, cât și de către persoanele fizice sau juridice care intenționează să
+le dobândească, cu menționarea cotei participației care urmează a fi
+cedată/deținută în urma tranzacției.
+Art. 20. – Fuziunea sau divizarea furnizorului
+(1) Operațiunile de fuziune sau divizare a furnizorului sunt
+supuse autorizării prealabile a A.S.F..
+(2) A.S.F. poate respinge motivat solicitarea de fuziune sau
+divizare atunci când nu este în interesul membrilor, moștenitorilor,
+beneficiarilor sau supraviețuitorilor, precum și în orice alte situații
+prevăzute prin reglementările A.S.F., emise în aplicarea prezentei legi.
+(3) Furnizorii rezultați în urma operațiunilor de fuziune sau
+divizare prevăzute la alin. (1) au obligația să respecte condițiile de
+autorizare, limita minimă a capitalului social, cerințele prudențiale și
+regulile de conduită stabilite prin prezenta lege și prin reglementările
+A.S.F., pe toată durata desfășurării activității.
+(4) Fuziunea furnizorilor poate genera fuziunea fondurilor de
+plată aflate în administrare.
+(5) Decizia de aprobare a fuziunii sau divizării furnizorului se
+publică în Monitorul Oficial al României, Partea a IV-a.
+SECȚIUNEA a 3-a
+Condiții privind organizarea și funcționarea furnizorului
+Art. 21. – Obligații în scopul protejării intereselor
+membrilor, moștenitorilor, beneficiarilor și supraviețuitorilor
+acestora
+Furnizorul are următoarele obligații:
+a) să acționeze cu onestitate, corectitudine și diligență
+profesională;
+b) să evite conflictele de interese;
+c) să asigure tuturor membrilor, moștenitorilor, beneficiarilor și
+supraviețuitorilor acestora un tratament echitabil și plata drepturilor
+cuvenite.
+Art. 22. – Reguli de prudențialitate
+(1) Furnizorii trebuie să respecte regulile de prudențialitate,
+stabilite prin prezenta lege și prin reglementările A.S.F. emise în aplicarea
+prezentei legi, pe tot parcursul desfășurării activității.
+(2) Regulile de prudențialitate prevăzute la alin. (1) implică
+deținerea și respectarea de către furnizor a procedurilor interne cu privire
+la cel puțin următoarele aspecte:
+a) aspecte administrative;
+b) controlul și siguranța procesării electronice a datelor, controlul
+intern și auditul intern, administrarea riscurilor și a investițiilor;
+c) segregarea activităților, a activelor și a pasivelor conform
+prevederilor art. 34;
+d) mecanismele de adoptare a deciziilor, modalitățile de
+raportare internă și administrarea conflictului de interese;
+e) posibilitatea ca operațiunile efectuate de furnizor să fie
+reconstituite, inclusiv în ceea ce privește părțile implicate, timpul și locul
+unde au fost efectuate;
+f) păstrarea înregistrărilor tranzacțiilor și operațiunilor
+desfășurate, pentru a permite verificarea respectării regulilor de
+prudențialitate, principiilor de guvernanță corporativă, precum și a altor
+cerințe legislative și de reglementare.
+(3) Furnizorul aprobă politici contabile pentru operațiunile
+derulate și proceduri pentru aplicarea corespunzătoare a acestor politici.
+(4) La solicitarea A.S.F., furnizorul transmite acesteia procedurile
+interne prevăzute la alin. (2) și (3).
+Art. 23. – Cerințe pentru structura de conducere/persoanele
+care dețin funcții-cheie
+(1) Membrii structurii de conducere a furnizorului sunt autorizați
+individual de către A.S.F., atât în cadrul procesului de acordare a
+autorizării de constituire, în cazul entităților prevăzute la art. 4 alin. (1)
+lit. e), sau în cadrul procesului de acordare a autorizării ca furnizor, cât și
+ulterior, pe parcursul desfășurării activității furnizorului.
+(2) Persoanele care dețin funcții-cheie prevăzute la art. 3 alin. (1)
+pct. 32 lit. a), b) și d) sunt autorizate individual de către A.S.F., atât în
+cadrul procesului de acordare a autorizării de constituire, în cazul
+entităților prevăzute la art. 4 alin. (1) lit. e), sau în cadrul procesului de
+acordare a autorizării ca furnizor, cât și ulterior, pe parcursul desfășurării
+activității furnizorului. Persoanele care dețin funcții-cheie prevăzute la
+art. 3 alin. (1) pct. 32 lit. c) și e) sunt notificate A.S.F..
+(3) Membrii structurii de conducere și persoanele care dețin
+funcții-cheie în cadrul entităților prevăzute la art. 4 alin. (1) care dețin deja
+o autorizare de la A.S.F. sau care, după caz, au fost notificați anterior către
+A.S.F., sunt exceptați de la autorizare/notificare în cadrul procesului de
+acordare a autorizării ca furnizor, doar dacă respectivele entități fac parte
+din același grup.
+(4) În situația prevăzută la alin. (3), prin decizia de autorizare ca
+furnizor, se autorizează inclusiv desfășurarea activității în domeniul plății
+pensiilor private de către persoanele din structura de conducere și de către
+cele care dețin funcții-cheie în cadrul entităților prevăzute la art. 4 alin. (1),
+cu respectarea prevederilor alin. (7).
+(5) Membrii structurii de conducere și persoanele care dețin
+funcții-cheie îndeplinesc cerințele prevăzute în reglementările A.S.F..
+(6) Furnizorul are obligația să adopte, să aplice și să mențină
+politici și proceduri corespunzătoare pentru a se asigura că membrii
+structurii de conducere a furnizorului și persoanele care dețin funcții-cheie
+îndeplinesc în permanență cerințele prevăzute în reglementările A.S.F..
+(7) Membrii structurii de conducere a unui furnizor nu pot fi
+membri în structura de conducere:
+a) a unui alt furnizor sau a persoanelor afiliate acestuia;
+b) a unui alt administrator de fonduri de pensii private sau a
+persoanelor afiliate acestuia, cu excepția situației în care entitățile fac
+parte din același grup;
+c) a depozitarului sau a persoanelor afiliate acestuia;
+d) a societăților de servicii de investiții financiare sau a
+persoanelor afiliate acestora cu care furnizorul a încheiat un contract de
+intermediere;
+e) a unei organizații sindicale sau patronale.
+(8) Conducerea furnizorului poate fi asigurată numai de către
+persoanele fizice care, potrivit actelor constitutive și/sau hotărârii
+organelor statutare ale furnizorului, sunt împuternicite să conducă și să
+coordoneze activitatea acestuia.
+Art. 24. – Principii privind guvernanța
+(1) Furnizorul are obligația să adopte măsurile corespunzătoare
+privind aplicarea unui sistem de guvernanță care să asigure o administrare
+corectă, eficientă și prudentă bazată pe principiul continuității activității,
+proporțional cu natura, amploarea și complexitatea activităților
+desfășurate.
+(2) Sistemul de guvernanță aplicat trebuie să respecte următoarele
+cerințe:
+a) asigurarea unei structuri organizatorice transparente și adecvate;
+b) alocarea adecvată și separarea corespunzătoare a responsabilităților;
+c) administrarea corespunzătoare a riscurilor;
+d) adecvarea procedurilor interne necesare pentru respectarea
+regulilor de prudențialitate prevăzute la art. 22;
+e) asigurarea organizării administrative, precum și a organizării
+și conducerii contabilității în conformitate cu prevederile legale
+aplicabile;
+f) asigurarea unui sistem eficient de comunicare și de transmitere
+a informațiilor;
+g) aplicarea unor proceduri operaționale care să împiedice
+divulgarea informațiilor confidențiale.
+Art. 25. – Politica de remunerare
+(1) Furnizorul are obligația să elaboreze și să aplice o politică de
+remunerare pentru toate persoanele din structura de conducere, precum și
+pentru cele care dețin funcții-cheie și pentru alte categorii de angajați ale
+căror activități profesionale au un impact important asupra activității sale.
+(2) Furnizorul publică, în mod regulat, informațiile relevante
+referitoare la politica de remunerare, în conformitate cu reglementările
+emise de către A.S.F..
+(3) Politica de remunerare prevăzută la alin. (1) respectă
+următoarele principii:
+a) se stabilește, se pune în aplicare și se menține în funcție de
+activitățile, profilul de risc, obiectivele, interesul pe termen lung și
+performanța activității de administrare în ansamblu, și sprijină
+administrarea corectă, prudentă și eficientă a fondurilor;
+b) este corelată cu interesele pe termen lung ale membrilor,
+moștenitorilor, beneficiarilor sau supraviețuitorilor;
+c) include măsuri menite să evite conflictele de interese;
+d) este compatibilă cu gestionarea corectă și eficientă a riscurilor
+și nu încurajează asumarea unor riscuri incompatibile cu profilul de risc,
+politicile și strategiile fondului de plată.
+(4) Furnizorul revizuiește politica de remunerare și o actualizează
+cel puțin la fiecare 3 ani.
+Art. 26. – Separarea funcțiilor
+(1) Furnizorul trebuie să separe funcțiile de decizie de funcțiile
+de execuție și de funcțiile-cheie.
+(2) Persoana care deține o funcție-cheie își îndeplinește
+atribuțiile în mod eficace, obiectiv, corect și independent și raportează
+eventualele constatări și face recomandări structurii de conducere a
+furnizorului potrivit competenței acesteia, care stabilește ce acțiuni
+trebuie întreprinse.
+(3) Persoana care deține o funcție-cheie informează A.S.F. de
+îndată dacă structura de conducere a furnizorului nu ia în timp util și în
+mod adecvat măsurile corective în următoarele cazuri:
+a) atunci când persoana care deține o funcție-cheie a sesizat un
+risc substanțial ca furnizorul să nu respecte o cerință legală și a informat
+structura de conducere a furnizorului cu privire la acest risc, iar acest lucru
+ar putea avea un impact semnificativ asupra intereselor membrilor,
+moștenitorilor, beneficiarilor sau supraviețuitorilor; sau
+b) atunci când persoana care deține o funcție-cheie a sesizat o
+încălcare a legislației aplicabile furnizorului și activităților sale, și a
+informat structura de conducere a furnizorului cu privire la aceasta.
+(4) Aplicarea prevederilor alin.(3) nu constituie motiv pentru
+sancționarea, de către furnizor, a persoanei care deține o funcție-cheie.
+Art. 27. – Funcția de audit intern
+(1) Furnizorul constituie și dispune permanent de o structură de
+audit intern.
+(2) Obiectivele auditului intern sunt:
+a) asigurarea că politicile și procedurile furnizorului sunt
+respectate în cadrul tuturor activităților și structurilor;
+b) revizuirea politicilor, procedurilor, proceselor și mecanismelor de
+control, astfel încât acestea să fie suficiente și adecvate activității
+desfășurate.
+(3) În vederea îndeplinirii obiectivelor, activitatea de audit intern
+include următoarele:
+a) evaluarea eficienței și a gradului de adecvare a activității de
+control intern, de administrare a riscurilor și a investițiilor;
+b) analizarea relevanței și integrității datelor furnizate de
+sistemele informatice;
+c) evaluarea acurateței și credibilității înregistrărilor contabile
+care stau la baza întocmirii situațiilor financiare și a raportărilor contabile;
+d) evaluarea modului în care se asigură protejarea elementelor
+patrimoniale bilanțiere și extrabilanțiere și identificarea metodelor de
+prevenire a fraudelor și a pierderilor de orice fel.
+(4) Fiecare misiune de audit intern face obiectul unui raport de
+audit intern care este prezentat consiliului de administrație/consiliului de
+supraveghere.
+(5) Auditorii interni au acces la orice date sau înregistrări,
+precum și la documente și informații relevante necesare îndeplinirii
+atribuțiilor care le revin.
+(6) Persoana care conduce structura de audit intern are obligația
+de a întocmi un raport semestrial privind misiunile de audit intern
+desfășurate, care se transmite A.S.F. în conformitate cu reglementările
+acesteia.
+(7) În îndeplinirea atribuțiilor care îi revin, persoana care
+conduce structura de audit intern urmărește modul de implementare a
+recomandărilor formulate în raportul de audit intern.
+(8) Este interzisă externalizarea activității de audit intern de către
+furnizor.
+Art. 28. – Funcția actuarială
+(1) Furnizorul care administrează un fond de plată a pensiilor
+viagere dispune permanent, pe perioada derulării activității, de o funcție
+responsabilă de activitatea de actuariat, cu următoarele atribuții:
+a) calculul pensiilor private viagere;
+b) determinarea valorii rezervelor tehnice;
+c) calculul provizionului tehnic;
+d) calculul ratei de finanțare;
+e) calculul procentului de indexare a pensiilor private viagere;
+f) evaluarea adecvării metodologiilor și modelelor de bază
+utilizate la calculul provizioanelor tehnice și a ipotezelor formulate în
+acest scop;
+g) determinarea în ce măsură datele utilizate la calcularea
+provizioanelor tehnice sunt suficiente, precum și a calității acestora;
+h) întocmirea și certificarea, prin persoana care conduce
+structura, a tuturor rapoartelor actuariale transmise către A.S.F.;
+i) alte atribuții stabilite prin reglementările A.S.F. emise în
+aplicarea prezentei legi.
+(2) Persoana fizică responsabilă de funcția actuarială îndeplinește
+minimum următoarele condiții:
+a) a absolvit cu diplomă, studii actuariale la instituții de
+învățământ superior sau a absolvit, cu diplomă sau prin certificarea unor
+examene, studii actuariale la instituții recunoscute pe plan internațional în
+pregătirea și calificarea în profesia de actuar;
+b) a lucrat o perioadă de cel puțin 3 ani în domeniul actuarial.
+(3) Schimbarea persoanei responsabile de funcția actuarială sau
+vacantarea funcției se notifică A.S.F. în termen de maximum 5 zile
+lucrătoare de la data la care s-a adoptat hotărârea de schimbare a persoanei
+de către furnizor, însoțită de motivarea acesteia, sau de la data vacantării.
+(4) Persoana responsabilă de funcția actuarială aduce la
+cunoștință structurii de conducere a furnizorului, în scris, în termen de
+5 zile lucrătoare de la data constatării, informații cu privire la fiabilitatea
+și adecvarea calculării provizioanelor tehnice și/sau a rezervelor tehnice,
+precum și orice situație care indică sau conduce la încălcarea prevederilor
+prezentei legi și a reglementărilor A.S.F. emise în aplicarea acesteia, sau
+la imposibilitatea asumării atribuțiilor prevăzute la alin. (1).
+(5) Persoana responsabilă de funcția actuarială are obligația
+exercitării atribuțiilor prevăzute la alin. (1) și de a întocmi anual un raport
+actuarial aferent calculului rezervei tehnice și/sau al provizionului tehnic,
+după caz, precum și un raport actuarial aferent fiecărui calcul al rezervei
+tehnice și/sau al provizionului tehnic realizat conform alin. (7), după caz.
+(6) Rapoartele prevăzute la alin. (5) se transmit la A.S.F. în
+conformitate cu reglementările acesteia.
+(7) La solicitarea A.S.F., persoana responsabilă de funcția
+actuarială are obligația de a recalcula rezerva tehnică și/sau valoarea
+provizionului tehnic și de a întocmi un raport actuarial, care se transmite
+A.S.F. în conformitate cu reglementările acesteia.
+(8) A.S.F. poate contracta o societate cu expertiză recunoscută în
+domeniu pentru validarea valorii provizionului tehnic, calculată și
+raportată de către furnizor.
+Art. 29. – Funcția de control intern
+(1) Furnizorul constituie și dispune permanent de o structură de
+control intern care își desfășoară activitatea în mod independent de
+activitățile de administrare ale furnizorului.
+(2) Furnizorul stabilește cu privire la structura de control intern:
+a) rolul și responsabilitățile structurii de conducere în relația cu
+structura de control intern;
+b) activitățile de control intern și separarea responsabilităților;
+c) activitățile de monitorizare și corectare a deficiențelor.
+(3) Obiectivele activității de control intern sunt:
+a) furnizarea de informații corecte, credibile, relevante, complete
+și oportune în luarea deciziilor de către membrii structurii de conducere,
+după caz, precum și de către utilizatorii externi ai informațiilor;
+b) supravegherea respectării de către furnizor și de către personalul
+acestuia a actelor normative aplicabile și a politicilor/procedurilor/regulilor
+interne;
+c) urmărirea reducerii riscurilor de neîndeplinire a obligațiilor de
+către furnizor;
+d) evaluarea continuă a modului adecvat de punere în aplicare a
+măsurilor și procedurilor furnizorului, precum și măsurile dispuse pentru
+rezolvarea oricăror situații de neîndeplinire a obligațiilor acestuia;
+e) urmărirea desfășurării activității de administrare a fondului de
+plată, în conformitate cu prevederile legale.
+(4) Pentru a permite persoanei care conduce structura de control
+intern să își ducă la îndeplinire responsabilitățile în mod corect și
+independent, furnizorul trebuie să se asigure că aceasta:
+a) are autoritatea, resursele și experiența necesare, precum și
+acces la toate informațiile relevante;
+b) are atribuții aferente activității de control intern și este
+subiectul unei politici adecvate de remunerare, astfel încât să nu îi fie
+afectată obiectivitatea sau să conducă la această posibilitate;
+c) nu este implicată în desfășurarea activităților pe care le
+monitorizează;
+d) poate participa, în calitate de invitat, la ședința consiliului de
+administrație/consiliului de supraveghere, atunci când pe ordinea de zi a
+acesteia este înscrisă dezbaterea raportului prevăzut la alin. (6).
+(5) Activitatea de control intern este implementată pentru fiecare
+nivel organizatoric al furnizorului și se exercită în funcție de dimensiunea,
+natura și complexitatea acestuia.
+(6) În exercitarea atribuțiilor sale, persoana care conduce
+structura de control intern are obligația de a întocmi semestrial un raport
+de control intern, care se transmite A.S.F. în conformitate cu
+reglementările acesteia.
+(7) Este interzisă externalizarea activității de control intern de
+către furnizor.
+Art. 30. – Funcția de administrare a riscurilor
+(1) Ca parte a procesului decizional, furnizorul menține
+permanent o structură de administrare a riscurilor, responsabilă de
+elaborarea de strategii, procese și proceduri de raportare care să faciliteze
+permanent identificarea, analizarea, evaluarea, diminuarea, monitorizarea
+și raportarea riscurilor la care sunt expuse fondurile de plată și furnizorul,
+sau a riscurilor potențiale, în mod proporțional cu dimensiunea și
+organizarea lor internă, precum și cu volumul, natura, amploarea și
+complexitatea activității desfășurate.
+(2) Structura de administrare a riscurilor îndeplinește, cu luarea
+în considerare a factorilor interni și externi care afectează activitatea
+fondului de plată și a furnizorului, precum și a strategiei de investiții și a
+activității de administrare a activelor și pasivelor, următoarele atribuții:
+a) gestionarea riscurilor biometrice, după caz;
+b) gestionarea riscului de lichiditate și a riscului de concentrare;
+c) gestionarea riscului operațional;
+d) gestionarea riscurilor de mediu, sociale și de guvernanță
+asociate cu portofoliul de investiții;
+e) aplicarea altor tehnici de diminuare a riscurilor;
+f) alte atribuții prevăzute de reglementările A.S.F., emise în
+aplicarea prezentei legi.
+(3) Sistemul de administrare a riscurilor trebuie să ia în
+considerare riscurile suportate de membri.
+(4) Pentru a preîntâmpina potențialele riscuri, structura de
+administrare a riscurilor efectuează cu regularitate evaluarea riscurilor și
+realizează analize cantitative și/sau calitative, utilizând teste de stres, după
+caz.
+(5) Persoana care conduce structura de administrare a riscurilor
+exercită atribuțiile prevăzute la alin. (2) și raportează structurii de
+conducere în scopul de a oferi fundamentare pentru revizuirea și
+îmbunătățirea politicii de administrare a riscurilor și a limitelor de
+expunere fixate, inclusiv pentru adoptarea de măsuri adecvate dacă
+rezultatele testelor de stres sau ale evaluării riscurilor indică o
+vulnerabilitate semnificativă a fondului de plată sau a furnizorului.
+(6) Persoana care conduce structura de administrare a riscurilor
+are obligația de a întocmi semestrial un raport de risc, care se transmite
+structurii de conducere a furnizorului și A.S.F., în conformitate cu
+reglementările acesteia.
+(7) Este interzisă externalizarea activității de administrare a
+riscurilor.
+Art. 31. – Funcția de administrare a investițiilor
+(1) Furnizorul constituie și dispune permanent de o structură
+responsabilă cu administrarea investițiilor, cu analiza oportunităților
+investiționale și plasarea activelor, în conformitate cu strategia stabilită de
+consiliul de administrație sau de consiliul de supraveghere, după caz.
+(2) Este interzisă externalizarea activității de administrare a
+investițiilor.
+Art. 32. – Obligația privind sistemul informatic
+(1) Furnizorul trebuie să dispună de un sistem informatic care să
+asigure păstrarea în siguranță a cel puțin următoarelor elemente:
+evidențele operaționale și contabile ale fondului de plată, ale valorii
+activului net, ale drepturilor membrilor, moștenitorilor, beneficiarilor sau
+supraviețuitorilor, după caz, evidențierea modului de calcul al
+comisioanelor, precum și al obligațiilor de plată.
+(2) Sistemul informatic deținut de furnizor trebuie să asigure
+ținerea evidenței membrilor, moștenitorilor, beneficiarilor și
+supraviețuitorilor, precum și a contractelor de plată, cu detalierea datelor
+de identificare a acestora înscrise în contractul de plată, precum și a
+modificărilor ulterioare.
+Art. 33. – Activitatea furnizorului
+(1) Furnizorul poate începe activitatea de la data acordării
+deciziei de autorizare ca furnizor de pensii private.
+(2) Activitatea de administrare a fondurilor de plată cuprinde
+următoarele, după caz:
+a) administrarea și investirea activelor fondului de plată;
+b) evaluarea portofoliului de active și determinarea valorii
+activului și pasivului fondului de plată;
+c) calculul zilnic al activului net al fondului de plată;
+d) calculul și plata pensiilor private, declararea, reținerea prin
+stopaj la sursă și plata obligațiilor fiscale aplicabile, după caz, în
+conformitate cu prevederile Legii nr. 227/2015 privind Codul fiscal, cu
+modificările și completările ulterioare, denumită în continuare Codul
+fiscal;
+e) gestionarea operațiunilor zilnice ale fondului de plată
+respectiv, fără a se limita la înregistrarea elementelor de natura activelor,
+datoriilor, capitalurilor proprii, cheltuielilor și veniturilor;
+f) gestionarea relațiilor cu entitățile implicate în domeniul
+pensiilor private;
+g) dispunerea efectuării plăților datorate membrilor, moștenitorilor,
+beneficiarilor, supraviețuitorilor și entităților implicate în domeniul
+pensiilor private și A.S.F.;
+h) elaborarea, prezentarea, publicarea, după caz, și transmiterea
+către A.S.F. a situațiilor financiare anuale și a rapoartelor, prevăzute de
+prezenta lege și de reglementările A.S.F., emise în aplicarea prezentei legi;
+i) constituirea și actualizarea registrului membrilor, moștenitorilor,
+beneficiarilor și al supraviețuitorilor, după caz, pe baza datelor cu caracter
+personal comunicate de către aceștia, inclusiv a codului numeric personal;
+j) calculul rezervei tehnice;
+k) calculul provizionului tehnic;
+l) gestionarea, păstrarea și arhivarea documentelor, conform
+legislației aplicabile;
+m) alte activități prevăzute de reglementările A.S.F..
+Art. 34. – Segregarea activelor și pasivelor
+(1) Activitatea de plată a pensiilor private, precum și toate
+activele și angajamentele corespunzătoare acesteia, sunt gestionate și
+organizate separat de alte activități ale furnizorului, fără posibilitate de
+transfer între acestea, cu excepția operațiunilor de corecție sau
+regularizare a plăților eronate, prevăzute de reglementările A.S.F., emise
+în aplicarea prezentei legi.
+(2) Activele și pasivele unui fond de plată sunt organizate,
+evidențiate și administrate separat de activele și pasivele furnizorului,
+precum și de celelalte activități ale acestuia, inclusiv de celelalte fonduri
+administrate de același furnizor, după caz.
+(3) Operațiunile de corecție sau regularizare aferente plăților/încasărilor
+eronate vor fi efectuate în conformitate cu reglementările A.S.F., emise
+în aplicarea prezentei legi, și vor fi notificate în prealabil acesteia.
+Art. 35. – Externalizarea
+(1) Activitățile prevăzute la art. 33 alin. (2) lit. a) - k) nu pot fi
+externalizate, în sensul transferării de atribuții pe bază de contract sau
+încredințării executării anumitor obligații, către un alt furnizor sau către o
+societate.
+(2) Furnizorul nu poate delega răspunderea și rămâne pe deplin
+responsabil de respectarea obligațiilor care îi revin în temeiul prezentei
+legi atunci când externalizează o activitate.
+(3) Externalizarea activităților prevăzute la art. 33 alin. (2) lit. l)
+și m) se realizează în baza unui contract încheiat între furnizor și
+prestatorul de servicii.
+(4) Externalizarea se realizează în așa fel încât să se evite oricare
+dintre următoarele consecințe:
+a) diminuarea calității sistemului de guvernanță;
+b) creșterea nejustificată a riscului operațional;
+c) subminarea capacității A.S.F. de a supraveghea respectarea de
+către furnizor a obligațiilor sale;
+d) prestarea de servicii către membri, moștenitori, beneficiari sau
+supraviețuitori în mod defectuos sau cu încălcarea prevederilor legale și
+contractuale.
+(5) Furnizorul notifică A.S.F. cu privire la intenția de externalizare
+a oricăror activități care decurg din obligațiile care îi revin în temeiul
+prezentei legi, înainte de a încheia contractul prevăzut la alin. (3).
+(6) Furnizorul asigură funcționarea corespunzătoare a activităților
+externalizate prin procesul de selecție a unui prestator de servicii și prin
+monitorizarea continuă a activităților acestuia.
+Art. 36. – Taxa de funcționare și contribuția la Fondul de
+garantare
+(1) Furnizorul achită A.S.F., de la momentul autorizării fondului
+de plată, pe toată durata de funcționare a acestuia, o taxă lunară, care nu
+poate depăși 5% din totalul comisioanelor de administrare percepute de
+furnizor. În primii 5 ani de la data intrării în vigoare a prezentei legi nu se
+datorează taxă de funcționare.
+(2) Furnizorul contribuie la Fondul de garantare conform
+dispozițiilor Legii nr.187/2011, cu modificările și completările ulterioare,
+și ale reglementărilor A.S.F., emise în aplicarea prezentei legi.
+Art. 37. – Comisionul de administrare
+(1) Pentru activitatea de administrare a fondului de plată,
+furnizorul percepe un comision lunar de administrare, din activul fondului
+de plată, care nu poate depăși 0,05 % din acesta.
+(2) Comisionul de administrare prevăzut la alin.(1) se calculează
+pentru fiecare tip de fond de plată și se înregistrează zilnic, se
+regularizează și se încasează lunar, conform reglementărilor A.S.F. emise
+în aplicarea prezentei legi.
+(3) Cuantumul comisionului de administrare prevăzut la alin. (1)
+este menționat în contractul de plată, conform reglementărilor A.S.F.,
+emise în aplicarea prezentei legi.
+(4) Modificarea comisionului de administrare se realizează prin
+decizie a furnizorului. Reducerea comisionului se realizează cu notificarea
+prealabilă a A.S.F., iar majorarea acestuia se realizează cu aprobarea
+prealabilă a A.S.F..
+(5) Modificarea comisionului de administrare este supusă
+regulilor de informare a membrilor, conform reglementărilor A.S.F.,
+emise în aplicarea prezentei legi.
+SECȚIUNEA a 4-a
+Activitatea de marketing și publicitate a furnizorului
+Art. 38. – Activitatea de marketing a furnizorului
+(1) Activitatea de marketing a furnizorului constă în prezentarea
+de informații cu privire la fondurile de plată și la produsele de plată a
+pensiilor private oferite de furnizor, propunerea de contracte de plată,
+desfășurarea de acțiuni premergătoare în vederea încheierii contractului
+de plată, precum și în încheierea contractului de plată.
+(2) Furnizorul este răspunzător pentru activitatea desfășurată de
+către agenții săi de marketing.
+(3) Activitatea agentului de marketing se desfășoară pe bază de
+comision suportat de către furnizor.
+(4) Furnizorul este răspunzător pentru recrutarea, instruirea,
+monitorizarea și plata agenților de marketing.
+(5) Furnizorul deschide și actualizează un registru în sistem
+electronic privind agenții de marketing, având obligația de a arhiva toate
+modificările operate în acesta.
+Art. 39. – Cerințe privind competența profesională a
+agenților de marketing
+Agenții de marketing respectă cerințele de competență
+profesională necesare pentru a-și îndeplini în mod adecvat atribuțiile și
+responsabilitățile stabilite la art. 38 alin. (1) și prin reglementările A.S.F.,
+emise în aplicarea prezentei legi.
+Art. 40. – Interdicții aplicabile activității de marketing
+(1) Furnizorului și agenților săi de marketing le este interzis:
+a) să transmită informații false, înșelătoare sau care pot crea o
+impresie falsă despre furnizor, fondul de plată sau despre produsele de
+plată a pensiilor private oferite de acesta;
+b) să ofere beneficii sau foloase colaterale în scopul de a
+convinge un potențial membru să încheie un contract de plată.
+(2) Este interzisă implicarea agenților de marketing în
+operațiunile de transfer individual al unui membru de la un fond de plată
+către un alt fond de plată.
+Art. 41. – Materialele informative sau publicitare ale furnizorului
+(1) Furnizorul se asigură că materialele informative sau
+publicitare referitoare la fondul de plată și la produsele de plată a pensiilor
+private sunt corecte, clare, neînșelătoare și ușor de înțeles.
+(2) În situația în care materialele publicitare ale furnizorului sunt
+susceptibile să inducă în eroare, A.S.F. poate interzice publicarea și
+distribuirea acestora.
+Art. 42. – Emiterea de reglementări privind furnizorul
+(1) A.S.F. poate emite reglementări specifice privind:
+a) autorizarea furnizorului, documentele necesare în vederea
+autorizării ca furnizor și modificarea acestora, retragerea autorizării
+furnizorului, precum și încetarea activității acestuia;
+b) proveniența capitalului vărsat de către fondatori;
+c) constituirea, majorarea și reducerea capitalului social;
+d) evaluarea prudențială a tranzacțiilor cu acțiunile unui furnizor;
+e) fuziunea și divizarea furnizorilor;
+f) preluarea administrării fondului de plată, în situația retragerii
+de către A.S.F. a autorizării furnizorului;
+g) contabilitatea furnizorilor;
+h) organizarea și evidența separată a activelor și pasivelor
+fiecărui fond de plată;
+i) cerințele și procedura privind autorizarea persoanelor din
+structura de conducere și a celor care dețin funcții-cheie;
+j) regulile de prudențialitate și principiile de guvernanță pe care
+trebuie să le respecte furnizorul;
+k) principiile de organizare și funcționare a structurilor prevăzute
+la art. 27 – 31;
+l) termenele de transmitere și conținutul minim al rapoartelor
+prevăzute la art. 27 alin. (4) și (6), art. 28 alin. (5), art. 29 alin. (6) și la
+art. 30 alin. (6);
+m) organizarea activității de arhivă a furnizorilor;
+n) operațiunile de corecție sau regularizare aferente plăților/încasărilor
+eronate;
+o) reguli aplicabile externalizării activităților care intră sub
+incidența prezentei legi;
+p) taxele de autorizare/avizare, calculul și raportarea taxei de
+funcționare a furnizorilor, precum și al contribuției acestora la Fondul de
+garantare;
+q) metodologia de calcul, înregistrare, regularizare, încasare și
+modificare a comisionului de administrare;
+r) evidența și cerințele de formare profesională aplicabile
+persoanelor fizice sau juridice implicate în activitatea de marketing a
+furnizorului;
+s) condițiile aplicabile activității de marketing a furnizorului,
+inclusiv procedura de avizare/autorizare a agenților de marketing de către
+A.S.F., precum și condițiile de retragere a avizului/deciziei de autorizare;
+t) condiții privind materialele informative sau publicitare;
+u) condițiile aplicabile în cazul activității transfrontaliere a
+furnizorului;
+v) alte aspecte privind activitatea furnizorului.
+(2) Emiterea reglementărilor prevăzute la alin. (1) lit. g) se
+realizează cu avizul Ministerului Finanțelor.
+CAPITOLUL III
+Fondurile de plată
+SECȚIUNEA 1
+Înființarea și autorizarea fondurilor de plată
+Art. 43. – Înființarea fondului de plată
+(1) Fondul de plată este administrat de furnizorul autorizat de
+către A.S.F. în acest sens.
+(2) Fondul de plată se constituie printr-un contract de societate,
+potrivit prevederilor Codului civil.
+(3) Inițiativa constituirii unui fond de plată aparține exclusiv unui
+furnizor autorizat, în conformitate cu decizia luată de către structura de
+conducere a acestuia și potrivit competențelor stabilite prin actele
+constitutive.
+(4) Fondul de plată al pensiilor private poate fi:
+a) fond de plată a pensiilor de tip retragere programată;
+b) fond de plată a pensiilor viagere.
+(5) Denumirea fondului de plată conține sintagma „fond de plată
+a pensiilor private de tip retragere programată” sau „fond de plată a
+pensiilor private viagere”, după caz, și nu trebuie să inducă în eroare
+potențialii membri sau alte persoane.
+(6) Fondul de plată este reprezentat în raporturile cu terții,
+inclusiv în fața instanțelor judecătorești, numai de către furnizorul
+acestuia.
+(7) Sediul fondului de plată este același cu cel al furnizorului.
+(8) Un fond de plată nu poate fi declarat în stare de faliment.
+(9) Operațiunile de fuziune a fondurilor de plată sau de preluare
+a unui fond de plată de către un alt furnizor sunt supuse autorizării
+prealabile a A.S.F. și se desfășoară în conformitate cu reglementările
+emise de aceasta.
+Art. 44. – Contractul de societate
+(1) Contractul de societate este întocmit în formă scrisă de către
+furnizorul care are inițiativa constituirii fondului de plată.
+(2) Conținutul minim al contractului de societate prin care se
+constituie un fond de plată este stabilit prin reglementările A.S.F..
+(3) Modificarea contractului de societate se poate realiza la
+propunerea furnizorului sau a majorității membrilor.
+(4) Prin derogare de la prevederile art. 1910 alin. (3) din Codul
+civil, hotărârile privind modificarea contractului de societate se adoptă cu
+acordul majorității membrilor dacă prin contract nu se stabilește altfel.
+(5) Contractul de societate reprezintă un contract-cadru de
+adeziune la care membrul devine parte prin semnarea/încheierea
+contractului de plată.
+Art. 45. – Autorizarea fondului de plată
+(1) Fondul de plată este autorizat de către A.S.F., ulterior
+autorizării furnizorului.
+(2) Decizia de autorizare se eliberează pe baza unei cereri
+formulate de furnizor, la care se anexează următoarele documente:
+a) contractul de societate;
+b) proiectul contractului de plată;
+c) contractul de depozitare și cel de custodie pentru activele
+fondului de plată;
+d) contractul de audit al fondului de plată;
+e) dovada plății taxei pentru cererea de autorizare;
+f) alte documente și informații potrivit cerințelor prevăzute în
+reglementările A.S.F..
+(3) A.S.F. analizează cererea de autorizare a unui fond de plată
+și, în termen de 30 de zile de la data înregistrării acesteia și a
+documentației complete prevăzute la alin. (2), procedează la aprobarea
+sau la respingerea cererii, prin decizie scrisă și motivată.
+(4) Orice solicitare a A.S.F. de informații suplimentare sau de
+modificare a documentelor prezentate întrerupe termenul prevăzut la alin. (3),
+un nou termen începând să curgă de la data transmiterii respectivelor
+informații sau modificări, transmitere care nu poate fi făcută mai târziu de
+30 de zile de la data solicitării A.S.F., sub sancțiunea respingerii cererii de
+autorizare a fondului de plată.
+(5) Decizia de autorizare se comunică furnizorului în termen de
+10 zile lucrătoare de la data adoptării acesteia și se publică în Monitorul
+Oficial al României, Partea a IV-a.
+(6) A.S.F. respinge cererea de autorizare a fondului de plată,
+dacă:
+a) documentația transmisă rămâne incompletă și după expirarea
+termenului de 30 de zile de la data solicitării unor informații sau
+documente suplimentare;
+b) documentația transmisă nu este întocmită în conformitate cu
+dispozițiile legale în vigoare;
+c) documentația transmisă conține clauze care pot prejudicia
+interesele membrilor sau nu le protejează în mod corespunzător.
+(7) Decizia de respingere a cererii de autorizare a fondului de
+plată, scrisă și motivată, se comunică furnizorului în termen de 10 zile
+lucrătoare de la data adoptării acesteia.
+SECȚIUNEA a 2-a
+Resursele, cheltuielile și activele fondurilor de plată
+Art. 46. – Resursele și cheltuielile fondului de plată
+(1) Resursele fondului de plată se constituie din:
+a) sumele care fac obiectul contractelor de plată încheiate cu
+membrii fondului;
+b) sumele provenite din investirea activelor fondului de plată;
+c) sumele provenite din activele furnizorului care acoperă
+provizionul tehnic, în situațiile expres prevăzute de prezenta lege;
+d) sumele provenite de la Fondul de garantare, în situațiile expres
+prevăzute de prezenta lege;
+e) sumele provenite din drepturile cuvenite membrului, în cazul
+decesului acestuia și în lipsa existenței moștenitorilor, beneficiarilor sau
+supraviețuitorilor, după caz, cu respectarea dispozițiilor alin. (4);
+f) alte sume stabilite prin reglementările A.S.F., emise în
+aplicarea prezentei legi.
+(2) Cheltuielile suportate de către fondul de plată constau în:
+a) comisionul de administrare prevăzut la art. 37;
+b) cheltuielile privind activitatea de audit financiar a fondului de
+plată.
+(3) Cheltuielile legate de funcționarea și administrarea fondului
+de plată a pensiilor private sunt suportate de către furnizor.
+(4) Dreptul la acțiune în vederea realizării drepturilor cuvenite
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz,
+în temeiul prezentei legi, este imprescriptibil.
+Art. 47. – Reguli de investire prudențială a activelor
+fondurilor de plată
+(1) Furnizorii au obligația de a respecta următoarele reguli de
+investire prudențială a activelor fondurilor de plată:
+a) investirea în interesul membrilor, iar în cazul unui potențial
+conflict de interese, furnizorul care gestionează activele fondurilor de
+plată trebuie să adopte măsuri ca investirea să se facă numai în interesul
+acestora;
+b) investirea într-un mod care să asigure securitatea, calitatea,
+lichiditatea și profitabilitatea portofoliului, într-un mod adecvat naturii și
+duratei drepturilor cuvenite membrilor, moștenitorilor, beneficiarilor sau
+supraviețuitorilor, după caz;
+c) activele se diversifică în mod corespunzător, astfel încât să se
+evite concentrările de riscuri pe ansamblul activelor;
+d) investițiile în instrumente financiare derivate sunt permise
+doar în măsura în care contribuie la scăderea riscurilor investiției sau
+facilitează gestionarea eficientă a portofoliului;
+e) investirea activelor fondurilor de plată nu trebuie să fie bazată
+în mod exclusiv și mecanic pe rating-uri de credit emise de agențiile de
+rating de credit.
+(2) Cu excepția situațiilor stabilite prin reglementările A.S.F., nu
+pot fi contraparte în tranzacțiile care au ca obiect activele fondului de plată
+următoarele entități:
+a) furnizorul, depozitarul sau auditorul financiar;
+b) administratorul special al fondului de plată;
+c) persoanele afiliate entităților prevăzute la lit. a) și b);
+d) oricare alte persoane sau entități prevăzute prin reglementările
+A.S.F..
+(3) Activele fondului de plată nu pot face obiectul unor
+constituiri de garanții și nu pot fi utilizate pentru acordarea de
+împrumuturi, sub sancțiunea nulității absolute a actelor prin care se
+constituie garanția sau se acordă creditul, cu excepția
+garanției/marjei/colateralului constituite/constituit pentru tranzacționarea
+instrumentelor financiare derivate, utilizate doar în măsura în care
+contribuie la scăderea riscurilor investiției sau facilitează gestionarea
+eficientă a portofoliului, conform reglementărilor A.S.F..
+(4) Deschiderea procedurii insolvenței împotriva furnizorului nu
+afectează activele fondului de plată.
+Art. 48. – Investițiile și evaluarea activelor fondurilor de
+plată
+(1) Furnizorul investește activele fondului de plată a pensiilor de
+tip retragere programată în:
+a) instrumente ale pieței monetare, inclusiv conturi de
+disponibilități la vedere și de depozite în lei și în valute cotate, care pot fi
+convertite prin intermediul pieței valutare cu respectarea regimului
+valutar stabilit de Banca Națională a României, la instituții de credit sau
+la sucursale ale instituțiilor de credit autorizate să funcționeze pe teritoriul
+României, Uniunii Europene, al Spațiului Economic European sau al
+statelor aderente la Codurile de liberalizare ale O.C.D.E. și care nu se află
+în procedura de supraveghere specială ori de administrare specială,
+insolvență sau proceduri similare, ori a căror autorizație nu este retrasă;
+b) titluri de stat emise de autorități ale administrației publice
+centrale din România, din state membre ale Uniunii Europene, aparținând
+Spațiului Economic European sau emise de state aderente la Codurile de
+liberalizare ale O.C.D.E.;
+c) obligațiuni emise de Banca Mondială, Banca Europeană
+pentru Reconstrucție și Dezvoltare, Banca Europeană de Investiții, admise
+la tranzacționare și care se tranzacționează pe o piață reglementată din
+România, din state membre ale Uniunii Europene, din state aparținând
+Spațiului Economic European sau din state aderente la Codurile de
+liberalizare ale O.C.D.E..
+(2) Furnizorul investește activele fondului de plată a pensiilor
+viagere în instrumentele prevăzute la alin. (1), precum și în:
+a) obligațiuni și alte valori mobiliare emise de autorități ale
+administrației publice locale din România, din state membre ale Uniunii
+Europene, aparținând Spațiului Economic European sau din state aderente
+la Codurile de liberalizare ale O.C.D.E., admise la tranzacționare și care
+se tranzacționează pe o piață reglementată din România, din state membre
+ale Uniunii Europene, din state aparținând Spațiului Economic European
+sau din state aderente la Codurile de liberalizare ale O.C.D.E.;
+b) obligațiuni corporative ale emitenților din România, din state
+membre ale Uniunii Europene, aparținând Spațiului Economic European
+sau din state aderente la Codurile de liberalizare ale O.C.D.E., admise la
+tranzacționare și care se tranzacționează pe o piață reglementată din
+România, din state membre ale Uniunii Europene, din state aparținând
+Spațiului Economic European sau din state aderente la Codurile de
+liberalizare ale O.C.D.E.;
+c) acțiuni admise la tranzacționare și care se tranzacționează pe
+o piață reglementată din România, din state membre ale Uniunii
+Europene, din state aparținând Spațiului Economic European sau din state
+aderente la Codurile de liberalizare ale O.C.D.E;
+d) titluri de participare emise de organisme de plasament colectiv
+în valori mobiliare din România, din state membre ale Uniunii Europene,
+aparținând Spațiului Economic European sau din state aderente la
+Codurile de liberalizare ale O.C.D.E;
+e) alte instrumente prevăzute în reglementările A.S.F..
+(3) În funcție de natura emitentului de instrumente financiare în
+care furnizorul poate investi, procentele maxime admise sunt:
+a) 5% din activele unui fond de plată pot fi investite într-o singură
+societate cu personalitate juridică sau în fiecare categorie de active ale
+acesteia, fără a depăși în total 5%; în cazul în care statul român deține,
+direct sau indirect, o participație mai mare de 50% din capitalul social al
+unui emitent, furnizorul poate investi 10% din activele unui fond de plată
+în respectivul emitent sau în fiecare categorie de active ale acestuia, fără
+a depăși în total 10%;
+b) 10% din activele unui fond de plată pot fi investite în activele
+unui grup de emitenți și persoanele afiliate lor.
+(4) Furnizorul investește activele fondului de plată în limitele
+prevăzute de reglementările A.S.F, emise în aplicarea prezentei legi.
+(5) Rezultatele din investirea activelor fondului de plată sunt
+scutite de impozit.
+SECȚIUNEA a 3-a
+Membrii fondului de plată
+Art. 49. – Informarea participantului privind posibilitatea de
+a alege un furnizor
+(1) Cu cel puțin 6 luni înainte de îndeplinirea de către participant
+a condițiilor legale aplicabile privind vârsta necesară pentru deschiderea
+dreptului la pensia privată, administratorul fondului de pensii private îi
+comunică acestuia, în scris, la ultima adresă de corespondență comunicată
+sau prin mijloace electronice, informații privind contravaloarea activului
+personal, condițiile pentru plata activului de către administrator, respectiv
+posibilitatea de a alege un fond de plată, precum și informații cu privire
+la aceste opțiuni.
+(2) În notificarea prevăzută la alin. (1), precum și în alte
+comunicări adresate propriilor participanți în respectivul interval de timp,
+administratorii fondurilor de pensii private pot include informații cu
+privire la fondul de plată administrat de către ei înșiși sau de către o altă
+societate din grup.
+Art. 50. – Condiții pentru dobândirea pensiei private
+(1) Obținerea unei pensii private este condiționată de dobândirea
+calității de membru al unui fond de plată.
+(2) Este considerată potențial membru al unui fond de plată
+persoana care îndeplinește cumulativ următoarele condiții:
+1. se află în una din următoarele situații:
+a) este participant la unul sau la mai multe fonduri de pensii
+private și îndeplinește condițiile legale pentru deschiderea dreptului la
+pensia privată, conform prevederilor legislației privind pensiile private,
+sau
+b) deține drepturi de pensie obținute în alt stat sau în cadrul
+altor sisteme de acumulare în vederea obținerii unui venit din pensii, altele
+decât cele prevăzute la lit. a), începând cu momentul în care aceasta
+îndeplinește condițiile legale pentru deschiderea dreptului la pensia
+privată;
+2. deține la unul sau mai multe fonduri de pensii private un activ
+personal a cărui valoare depășește echivalentul a de 12 ori valoarea
+indemnizației sociale pentru pensionari stabilită pentru sistemul public de
+pensii, condiția fiind aplicabilă fiecărui cont individual de pensii private
+deținut de către participant.
+(3) În cazul în care activul unui participant la un fond de pensii
+private nu îndeplinește condiția prevăzută la alin. (2) pct. 2, plata activului
+său personal se realizează de către administratorul de fonduri de pensii
+private, ca plată unică sau plăți eșalonate pe o perioadă de maximum 12
+luni.
+(4) Sursele de activ destinate obținerii unei pensii private de către
+un potențial membru sunt următoarele:
+a) un fond de pensii administrat privat;
+b) unul sau mai multe fonduri de pensii facultative;
+c) unul sau mai multe fonduri de pensii ocupaționale;
+d) drepturi de pensie obținute în alt stat sau în cadrul altor sisteme
+de acumulare;
+e) disponibilități bănești aflate într-un cont deschis la o instituție
+de credit pe care participantul dorește să le utilizeze pentru obținerea unui
+venit din pensii, sub rezerva acceptării acestora de către furnizor.
+(5) În cazul în care potențialul membru deține active personale
+provenind din mai multe surse, acesta poate opta între transferul activelor
+către fonduri de plată diferite sau către același fond de plată.
+(6) Niciunui potențial membru nu i se poate refuza calitatea de
+membru al unui fond de plată dacă acesta îndeplinește condițiile prevăzute
+la alin. (2).
+Art. 51. – Demararea fazei de plată a pensiei private
+(1) Participantul care îndeplinește condițiile legale aplicabile
+pentru deschiderea dreptului la pensia privată transmite administratorului
+fondului de pensii private o cerere prin care solicită intrarea în faza de
+plată.
+(2) Pe baza cererii prevăzute la alin. (1), administratorul
+fondului de pensii private convertește în disponibilități bănești unitățile
+de fond aferente respectivului participant și transmite acestuia o informare
+cu privire la calculul contravalorii activului personal cuvenit, cu
+respectarea prevederilor legale aplicabile, inclusiv a celor referitoare la
+valoarea minimă garantată conform legii sau prospectului.
+(3) În baza valorii activului personal consemnată în informarea
+prevăzută la alin. (2), participantul poate încheia un contract de plată a
+pensiei private cu un furnizor, conform dispozițiilor art. 53, sau poate
+transmite administratorului fondului de pensii private o cerere prin care
+solicită plata activului personal, potrivit prevederilor art. 50 alin. (3).
+Art. 52. – Informarea oferită potențialului membru de către
+furnizor
+(1) În procesul de informare oferit potențialului membru, înainte
+de încheierea unui contract de plată, furnizorul și/sau agenții de
+marketing, desfășoară următoarele activități:
+a) oferă potențialului membru informații corecte și complete
+privind produsele de plată a pensiilor private, într-o formă ușor de înțeles,
+care să îi permită acestuia luarea unei decizii în cunoștință de cauză;
+b) îi solicită acestuia informațiile necesare, în vederea oferirii de
+recomandări personalizate, cu explicarea motivelor pentru care un anumit
+produs ar putea răspunde cel mai bine exigențelor și nevoilor sale, dacă
+este cazul.
+(2) În vederea încheierii unui contract de plată, furnizorul sau
+agenții de marketing ai acestuia îi prezintă potențialului membru oferte
+privind valoarea lunară a pensiei, aferente diferitelor tipuri de pensie,
+bazate pe valoarea activului de care dispune potențialul membru în
+vederea obținerii unei pensii private, ofertele respective conținând în mod
+obligatoriu precizarea că informațiile se bazează pe o estimare și pe
+parametrii valabili la data prezentării ofertei.
+Art. 53. – Încheierea contractului de plată
+(1) Procesul de încheiere a unui contract de plată se inițiază la
+cererea potențialului membru adresată furnizorului ales.
+(2) Încheierea contractului de plată cu membrul se realizează de
+către furnizor sau de către agentul de marketing, inclusiv prin mijloace
+electronice.
+(3) Modificarea contractului de plată se face prin act adițional.
+(4) Administratorul fondului de pensii private transferă integral
+activul personal al participantului, prevăzut la art. 51, către fondul de plată
+ales de către acesta, în termen de 5 zile lucrătoare de la data încheierii
+contractului de plată.
+(5) Comisionul bancar aferent transferului activului personal al
+participantului către furnizorul ales de către acesta se suportă de către
+administratorul fondului de pensii private.
+(6) Transferul activului personal acumulat de către un participant
+la un fond de pensii private către un fond de plată se realizează fără
+penalități de transfer sau comision și este scutit de impozit.
+(7) Administratorul fondului de pensii private de la care
+participantul își transferă activul personal către un fond de plată păstrează
+și arhivează toate înregistrările, documentele și evidențele referitoare la
+participantul transferat, inclusiv cu privire la numărul de unități de fond,
+valoarea unității de fond la data transferului, calculul și valoarea activului
+personal transferat către fondul de plată.
+(8) În situația suplimentării activului destinat obținerii unei
+pensii private de către un membru aflat deja în faza de plată a pensiei
+private, furnizorul încheie cu acesta un act adițional la contractul de plată.
+Art. 54. – Membrul unui fond de plată
+O persoană devine membru al unui fond de plată prin încheierea
+unui contract de plată.
+Art. 55. – Posibilitatea obținerii unui avans din pensie
+(1) Membrul unui fond de plată poate primi maximum 30% din
+valoarea activului său personal transferat către fondul de plată, la cerere,
+o singură dată, sub formă de plată unică acordată înaintea începerii plății
+pensiilor lunare.
+(2) Opțiunea de la alin. (1) este prevăzută în contractul de plată.
+(3) Dreptul membrului de a primi echivalentul a maximum 30%
+din valoarea activului său personal transferat către fondul de plată se
+acordă pentru fiecare cont individual de pensii private deținut de către
+membru.
+Art. 56. – Plata pensiei private
+(1) Pensia privată se plătește de către furnizor din activele
+fondului de plată, lunar, către membru, beneficiar, supraviețuitor sau către
+reprezentantul legal al acestuia, prin serviciu poștal sau bancar, conform
+dispozițiilor stabilite prin contractul de plată.
+(2) Cheltuielile cu plata pensiei private pe teritoriul României se
+suportă de către membru/beneficiar/supraviețuitor sau reprezentantul
+legal, după caz.
+(3) Furnizorul calculează, reține, plătește și declară lunar
+obligațiile fiscale aplicabile, conform prevederilor Codului fiscal, plata
+acestora realizându-se din sumele lunare cuvenite membrului/
+beneficiarului/supraviețuitorului sau reprezentantului legal, după caz.
+(4) În cazul schimbării domiciliului sau a reședinței într-un alt
+stat, membrul, beneficiarul, supraviețuitorul sau reprezentantul legal,
+după caz, păstrează dreptul la pensia privată conform contractului de plată
+încheiat cu un furnizor din România, plata urmând a se face pe teritoriul
+statului de domiciliu/reședință, în moneda țării respective sau într-o altă
+monedă asupra căreia s-a convenit.
+(5) Cheltuielile generate de transferul în străinătate al sumelor
+prevăzute la alin. (1), inclusiv comisioanele de schimb valutar și cele
+bancare, se suportă de către membru/beneficiar/supraviețuitor sau
+reprezentantul legal, după caz.
+Art. 57. – Emiterea de reglementări privind fondurile de plată
+A.S.F. poate emite reglementări privind:
+a) cerințele și documentele referitoare la înființarea și autorizarea
+fondurilor de plată;
+b) operațiunile de fuziune a fondurilor de plată, precum și
+condițiile privind preluarea unui fond de plată de către un alt furnizor;
+c) conținutul minim al contractului de societate, al contractului
+de plată, precum și condițiile și modalitățile de modificare a acestora;
+d) condițiile privind investițiile și limitele investiționale permise
+fondurilor de plată;
+e) evaluarea activelor fondurilor de plată;
+f) condițiile necesar a fi îndeplinite de către potențialul membru
+pentru dobândirea unei pensii private și cerințele privind procesele
+premergătoare încheierii contractelor de plată;
+g) informarea participanților la fondurile de pensii private cu
+privire la condițiile legale aplicabile în faza de plată a pensiilor private;
+h) calculul contravalorii activului personal, informarea participantului,
+precum și utilizarea activului personal/transferul activului personal către
+un fond de plată;
+i) condițiile aplicabile procesului de informare a potențialilor
+membri în vederea încheierii unui contract de plată;
+j) procesul de încheiere a contractului de plată;
+k) obligațiile administratorilor de pensii private privind gestionarea,
+păstrarea și arhivarea înregistrărilor și documentelor privind participanții,
+inclusiv ulterior transferului activului acestora ca urmare a deschiderii
+dreptului la pensia privată;
+l) modalitatea de calcul și condițiile privind plata pensiei private;
+m) contabilitatea fondurilor de plată;
+n) alte aspecte privind fondurile de plată.
+CAPITOLUL IV
+Fondul de plată a pensiilor de tip retragere programată
+SECȚIUNEA 1
+Pensiile de tip retragere programată
+Art. 58. – Contul individual al membrului
+(1) Fiecare membru al unui fond de plată a pensiilor de tip
+retragere programată are un cont individual.
+(2) În cazul în care activul destinat obținerii unei pensii private
+de către potențialul membru provine din mai multe surse, acesta poate
+opta între:
+a) cumularea activelor, pensia privată urmând a fi stabilită pe
+baza valorii totale a respectivelor active;
+b) alocarea activelor în conturi individuale separate, create de
+către furnizor, în funcție de sursa din care provin, pensia privată urmând
+a fi stabilită pentru fiecare sursă în parte.
+Art. 59. – Activul personal al unui membru
+(1) Membrul este proprietarul activului personal din contul său.
+(2) Activul personal nu poate fi cesionat sau gajat și nu poate face
+obiectul unei executări silite sau al unei tranzacții, sub sancțiunea nulității
+actelor respective.
+Art. 60. – Pensia de tip retragere programată
+(1) Pensia de tip retragere programată reprezintă valoarea plătită
+lunar membrului până la rambursarea integrală a activului personal
+deținut de acesta în fondul de plată.
+(2) În cazul în care decesul membrului survine înainte de
+rambursarea integrală a activului personal, valoarea neîncasată a acestuia
+se plătește moștenitorilor membrului, sub formă de plată unică.
+(3) Suma plăților realizate către membru și/sau către moștenitorii
+acestuia, după caz, este cel puțin egală cu valoarea activului pe baza căruia
+s-a încheiat contractul de plată, diminuată cu comisioanele legale.
+(4) Valoarea plății lunare aferente pensiei de tip retragere
+programată este prevăzută în contractul de plată și este egală cu valoarea
+indemnizației sociale pentru pensionari stabilită pentru sistemul public de
+pensii, cu excepția ultimei plăți lunare, care va fi o plată reziduală.
+(5) Valoarea pensiei lunare se actualizează anual de către
+furnizor, în conformitate cu valoarea indemnizației sociale pentru
+pensionari stabilită pentru sistemul public de pensii în anul respectiv.
+(6) Prin excepție de la alin. (4), în cazul în care valoarea activului
+personal utilizat pentru încheierea contractului de plată, în corelație cu
+valoarea pensiei lunare prevăzute la alin. (4), determină o perioadă de
+plată mai mare de 8 ani, pensia lunară poate depăși limita stabilită la alin. (4),
+cu condiția ca durata totală a plăților să fie de cel puțin 8 ani.
+(7) Furnizorul realizează lunar plata către membru, pentru toate
+conturile individuale ale acestuia, după caz, la data prevăzută în contractul
+de plată, în funcție de opțiunea exprimată potrivit art. 58 alin. (2).
+(8) Membrul unui fond de plată a pensiilor de tip retragere
+programată se poate transfera, la cererea sa, către un alt fond de plată a
+pensiilor de tip retragere programată, fără penalități.
+SECȚIUNEA a 2-a
+Provizionul tehnic pentru fondul de plată a pensiilor
+de tip retragere programată
+Art. 61. – Provizionul tehnic pentru fondul de plată a
+pensiilor de tip retragere programată
+(1) Furnizorul care administrează un fond de plată a pensiilor de
+tip retragere programată are obligația de a menține permanent un volum
+adecvat al provizionului tehnic corespunzător riscurilor aferente
+angajamentelor financiare asumate prin contractele de plată încheiate cu
+membrii.
+(2) Furnizorul care administrează un fond de plată a pensiilor de
+tip retragere programată deține un volum adecvat de active aferente
+provizionului tehnic, echivalent cu valoarea acestuia rezultată în urma
+ultimului calcul, pentru a acoperi obligațiile prevăzute la alin. (1).
+(3) Activele financiare necesare acoperirii provizionului tehnic
+provin din resursele financiare proprii ale furnizorului.
+(4) Activele care acoperă provizionul tehnic pentru fondul de
+plată a pensiilor de tip retragere programată sunt restricționate la
+depozitar, exclusiv în vederea asigurării respectării obligațiilor
+furnizorului prevăzute în contractele de plată încheiate cu membrii.
+(5) Activele care acoperă provizionul tehnic nu pot fi cesionate,
+grevate de sarcini, nu pot face obiectul executării silite sau al unor măsuri
+asigurătorii împotriva furnizorului și/sau a depozitarului, sub sancțiunea
+nulității absolute a acestora, și nu intră în masa credală a furnizorului
+și/sau a depozitarului, până la momentul îndeplinirii obligațiilor pentru
+care acestea au fost constituite.
+(6) A.S.F. poate stabili cerințe suplimentare privind constituirea,
+completarea și/sau utilizarea provizionului tehnic, în cazul în care
+consideră necesară această măsură pentru protejarea corespunzătoare a
+intereselor membrilor și moștenitorilor.
+Art. 62. – Utilizarea provizionului tehnic pentru fondul de
+plată a pensiilor de tip retragere programată
+În cazul în care, după epuizarea integrală a unităților de fond
+aferente activului personal al membrului, suma totală a plăților realizate
+către membru și/sau moștenitorii acestuia, după caz, este mai mică decât
+valoarea activului pe baza căruia s-a încheiat contractul de plată, diferența
+valorică necesară se suportă de către furnizor, din provizionul tehnic.
+Art. 63. – Emiterea de reglementări privind fondul de plată
+a pensiilor de tip retragere programată
+A.S.F. poate emite reglementări privind:
+a) caracteristicile, modul de calcul și plata pensiei de tip retragere
+programată;
+b) condiții suplimentare aplicabile pensiilor de tip retragere
+programată;
+c) transferul membrilor între fondurile de plată a pensiilor de tip
+retragere programată;
+d) provizionul tehnic pentru fondul de plată a pensiilor de tip
+retragere programată, constituirea, majorarea sau diminuarea valorii
+contului în care sunt evidențiate activele corespunzătoare provizionului
+tehnic, categoriile de instrumente financiare permise pentru acoperirea
+provizionului tehnic, utilizarea provizionului tehnic;
+e) produsele de plată a pensiilor de tip retragere programată;
+f) alte aspecte privind fondul de plată a pensiilor de tip retragere
+programată.
+CAPITOLUL V
+Fondul de plată a pensiilor viagere
+SECȚIUNEA 1
+Pensiile viagere
+Art. 64. – Pensiile oferite de fondul de plată a pensiilor
+viagere
+(1) Fondul de pensii viagere oferă cel puțin următoarele tipuri de
+pensii:
+a) pensia viageră pentru o singură persoană, reprezentând suma
+lunară fixă datorată și plătită până la decesul membrului;
+b) pensia viageră cu componentă de supraviețuitor, reprezentând
+suma lunară fixă datorată și plătită membrului până la decesul acestuia,
+iar după decesul acestuia, datorată și plătită supraviețuitorului desemnat
+pe durata vieții acestuia, în cuantumul stabilit ca procent din valoarea
+pensiei private a membrului;
+c) pensia viageră pentru o singură persoană, cu perioadă certă de
+plată, reprezentând suma lunară fixă, datorată și plătită membrului, până
+la decesul acestuia, sau, în cazul în care decesul membrului survine înainte
+de expirarea perioadei certe de plată, datorată și plătită beneficiarului
+desemnat, până la finalul perioadei certe de plată.
+(2) Valoarea minimă a activului personal necesar obținerii unei
+pensii viagere este stabilită de fiecare furnizor, cu respectarea
+reglementărilor emise de către A.S.F..
+(3) Plata pensiei private încetează începând cu luna următoare
+celei în care a intervenit decesul membrului, beneficiarului sau
+supraviețuitorului, după caz.
+(4) Moștenitorii membrului/beneficiarului/supraviețuitorului au
+dreptul de a primi doar sumele neîncasate de către acesta, reprezentând
+pensia aferentă lunii în care a avut loc decesul și/sau, după caz, drepturi
+restante de pensie, cuvenite și neîncasate până la data decesului.
+(5) Activul fondului de plată a pensiilor viagere nu poate fi
+cesionat sau gajat, sub sancțiunea nulității actelor respective, nu poate fi
+urmărit de creditorii membrului/beneficiarului/supraviețuitorului, nu
+poate face obiectul executării silite, iar, în situația decesului
+membrului/beneficiarului/supraviețuitorului, nu poate face parte din masa
+succesorală.
+Art. 65. – Reguli privind stabilirea valorii pensiei oferite de
+fondul de plată a pensiilor viagere
+(1) Furnizorul stabilește cuantumul pensiei oferite de fondul de
+plată a pensiilor viagere pe baza activului destinat dobândirii unei pensii
+private, cu respectarea următoarelor reguli:
+a) toate tipurile de pensie se determină pe baza calculului
+actuarial;
+b) nivelul pensiei se calculează printr-o evaluare actuarială
+prudentă, luându-se în considerare toate obligațiile de plată rezultate din
+contractul de plată.
+(2) Pensia stabilită conform prevederilor alin. (1) constituie
+obiectul contractului de plată și nu poate fi diminuată.
+(3) Cuantumul pensiei poate fi majorat, în condițiile prevăzute
+de reglementările A.S.F., emise în aplicarea prezentei legi, cu notificarea
+membrilor.
+Art. 66. – Determinarea valorii pensiei private oferite de
+fondul de plată a pensiilor viagere
+(1) Determinarea de către furnizor a valorii pensiei se realizează
+prin împărțirea valorii activului destinat dobândirii unei pensii private la
+rata anuității aferentă tipului de pensie ales, valabilă la data încheierii
+contractului de plată.
+(2) Pensia lunară este stabilită la valoarea care realizează
+echivalența actuarială între valoarea activului potențialului membru,
+destinat dobândirii unei pensii private, și valoarea actuarială prezentă a
+tuturor plăților lunare viitoare rezultate din contractul de plată.
+Art. 67. – Actualizarea registrului membrilor, beneficiarilor
+și supraviețuitorilor
+(1) În vederea aplicării prevederilor art. 33 alin. (2) lit. g), datele
+cu caracter personal actualizate pentru toți membrii, beneficiarii și
+supraviețuitorii membrilor unui fond de plată a pensiilor viagere, inclusiv
+informațiile cu privire la decesul acestora, sunt transmise furnizorului de
+către Ministerul Afacerilor Interne, prin Direcția Generală pentru
+Evidența Persoanelor, după caz, cu plata taxelor prevăzute de lege și cu
+îndeplinirea cerințelor de oportunitate, securitate și legalitate a prelucrării.
+(2) Conținutul, modalitățile, frecvența și termenele de transmitere a
+informațiilor prevăzute la alin. (1) se stabilesc prin contracte încheiate
+între furnizori și Direcția Generală pentru Evidența Persoanelor, cu
+respectarea prevederilor art. 64 alin. (3), precum și a Regulamentului (UE)
+2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016
+privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor
+cu caracter personal și privind libera circulație a acestor date și de
+abrogare a Directivei 95/46/CE (Regulamentul general privind protecția
+datelor).
+(3) Furnizorul poate solicita membrilor, beneficiarilor și supraviețuitorilor
+cu domiciliul sau reședința în alt stat ca, pentru a beneficia în continuare
+de plata pensiei viagere, să transmită semestrial unul dintre următoarele
+documente:
+a) o copie a certificatului de viață prevăzut de legislația privind
+sistemul public de pensii;
+b) un document similar certificatului de viață prevăzut la lit. a),
+încheiat în fața unei autorități legale de pe teritoriul statului de domiciliu
+sau de reședință, după caz, respectiva autoritate certificând acest fapt.
+(4) Furnizorul poate alege un alt mijloc de probă cu scop similar
+documentelor prevăzute la alin. (3).
+(5) În situația în care un membru, un beneficiar sau un
+supraviețuitor cu domiciliul sau reședința în alt stat nu respectă, în
+termenul indicat, condițiile impuse de furnizor conform alin. (3) sau (4),
+furnizorul poate suspenda plata pensiei viagere începând cu luna
+următoare celei în care nu a fost respectat termenul de transmitere.
+(6) În situația suspendării plății pensiei viagere conform alin. (5),
+plata pensiei viagere datorate de la data suspendării se reia după
+îndeplinirea de către membru, beneficiar sau supraviețuitor a condițiilor
+impuse de furnizor conform alin. (3) sau (4).
+SECȚIUNEA a 2-a
+Provizionul tehnic pentru fondul de plată a pensiei viagere
+Art. 68. – Rezerva tehnică a fondului de plată a pensiilor
+viagere
+(1) Furnizorul trebuie să constituie și să mențină pe toată durata
+fondului o rezervă tehnică calculată conform metodelor actuariale
+prevăzute de reglementările A.S.F..
+(2) Fondul de plată trebuie să dețină întotdeauna active cel puțin
+egale cu valoarea rezervei tehnice rezultate din ultimul calcul actuarial
+realizat de către furnizor.
+(3) A.S.F. poate stabili cerințe suplimentare pentru calcularea
+rezervei tehnice, în cazul în care consideră această măsură necesară pentru
+protejarea corespunzătoare a intereselor membrilor, beneficiarilor și
+supraviețuitorilor.
+Art. 69. – Provizionul tehnic pentru fondul de plată a
+pensiilor viagere
+(1) Furnizorul care administrează un fond de plată a pensiilor
+viagere are obligația de a constitui un provizion tehnic, corespunzător
+riscurilor aferente angajamentelor financiare asumate prin contractele de
+plată încheiate cu membrii.
+(2) Furnizorul care administrează un fond de plată a pensiilor
+viagere deține, pentru fiecare fond, un volum adecvat de active aferente
+provizionului tehnic, echivalent cu valoarea acestuia rezultată în urma
+ultimului calcul, pentru a acoperi obligațiile prevăzute la alin. (1).
+(3) Activele financiare necesare acoperirii provizionului tehnic
+provin din resursele financiare proprii ale furnizorului.
+(4) Activele care acoperă provizionul tehnic pentru fondul de
+plată a pensiilor viagere sunt restricționate la depozitar, exclusiv în
+vederea asigurării respectării obligațiilor furnizorului prevăzute în
+contractele de plată încheiate cu membrii.
+(5) Activele care acoperă provizionul tehnic nu pot fi cesionate,
+grevate de sarcini, nu pot face obiectul executării silite sau al unor măsuri
+asigurătorii împotriva furnizorului și/sau a depozitarului, sub sancțiunea
+nulității absolute a acestora, și nu intră în masa credală a furnizorului
+și/sau a depozitarului, până la momentul îndeplinirii obligațiilor pentru
+care acestea au fost constituite.
+(6) A.S.F. poate emite reglementări cu privire la provizionul
+tehnic și poate stabili cerințe suplimentare privind constituirea,
+completarea și/sau utilizarea acestuia, în cazul în care consideră această
+măsură necesară pentru protejarea corespunzătoare a intereselor
+membrilor, beneficiarilor și supraviețuitorilor.
+Art. 70. – Emiterea de reglementări privind fondul de plată
+a pensiilor viagere
+A.S.F. poate emite reglementări privind:
+a) caracteristicile și modul de calcul al fiecărui tip de pensie
+oferit de fondul de plată a pensiilor viagere, valoarea minimă a pensiei și
+a activului pe baza căruia aceasta se stabilește;
+b) plata pensiilor oferite de fondul de plată a pensiilor viagere și
+condițiile aplicabile beneficiarilor și supraviețuitorilor;
+c) condiții suplimentare aplicabile pensiilor oferite de fondul de
+plată a pensiilor viagere;
+d) alte tipuri de pensii oferite de fondul de plată a pensiilor
+viagere, suplimentare celor prevăzute la art. 64;
+e) calculul și raportarea ratei anuității, a ratei de finanțare, a
+rezervei tehnice, precum și a altor indicatori a căror reglementare A.S.F.
+o consideră necesară;
+f) provizionul tehnic pentru fondul de plată a pensiilor viagere;
+g) alte aspecte privind fondul de plată a pensiilor viagere.
+CAPITOLUL VI
+Supravegherea specială
+Art. 71. – Supravegherea specială
+(1) Supravegherea specială a furnizorului are drept scop
+aplicarea unor măsuri suplimentare pentru limitarea riscurilor, în vederea
+protejării intereselor membrilor, moștenitorilor, beneficiarilor sau
+supraviețuitorilor, după caz, în situația în care A.S.F. constată deficiențe
+care nu sunt de natură a institui administrarea specială.
+(2) Instituirea supravegherii speciale și desemnarea Consiliului
+de supraveghere specială se fac de către A.S.F. prin decizie motivată.
+(3) A.S.F. notifică furnizorului instituirea supravegherii speciale,
+împreună cu documentele privind motivele și procedura de contestare, în
+termen de 5 zile lucrătoare de la data adoptării deciziei.
+(4) Membrii Consiliului de supraveghere specială au acces la
+toate documentele și evidențele fondului de plată și ale furnizorului, fiind
+obligați să păstreze confidențialitatea informațiilor.
+(5) Consiliul de supraveghere specială nu se substituie organelor
+de conducere ale furnizorului.
+(6) Consiliul de supraveghere specială supervizează activitatea
+furnizorului referitoare la fondul de plată.
+Art. 72. – Consiliul de supraveghere specială
+(1) Consiliul de supraveghere specială are cel puțin următoarele
+atribuții:
+a) analizează situația financiară a fondului de plată și a
+furnizorului și prezintă A.S.F. rapoarte periodice despre aceasta;
+b) urmărește modul în care furnizorul aplică măsurile de
+remediere dispuse de A.S.F. asupra deficiențelor constatate în actele de
+control întocmite de către A.S.F.;
+c) urmărește realizarea planului de remediere a deficiențelor sau
+de redresare financiară a fondului de plată, propus de furnizor și aprobat
+de A.S.F.;
+d) propune A.S.F. aplicarea de sancțiuni în situația în care
+furnizorul nu respectă măsurile și planul de remediere/redresare
+financiară dispuse de către Consiliul de supraveghere specială.
+(2) În perioada exercitării supravegherii speciale, Consiliul de
+supraveghere specială avizează deciziile structurii de conducere a
+furnizorului.
+Art. 73. – Emiterea de reglementări privind supravegherea
+specială
+A.S.F. poate emite reglementări privind:
+a) instituirea supravegherii speciale;
+b) desemnarea Consiliului de supraveghere specială;
+c) atribuțiile Consiliului de supraveghere specială;
+d) alte aspecte referitoare la supravegherea specială.
+CAPITOLUL VII
+Administrarea specială
+Art. 74. – Administrarea specială
+(1) Administrarea specială are drept scop administrarea fondului
+de plată și limitarea pierderilor, în vederea protejării drepturilor cuvenite
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz.
+(2) Administrarea specială se instituie în cazul retragerii
+autorizării furnizorului, realizată la cererea acestuia, sau ca sancțiune
+aplicată de către A.S.F..
+Art. 75. – Utilizarea provizionului în vederea instituirii
+administrării speciale
+(1) În vederea retragerii autorizării unui furnizor și a instituirii
+administrării speciale asupra unui fond de plată a pensiilor private, la
+cererea A.S.F., furnizorul are obligația efectuării unui nou calcul al valorii
+provizionului tehnic și a completării, după caz, a activelor fondului de
+plată cu activele care acoperă provizionul tehnic, până la îndeplinirea
+condițiilor de funcționare a fondului de plată prevăzute de prezenta lege
+și de reglementările A.S.F..
+(2) A.S.F. poate dispune, dacă este necesar, suplimentarea de
+către furnizor a activelor care acoperă provizionul tehnic, până la
+atingerea unui nivel corespunzător prevederilor din prezenta lege.
+(3) În cazul în care, după lichidarea provizionului tehnic al
+furnizorului, activul fondului de plată este în continuare insuficient pentru
+îndeplinirea obligațiilor furnizorului conform contractelor de plată, A.S.F.
+transmite Fondului de garantare valoarea sumei necesar a fi suportată de
+către acesta.
+(4) După efectuarea operațiunilor prevăzute la alin. (1) – (3) și
+după desemnarea unui administrator special conform art. 76 alin. (1),
+A.S.F. retrage autorizarea furnizorului.
+Art. 76. – Administratorul special
+(1) În termen de 5 zile lucrătoare de la data prezentării de către
+furnizor a situației financiare a fondului de plată prevăzute la art. 12 alin. (3),
+A.S.F. desemnează prin decizie motivată ca administrator special un alt
+furnizor sau Fondul de garantare, care înlocuiește structura de conducere
+a vechiului furnizor și care preia temporar activitatea de plată a pensiilor
+private și administrarea fondului de plată a pensiilor private.
+(2) Administratorul special desfășoară activitatea de administrare a
+fondului de plată a pensiilor private pe o perioadă de până la 24 luni, în
+vederea preluării administrării fondului de plată de către un nou furnizor,
+cu aprobarea A.S.F..
+Art. 77. – Preluarea administrării fondului de plată aflat în
+situația administrării speciale
+(1) Noul furnizor se subrogă în toate drepturile și obligațiile
+vechiului furnizor.
+(2) Fondul de plată se transferă cu toate activele către noul
+furnizor, cu respectarea prevederilor art. 75.
+(3) Administratorul special poate deveni furnizorul fondului de
+plată, cu respectarea condițiilor legale aplicabile.
+Art. 78. – Contestarea administrării speciale
+(1) Decizia de instituire a administrării speciale poate fi
+contestată la Curtea de Apel București, Secția contencios administrativ și
+fiscal, în termen de 30 de zile de la data comunicării.
+(2) Deciziile privind instituirea sau încetarea administrării
+speciale, precum și cea privind numirea administratorului special, se
+publică de către A.S.F. în Monitorul Oficial al României, Partea a IV-a.
+(3) Contestația adresată instanței de contencios administrativ
+competente nu suspendă, pe timpul soluționării acesteia, decizia
+prevăzută la alin. (1).
+Art. 79. – Emiterea de reglementări privind administrarea
+specială
+A.S.F. poate emite reglementări privind:
+a) condițiile care trebuie îndeplinite de către un furnizor pentru a
+putea avea calitatea de administrator special, precum și procedura de
+selectare sau desemnare a acestuia;
+b) atribuțiile administratorului special;
+c) operațiunile privind provizionul tehnic, în condițiile instituirii
+administrării speciale;
+d) preluarea administrării fondului de plată aflat în situația
+administrării speciale;
+e) procedura de administrare a fondului de plată până la data
+rămânerii definitive a hotărârii instanței de contencios administrativ
+competente;
+f) alte aspecte referitoare la administrarea specială.
+CAPITOLUL VIII
+Obligații de raportare și transparență
+Art. 80. – Informații oferite de către furnizor
+(1) Furnizorul comunică potențialilor membri, cel puțin
+informații privind:
+a) fondul de plată și furnizorul;
+b) prevederile contractului de plată;
+c) produsele de plată a pensiilor private pe care le oferă și
+caracteristicile acestora, precum și oferte bazate pe valoarea estimată a
+activului de care dispune potențialul membru în vederea obținerii unei
+pensii private;
+d) mecanismele de garantare a plății pensiilor private.
+(2) Furnizorul comunică membrilor, beneficiarilor sau supraviețuitorilor,
+după caz, cel puțin informații privind:
+a) fondul de plată și furnizorul;
+b) tipul de pensie privată pentru care membrul a optat,
+beneficiarii/supraviețuitorii nominalizați, după caz, precum și valoarea
+pensiei lunare;
+c) valoarea activului din contul său/conturile sale individuale,
+după caz, în cazul membrilor fondului de plată a pensiilor de tip retragere
+programată;
+d) mecanismele de garantare a plății pensiilor private;
+e) modalitatea de a obține informații suplimentare.
+(3) Informațiile prevăzute la alin. (2) sunt transmise de către
+furnizor anual, până la data de 31 mai, pentru anul calendaristic anterior,
+către fiecare membru, beneficiar sau supraviețuitor, gratuit, la ultima
+adresă de corespondență comunicată, pe suport de hârtie sau prin mijloace
+electronice. Orice modificare semnificativă față de anul anterior a
+informațiilor conținute în informare este clar indicată.
+(4) Furnizorul prezintă, pe pagina proprie de internet, pentru
+produsele de plată a pensiilor private pe care le oferă, instrumentele
+necesare efectuării de simulări privind valoarea pensiei, parametrii pe
+baza cărora se realizează respectivele simulări privind valoarea pensiei
+fiind actualizați permanent și aceiași cu cei folosiți în stabilirea valorii
+pensiei în cazul încheierii unui contract de plată.
+(5) Informațiile oferite de către furnizor trebuie:
+a) să fie actualizate în mod regulat;
+b) să fie scrise în mod clar, concis și comprehensibil, evitându-
+se utilizarea jargonului și a termenilor tehnici atunci când se pot folosi
+cuvinte din limbajul curent;
+c) să nu inducă în eroare și să se asigure coerența la nivelul
+vocabularului și al conținutului;
+d) să fie prezentate în așa fel încât să fie ușor de citit și înțeles;
+e) să fie disponibile și în limba română;
+f) să fie puse la dispoziția membrilor, moștenitorilor,
+beneficiarilor sau supraviețuitorilor, după caz, în mod gratuit, prin
+mijloace electronice sau pe suport de hârtie.
+(6) A.S.F. poate adopta dispoziții suplimentare cu privire la
+informațiile care trebuie puse la dispoziția potențialilor membri,
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz.
+Art. 81. – Alte obligații de raportare și transparență
+(1) Furnizorul transmite A.S.F., până la data de 31 mai a fiecărui
+an, următoarele:
+a) un raport anual cu informații corecte și complete despre
+activitatea desfășurată în anul calendaristic precedent;
+b) situațiile financiare anuale însoțite de raportul administratorilor și
+de raportul de audit pentru fondul de plată administrat;
+c) situațiile financiare anuale însoțite de raportul administratorilor,
+raportul de audit, precum și de propunerea de distribuire a profitului sau
+de acoperire a pierderii contabile, pentru activitatea proprie;
+d) alte informații stabilite prin reglementările A.S.F..
+(2) Furnizorul publică pe pagina proprie de internet:
+a) raportul anual al furnizorului;
+b) situațiile financiare anuale proprii, însoțite de raportul de
+audit;
+c) situațiile financiare anuale ale fondului de plată, însoțite de
+raportul de audit;
+d) alte situații stabilite prin reglementările A.S.F..
+(3) În mod suplimentar față de obligațiile de raportare prevăzute
+la alin. (1), furnizorul transmite către A.S.F. raportări periodice, conform
+reglementărilor emise de aceasta.
+Art. 82. – Emiterea de reglementări cu privire la obligațiile
+de raportare și transparență
+A.S.F. poate emite reglementări cu privire la:
+a) informațiile oferite de către furnizor;
+b) raportul anual al furnizorului;
+c) situațiile financiare anuale și raportările contabile semestriale;
+d) obligațiile de raportare ale furnizorului către A.S.F.;
+e) alte obligații de raportare și transparență.
+CAPITOLUL IX
+Depozitarul
+Art. 83. – Desemnarea unui depozitar
+(1) Pentru fiecare fond de plată administrat, furnizorul încheie un
+contract de depozitare și un contract de custodie cu un depozitar.
+(2) Depozitarul poate încheia contracte de depozitare și de
+custodie cu mai mulți furnizori, cu condiția de a păstra activele,
+operațiunile și înregistrările fiecărui fond de plată, separat de cele ale altor
+fonduri, precum și de propriile active.
+Art. 84. – Avizarea depozitarului
+(1) Pentru desfășurarea activității de depozitare și de custodie,
+depozitarul trebuie să dețină un aviz valabil eliberat de A.S.F..
+(2) Pentru obținerea avizului ca depozitar, o instituție de credit
+transmite A.S.F. o cerere de avizare însoțită de documente din care să
+rezulte îndeplinirea următoarelor condiții:
+a) obiectul de activitate autorizat de către Banca Națională a
+României cuprinde și activitatea de depozitare și de custodie a activelor
+fondurilor de pensii private;
+b) nu se află în procedură de redresare sau de rezoluție;
+c) nu este persoană afiliată furnizorului;
+d) notifică persoana care conduce structura care este responsabilă
+de activitatea de depozitare și/sau custodie a fondurilor de plată a pensiilor
+private;
+e) a achitat taxa de avizare;
+f) îndeplinește alte cerințe prevăzute în prezenta lege și în
+reglementările A.S.F..
+(3) A.S.F. poate solicita instituțiilor de credit prevăzute la alin. (2),
+în termen de 30 de zile de la data înregistrării cererii pentru avizare,
+documente și informații suplimentare, pe care acestea trebuie să le
+furnizeze în maximum 30 de zile de la data primirii solicitării.
+(4) A.S.F. analizează cererea de avizare și, în termen de 30 de
+zile de la data înregistrării acesteia și a documentației complete potrivit
+dispozițiilor alin. (2) și (3), după caz, procedează la aprobarea sau la
+respingerea cererii, prin decizie scrisă și motivată.
+(5) Orice solicitare a A.S.F. de informații suplimentare sau de
+modificare a documentelor prezentate întrerupe termenul prevăzut la alin. (4),
+un nou termen începând să curgă de la data transmiterii respectivelor
+informații sau modificări, transmitere care nu poate fi făcută mai târziu de
+30 de zile de la data solicitării A.S.F., sub sancțiunea respingerii cererii de
+avizare.
+(6) Avizul sau decizia de respingere, după caz, se comunică
+instituției de credit în termen de 10 zile lucrătoare de la emitere.
+(7) Modificarea conținutului documentelor care au stat la baza
+avizării se notifică, în prealabil, A.S.F..
+(8) Depozitarii care au fost autorizați, avizați sau supuși unei
+proceduri similare, în vederea funcționării ca depozitar al activelor
+fondurilor de plată a pensiilor private într-un stat membru al Uniunii
+Europene, aparținând Spațiului Economic European sau într-un stat
+aderent la Codurile de liberalizare ale O.C.D.E., definiți conform art. 3
+alin. (1) pct. 16 lit. c), sunt exceptați de la cerința avizării de către A.S.F..
+Art. 85. – Interdicții privind depozitarul
+(1) Angajații sau membrii structurii de conducere ai
+depozitarului nu pot fi membri ai structurii de conducere sau angajați ai
+furnizorului fondului de plată ale cărui active le păstrează.
+(2) Depozitarul nu acordă credite, sub orice formă, furnizorului
+cu care are încheiate contracte de depozitare și de custodie a activelor
+fondului de plată.
+Art. 86. – Atribuțiile depozitarului
+(1) Depozitarul are următoarele atribuții:
+a) să primească în custodie și să păstreze în siguranță activele și
+înregistrările referitoare la toate activele fondului de plată și activele
+corespunzătoare provizionului tehnic, asigurând separarea activelor
+fondului de plată de activele sale proprii și de cele ale altor fonduri de
+pensii private sau fonduri de plată și/sau ale altor entități pentru care
+realizează activitatea de depozitare;
+b) să țină evidențe care să permită furnizorului și A.S.F. să
+identifice toate activele fondului de plată în orice moment și fără
+întârziere;
+c) să calculeze și să transmită A.S.F. valoarea activelor și a
+activului net aferente fondului de plată, conform reglementărilor A.S.F.;
+d) să calculeze și să raporteze valoarea activelor corespunzătoare
+provizionului tehnic, conform reglementărilor A.S.F.;
+e) să transmită A.S.F. raportările privind activele fondului de
+plată și activele corespunzătoare provizionului tehnic, în condițiile și la
+termenele stabilite prin reglementările acesteia;
+f) să furnizeze A.S.F. informații privind toate aspectele activității
+de depozitare și de custodie desfășurate, inclusiv orice detalii, clarificări
+și explicații, precum și să pună la dispoziția acesteia toate documentele
+aferente acesteia;
+g) să transmită furnizorului informații privind activele fondurilor
+de plată;
+h) să îndeplinească instrucțiunile furnizorului, cu excepția
+cazului în care acestea sunt contrare legislației în vigoare, reglementărilor
+A.S.F. sau procedurilor depozitarului;
+i) să se asigure că în tranzacțiile care implică activele unui fond
+de plată, orice contravaloare este achitată în termenele uzuale;
+j) să se asigure că veniturile obținute din investirea activelor
+fondului de plată sunt utilizate în conformitate cu prevederile legale
+aplicabile;
+k) să ia măsurile necesare pentru a evita conflictele de interese în
+ceea ce privește păstrarea în condiții de siguranță a activelor;
+l) să îndeplinească orice alte cerințe prevăzute de reglementările
+A.S.F..
+(2) În îndeplinirea obligațiilor prevăzute în contractul de
+depozitare/custodie, furnizorul și depozitarul acționează în mod onest,
+echitabil, profesionist, independent și în interesul membrilor,
+moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz.
+(3) Activitățile desfășurate de depozitar în legătură cu furnizorul
+trebuie separate din punct de vedere operațional și ierarhic de alte
+activități care ar putea crea conflicte de interese.
+(4) În situația apariției unor conflicte de interese, acestea sunt
+gestionate, monitorizate și comunicate furnizorului.
+Art. 87. – Păstrarea în condiții de siguranță a activelor și
+răspunderea depozitarului
+(1) Activele unui fond de plată, reprezentând instrumente
+financiare care pot fi păstrate în custodie, sunt încredințate unui depozitar
+pentru păstrare în condiții de siguranță.
+(2) Depozitarul păstrează în custodie toate instrumentele
+financiare care pot fi înregistrate într-un cont de instrumente financiare
+deschis în registrele depozitarului și toate activele financiare care pot fi
+livrate fizic depozitarului.
+(3) În scopul prevăzut la alin. (1), depozitarul se asigură că
+activele fondului de plată sunt înregistrate în evidențele depozitarului în
+conturi separate, în conformitate cu prevederile Legii nr. 126/2018, cu
+modificările și completările ulterioare, deschise în numele fondului de
+plată de către furnizor, astfel încât acestea să poată fi identificate în mod
+clar, în orice moment, ca aparținând fondului de plată.
+(4) Pentru activele fondului de plată, altele decât cele prevăzute
+la alin. (1), depozitarul verifică dacă acestea aparțin fondului de plată și
+ține evidența acestora. Verificarea se efectuează pe baza informațiilor sau
+documentelor puse la dispoziție de către furnizor și pe baza unor dovezi
+externe, atunci când acestea sunt disponibile. Depozitarul își actualizează
+permanent evidențele.
+(5) Depozitarul răspunde față de furnizor și față de membri,
+moștenitori, beneficiari sau supraviețuitori, după caz, pentru orice
+pierdere suferită de aceștia ca rezultat al neîndeplinirii obligațiilor sale în
+mod nejustificat sau al îndeplinirii necorespunzătoare a acestora.
+(6) Răspunderea depozitarului prevăzută la alin. (5) intervine,
+chiar dacă depozitarul încredințează unei terțe părți active pe care le
+păstrează în condiții de siguranță sau o parte din acestea.
+(7) Activul fondului de plată nu poate face obiectul unor măsuri
+de executare silită sau al unor măsuri asigurătorii împotriva furnizorului
+și/sau depozitarului, sub sancțiunea nulității absolute a actelor prin care
+se instituie și nici al unei tranzacții.
+(8) Prevederile art. 286 din Legea nr. 312/2015 privind
+redresarea și rezoluția instituțiilor de credit și a firmelor de investiții,
+precum și pentru modificarea și completarea unor acte normative în
+domeniul financiar, cu modificările și completările ulterioare, se aplică în
+mod corespunzător și în cazul următoarelor datorii, fie că sunt
+reglementate de legea română sau a altui stat membru, fie de legea unui
+stat terț:
+a) orice datorie care rezultă în virtutea deținerii unor active sau
+lichidități aparținând fondurilor de plată a pensiilor private;
+b) orice datorie care rezultă în virtutea deținerii unor active sau
+lichidități aparținând furnizorilor de pensii private destinate acoperirii
+provizionului tehnic.
+Art. 88. – Retragerea avizului depozitarului
+(1) A.S.F. poate retrage avizul depozitarului în una dintre
+următoarele situații:
+a) avizul a fost obținut pe baza unor declarații false sau prin orice
+alt mijloc ilegal, cu încălcarea prevederilor legale în vigoare;
+b) la cererea depozitarului respectiv;
+c) în cazul fuziunii sau divizării depozitarului;
+d) în situația depozitării activelor financiare ale unui fond de
+plată neautorizat;
+e) în cazul nerespectării sau respectării necorespunzătoare a
+obligațiilor care rezultă din prezenta lege, din reglementările A.S.F. sau
+din contractele de depozitare și custodie;
+f) atunci când survin evenimente care prejudiciază interesele
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, după caz.
+(2) A.S.F. retrage avizul depozitarului în una dintre următoarele
+situații:
+a) în cazul lichidării depozitarului;
+b) depozitarul se află în procedură de redresare sau de rezoluție;
+c) în cazul în care nu mai sunt îndeplinite condițiile prevăzute la
+art. 84 alin. (2).
+(3) A.S.F. informează depozitarul, furnizorul și Banca Națională
+a României despre retragerea motivată a avizului, în termen de 5 zile
+lucrătoare de la data adoptării deciziei.
+(4) În situația retragerii avizului depozitarului, acesta este obligat
+să prezinte A.S.F., în termenul solicitat, raportul privind activele fondului
+de plată care i-au fost încredințate, auditat de un auditor financiar, pe
+cheltuiala depozitarului.
+Art. 89. – Contractul de depozitare și contractul de custodie
+(1) Contractul de depozitare și contractul de custodie cuprind
+clauze privind:
+a) drepturile și obligațiile depozitarului și ale furnizorului;
+b) comisionul depozitarului și modul de calcul al acestuia;
+c) răspunderea contractuală a părților și alte elemente prevăzute
+în reglementările A.S.F.;
+d) încetarea contractului.
+(2) Încetarea contractului de depozitare și a contractului de
+custodie este notificată A.S.F. de către furnizor, conform reglementărilor
+A.S.F..
+(3) Schimbarea depozitarului se face astfel încât să fie asigurată
+continuitatea activității de depozitare și custodie.
+(4) Fostul depozitar transmite noului depozitar, în termen de 30
+de zile de la data desemnării acestuia, cu notificarea furnizorului, activele
+fondului de plată și copii ale tuturor documentelor privind activitatea sa
+în legătură cu acesta.
+Art. 90. – Emiterea de reglementări privind depozitarul
+A.S.F. poate emite reglementări cu privire la:
+a) obligațiile depozitarului în domeniul reglementat de prezenta
+lege;
+b) conținutul minim al contractului de depozitare;
+c) conținutul minim al contractului de custodie;
+d) activitatea de depozitare și custodie a activelor fondului de
+plată și a activelor corespunzătoare provizionului tehnic;
+e) procedura de schimbare a depozitarului;
+f) condițiile de avizare și de retragere a avizului pentru depozitar,
+cu consultarea Băncii Naționale a României;
+g) alte aspecte referitoare la activitatea depozitarului.
+CAPITOLUL X
+Auditul financiar
+Art. 91. – Avizarea auditorului financiar
+(1) Situațiile financiare ale fondurilor de plată și ale furnizorului
+se auditează de către un auditor financiar, avizat de către A.S.F..
+(2) Pentru avizarea de către A.S.F., auditorul financiar trebuie să
+îndeplinească următoarele condiții:
+a) să fie persoană juridică, membru activ al autorității
+competente din domeniul auditului financiar;
+b) să fi desfășurat activitate în domeniul auditului financiar
+minimum 4 ani, anterior solicitării avizării, cu excepția persoanei juridice
+rezultate dintr-o fuziune/divizare, caz în care termenul include și perioada
+de funcționare a persoanei/persoanelor juridice din care aceasta provine;
+c) să nu fi fost sancționat de către autoritățile române sau străine
+din domeniul auditului sau din domeniul financiar-bancar cu interdicția
+de a desfășura activități de audit financiar;
+d) să aibă încheiat un contract de asigurare de răspundere civilă
+profesională, în conformitate cu normele privind asigurarea pentru risc
+profesional, contract valabil pe întreaga durată a efectuării misiunilor de
+audit financiar;
+e) să nu fie persoană afiliată furnizorului sau depozitarului;
+f) să nu se afle într-o situație de incompatibilitate sau de conflict
+de interese prevăzută de legislația în vigoare.
+(3) A.S.F. analizează cererea pentru avizarea auditorului
+financiar și, în termen de 30 de zile de la data înregistrării acesteia și a
+documentației complete din care să rezulte îndeplinirea condițiilor
+prevăzute la alin. (2), procedează la aprobarea sau la respingerea cererii,
+prin decizie scrisă și motivată.
+(4) Orice solicitare a A.S.F. de informații suplimentare sau de
+modificare a documentelor prezentate întrerupe termenul prevăzut la alin. (3),
+un nou termen începând să curgă de la data transmiterii respectivelor
+informații sau modificări, transmitere care nu poate fi făcută mai târziu de
+30 de zile de la data solicitării A.S.F., sub sancțiunea respingerii cererii
+pentru avizarea auditorului financiar.
+(5) Decizia de avizare sau decizia de respingere, după caz, se
+comunică în termen de 10 zile lucrătoare de la data emiterii acesteia.
+(6) Auditorul care a fost autorizat, avizat sau supus unei
+proceduri similare, în vederea funcționării ca auditor în sistemul pensiilor
+private într-un stat membru al Uniunii Europene sau aparținând Spațiului
+Economic European, este exceptat de la cerința avizării de către A.S.F..
+(7) A.S.F. este în drept să retragă avizul acordat auditorului
+financiar în cazul încălcării de către acesta a prevederilor art. 93 – 95, în
+condițiile prevăzute de reglementările emise de A.S.F..
+Art. 92. – Contractul de audit
+(1) Contractul de audit încheiat de către furnizor pentru auditarea
+situațiilor financiare ale fondului de plată se notifică A.S.F. în termen de
+15 zile de la data încheierii.
+(2) Furnizorul notifică A.S.F. cu privire la orice modificare a
+contractului de audit prevăzut la alin. (1), în termen de 15 zile de la data
+modificării.
+Art. 93. – Raportul de audit financiar
+(1) Auditorul financiar întocmește un raport de audit financiar al
+situațiilor financiare anuale ale fondului de plată și un raport de audit
+financiar al situațiilor financiare anuale ale furnizorului, în conformitate
+cu standardele internaționale de audit și cu legislația aplicabilă.
+(2) Rapoartele prevăzute la alin. (1) nu pot fi întocmite de același
+auditor financiar mai mult de 5 ani consecutivi.
+Art. 94. – Scrisoarea auditorului financiar către conducere
+(1) Auditorul financiar are obligația de a transmite A.S.F., în
+termen de 30 de zile de la data finalizării raportului de audit, scrisoarea
+adresată conducerii furnizorului.
+(2) În situația în care nu a fost emisă scrisoarea către conducerea
+furnizorului, auditorul financiar transmite A.S.F., în termenul prevăzut la
+alin. (1), o comunicare scrisă, prin care prezintă motivele pentru care nu
+a fost emisă scrisoarea către conducere.
+(3) În urma recomandărilor formulate de către auditorul financiar
+în scrisoarea către conducere, furnizorul elaborează un plan de măsuri
+care cuprinde modalități și termene concrete de realizare.
+(4) Planul de măsuri prevăzut la alin. (3) se comunică A.S.F. în
+termen de 30 de zile de la data primirii scrisorii auditorului financiar.
+Art. 95. – Deficiențe semnificative
+(1) Auditorul financiar are obligația de a informa A.S.F. și
+conducerea entității auditate, în situația constatării unor deficiențe
+semnificative care pot avea una din următoarele consecințe:
+a) încălcarea legii și/sau a reglementărilor A.S.F., prin care sunt
+stabilite condițiile de autorizare și de desfășurare a activității entității
+auditate;
+b) afectarea situației patrimoniale a entității auditate;
+c) potențiale riscuri de discontinuitate în desfășurarea activității
+entității auditate.
+(2) Obligația prevăzută la alin. (1) este îndeplinită în termen de
+5 zile lucrătoare de la data constatării.
+(3) În cazul în care constată deficiențe semnificative în activitatea
+auditorului financiar, în legătură cu auditul situațiilor financiare ale
+fondului de plată sau ale furnizorului, A.S.F. poate sesiza autoritatea
+competentă în domeniului auditului financiar, solicitând acesteia
+adoptarea măsurilor corespunzătoare, potrivit legii.
+(4) În termen de 30 de zile de la data pierderii calității de membru
+activ al auditorului financiar, autoritatea competentă în domeniul
+auditului financiar informează A.S.F. despre aceasta.
+Art. 96. – Emiterea de reglementări privind auditul financiar
+A.S.F. poate emite reglementări cu privire la:
+a) condițiile de avizare de către A.S.F. a auditorului financiar,
+precum și cele de retragere a avizului;
+b) elementele obligatorii asupra cărora auditorul financiar
+trebuie să formuleze opinie;
+c) procedura aplicabilă în cazul pierderii calității de membru
+activ al unui auditor financiar;
+d) cerințele de informare referitoare la auditul financiar;
+e) constatarea deficiențelor semnificative în activitatea auditorului
+financiar în legătură cu auditul situațiilor financiare ale fondului de plată
+sau ale furnizorului acestuia.
+CAPITOLUL XI
+Supravegherea activității
+Art. 97. – Obiectivul supravegherii prudențiale
+(1) Supravegherea prudențială are ca obiectiv principal protecția
+drepturilor membrilor fondurilor de plată.
+(2) În vederea exercitării activității de supraveghere prudențială
+asupra entităților prevăzute la art. 4 alin. (1), A.S.F. desfășoară activități
+de monitorizare bazate pe raportări prudențiale și controale, verifică
+îndeplinirea obligațiilor prevăzute în prezenta lege și în reglementările
+emise în aplicarea acesteia, referitoare la cel puțin următoarele activități:
+a) modul și condițiile de organizare și funcționare;
+b) evidența și gestionarea conturilor individuale ale membrilor
+fondurilor de plată;
+c) evidența și desfășurarea operațiunilor de plată;
+d) regulile de investire;
+e) sistemul de guvernanță;
+f) informațiile care trebuie furnizate participanților și moștenitorilor
+acestora, definiți conform prevederilor Codului civil;
+g) transparență și raportare.
+(3) În procesul de supraveghere, A.S.F. are în vedere următoarele
+activități:
+a) evaluarea cerințelor calitative referitoare la sistemul de
+guvernanță;
+b) evaluarea riscurilor cu care se confruntă furnizorul.
+(4) A.S.F. impune furnizorului obligația de a remedia deficiențele
+identificate în cursul procesului de supraveghere prudențială.
+Art. 98. – Emiterea de reglementări privind supravegherea
+prudențială
+A.S.F. poate emite reglementări cu privire la supravegherea
+prudențială, inclusiv la raportarea informațiilor care sunt comunicate
+A.S.F. de către entitățile supravegheate.
+CAPITOLUL XII
+Răspunderea juridică
+Art. 99. – Dispoziții generale
+(1) Încălcarea de către furnizor, depozitar, agenți de marketing
+sau de către auditorul financiar a prevederilor prezentei legi sau ale
+reglementărilor emise în aplicarea acesteia atrage răspunderea civilă,
+contravențională sau penală, după caz.
+(2) Furnizorul, depozitarul și auditorul financiar răspund, în
+condițiile alin. (1), față de membri, moștenitori, beneficiari sau
+supraviețuitori, după caz, pentru prejudiciile cauzate prin neexecutarea
+sau executarea necorespunzătoare a obligațiilor care le revin, cu excepția
+cazurilor de forță majoră.
+(3) Persoanele fizice din structura de conducere și/sau persoanele
+care dețin o funcție-cheie în cadrul furnizorului sau depozitarului răspund,
+după caz, în condițiile alin. (1), pentru nerespectarea prevederilor
+prezentei legi și ale reglementărilor A.S.F. emise în aplicarea acesteia.
+(4) A.S.F. poate aplica sancțiunile prevăzute în prezentul capitol
+și persoanelor fizice cărora, în contextul raporturilor de muncă pe care le
+au cu furnizorii sau în calitatea lor de reprezentanți ai instituțiilor de credit
+în relația cu A.S.F., reprezentanți legali sau exercitând în drept ori în fapt
+funcții de conducere sau exercitând cu titlu profesional activități
+reglementate de prezenta lege, le este imputabilă o contravenție prevăzută
+la art. 102 alin. (1).
+(5) Persoanele fizice prevăzute la alin. (3) și (4) sunt ținute,
+potrivit legii și la repararea prejudiciilor patrimoniale cauzate prin fapta
+constituind contravenție. Dacă fapta este imputabilă mai multor persoane,
+acestea sunt ținute solidar la repararea prejudiciului cauzat.
+(6) La individualizarea sancțiunii se va ține seama de circumstanțele
+personale și reale ale săvârșirii faptei și de conduita contravenientului.
+(7) În cazul în care la săvârșirea unei contravenții au participat
+mai multe persoane, sancțiunea se aplică fiecăreia separat.
+Art. 100. – Regimul sancționatoriu
+(1) A.S.F. aplică sancțiuni pentru încălcarea prevederilor
+prezentei legi și a reglementărilor emise în aplicarea acesteia.
+(2) Sancțiunile prevăzute la alin. (1) sunt eficace, proporționale
+și cu efect de descurajare.
+(3) La stabilirea tipului sancțiunii și a cuantumului amenzii
+dispuse în temeiul exercitării competențelor sale conform prevederilor
+Ordonanței de urgență a Guvernului nr. 93/2012, aprobată cu modificări
+și completări prin Legea nr. 113/2013, cu modificările și completările
+ulterioare, și ale prezentei legi, A.S.F. are în vedere principiul
+proporționalității, precum și toate circumstanțele relevante ale săvârșirii
+faptei, inclusiv următoarele aspecte, după caz:
+a) gravitatea și durata încălcării prevederilor legale sau ale
+reglementărilor emise în aplicarea acestora;
+b) gradul de răspundere care revine persoanei fizice sau juridice
+responsabile de încălcarea prevederilor legale sau ale reglementărilor
+emise în aplicarea acestora și forma de vinovăție cu care fapta a fost
+săvârșită;
+c) importanța profiturilor obținute sau a veniturilor rezultate din
+evitarea pierderilor de către persoana fizică sau juridică responsabilă de
+încălcarea prevederilor legale sau ale reglementărilor emise în aplicarea
+acestora, în măsura în care acestea pot fi determinate;
+d) prejudiciile suferite de membri, moștenitori, beneficiari sau
+supraviețuitori, după caz, ca urmare a încălcării prevederilor legale sau
+ale reglementărilor emise în aplicarea acestora, în măsura în care acestea
+pot fi determinate;
+e) încălcările anterioare ale prevederilor legale sau ale
+reglementărilor emise în aplicarea acestora săvârșite de persoana fizică
+sau juridică responsabilă;
+f) eventualele măsuri luate de către contravenient, ulterior
+săvârșirii faptei, pentru a limita pagubele, pentru acoperirea prejudiciului
+sau pentru remedierea deficiențelor produse prin săvârșirea faptei.
+Art. 101. – Infracțiuni
+(1) Constituie infracțiune și se pedepsește cu închisoare de la
+6 luni la 3 ani sau cu amendă, conform dispozițiilor art. 102 alin. (5),
+împiedicarea prin orice mijloace de către reprezentantul legal, de către
+angajat, prepus ori de către altă persoană din cadrul entității supuse
+controlului, conform prezentei legi, în mod nejustificat, a personalului cu
+atribuții de control din cadrul A.S.F. de a intra în spațiile supuse
+controlului, în condițiile prevăzute de prezenta lege.
+(2) Constituie infracțiunea de exercitare fără drept a unei profesii
+sau activități și se sancționează conform prevederilor art. 348 din Legea
+nr. 286/2009 privind Codul penal, cu modificările și completările
+ulterioare, furnizarea de către o persoană de activități fără a deține
+autorizația sau aprobarea necesară conform prevederilor prezentei legi.
+(3) Constituie infracțiuni și se pedepsesc cu închisoare de la 2 la
+7 ani sau cu amendă, conform dispozițiilor art. 102 alin. (5), următoarele
+fapte:
+a) utilizarea resurselor fondului de plată prevăzute la art. 46 alin. (1)
+în alte scopuri decât cele prevăzute de prezenta lege;
+b) utilizarea disponibilităților bănești ale unui membru la un fond
+de plată în alte scopuri decât cele prevăzute de prezenta lege.
+(4) Dacă faptele prevăzute la alin. (1) și (3) au produs consecințe
+deosebit de grave, limitele speciale ale pedepsei se majorează cu jumătate.
+Art. 102. – Contravenții
+(1) Constituie contravenții următoarele fapte dacă nu sunt
+săvârșite astfel încât să fie considerate infracțiuni:
+a) nerespectarea de către furnizor, de către persoanele care fac
+parte din structura de conducere a acestuia, de către persoanele care dețin
+funcții-cheie, sau de către agenții de marketing:
+(i) a obligațiilor prevăzute în cuprinsul prezentei legi și în
+reglementările A.S.F. emise în aplicarea acesteia;
+(ii) a măsurilor prevăzute prin actele de autorizare,
+supraveghere și control ale A.S.F.;
+(iii) a prevederilor existente în procedurile proprii ale
+furnizorului sau în contractul de societate;
+b) nerespectarea de către depozitar, de către persoanele
+desemnate să asigure conducerea departamentelor/compartimentelor de
+depozitare și/sau custodie, a obligațiilor acestora în legătură cu activitatea
+desfășurată în cadrul sistemului de plată a pensiilor private;
+c) nerespectarea de către furnizor a prevederilor art. 13 alin. (3),
+art. 16, art. 17, art. 21 – 35, art. 37, art. 39 – 41, art. 46 – 48, art. 49 alin. (1),
+art. 50 alin. (6), art. 52, art. 60 alin. (5) și (7) , art. 61, 62, 65, 68, 69, 80
+și 81;
+d) nerespectarea de către depozitar a prevederilor art. 86, 87 și
+art. 89 alin. (4);
+e) nerespectarea de către furnizor și de către persoanele care fac
+parte din structura de conducere a acestuia, de către persoanele care dețin
+funcții-cheie a dispozițiilor prevăzute la art. 3 – 13 din Regulamentul (UE)
+2019/2.088 al Parlamentului European și al Consiliului din 27 noiembrie
+2019 privind informațiile privind durabilitatea în sectorul serviciilor
+financiare, precum și ale reglementărilor adoptate în aplicarea acestuia;
+f) nerespectarea de către persoanele care fac parte din structura de
+conducere a furnizorului sau de către persoanele care dețin funcții-cheie a
+dispozițiilor prevăzute la art. 5 – 7 din Regulamentul (UE) 2020/852 al
+Parlamentului European și al Consiliului din 18 iunie 2020 privind
+instituirea unui cadru care să faciliteze investițiile durabile și de
+modificare a Regulamentului (UE) 2019/2.088.
+(2) Săvârșirea de către persoana fizică sau juridică a uneia dintre
+faptele prevăzute la alin. (1) se sancționează cu:
+a) avertisment;
+b) amendă contravențională, conform prevederilor alin. (5).
+(3) În funcție de natura și gravitatea faptei, pe lângă sancțiunile
+contravenționale principale prevăzute la alin. (2), A.S.F. poate aplica
+următoarele sancțiuni contravenționale complementare:
+a) retragerea avizului/autorizării dat/date conducătorilor și/sau
+membrilor structurii de conducere a furnizorului și/sau ale persoanelor
+care dețin funcții-cheie, după caz;
+b) retragerea autorizării furnizorului și a autorizării sau a avizului
+celorlalte entități supravegheate;
+c) restrângerea sau interzicerea dreptului furnizorului de a
+dispune de propriile active;
+d) interzicerea dreptului de a ocupa funcții care necesită
+aprobarea de către A.S.F., pentru o perioadă cuprinsă între un an și 5 ani
+de la data comunicării deciziei de sancționare sau de la o altă dată
+prevăzută expres în decizie.
+(4) Sancțiunile contravenționale principale prevăzute la alin. (2)
+pot fi aplicate cumulativ cu oricare dintre sancțiunile contravenționale
+complementare prevăzute la alin. (3).
+(5) Prin derogare de la prevederile art. 8 alin. (2) lit. a) din
+Ordonanța Guvernului nr. 2/2001 privind regimul juridic al
+contravențiilor, aprobată cu modificări și completări prin Legea
+nr. 180/2002, cu modificările și completările ulterioare, denumită în
+continuare Ordonanța Guvernului nr. 2/2001, cu modificările și
+completările ulterioare, limitele amenzilor se stabilesc după cum
+urmează:
+a) pentru persoanele juridice: de la 0,1% la 5% din cifra de
+afaceri realizată conform celor mai recente situații financiare anuale
+auditate depuse la organele competente, aferentă activității de plată a
+pensiilor private;
+b) pentru persoanele fizice: de la 2.000 lei la 2.000.000 lei.
+(6) Amenzile contravenționale aplicate potrivit prezentei legi se
+fac venit la bugetul de stat.
+(7) Constatarea contravențiilor se face de către persoanele cu
+atribuții privind supravegherea și/sau controlul respectării dispozițiilor
+legale și ale reglementărilor aplicabile sistemului de pensii private din
+cadrul A.S.F. împuternicite în acest scop.
+(8) Aplicarea sancțiunilor contravenționale prevăzute la alin. (2)
+se face de către Consiliul A.S.F..
+(9) Prin derogare de la prevederile art. 10 alin. (2) din Ordonanța
+Guvernului nr. 2/2001, cu modificările și completările ulterioare, în cazul
+constatării săvârșirii a două sau mai multe contravenții, se aplică amenda
+prevăzută pentru contravenția cea mai gravă.
+Art. 103. – Procedura de constatare a contravențiilor
+(1) Procedura de constatare a contravențiilor, precum și de
+aplicare a sancțiunilor derogă de la dispozițiile Ordonanței Guvernului
+nr. 2/2001, cu modificările și completările ulterioare, și este prevăzută prin
+reglementările A.S.F..
+(2) Actul individual emis de către A.S.F. potrivit legii prin care
+se constată și se aplică sancțiunea contravențională a persoanelor fizice și
+juridice conform prevederilor art. 102, constituie titlu de creanță.
+(3) La data scadenței, titlul de creanță devine titlu executoriu, în
+baza căruia A.S.F. declanșează procedura de executare silită pentru
+recuperarea creanțelor sale, potrivit dispozițiilor Legii nr. 134/2010
+privind Codul de procedură civilă, republicată, cu modificările și
+completările ulterioare.
+(4) Actele adoptate de A.S.F. conform prevederilor prezentei legi
+pot fi contestate la Curtea de Apel București, Secția contencios
+administrativ și fiscal, în termen de 30 de zile de la data comunicării.
+(5) Contestația depusă potrivit dispozițiilor alin. (4) nu suspendă,
+până la soluționarea acesteia, executarea măsurilor dispuse de A.S.F..
+Art. 104. – Prescripția aplicării și executării sancțiunilor
+contravenționale
+(1) Prin derogare de la prevederile art. 13 alin. (1) din Ordonanța
+Guvernului nr. 2/2001, cu modificările și completările ulterioare,
+termenul de prescripție a aplicării și executării sancțiunii contravenționale
+este de 5 ani de la data săvârșirii faptei.
+(2) Prin derogare de la prevederile art. 13 alin. (2) din Ordonanța
+Guvernului nr. 2/2001, cu modificările și completările ulterioare, în cazul
+contravențiilor continue, termenul prevăzut la alin. (1) curge de la data
+încetării săvârșirii ultimei fapte.
+Art. 105. – Acțiunile introduse la instanțele judecătorești
+Acțiunile introduse la instanțele judecătorești de către membri,
+moștenitori, beneficiari sau supraviețuitori, după caz, îndreptate împotriva
+furnizorului sau A.S.F., în legătură cu plata pensiilor private, sunt scutite
+de taxa judiciară de timbru, în conformitate cu prevederile art. 29 alin. (1)
+din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele
+judiciare de timbru, cu modificările și completările ulterioare.
+CAPITOLUL XIII
+Accesul la informații, schimbul de informații și secretul profesional
+Art. 106. – Documente suplimentare
+(1) În procesul de autorizare/avizare, precum și în exercitarea
+atribuțiilor de supraveghere și control realizate în temeiul prezentei legi,
+A.S.F. poate solicita entităților orice documente și informații pe care le
+consideră necesare.
+(2) A.S.F. poate verifica orice aspect legat de cererea de
+autorizare/avizare a entității, fiind îndreptățită:
+a) să se adreseze autorităților competente;
+b) să solicite documente și informații din alte surse, potrivit legii.
+Art. 107. – Accesul la informații
+(1) Entitățile autorizate sau avizate, după caz, în temeiul
+prezentei legi, furnizează, la solicitarea și în termenul stabilit de către
+A.S.F., orice informații, detalii, clarificări, inclusiv rapoarte referitoare la
+activitatea desfășurată.
+(2) A.S.F. are acces la orice documente întocmite în cadrul
+activității desfășurate în domeniul pensiilor private de către entitățile
+prevăzute la alin. (1).
+(3) A.S.F. asigură confidențialitatea informațiilor primite, cu
+excepția celor de natură penală.
+(4) A.S.F. utilizează informații confidențiale obținute în temeiul
+prezentei legi în scopul exercitării atribuțiilor sale, după cum urmează:
+a) pentru a verifica dacă furnizorii îndeplinesc condițiile legale;
+b) pentru a facilita monitorizarea activităților furnizorilor;
+c) pentru a impune măsuri corective, inclusiv sancțiuni administrative;
+d) pentru a publica indicatori-cheie de performanță;
+e) în cadrul contestațiilor formulate împotriva deciziilor A.S.F.;
+f) în cadrul acțiunilor în instanță introduse în ceea ce privește
+prevederile prezentei legi.
+(5) Transmiterea către A.S.F. a informațiilor solicitate de aceasta
+potrivit dispozițiilor prezentei legi, nu constituie o încălcare a obligației
+de păstrare a secretului profesional.
+(6) Persoanele care au fost sau sunt angajate în cadrul A.S.F. au
+obligația de a respecta secretul profesional și nu pot divulga informațiile
+obținute în context profesional niciunei persoane fizice sau juridice decât
+într-o formă sintetică sau agregată, astfel încât entitățile prevăzute art. 2
+să nu poată fi identificate.
+(7) Fără a aduce atingere prevederilor alin. (1), informațiile
+confidențiale pot fi comunicate, în condițiile legii, organelor judiciare în
+timpul procedurilor judiciare, în procedurile de insolvență, în cazul în care
+societățile, autorizate sau avizate conform prezentei legi, sunt declarate
+insolvente sau în procesul de lichidare.
+(8) Autoritățile și instituțiile publice furnizează în mod gratuit
+A.S.F. informațiile solicitate în scopul îndeplinirii de către aceasta a
+atribuțiilor care îi revin potrivit prevederilor prezentei legi.
+Art. 108. – Schimbul de informații
+(1) A.S.F. cooperează cu autoritățile de supraveghere sau
+autoritățile și organismele competente din alte state membre, respectând
+secretul profesional, în condițiile prevăzute de prezenta lege, și utilizează
+informațiile obținute numai în scopul exercitării supravegherii.
+(2) A.S.F. participă în calitate de membru sau reprezintă
+România la asociațiile internaționale ale autorităților de reglementare și
+supraveghere în sistemul de pensii private.
+(3) În scopul întăririi stabilității și integrității sistemului de pensii
+private, A.S.F. colaborează cu alte instituții și autorități din țară și din
+străinătate, acestea cuprinzând, în special, autoritățile de supraveghere și
+reglementare a piețelor financiare din statele membre ale Uniunii
+Europene sau aparținând Spațiului Economic European, Comisia
+Europeană, Comitetul European pentru Risc Sistemic, Autoritatea
+Europeană pentru Asigurări și Pensii Ocupaționale, Autoritatea Bancară
+Europeană, Autoritatea Europeană pentru Valori Mobiliare și Piețe.
+(4) Colaborarea se realizează prin schimb de informații, de
+experiență sau în orice alt mod, potrivit legii și/sau acordurilor încheiate
+cu instituțiile și autoritățile prevăzute la alin. (3), în scopul îndeplinirii
+atribuțiilor lor specifice și în condiții de reciprocitate și de asigurare a
+confidențialității informațiilor astfel furnizate.
+(5) Instituțiile și autoritățile publice furnizează A.S.F.
+informațiile pe care le consideră necesare sau care sunt solicitate de
+aceasta, în scopul realizării unei supravegheri eficiente și al îndeplinirii
+obiectivelor A.S.F..
+(6) Informațiile primite ca urmare a schimbului de informații
+între autorități, precum și cele obținute prin verificarea la fața locului se
+divulgă doar cu acordul expres al autorității competente de la care provin
+informațiile sau cu acordul autorității competente a statului membru în
+care s-a efectuat verificarea la fața locului.
+(7) A.S.F. poate autoriza comunicarea de informații confidențiale
+referitoare la supravegherea prudențială a unui furnizor către comisii
+parlamentare de anchetă și către alte entități naționale cu atribuții de
+anchetă, în cazul în care sunt îndeplinite cumulativ următoarele condiții:
+a) entitățile cu atribuții de anchetă au competența, în temeiul
+legislației naționale, de a cerceta sau a examina acțiunile autorităților
+responsabile de supravegherea furnizorilor sau de elaborare a legislației
+privind această supraveghere;
+b) informațiile sunt strict necesare pentru exercitarea competenței
+prevăzute la lit. a);
+c) persoanelor care au acces la informații le revine obligația
+privind păstrarea secretului profesional;
+d) în cazul în care informațiile provin de la alt stat membru,
+acestea sunt comunicate cu acordul explicit al autorităților competente din
+statul membru de proveniență și doar în scopurile pentru care respectivele
+autorități și-au dat acordul.
+(8) În schimburile de informații, transmiterea și comunicarea
+acestora, există obligația respectării cel puțin a următoarelor condiții:
+a) schimbul, transmiterea sau comunicarea de informații se
+realizează în scopul îndeplinirii funcției de supraveghere sau de control;
+b) informațiile primite fac obiectul obligației privind păstrarea
+secretului profesional;
+c) în cazul în care informațiile provin din alt stat membru, acestea
+nu sunt divulgate fără acordul expres al autorității competente din statul
+de proveniență și, dacă este cazul, sunt comunicate exclusiv în scopurile
+pentru care respectiva autoritate și-a dat acordul.
+Art. 109. – Taxele de autorizare, avizare și funcționare
+(1) Taxele de autorizare, avizare și funcționare se stabilesc prin
+reglementările A.S.F..
+(2) Taxele prevăzute la alin. (1) se achită de către solicitant.
+(3) În cazul respingerii cererii de autorizare sau de avizare, taxa
+percepută nu se restituie.
+Art. 110. – Prelucrarea datelor cu caracter personal
+(1) Entitățile prevăzute la art. 2 prelucrează datele cu caracter
+personal ale membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor,
+după caz, în scopul îndeplinirii obligațiilor prevăzute de prezenta lege și
+de reglementările A.S.F., cu respectarea Regulamentului (UE) 2016/679
+al Parlamentului European și al Consiliului din 27 aprilie 2016 și a
+prevederilor Legii nr. 190/2018 privind măsuri de punere în aplicare a
+Regulamentului (UE) 2016/679 al Parlamentului European și al
+Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea
+ce privește prelucrarea datelor cu caracter personal și privind libera
+circulație a acestor date și de abrogare a Directivei 95/46/CE, cu
+modificările ulterioare (Regulamentul general privind protecția datelor).
+(2) Prelucrarea datelor cu caracter personal, la nivelul A.S.F., se
+realizează exclusiv în scopul îndeplinirii atribuțiilor de protecție a
+membrilor, moștenitorilor, beneficiarilor sau supraviețuitorilor, cu
+respectarea dispozițiilor prezentei legi, ale Regulamentului (UE)
+2016/679 și ale Legii nr. 190/2018, cu modificările ulterioare.
+CAPITOLUL XIV
+Dispoziții tranzitorii și finale
+Art. 111. – Dispoziții tranzitorii
+(1) Până la data autorizării de către A.S.F. a cel puțin unui fond
+de plată a pensiilor de tip retragere programată, plata activului
+participanților la fondurile de pensii private se realizează exclusiv
+conform prevederilor Legii nr. 411/2004, republicată, cu modificările și
+completările ulterioare, ale Legii nr. 204/2006, cu modificările și
+completările ulterioare și, respectiv, ale Legii nr. 1/2020, cu modificările
+și completările ulterioare, după caz.
+(2) Atingerea nivelului provizionului tehnic se realizează
+eșalonat, pe o perioadă de maximum 5 ani de la data autorizării fondului
+de plată, conform reglementărilor emise de către A.S.F. în aplicarea
+prezentei legi.
+Art. 112. – Completarea prevederilor legii
+(1) Prevederile prezentei legi se completează, în măsura în care
+nu contravin acesteia, cu prevederile Legii nr. 411/2004, republicată, cu
+modificările și completările ulterioare, ale Legii nr. 204/2006, cu
+modificările și completările ulterioare, ale Legii nr. 1/2020, cu
+modificările și completările ulterioare, și ale Ordonanței Guvernului
+nr. 2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002,
+cu modificările și completările ulterioare.
+(2) În sistemul plății pensiilor private, dispozițiile prezentei legi
+prevalează asupra oricăror prevederi din alte acte normative. În caz de
+conflict între acestea, se aplică dispozițiile prezentei legi.
+Art. 113. – Intrarea în vigoare
+Prezenta lege intră în vigoare la un an de la data publicării în
+Monitorul Oficial al României, Partea I.
+Această lege a fost adoptată de Parlamentul României, în
+condițiile art. 147 alin. (2), cu respectarea prevederilor art. 75 și ale art. 76
+alin. (1) din Constituția României, republicată.
+p. PREȘEDINTELE PREȘEDINTELE
+CAMEREI DEPUTAȚILOR SENATULUI
+NATALIA – ELENA INTOTERO MIRCEA ABRUDEAN
+București,
+Nr.

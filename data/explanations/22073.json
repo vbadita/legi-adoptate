@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:37:17+00:00",
+ "generated_at": "2026-11-08T18:36:37+00:00",
  "idp": 22073,
  "prompt_version": 5,
  "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text']",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl594_pr594_24.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

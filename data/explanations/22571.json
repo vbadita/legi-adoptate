@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa Guvernului nr. 12 din 8 august 2025 pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, precum şi a unor acte normative în domeniul sănătăţii",
+    "text": "Se aprobă Ordonanța Guvernului nr. 12 din 8 august 2025 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, precum și a unor acte normative în domeniul sănătății."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile din domeniul sănătății",
+   "Personalul medical"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă Ordonanța Guvernului nr. 12/2025, care aduce modificări și completări Legii nr. 95/2006 privind reforma în domeniul sănătății și altor acte normative din acest domeniu.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 12/2025 privind sănătatea"
+ },
+ "generated_at": "2026-11-08T18:36:43+00:00",
+ "idp": 22571,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "5da3cf632363e0696b1751b845157dfa00bbefc5bd97b10312f923769f34352e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl304_pr304_25.pdf"
+ },
+ "status": "ok"
+}

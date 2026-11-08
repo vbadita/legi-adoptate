@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța de urgență a Guvernului nr. 34 din 27 iunie 2025",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 34 din 27 iunie 2025."
+   },
+   {
+    "citat": "Prezenta ordonanţă de urgenţă se aplică până la data de 31 decembrie 2026 inclusiv.",
+    "text": "Valabilitatea măsurilor se prelungeste până la data de 31 decembrie 2026 inclusiv."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile publice",
+   "Operatorii economici implicați în lanțul alimentar și agricol"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul aprobă o ordonanță de urgență referitoare la produsele agricole și alimentare, stabilind ca aplicabilitatea unor măsuri să se prelungească până la sfârșitul anului 2026.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare ordonanță privind prețuri la alimente și exporturi din Ucraina"
+ },
+ "generated_at": "2026-11-08T18:38:05+00:00",
+ "idp": 22589,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "27565fbb2457aff9beb0b5a097caa442b3b06cd42a8b140afd963b6024ea70d0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl317_pr317_25.pdf"
+ },
+ "status": "ok"
+}

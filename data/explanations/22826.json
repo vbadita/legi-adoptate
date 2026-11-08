@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se instituie anul 2026 ca Anul Iancu de Hunedoara, pentru comemorarea a 570 de ani de la decesul lui Iancu de Hunedoara, apărător al creştinismului, al echilibrului şi al toleranţei între seminţiile Europei.",
+    "text": "Anul 2026 este instituit ca Anul Iancu de Hunedoara, marcat ca apărător al creștinismului, echilibrului și toleranței."
+   },
+   {
+    "citat": "Parlamentul, Administraţia Prezidenţială, Guvernul, autorităţile administraţiei publice locale, precum şi instituţiile publice aflate în subordinea sau coordonarea acestora pot organiza sau sprijini logistic şi material manifestări de comemorare şi celebrare a personalităţii lui Iancu de Hunedoara",
+    "text": "Autoritățile și instituțiile publice pot organiza sau sprijini evenimente culturale, științifice, educaționale și de promovare."
+   },
+   {
+    "citat": "Parlamentul, Administraţia Prezidenţială, Guvernul, autorităţile administraţiei publice locale, precum şi instituţiile publice aflate în subordinea sau coordonarea acestora pot aloca fonduri din bugetele proprii în vederea organizării şi derulării în bune condiţii a manifestărilor",
+    "text": "Instituțiile implicate pot aloca fonduri din bugetele proprii, în limita sumelor aprobate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Parlamentul",
+   "Administrația Prezidențială",
+   "Guvernul",
+   "Autoritățile administrației publice locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea instituie anul 2026 ca Anul Iancu de Hunedoara pentru a marca 570 de ani de la decesul acestuia.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Anul 2026 declarat Anul Iancu de Hunedoara"
+ },
+ "generated_at": "2026-11-08T18:37:30+00:00",
+ "idp": 22826,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0b16e9ae8a56588ad77d1020a0996a68a9d575f5d554a8b050a19c2c07ce3d06",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl528_pr528_25.pdf"
+ },
+ "status": "ok"
+}

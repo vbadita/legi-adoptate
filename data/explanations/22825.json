@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "(3) În urma audierii, comisiile de specialitate ale celor două Camere adoptă un aviz consultativ, care se transmite Guvernului în termen de 10 zile de către Parlament.",
+    "text": "După audiere, comisiile de specialitate ale Parlamentului adoptă un aviz consultativ care se transmite Guvernului în termen de 10 zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României",
+   "Parlamentul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că comisiile de specialitate ale celor două Camere ale Parlamentului adoptă un aviz consultativ după audiere. Acest aviz este trimis Guvernului în termen de 10 zile.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Avizul consultativ al comisiilor parlamentare pentru afaceri europene"
+ },
+ "generated_at": "2026-11-08T18:37:25+00:00",
+ "idp": 22825,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2cd13c489a860ec5df4ccf83e9a726838633a30e87578eaf87ae5e3ab99a0fa9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl533_pr533_25_(1).pdf"
+ },
+ "status": "ok"
+}

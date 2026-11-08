@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Contractul de finanţare - Cofinantare aferentă Mecanismului de redresare şi rezilienţă pentru linia feroviară Cluj-Napoca - Episcopia Bihor - dintre România şi Banca Europeană de Investiţii, semnat la Bucureşti la 26 noiembrie 2024 şi la Luxemburg la 7 ianuarie 2025, în valoare de 300 milioane de euro",
+    "text": "Se aprobă contractul de finanțare în valoare de 300 milioane de euro pentru linia feroviară Cluj-Napoca - Episcopia Bihor."
+   },
+   {
+    "citat": "Ministerul Transporturilor şi Infrastructurii asigură implementarea Proiectului prin Compania National de Căi Ferate CFR S.A., in calitate de agenţie de implementare.",
+    "text": "Ministerul Transporturilor și Infrastructurii se ocupă de realizarea proiectului prin intermediul Companiei Naționale de Căi Ferate CFR S.A."
+   },
+   {
+    "citat": "Ministerul Finanţelor încheie cu Ministerul Transporturilor şi Infrastructurii şi Compania Naţională de Căi Ferate CFR S.A. un acord subsidiar prin care se stabilesc drepturile şi obligaţiile părţilor in implementarea Proiectului şi executarea Contractului de finanţare.",
+    "text": "Ministerul Finanțelor încheie un acord subsidiar cu Ministerul Transporturilor și CFR S.A. pentru stabilirea drepturilor și obligațiilor."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Transporturilor şi Infrastructurii",
+   "Ministerul Finanţelor",
+   "Compania Naţională de Căi Ferate CFR S.A."
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă contractul de finanțare în valoare de 300 milioane de euro încheiat cu Banca Europeană de Investiții pentru linia feroviară Cluj-Napoca - Episcopia Bihor.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Aprobarea contractului de finanțare pentru calea ferată Cluj-Napoca - Episcopia Bihor"
+ },
+ "generated_at": "2026-11-08T18:37:37+00:00",
+ "idp": 22581,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "542d892375c9319ae00a9f65ef228cf6af686b4b4ff005249dadb35e18b123a8",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L553LP.PDF"
+ },
+ "status": "ok"
+}

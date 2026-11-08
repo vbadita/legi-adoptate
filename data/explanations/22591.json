@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "capitalul social minim necesar pentru administrarea fondurilor de plată a pensiilor de tip retragere programată este echivalentul în lei al sumei de 1,5 milioane euro, calculat la cursul de schimb publicat de Banca Națională a României la data vărsării capitalului social",
+    "text": "Capitalul social minim necesar pentru administrarea fondurilor de plată a pensiilor de tip retragere programată este echivalentul în lei al sumei de 1,5 milioane euro."
+   },
+   {
+    "citat": "capitalul social minim necesar pentru administrarea fondurilor de plată a pensiilor viagere este echivalentul în lei al sumei de 4 milioane euro, calculat la cursul de schimb comunicat de Banca Națională a României la data vărsării capitalului social.",
+    "text": "Capitalul social minim necesar pentru administrarea fondurilor de plată a pensiilor viagere este echivalentul în lei al sumei de 4 milioane euro."
+   },
+   {
+    "citat": "Membrul unui fond de plată poate primi maximum 30% din valoarea activului său personal transferat către fondul de plată, la cerere, o singură dată, sub formă de plată unică acordată înaintea începerii plății pensiilor lunare.",
+    "text": "Membrul unui fond de plată poate primi un avans de maximum 30% din valoarea activului personal transferat, la cerere, o singură dată, înainte de începerea plății pensiilor lunare."
+   },
+   {
+    "citat": "Pentru activitatea de administrare a fondului de plată, furnizorul percepe un comision lunar de administrare, din activul fondului de plată, care nu poate depăși 0,05 % din acesta.",
+    "text": "Comisionul lunar de administrare perceput de furnizor nu poate depăși 0,05% din activul fondului de plată."
+   },
+   {
+    "citat": "pentru persoanele juridice: de la 0,1% la 5% din cifra de afaceri realizată conform celor mai recente situații financiare anuale auditate depuse la organele competente, aferentă activității de plată a pensiilor private",
+    "text": "Faptele care constituie infracțiuni sau contravenții în domeniul pensiilor private sunt sancționate conform legii, amenzile pentru persoane juridice putând ajunge până la 5% din cifra de afaceri."
+   }
+  ],
+  "cine_este_afectat": [
+   "Furnizorii de pensii private",
+   "Fondurile de plată a pensiilor private",
+   "Participanții și membrii fondurilor de pensii private",
+   "Administratorii de fonduri de pensii private"
+  ],
+  "de_cand": "Prezenta lege intră în vigoare la un an de la data publicării în Monitorul Oficial al României, Partea I.",
+  "pe_scurt": "Această lege stabilește regulile pentru autorizarea, organizarea și funcționarea furnizorilor de pensii private, a fondurilor de plată a pensiilor private și a instituțiilor implicate. De asemenea, reglementează modul în care se plătesc pensiile private de tip retragere programată și pensiile viagere.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Legea privind plata pensiilor private"
+ },
+ "generated_at": "2026-11-08T18:36:50+00:00",
+ "idp": 22591,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d67535c61dc9250aca60efe5236b3d3e13db75ae619b487d909969b64fcf4544",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pr320_25_(r).pdf"
+ },
+ "status": "ok"
+}

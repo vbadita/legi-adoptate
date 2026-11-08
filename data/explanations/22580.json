@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-08T18:37:32+00:00",
+ "idp": 22580,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "fc78940fba4c17e93508e54e613df8ca52ec874a81edbcd544b8ce0ab06955e8",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L552LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

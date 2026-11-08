@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanța Guvernului nr. 14 din 21 august 2025 pentru prorogarea unor termene prevăzute de Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe rețeaua de drumuri naționale din România",
+    "text": "Se aprobă Ordonanța Guvernului nr. 14 din 21 august 2025 pentru prorogarea unor termene prevăzute de Legea nr. 226/2023 privind aplicarea unor tarife rutiere pe rețeaua de drumuri naționale din România."
+   }
+  ],
+  "cine_este_afectat": [
+   "Șoferii și transportatorii care folosesc rețeaua de drumuri naționale din România"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 14/2025 referitoare la amânarea unor termene pentru tarifele rutiere pe drumurile naționale din România.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 14/2025 privind tarifele rutiere"
+ },
+ "generated_at": "2026-11-08T18:36:45+00:00",
+ "idp": 22573,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9722795c0e8a3cb5c14109927fd996f347e85b7ddec185f54ed04d87c49eaad5",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl306_pr306_25_(1).pdf"
+ },
+ "status": "ok"
+}

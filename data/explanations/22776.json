@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "în exercitarea atribuțiilor de serviciu, polițiștii locali care au în dotare mijloace de înregistrare foto-audio-video portabile au obligația să le utilizeze pentru înregistrarea următoarelor acțiuni desfășurate în locuri publice, în limitele competențelor stabilite prin lege, fără consimțământul persoanelor vizate",
+    "text": "Polițiștii locali care au în dotare camere portabile trebuie să le folosească pentru înregistrarea unor acțiuni în locuri publice, fără acordul persoanelor."
+   },
+   {
+    "citat": "În măsura în care circumstanțele permit, polițiștii locali au obligația să informeze persoanele vizate că acestea sunt înregistrate prin intermediul mijloacelor de înregistrare foto-audio-video portabile.",
+    "text": "Polițiștii locali au obligația să informeze persoanele că sunt înregistrate, dacă situația permite acest lucru."
+   },
+   {
+    "citat": "Structurile poliției locale păstrează înregistrările realizate prin intermediul mijloacelor de înregistrare foto-audio-video portabile pe o perioadă de 6 luni de la data obținerii acestora, cu excepția situațiilor în care sunt utilizate în cadrul unei proceduri judiciare, caz în care acestea urmează regimul probelor. La împlinirea acestui termen înregistrările se distrug, prin proceduri ireversibile.",
+    "text": "Structurile de poliție locală păstrează înregistrările timp de 6 luni, după care acestea sunt distruse definitiv."
+   },
+   {
+    "citat": "Polițiștii locali desemnați să utilizeze mijloacele de înregistrare foto-audio-video portabile sau să acceseze datele cu caracter personal care se colectează prin intermediul acestora, sunt instruiți cu privire la regulile de protecție a datelor cu caracter personal anterior validării utilizării/accesului și, ulterior, cel puțin o dată pe an.",
+    "text": "Polițiștii locali care folosesc aceste aparate sau accesează datele sunt instruiți cu privire la protecția datelor cel puțin o dată pe an."
+   }
+  ],
+  "cine_este_afectat": [
+   "Polițiștii locali",
+   "Structurile de poliție locală",
+   "Cetățenii aflați în locuri publice în anumite situații"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce obligația ca polițiștii locali care au în dotare mijloace de înregistrare foto-audio-video portabile să le folosească în timpul anumitor acțiuni în locuri publice, fără acordul persoanelor vizate. De asemenea, stabilește reguli clare pentru păstrarea, protecția și ștergerea acestor date.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Utilizarea camerelor foto-audio-video de către poliția locală"
+ },
+ "generated_at": "2026-11-08T18:38:19+00:00",
+ "idp": 22776,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0b51b82727aad9b00bc4b7ec16a701820514d04634069407b1bb6c63b76d96c0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl490_pr490_25.pdf"
+ },
+ "status": "ok"
+}

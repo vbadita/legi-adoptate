@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:37:01+00:00",
+ "generated_at": "2026-11-08T18:36:34+00:00",
  "idp": 22579,
  "prompt_version": 5,
  "reason": "rejected after 2 attempts: ['punctul 1: numerele 18 nu apar în citatul punctului']",
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2025/25L551LP.PDF"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

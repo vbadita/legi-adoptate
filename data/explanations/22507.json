@@ -1,0 +1,32 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Personalul didactic de predare titular şi personalul didactic auxiliar angajat cu contract pe perioadă nedeterminată în învăţământul preuniversitar poate fi detaşat în interesul invătământului, cu acordul său, pentru ocuparea unor posturi din unităti de învăţământ.",
+    "text": "Personalul didactic de predare titular și cel auxiliar angajat pe perioadă nedeterminată poate fi detașat în interesul învățământului, cu acordul său."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul didactic de predare titular din învățământul preuniversitar",
+   "Personalul didactic auxiliar angajat cu contract pe perioadă nedeterminată"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește condițiile în care personalul didactic de predare titular și cel auxiliar cu contract pe perioadă nedeterminată pot fi detașați în interesul învățământului.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor de detașare pentru personalul din învățământ"
+ },
+ "generated_at": "2026-11-08T18:38:03+00:00",
+ "idp": 22507,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "12cdac120f2ec2c38dbbca187e57ede872b2d701b7d7820e8887118f5cc93279",
+  "url": "https://www.senat.ro/legis/PDF/2025/25L512LP.PDF"
+ },
+ "status": "ok"
+}
