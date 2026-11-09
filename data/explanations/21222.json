@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-09T18:39:24+00:00",
+ "idp": 21222,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "97bdce6b2694c49883c80e46ec487acb9043a35ccabb0cf4646c9118fa62357e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl605_pr605_23.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

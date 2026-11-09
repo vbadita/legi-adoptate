@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T18:37:42+00:00",
+ "generated_at": "2026-11-09T18:38:48+00:00",
  "idp": 22760,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: numerele 1 nu apar în citatul punctului', 'punctul 2: citatul nu apare exact în text']",
+ "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2025/25L592LP.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

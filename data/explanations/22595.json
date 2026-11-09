@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Ponderea de participare a sportivilor de performanță români, la nivel de seniori și tineret, la competițiile sportive naționale oficiale nu poate fi mai mică de 40% din totalul de sportivi participanți care pot evolua în teren pe parcursul unui meci, pentru fiecare echipă.",
+    "text": "Ponderea de participare a sportivilor de performanță români la sporturile de echipă nu poate fi mai mică de 40% din totalul celor care pot evolua în teren pe parcursul unui meci."
+   },
+   {
+    "citat": "Federațiile sportive naționale au obligația să aibă propria strategie din care să reiasă creșterea procentuală a numărului de jucători români în primele eșaloane valorice.",
+    "text": "Federațiile sportive naționale trebuie să aibă o strategie proprie pentru creșterea procentuală a numărului de jucători români în primele eșaloane valorice."
+   },
+   {
+    "citat": "nerespectarea prevederilor art. 37^1.",
+    "text": "Nerespectarea regulii privind ponderea sportivilor români constituie contravenție."
+   },
+   {
+    "citat": "cu amendă de la 500.000 lei la 1.000.000 lei pentru persoanele juridice, faptele prevăzute la art. 88 lit. q).",
+    "text": "Sancțiunea pentru nerespectarea regulii este amendă de la 500.000 lei la 1.000.000 lei pentru persoanele juridice."
+   }
+  ],
+  "cine_este_afectat": [
+   "Federațiile sportive naționale",
+   "Cluburile și echipele sportive",
+   "Sportivii de performanță români"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că cel puțin 40% dintre sportivii care joacă pe teren la competițiile naționale oficiale de echipă trebuie să fie sportivi români de performanță, la seniori și tineret. Nerespectarea acestei reguli se sancționează cu amendă pentru persoanele juridice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi privind sportivii români la sporturile de echipă"
+ },
+ "generated_at": "2026-11-09T18:39:09+00:00",
+ "idp": 22595,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c9c5950153999f0bfa4d7ae528e96f549658eb6088bccfc0e213550b7c6a41bc",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl338_pr338_25.pdf"
+ },
+ "status": "ok"
+}

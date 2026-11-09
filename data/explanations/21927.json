@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-09T18:40:16+00:00",
+ "idp": 21927,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "74e04cddff6a8be05e2e76e569fb5a06600b050f69fb332014b210849484b19d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl461_pr461_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

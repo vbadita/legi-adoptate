@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-09T18:39:19+00:00",
+ "idp": 19714,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6307108023bea1f5e1f2985a73871e838aa38b2660bafdf7a7ad6111a533da0a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pl120_pr120_22.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

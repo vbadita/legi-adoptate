@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-09T18:39:39+00:00",
+ "idp": 21149,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "002e9dc66d120ecccf6e1f68b8c041f68489e89eea55301df78c64098c271bcb",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl825_pr.825_23_pstema.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

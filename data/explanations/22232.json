@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa Guvernului nr. 7 din 31 ianuarie 2025 pentru modificarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii... cu următoarea modificare",
+    "text": "Se aprobă Ordonanța Guvernului nr. 7 din 31 ianuarie 2025 cu o modificare referitoare la Registrul Unic Electronic de Boli Transmisibile."
+   },
+   {
+    "citat": "Serviciul de Telecomunicații Speciale dezvoltă o nouă aplicație care va prelua toate datele înregistrate în aplicația informatică «Corona-forms» și aplicația informatică pentru Registrul Unic de Boli Transmisibile...",
+    "text": "Serviciul de Telecomunicații Speciale dezvoltă o nouă aplicație care preia datele din Corona-forms și din Registrul Unic de Boli Transmisibile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Serviciul de Telecomunicații Speciale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 7 din 31 ianuarie 2025 și aduce o modificare privind dezvoltarea unei noi aplicații informatice de către Serviciul de Telecomunicații Speciale pentru bolile transmisibile.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 7/2025 privind sănătatea"
+ },
+ "generated_at": "2026-11-09T18:39:14+00:00",
+ "idp": 22232,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8f67b76bbad4ff09b4ff1a6b452b704fc468d789f997f271e007ccd464a8abbe",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl061_pr061_25.pdf"
+ },
+ "status": "ok"
+}

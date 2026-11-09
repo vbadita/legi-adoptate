@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "bunurile aflate în proprietatea publică și/sau privată a unității administrativ-teritoriale pe care se desfășoară activități miniere pot fi concesionate prin atribuire directă către operatorii economici titulari ai unui drept de exploatare și/sau explorare",
+    "text": "Bunurile statului sau ale localităților unde se fac activități miniere pot fi date direct în concesiune către firmele care au drept de exploatare sau explorare."
+   },
+   {
+    "citat": "terenurile situate în proximitatea exploatărilor miniere active... pot fi concesionate prin atribuire directă către titularii prevăzuți la lit. a), în scopul extinderii perimetrului exploatării",
+    "text": "Terenurile de lângă minele active pot fi și ele concesionate direct firmelor miniere pentru extinderea activității."
+   },
+   {
+    "citat": "Autoritatea publică competentă poate refuza, pe criterii obiective, concesionarea terenurilor... prin hotărâre a autorității administrației publice locale deliberative, care se comunică titularului... în termen de 15 zile de la adoptare.",
+    "text": "Autoritatea locală poate refuza concesionarea terenurilor pentru mine, printr-o hotărâre comunicată în 15 zile. În caz de refuz, terenurile nu pot fi date altor firme."
+   },
+   {
+    "citat": "Statul sau unitățile administrativ-teritoriale pot concesiona prin atribuire directă către persoanele fizice locurile de înhumare ori de păstrare a urnelor de cenușă din cimitirele sau din zonele special amenajate",
+    "text": "Statul sau primăriile pot concesiona prin atribuire directă locuri de veci sau pentru urne de cenușă către persoane fizice."
+   }
+  ],
+  "cine_este_afectat": [
+   "Operatorii economici care desfășoară activități miniere",
+   "Unitățile administrativ-teritoriale (primării, consilii locale)",
+   "Persoanele fizice care doresc concesionarea unor locuri de înhumare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce modificări la Legea minelor și la legea privind cimitirele, permițând atribuirea directă a unor terenuri pentru activități miniere, precum și a locurilor de înhumare de către stat sau primării.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi pentru concesionarea terenurilor miniere și a locurilor de veci"
+ },
+ "generated_at": "2026-11-09T18:39:04+00:00",
+ "idp": 22422,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "56d31ed6243320d4bf829611efa7eec9225f0bd64850cb26d950c92d4fcb0c41",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl201_pr201_25.pdf"
+ },
+ "status": "ok"
+}

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-09T18:39:29+00:00",
+ "idp": 22457,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a5edb8abaa77a4f757c1787e899fb89138fcc7cb53cabf891d2478ee961b8391",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl219_pr219_25.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}
