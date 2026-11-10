@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-09T18:39:56+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La nivelul imobilului „Palatul Parlamentului”, se înființează Registrul Electronic al Persoanelor cu Interdicție de Acces în Palatul Parlamentului, denumit în continuare Registru.",
+    "text": "Se înființează Registrul Electronic al Persoanelor cu Interdicție de Acces în Palatul Parlamentului la nivelul imobilului."
+   },
+   {
+    "citat": "Persoana care a manifestat un comportament agresiv fizic sau verbal, utilizând cuvinte jignitoare, injurii, invective în curtea sau în interiorul Palatului Parlamentului sau care prin acțiunile sale distruge bunuri aflate în patrimoniul Parlamentului, primește interdicția de a avea acces în incinta Palatului Parlamentului pentru o perioadă cuprinsă între o lună și 24 de luni.",
+    "text": "Persoanele care manifestă un comportament agresiv fizic sau verbal ori distrug bunuri primesc interdicție de acces pentru o perioadă de la o lună la 24 de luni."
+   },
+   {
+    "citat": "Modelul și conținutul Registrului, precum și procedura de punere în aplicare a interdicției se aprobă de către administratorii imobilului, în termen de 30 de zile de la intrarea în vigoare a prezentei legi.",
+    "text": "Modelul registrului și procedura de aplicare se aprobă în termen de 30 de zile de la intrarea în vigoare a legii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Vizitatorii și persoanele care intră în Palatul Parlamentului",
+   "Administratorii imobilului Palatul Parlamentului",
+   "Biroul permanent al Camerei Deputaților și Biroul permanent al Senatului",
+   "Structurile specializate de securitate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea înființează un registru electronic pentru persoanele cu interdicție de acces în Palatul Parlamentului și stabilește regulile pentru aplicarea acestei interdicții în caz de comportament agresiv sau distrugeri.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli de acces și registru pentru Palatul Parlamentului"
+ },
+ "generated_at": "2026-11-10T18:38:32+00:00",
  "idp": 22296,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +38,5 @@
   "sha256": "945f62155390c8f21f76f46acea252de05e37e1c91245a5112e1dab166bb75fd",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl215_pr215_25.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

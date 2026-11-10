@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-10T18:39:09+00:00",
+ "idp": 21411,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8110098d7eb7f7bacaf83075934009dc5959be3abf4088102c6dc8720c3f9284",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl782_pr782_23.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

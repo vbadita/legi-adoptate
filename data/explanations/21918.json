@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-09T18:40:21+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "contractul de concesiune a serviciului public de distribuție a gazelor naturale încetează de drept.",
+    "text": "Contractul de concesiune a serviciului public de distribuție a gazelor naturale încetează de drept dacă ANRE nu emite autorizația de înființare în termen de un an de la semnarea contractului."
+   },
+   {
+    "citat": "concesiunea încetează de drept în ziua următoare împlinirii acestui termen, fără a fi necesară exprimarea acordului de voință a părților contractuale.",
+    "text": "Concesiunea încetează de drept în ziua următoare împlinirii termenului de un an dacă firma nu obține autorizațiile specifice din cauza pasivității sau a lipsei condițiilor legale."
+   },
+   {
+    "citat": "Constatarea încetării contractului de concesiune, prevăzută la alin. (6^3), (7^1) și (7^2), se face de către ANRE care, la solicitarea oricărei părți contractuale, va comunica acest fapt, în scris, în termen de maximum 30 de zile de la solicitare.",
+    "text": "ANRE constată încetarea contractului de concesiune și comunică acest fapt în scris în maximum 30 de zile de la solicitarea oricărei părți."
+   },
+   {
+    "citat": "ANRE retrage în termen de maximum 60 de zile titularului drepturile și obligațiile conferite prin licenţa de operare a sistemului de distribuţie a gazelor naturale doar pentru unitatea/unităţile administrativ-teritoriale care face/fac obiectul încetării contractului de concesiune.",
+    "text": "ANRE retrage drepturile și obligațiile din licența de operare în maximum 60 de zile, doar pentru unitățile administrativ-teritoriale unde contractul a încetat."
+   }
+  ],
+  "cine_este_afectat": [
+   "Concesionarii serviciului public de distribuție a gazelor naturale",
+   "Autoritățile administrației publice locale (concedente)",
+   "Autoritatea Națională de Reglementare în Domeniul Energiei (ANRE)"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește reguli clare privind încetarea de drept a contractelor de concesiune pentru distribuția gazelor naturale atunci când nu sunt obținute autorizațiile necesare sau nu se respectă termenele legale. ANRE are rolul de a constata încetarea acestora și de a retrage licențele aferente.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi pentru contractele de concesiune a gazelor naturale"
+ },
+ "generated_at": "2026-11-10T18:38:42+00:00",
  "idp": 21918,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "057c9551abc431bd22d9b616189590b1f266f60c7ed8f077fcdf1364a69e0d11",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl444_pr444_24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-10T18:38:49+00:00",
+ "idp": 22015,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "6cc5d1d59c60a8dce20d33be5d821c8c634ccce0fb048093f2f31cd4deb65519",
+  "url": "https://www.senat.ro/legis/PDF/2024/24L559LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

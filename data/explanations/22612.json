@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T18:38:55+00:00",
+ "generated_at": "2026-11-10T18:37:41+00:00",
  "idp": 22612,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text', 'punctul 4: citatul nu apare exact în text']",
+ "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2025/25L418LP.PDF"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

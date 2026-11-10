@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T18:40:16+00:00",
+ "generated_at": "2026-11-10T18:38:37+00:00",
  "idp": 21927,
  "prompt_version": 5,
- "reason": "gemini http 503",
+ "reason": "rejected after 2 attempts: ['punctul 4: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl461_pr461_24.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

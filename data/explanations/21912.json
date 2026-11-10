@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-10T18:38:46+00:00",
+ "idp": 21912,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c91e9c55c157a4db413b120948a55c1103af3d67604500e0a23f0f46a0b6b7b7",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pr435_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

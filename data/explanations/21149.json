@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:39:39+00:00",
+ "generated_at": "2026-11-10T18:38:08+00:00",
  "idp": 21149,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl825_pr.825_23_pstema.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

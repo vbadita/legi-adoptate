@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-10T18:38:59+00:00",
+ "idp": 21743,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e3ed765776a169210c95cd0d86465fec87b4138a793201c4f4c303a764189b20",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl274_pr274_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

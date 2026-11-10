@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-10T18:38:54+00:00",
+ "idp": 21959,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c9766b8ddb033dd1ecd1baf5f1382a35c7063251b7fd7177f9708daf133968db",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl485_pr485_24.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

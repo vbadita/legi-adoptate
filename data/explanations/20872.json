@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "comisia judeţeană de fond funciar va emite, la cerere, titluri de proprietate privind constituirea dreptului de proprietate pentru terenurile aferente acestor construcţii, terenuri având categoria de curţi-construcţii, cu îndeplinirea cumulativă a următoarelor condiţii",
+    "text": "Comisia județeană de fond funciar emite titluri de proprietate pentru terenurile aferente construcțiilor, în baza unor condiții cumulate."
+   },
+   {
+    "citat": "a) solicitanţii fac dovada proprietăţii asupra construcţiilor;",
+    "text": "Solicitanții trebuie să facă dovada proprietății asupra construcțiilor."
+   },
+   {
+    "citat": "b) solicitanţii fac dovada înregistrării construcţiei în registrul agricol, cu excepţia persoanelor pentru ale căror construcţii nu există obligaţia legală de înscriere în registrul agricol, precum şi dovada plăţii impozitelor şi taxelor aferente acesteia în conformitate cu prevederile legale;",
+    "text": "Se cere dovada înregistrării în registrul agricol, excepție făcând cei fără această obligație legală, și dovada plății impozitelor și taxelor."
+   },
+   {
+    "citat": "c) pentru terenul aferent construcţiei nu a fost constituit sau reconstituit dreptul de proprietate în favoarea altei persoane;",
+    "text": "Terenul nu trebuie să aibă dreptul de proprietate constituit sau reconstituit pentru altcineva."
+   },
+   {
+    "citat": "d) solicitanții au formulat cerere în temeiul prezentei legi, pentru o suprafață totală de maxim 2 ha aferente construcțiilor.",
+    "text": "Suprafața totală solicitată pentru construcții trebuie să fie de maximum 2 ha."
+   }
+  ],
+  "cine_este_afectat": [
+   "Proprietarii actuali ai construcțiilor edificate de fostele cooperative agricole de producție, asociații economice intercooperatiste sau cooperații de consum",
+   "Proprietarii actuali ai construcțiilor edificate de foste întreprinderi agricole de stat, societăți comerciale cu capital de stat sau stațiuni de mașini agricole",
+   "Comisiile județene de fond funciar",
+   "Primăriile localităților"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește condițiile în care proprietarii actuali ai unor construcții ridicate de foste cooperative sau întreprinderi de stat pot obține titluri de proprietate pentru terenurile aferente, de categorie curți-construcții, în limita a maximum 2 hectare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii fondului funciar pentru titluri de proprietate"
+ },
+ "generated_at": "2026-11-10T18:39:04+00:00",
+ "idp": 20872,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "e771ce32df2b123e39ff3c48867727174bbb256e19c73c348fd6e0dbbc79dc23",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl532_pr532_23.pdf"
+ },
+ "status": "ok"
+}
