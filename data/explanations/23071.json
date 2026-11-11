@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "perioada de valabilitate a autorizațiilor de construire emise pentru proiectele de importanță națională în domeniul gazelor naturale este de 36 de luni de la data emiterii;",
+    "text": "Autorizațiile de construire emise pentru aceste proiecte sunt valabile 36 de luni de la data emiterii."
+   },
+   {
+    "citat": "în vederea realizării proiectelor de importanţă naţională în domeniul gazelor naturale, predarea-primirea terenului pentru care s-a aprobat ocuparea temporară din fondul forestier naţional se face în prezenţa reprezentantului Gărzii Forestiere competente teritorial, la solicitarea iniţiatorului proiectului, în termen de 2 ani de la data aprobării.",
+    "text": "Predarea-primirea terenului forestier aprobat pentru ocupare temporară se face în termen de 2 ani de la aprobare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Proprietarii imobilelor afectate de lucrări",
+   "Inițiatorii proiectelor de importanță națională în domeniul gazelor naturale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind proiectele de importanță națională în domeniul gazelor naturale. Sunt vizate aspecte legate de terenuri, autorizații de construire și proceduri de avizare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri pentru proiectele de importanță națională în domeniul gazelor naturale"
+ },
+ "generated_at": "2026-11-11T18:37:36+00:00",
+ "idp": 23071,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "a343bb7eaf8c3b597c8bebbe9652518fb465ae077c2ccd8bffe437c62813a609",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L270FS.PDF"
+ },
+ "status": "ok"
+}

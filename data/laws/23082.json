@@ -1,0 +1,93 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23082,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 174/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-11-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": false,
+   "public_vote": {
+    "abtineri": 1,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-11-11",
+    "nu_au_votat": 2,
+    "pentru": 242
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-03-09",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-11-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 1,
+      "contra": 0,
+      "nu_au_votat": 2,
+      "pentru": 242
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L120/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-03-09",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(2) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 23.03.2026 termen depunere raport: 01.04.2026 trimis pentru aviz la: Comisia pentru industrii şi servicii Comisia pentru administraţie publică şi amenajarea teritoriului Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-05-12",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-05-27",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-06-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru industrii şi servicii"
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "other",
+   "text": "primire raport favorabil (9 amend. admise) de la: Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-11-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţa Camerei Deputaţilor din 11 noiembrie 2026"
+  },
+  {
+   "day": "2026-11-11",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=242, contra=0, abtineri=1, nu au votat=2"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr.5/2015 privind deşeurile de echipamente electrice şi electronice",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23082"
+}

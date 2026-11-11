@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-10T18:38:07+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Titularul dreptului de proprietate a plajelor atribuie în folosință gratuită autorităților administrației publice locale din localitățile riverane Mării Negre, la solicitarea acestora, o cotă de până la 20% din suprafața plajelor utilizate în scop turistic care sunt situate pe raza lor administrativ-teritorială, cu destinația de plajă publică.",
+    "text": "Autoritățile locale pot primi în folosință gratuită până la 20% din suprafața plajelor turistice pentru a fi folosite ca plaje publice cu acces liber."
+   },
+   {
+    "citat": "asigurarea curățeniei și igienizării plajei publice prin: 1. organizarea și desfășurarea activităților de salubrizare zilnică, în perioada sezonului estival; 2. instalarea coșurilor speciale pentru deșeuri, colectare selectivă și toalete ecologice;",
+    "text": "Primăriile care au în folosință plaje publice trebuie să asigure curățenia, salubrizarea zilnică, montarea de toalete ecologice și coșuri pentru colectare selectivă."
+   },
+   {
+    "citat": "b) amenajări pentru siguranța turiștilor și accesibilitate prin: ... 2. rampe de acces și module de grupuri sanitare pentru persoanele cu dizabilități; ... 4. montarea de dușuri; ... c) asigurarea serviciului de salvamar, a pazei și ordinii publice prin: 1. contractarea de personal salvamar în timpul sezonului estival;",
+    "text": "Se introduc obligații pentru siguranța turiștilor, cum ar fi rampe de acces pentru persoane cu dizabilități, dușuri, panouri de informare și serviciu de salvamar."
+   },
+   {
+    "citat": "Constituie contravenţie şi se sancţionează cu amendă de la 500 lei la 1.000 lei nerespectarea de către persoanele fizice a obligaţiei de a nu arunca deșeuri ... pe plajele litoralului Mării Negre sau în apa mării.",
+    "text": "Persoanele fizice care aruncă deșeuri în alte locuri decât cele special amenajate pe plaje sau în apa mării riscă amenzi de la 500 lei la 1.000 lei."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile administrației publice locale din localitățile riverane Mării Negre",
+   "Utilizatorii plajelor în scop turistic",
+   "Persoanele fizice care vizitează plajele"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea stabilește reguli noi pentru plajele Mării Negre, inclusiv atribuirea unor cote pentru plaje publice către primării, obligații clare de întreținere pentru acestea și sancțiuni pentru aruncarea deșeurilor.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind utilizarea plajei Mării Negre"
+ },
+ "generated_at": "2026-11-11T18:38:13+00:00",
  "idp": 22457,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "a5edb8abaa77a4f757c1787e899fb89138fcc7cb53cabf891d2478ee961b8391",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2025/pl219_pr219_25.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

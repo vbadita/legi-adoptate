@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-11T18:39:31+00:00",
+ "idp": 14778,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "44e53468532865db0a622b444eae403416d51d4e0b29a2d215cbcb1593c4e673",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2015/pr239_15.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

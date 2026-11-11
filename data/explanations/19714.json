@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:37:55+00:00",
+ "generated_at": "2026-11-11T18:38:06+00:00",
  "idp": 19714,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pl120_pr120_22.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

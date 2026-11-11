@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-10T18:38:46+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Durata arendării Art. 1.837. – Durata arendării este de minimum 7 ani şi se consideră a fi făcută pe toată perioada necesară recoltării fructelor pe care bunul agricol urmează să le producă.",
+    "text": "Durata arendării este de minimum 7 ani."
+   },
+   {
+    "citat": "Subarendarea totală sau parţială este interzisă, sub sancţiunea nulităţii, cu excepţia schimbului de utilizare a terenului între arendaşi.",
+    "text": "Subarendarea totală sau parțială este interzisă, sub sancțiunea nulității, cu excepția schimbului de utilizare a terenului între arendași."
+   },
+   {
+    "citat": "(1) Contractul de arendare încetează de încetare sau înainte de împlinirea termenului prin de menţinere incapacitatea sau falimentul arendaşului ori prin a contractelor neplata arendei în termenul prevăzut în contract.",
+    "text": "Contractul de arendare încetează înainte de termen prin incapacitatea sau falimentul arendașului ori prin neplata arendei în termenul prevăzut."
+   },
+   {
+    "citat": "(2) În cazul decesului arendatorului, moştenitorii sunt obligaţi să menţină contractul de arendare pe durata încheiată cu arendaşul.",
+    "text": "La decesul arendatorului, moștenitorii sunt obligați să mențină contractul pe durata încheiată."
+   },
+   {
+    "citat": "(3) În cazul vânzării terenului, cumpărătorul este obligat să menţină contractul de arendare până la expirarea termenului de valabilitate.",
+    "text": "În cazul vânzării terenului, cumpărătorul este obligat să mențină contractul până la expirarea termenului de valabilitate."
+   }
+  ],
+  "cine_este_afectat": [
+   "Arendașii",
+   "Arendatorii",
+   "Moștenitorii arendatorilor",
+   "Cumpărătorii de terenuri agricole"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile din Codul civil referitoare la durata arendei, interzicerea subarendării și regulile de încetare sau menținere a contractului de arendare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind Codul civil în materia arendării"
+ },
+ "generated_at": "2026-11-11T18:38:41+00:00",
  "idp": 21912,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "c91e9c55c157a4db413b120948a55c1103af3d67604500e0a23f0f46a0b6b7b7",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pr435_24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

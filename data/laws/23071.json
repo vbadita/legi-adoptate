@@ -1,0 +1,93 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23071,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 488/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-11-11",
+   "chamber": "Camera Deputaților",
+   "confirmed": false,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-11-11",
+    "nu_au_votat": 1,
+    "pentru": 246
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-06-17",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-11-11",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 246
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L270/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L270&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa iniţiatorului SE"
+  },
+  {
+   "day": "2026-03-11",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-06-17",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-06-24",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru industrii şi servicii Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru mediu şi echilibru ecologic termen depunere amendamente: 02.09.2026 termen depunere raport: 09.09.2026 trimis pentru aviz la: Comisia pentru politică "
+  },
+  {
+   "day": "2026-09-22",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-11-09",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinţa Camerei Deputaţilor din 11 noiembrie 2026"
+  },
+  {
+   "day": "2026-11-11",
+   "kind": "other",
+   "text": "primire raport favorabil (16 amend. admise) de la: Comisia pentru industrii şi servicii Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice Comisia juridică, de disciplină şi imunităţi Comisia pentru mediu şi echilibru ecologic face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-11-11",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificarea şi completarea Legii nr.185/2016 privind unele măsuri necesare pentru implementarea proiectelor de importanţă naţională în domeniul gazelor naturale, precum şi privind completarea Ordonanţei de urgenţă a Guvernului nr.9/2025 pentru reglementarea unor măsuri referitoare la unele proiecte de extindere şi schimbare a destinaţiei, conversia sau modernizarea reţelelor de transport şi distribuţie a gazelor naturale, pentru modificarea şi com"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.185/2016 privind unele măsuri necesare pentru implementarea proiectelor de importanţă naţională în domeniul gazelor naturale",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23071"
+}

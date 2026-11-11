@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Producătorii au obligaţia să asigure finanțarea colectării, tratării, valorificării și eliminării în condiții de protecție a mediului a DEEE provenite de la gospodăriile particulare",
+    "text": "Producătorii au obligația să asigure finanțarea colectării, tratării, valorificării și eliminării în condiții de protecție a mediului a deșeurilor de echipamente electrice și electronice provenite de la gospodăriile particulare."
+   },
+   {
+    "citat": "producătorii sunt obligați să marcheze în mod corespunzător cu simbolul prevăzut în anexa nr.10, în conformitate cu standardul european EN 50419:2022, echipamentele electrice și electronice introduse pe piață.",
+    "text": "Producătorii sunt obligați să marcheze echipamentele electrice și electronice introduse pe piață cu simbolul prevăzut în anexa nr. 10."
+   },
+   {
+    "citat": "în vederea introducerii pe piață a EEE, producătorii, astfel cum sunt definiți la lit.g) din anexa nr.5, au obligația de a se înscrie în registrul național prevăzut la alin.(1)",
+    "text": "Pentru a introduce pe piață echipamente electrice și electronice, producătorii au obligația să se înscrie în registrul național."
+   }
+  ],
+  "cine_este_afectat": [
+   "Producătorii de echipamente electrice și electronice",
+   "Utilizatorii de echipamente electrice și electronice",
+   "Gospodăriile particulare"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică Ordonanța de urgență a Guvernului nr.5/2015 referitoare la deșeurile de echipamente electrice și electronice, stabilind obligații noi pentru producători privind finanțarea colectării, marcarea echipamentelor și înscrierea în registrul național.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor privind deșeurile de echipamente electrice și electronice"
+ },
+ "generated_at": "2026-11-11T18:37:46+00:00",
+ "idp": 23082,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "08edb33df9d2a441531e101a2c5a533486f49a10837e3532047da6c40df1a26a",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L120FS.PDF"
+ },
+ "status": "ok"
+}

@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-11-10T18:38:26+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonața Guvernului nr. 36 din 28 august 2024 pentru completarea unor acte normative referitoare la autorizarea și intabularea construcțiilor aferente infrastructurii de transport de interes național și celei de metrou gestionate de Societatea de Transport cu Metroul București „Metrorex” - S.A.",
+    "text": "Se aprobă Ordonanța Guvernului nr. 36 din 28 august 2024."
+   }
+  ],
+  "cine_este_afectat": [
+   "Societatea de Transport cu Metroul București „Metrorex” - S.A.",
+   "Instituțiile implicate în autorizarea și intabularea construcțiilor de transport de interes național"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 36 din 28 august 2024, care se referă la completarea unor acte normative pentru autorizarea și intabularea construcțiilor de transport de interes național și a celor de metrou gestionate de Metrorex.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 36/2024 privind construcțiile de transport și metrou"
+ },
+ "generated_at": "2026-11-11T18:38:22+00:00",
  "idp": 21981,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +28,5 @@
   "sha256": "d5b00da60c4adf2b1a3af411b5181467b65e016bc18bdd108efce9e2107b5db5",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl518_pr518_24.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "durata de derulare a concordatului/planului de restructurare poate fi prelungită, la cererea debitorului, pentru motive justificate, cu cel mult 5 ani.",
+    "text": "Durata de derulare a concordatului sau a planului de restructurare poate fi prelungită cu cel mult 5 ani, la cererea debitorului, pentru operatorii din ramurile strategice aflati în procedură de concordat preventiv."
+   },
+   {
+    "citat": "Administratorul concordatar poate solicita judecătorului sindic, în al cincilea an de derulare a concordatului preventiv/planului de restructurare, omologarea prelungirii duratei de derulare a concordatului preventiv/planului de restructurare, potrivit alin. (1), și a modificării măsurilor corespunzătoare acestei prelungiri.",
+    "text": "Administratorul concordatar poate cere judecătorului sindic în al cincilea an omologarea prelungirii duratei și a modificării măsurilor corespunzătoare."
+   },
+   {
+    "citat": "Cererea prevăzută la alin. (2) va fi însoțită de hotărârea de aprobare de către creditorii concordatari/afectați a prelungirii duratei de derulare a concordatului/planului de restructurare și a modificării măsurilor corespunzătoare acestei prelungiri, adoptată în condițiile de întocmire și votare a concordatului/planului de restructurare, cu creanțele rămase în sold la data votului.",
+    "text": "Cererea de prelungire trebuie însoțită de hotărârea creditorilor concordatari sau afectați luată în condițiile de vot."
+   },
+   {
+    "citat": "Creditorii concordatari/afectați care au votat împotriva prelungirii termenului concordatului preventiv/planului de restructurare, precum și creditorii neconcordatari își pot recupera creanța prin orice alte modalități prevăzute de lege, inclusiv vor putea formula cereri de deschidere a procedurii insolvenței față de debitor.",
+    "text": "Creditorii care au votat împotrivă sau cei neconcordatari își pot recupera creanța prin alte modalități legale, inclusiv prin cereri de deschidere a insolvenței."
+   }
+  ],
+  "cine_este_afectat": [
+   "Operatorii economici din ramurile strategice ale economiei naționale",
+   "Administratorii concordatari",
+   "Creditorii concordatari sau afectați",
+   "Creditorii neconcordatari"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență și stabilește reguli pentru prelungirea duratei concordatului preventiv sau a planului de restructurare în cazul operatorilor economici din ramurile strategice ale economiei naționale.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Prelungirea concordatului preventiv pentru ramuri strategice"
+ },
+ "generated_at": "2026-11-11T18:39:16+00:00",
+ "idp": 21179,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8265fac1d49d54423a5fee11bdbb66a34933e65a6e4aab49af8874daef24c998",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl564_pr564_23.pdf"
+ },
+ "status": "ok"
+}

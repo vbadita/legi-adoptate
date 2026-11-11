@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-11T18:39:36+00:00",
+ "idp": 18585,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 5: citat prea fragmentat']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4bfbe31a74ea59bcb44e3ff69ddf33c0f424c26238901dc8ea1926e60dd626f2",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr521_20.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-11-10T18:38:54+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "a) în termen de minim 5 zile de la data comunicării dispoziției de convocare pentru ședințele ordinare; b) în termen de minim 3 zile de la data comunicării dispoziției sau documentului de convocare pentru ședințele extraordinare.",
+    "text": "Se stabilesc termene minime de convocare a ședințelor consiliului local, de cel puțin 5 zile pentru cele ordinare și cel puțin 3 zile pentru cele extraordinare."
+   },
+   {
+    "citat": "Hotărârile şi dispoziţiile cu caracter normativ se aduc la cunoştinţa publică prin publicarea, în format electronic, în monitorul oficial local, care se organizează potrivit procedurii prevăzute în anexa nr. 1. Nepublicarea în monitorul oficial local atrage inexistența acestora.",
+    "text": "Hotărârile și dispozițiile cu caracter normativ se publică în format electronic în monitorul oficial local, nepublicarea atrăgând inexistența acestora."
+   },
+   {
+    "citat": "Încetarea calității de viceprimar, respectiv de vicepreședinte al consiliului județean, după caz, în condițiile alin. (21) are ca efect încetarea de drept, la aceeaşi dată, şi a mandatului de consilier local, respectiv consilier județean, după caz...",
+    "text": "Încetarea calității de viceprimar sau vicepreședinte de consiliu județean are ca efect încetarea de drept, la aceeași dată, și a mandatului de consilier local sau județean."
+   },
+   {
+    "citat": "Persoana care ocupă funcția de secretar-general al unității administrativ-teritoriale se poate transfera, în condițiile prezentului cod, la o altă unitate administrativ-teritorială pe o funcție echivalentă sau inferioară.",
+    "text": "Se reglementează posibilitatea ca secretarul general al unității administrativ-teritoriale să se poată transfera la o altă unitate administrativ-teritorială pe o funcție echivalentă sau inferioară."
+   }
+  ],
+  "cine_este_afectat": [
+   "unitățile administrativ-teritoriale",
+   "primarii și viceprimarii",
+   "președinții și vicepreședinții consiliilor județene",
+   "secretarii generali ai unităților administrativ-teritoriale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 79/2024, aducând modificări și completări Codului administrativ referitoare la organizarea și funcționarea autorităților publice locale, atribuțiile primarilor, ale președinților de consilii județene, statutul secretarului general și administrarea bunurilor publice.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG pentru modificarea Codului Administrativ"
+ },
+ "generated_at": "2026-11-11T18:38:53+00:00",
  "idp": 21959,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "c9766b8ddb033dd1ecd1baf5f1382a35c7063251b7fd7177f9708daf133968db",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2024/pl485_pr485_24.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

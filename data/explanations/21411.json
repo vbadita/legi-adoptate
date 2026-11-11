@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-10T18:39:09+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 99 din 16 noiembrie 2023 privind unele măsuri pentru raportarea arieratelor de către instituţiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 1042 din 16 noiembrie 2023.",
+    "text": "Se aprobă Ordonanţa de urgenţă a Guvernului nr. 99 din 16 noiembrie 2023 privind unele măsuri pentru raportarea arieratelor de către instituţiile publice."
+   },
+   {
+    "citat": "Prin excepție de la prevederile prezentei ordonanțe de urgență, pentru societățile prevăzute la alin. (3) structura și componența consiliului de administrație, respectiv procedura de selecție, remunerarea președintelui executiv, a vicepreședinților executivi și a administratorilor neexecutivi se reglementează prin hotărâre a Guvernului...",
+    "text": "Structura, selecția și remunerarea conducerii pentru anumite societăți se stabilesc prin hotărâre a Guvernului sau prin norme interne, prin excepție de la regulile generale."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile publice",
+   "Întreprinderile publice",
+   "Ministerul Finanțelor"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență privind raportarea arieratelor de către instituțiile publice și aduce modificări regulilor privind guvernanța corporativă a întreprinderilor publice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Aprobare OUG arierate instituții publice și guvernanță corporativă"
+ },
+ "generated_at": "2026-11-11T18:39:07+00:00",
  "idp": 21411,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +33,5 @@
   "sha256": "8110098d7eb7f7bacaf83075934009dc5959be3abf4088102c6dc8720c3f9284",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl782_pr782_23.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
