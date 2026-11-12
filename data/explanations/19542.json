@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-12T18:37:13+00:00",
+ "idp": 19542,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1c207dd8ac7e7773fc351abdfb352c6854ce166ae1de2c3191a32cfa95d1cc09",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr421_21.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

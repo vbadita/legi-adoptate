@@ -2,10 +2,16 @@
  "character": "organic",
  "decisional_chamber": "Camera Deputaților",
  "idp": 23218,
- "law": null,
+ "law": {
+  "day": "2026-11-12",
+  "number": "217/2026"
+ },
  "monitor": null,
  "number": "Pl-x nr. 334/2026",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-11",
+  "decree": "845/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-14",
@@ -126,6 +132,16 @@
    "day": "2026-10-26",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-11",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 845/2026"
+  },
+  {
+   "day": "2026-11-12",
+   "kind": "other",
+   "text": "devine Legea nr.217/2026"
   }
  ],
  "title": "Propunere legislativă pentru modificarea şi completarea Legii asistenţei sociale nr.292/2011",

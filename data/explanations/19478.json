@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Pentru fiecare şedinţă de judecată se va întocmi o listă cu procesele ce se dezbat în acea zi, care va fi afişată pe portalul instanţei şi la uşa sălii de şedinţă cu cel puţin o oră înainte de începerea acesteia.",
+    "text": "Lista cu procesele pentru fiecare ședință de judecată se afișează pe portalul instanței și la ușa sălii cu cel puțin o oră înainte de începere."
+   },
+   {
+    "citat": "Lista va cuprinde şi intervalele orare orientative fixate pentru strigarea cauzelor, fiind obligatorie stabilirea unor intervale orare diferite pe grupe de cauze, respectiv fixarea cauzelor în care se administrează probațiune extinsă de regulă în intervalele finale ale ședinței de judecată.",
+    "text": "Listele trebuie să includă intervale orare orientative, iar cauzele cu probațiune extinsă se fixează de regulă în finalul ședinței."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Consiliul Superior al Magistraturii are obligația creării unei secțiuni speciale pe pagina sa de internet în vederea sesizărilor, chiar și anonime, cu privire la nerespectarea dispozițiilor art. 215...",
+    "text": "În termen de 90 de zile, Consiliul Superior al Magistraturii trebuie să creeze o secțiune specială pe internet pentru sesizări, inclusiv anonime, legate de nerespectarea acestor reguli."
+   },
+   {
+    "citat": "Secția pentru judecători din cadrul Consiliului Superior al Magistraturii verifică o dată pe lună sesizările înregistrate cu privire la nerespectarea dispozițiilor art. 215... și informează președinții instanțelor în cazul cărora au fost primite sesizări...",
+    "text": "Secția pentru judecători din cadrul Consiliului Superior al Magistraturii verifică lunar aceste sesizări și informează președinții instanțelor pentru a face verificări."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instanțele de judecată",
+   "Consiliul Superior al Magistraturii",
+   "Justițiabilii și participanții la procesele civile"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește ca lista proceselor pentru fiecare ședință să fie afișată cu cel puțin o oră înainte și să conțină intervale orare orientative. De asemenea, Consiliul Superior al Magistraturii va crea o secțiune online pentru sesizări privind nerespectarea acestor reguli.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind listele de ședință și orele estimate în procesele civile"
+ },
+ "generated_at": "2026-11-12T18:38:16+00:00",
+ "idp": 19478,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "286a3da5a18ece80c46c41ae159f3e92ff3e08c719dd4ac2b6b10cb53a1c5ad2",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr014_22.pdf"
+ },
+ "status": "ok"
+}

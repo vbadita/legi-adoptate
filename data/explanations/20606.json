@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-12T18:38:11+00:00",
+ "idp": 20606,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ba6c7983382ad47252dbd0dd7dbb61c5494b5c4521676149a3afd75f2ce83051",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr012_23.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

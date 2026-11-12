@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Anexă (Anexa nr. 2.11. la Legea nr. 45/2009) Datele de identificare a suprafețelor minime de teren, din domeniul public al statului, aflate în administrarea Institutului de Cercetare - Dezvoltare pentru Cinegetică și Resurse Montane Miercurea-Ciuc, județul Harghita",
+    "text": "Se modifică anexa nr. 2.11. la Legea nr. 45/2009 cu privire la suprafețele de teren aflate în administrarea Institutului de Cercetare - Dezvoltare pentru Cinegetică și Resurse Montane Miercurea-Ciuc, județul Harghita."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institutul de Cercetare - Dezvoltare pentru Cinegetică și Resurse Montane Miercurea-Ciuc"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică o anexă din Legea nr. 45/2009 pentru a actualiza datele despre suprafețele minime de teren din domeniul public al statului aflate în administrarea Institutului de Cercetare - Dezvoltare pentru Cinegetică și Resurse Montane Miercurea-Ciuc.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea anexei privind terenurile pentru Institutul de la Miercurea-Ciuc"
+ },
+ "generated_at": "2026-11-12T18:36:48+00:00",
+ "idp": 20488,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "dbad171d8715dfcfae442245530aa1b58efa3242274a4986101669f89302cba8",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr711_22.pdf"
+ },
+ "status": "ok"
+}

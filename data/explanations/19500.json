@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Principalele forme de publicitate privind dispozitivele medicale utilizate sunt reprezentate de: 1. materiale tipărite: ... 2. publicitatea din domeniul audiovizual ... 3. panouri publicitare ... 4. publicitatea prin internet; 5. oferirea de mostre; 6. obiecte promoționale",
+    "text": "Se stabilesc principalele forme de publicitate pentru dispozitivele medicale, incluzând materiale tipărite, audiovizual, panouri publicitare, internet, oferte de soare și obiecte promoționale."
+   },
+   {
+    "citat": "transmite ANMDMR o mostră a tuturor materialelor publicitare elaborate din iniţiativa sa, împreună cu o declaraţie în care se vor indica persoanele cărora li se adresează dispozitivul medical...",
+    "text": "Producătorii sau emitenții de materiale publicitare trebuie să transmită către ANMDMR o mostră a materialelor împreună cu o declarație cu detaliile necesare."
+   },
+   {
+    "citat": "Publicitatea unui dispozitiv medical destinată profesioniştilor din domeniul sănătăţii, atunci când acesta face parte din categoria dispozitivelor medicale cu un grad de risc ridicat ... trebuie să fie depusă ... către ANMDMR spre avizare şi difuzată numai după obţinerea vizei de publicitate.",
+    "text": "Publicitatea pentru dispozitive medicale cu risc ridicat destinate profesioniștilor din sănătate trebuie depusă la ANMDMR spre avizare și poate fi difuzată doar după obținerea vizei."
+   },
+   {
+    "citat": "Faptele prevăzute la art. 28 lit. am) se sancționează cu amendă de la 10.000 lei la 20.000 lei, care se aplică producătorului sau emitentului de materiale publicitare, solicitarea încetării publicității, precum şi cu retragerea de pe piaţă a materialului publicitar.",
+    "text": "Nerespectarea regulilor privind publicitatea dispozitivelor medicale se sancționează cu amendă de la 10.000 lei la 20.000 lei, solicitarea încetării publicității și retragerea materialului de pe piață."
+   }
+  ],
+  "cine_este_afectat": [
+   "Producătorii de dispozitive medicale",
+   "Importatorii și distribuitorii de dispozitive medicale",
+   "Emitenții de materiale publicitare",
+   "Profesioniștii din domeniul sănătății"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă ordonanța de urgență privind dispozitivele medicale și aduce reguli noi referitoare la publicitatea acestora, stabilind ce materiale sunt permise, cum se obțin avizele și ce sancțiuni se aplică.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG dispozitive medicale și publicitate"
+ },
+ "generated_at": "2026-11-12T18:37:04+00:00",
+ "idp": 19500,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "38f3d3c07743e15751346b436abe54ffd3a374a3cbab7b9206744346c56b49c9",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr346_21.pdf"
+ },
+ "status": "ok"
+}

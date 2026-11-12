@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-12T18:36:38+00:00",
+ "idp": 20458,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "aa1cf4910655a5cd2268e7b635a8e5629feae17cf7802ed8b71ea3e04a95f510",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr689_22.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

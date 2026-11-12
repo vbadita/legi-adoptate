@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se înființează Muzeul Regional „Memorialul Golgota Bucovineiˮ, denumit în continuare Muzeul, instituție publică de importanță regională, cu personalitate juridică, aflată în subordinea Ministerului Culturii.",
+    "text": "Se înființează Muzeul Regional „Memorialul Golgota Bucovinei”, instituție publică de importanță regională, cu personalitate juridică, aflată în subordinea Ministerului Culturii."
+   },
+   {
+    "citat": "Muzeul are sediul în satul Tisăuți str. Cimitirului, nr. 227A, comuna Ipotești, județul Suceava.",
+    "text": "Muzeul are sediul în județul Suceava, comuna Ipotești, satul Tisăuți."
+   },
+   {
+    "citat": "edificarea unei construcții unde își va avea sediul Muzeul, pe terenul pus la dispoziție cu titlu gratuit pe toată perioada de existență a construcției de către Arhiepiscopia Sucevei și Rădăuților. Construirea și administrarea Muzeului se va realiza de către Arhiepiscopia Sucevei și Rădăuților;",
+    "text": "Construirea și administrarea muzeului se realizează de către Arhiepiscopia Sucevei și Rădăuților, pe un teren pus la dispoziție cu titlu gratuit."
+   },
+   {
+    "citat": "Consiliul știintific și de conducere al Muzeului va fi format din 5 persoane, 2 reprezentanți ai Ministerului Culturii și 3 reprezentanți ai Arhiepiscopiei Sucevei și Rădăuților.",
+    "text": "Consiliul științific și de conducere al muzeului este format din 5 persoane: 2 reprezentanți ai Ministerului Culturii și 3 ai Arhiepiscopiei."
+   },
+   {
+    "citat": "Guvernul României va aproba, în termen de 90 de zile, prin Hotărâre a Guvernului, la propunerea Ministerului Culturii, regulamentul de organizare și funcționare și finanțarea constituirii Muzeului...",
+    "text": "Guvernul va aproba prin Hotărâre, în termen de 90 de zile, regulamentul, finanțarea și statul de funcții, la propunerea Ministerului Culturii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Culturii",
+   "Arhiepiscopia Sucevei și Rădăuților",
+   "Locuitorii din județul Suceava și publicul vizitator"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se înființează Muzeul Regional „Memorialul Golgota Bucovinei”, cu sediul în județul Suceava, ca instituție publică subordonată Ministerului Culturii. Muzeul va fi organizat și administrat în parteneriat cu Arhiepiscopia Sucevei și Rădăuților.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Înființarea Muzeului Regional Memorialul Golgota Bucovinei"
+ },
+ "generated_at": "2026-11-12T18:37:21+00:00",
+ "idp": 20247,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c60daa4638ac2e1be3818181d485c79fdb9c141527763652e302e88afe00dbc0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr471_22.pdf"
+ },
+ "status": "ok"
+}

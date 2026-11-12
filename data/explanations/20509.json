@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-12T18:36:06+00:00",
+ "idp": 20509,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "34c43d709654f9e0e513c40ad4067033d1f69b68d993f2686233a90a0f8c4e19",
+  "url": "https://www.senat.ro/legis/PDF/2023/23L198LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

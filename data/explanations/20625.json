@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-12T18:36:59+00:00",
+ "idp": 20625,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6aee19b09c949ff433ce5278ff7945ab0f6057b8112a3eb430ea97f290830798",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr321_23.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

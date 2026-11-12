@@ -2,10 +2,16 @@
  "character": "ordinar",
  "decisional_chamber": "Camera Deputaților",
  "idp": 21264,
- "law": null,
+ "law": {
+  "day": "2026-11-12",
+  "number": "211/2026"
+ },
  "monitor": null,
  "number": "PL-x nr. 631/2023",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-11",
+  "decree": "839/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-14",
@@ -45,7 +51,7 @@
   "number": "L481/2023",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L481&an_cls=2023#ListaDocumente"
  },
- "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl631_pr631_23_(1).pdf",
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl631_631-23_prom_stema.pdf",
  "timeline": [
   {
    "day": "0203-10-18",
@@ -96,6 +102,16 @@
    "day": "2026-10-26",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-11",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 839/2026"
+  },
+  {
+   "day": "2026-11-12",
+   "kind": "other",
+   "text": "devine Legea nr.211/2026"
   }
  ],
  "title": "Proiect de Lege privind instituirea unei scheme de ajutor de stat pentru producătorii agricoli de căpşune",

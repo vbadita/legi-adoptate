@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T18:38:49+00:00",
+ "generated_at": "2026-11-12T18:35:30+00:00",
  "idp": 22015,
  "prompt_version": 5,
- "reason": "unexpected gemini response",
+ "reason": "gemini http 503",
  "round": 1,
  "scanned": true,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2024/24L559LP.PDF"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

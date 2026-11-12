@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-11T18:39:21+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "unitățile administrativ-teritoriale pe raza cărora sunt amplasate drumurile forestiere proprietate publică a statului, administrate de Ministerul Mediului, Apelor și Pădurilor prin Regia Națională a Pădurilor – Romsilva, au prioritate pentru preluarea acestora în fața persoanelor fizice sau juridice proprietari ai terenurilor aferente acestora.",
+    "text": "Unitățile administrativ-teritoriale au prioritate pentru preluarea drumurilor forestiere proprietate publică a statului în fața persoanelor fizice sau juridice proprietari ai terenurilor aferente."
+   },
+   {
+    "citat": "transmiterea drumurilor forestiere se face prin vânzare directă, în baza contractului de vânzare-cumpărare încheiat în formă autentică între persoanele fizice sau juridice solicitante şi Ministerul Mediului, Apelor şi Pădurilor prin Regia Naţională a Pădurilor – Romsilva, în termen de cel mult 45 de zile de la data adoptării hotărârii Guvernului...",
+    "text": "Vânzarea drumurilor forestiere către proprietarii terenurilor aferente se face prin vânzare directă în baza unui contract încheiat în cel mult 45 de zile de la hotărârea Guvernului."
+   },
+   {
+    "citat": "Dacă în termen de cel mult 45 de zile de la data adoptării hotărârii Guvernului pentru trecerea drumurilor forestiere din domeniul public al statului în domeniul privat al statului, nu se vor transmite drumurile forestiere... bunurile ce au făcut obiectul hotărârii de Guvern trec în domeniul public al statului şi în administrarea Ministerului Mediului, Apelor şi Pădurilor prin Regia Naţională a Pădurilor – Romsilva...",
+    "text": "Dacă vânzarea către proprietarii terenurilor nu se face în termen de 45 de zile, bunurile se întorc în domeniul public al statului și administrarea Romsilva."
+   },
+   {
+    "citat": "Orice restricţie de circulaţie pe drumurile forestiere şi pe căile ferate forestiere, preluate de către unităţile administrativ-teritoriale sau de către persoanele fizice sau juridice, se poate face numai cu aprobarea autorităţii publice centrale care răspunde de silvicultură.",
+    "text": "Restricțiile de circulație pe drumurile forestiere preluate se pot face numai cu aprobarea autorității publice centrale pentru silvicultură."
+   },
+   {
+    "citat": "Este interzisă schimbarea categoriei de folosință silvică și a destinației pentru terenurile forestiere aferente drumurilor forestiere, căilor ferate forestiere și a lucrărilor de corectare a torenților, cu excepția terenurilor necesare realizării sau extinderii următoarelor categorii de lucrări: drumuri de interes național, județean sau local.",
+    "text": "Este interzisă schimbarea categoriei de folosință silvică, cu excepția lucrărilor pentru drumuri de interes național, județean sau local."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile administrativ-teritoriale",
+   "Persoanele fizice sau juridice care dețin terenuri aferente drumurilor forestiere",
+   "Regia Națională a Pădurilor - Romsilva",
+   "Ministerul Mediului, Apelor și Pădurilor"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește regulile prin care drumurile forestiere, căile ferate forestiere și lucrările de corectare a torenților administrate de Romsilva pot fi trecute în domeniul public al unităților administrativ-teritoriale sau vândute proprietarilor terenurilor aferente.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Trecerea drumurilor forestiere la autoritățile locale sau proprietari"
+ },
+ "generated_at": "2026-11-12T18:35:52+00:00",
  "idp": 21084,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "7e0908af73def7ed606818b50a884caa1e457bfe2bd808ef0833bbe2c28f9178",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr722_23.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
