@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-12T18:38:11+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "autorizaţie de transport național de persoane – document pe baza căruia operatorul de transport rutier are dreptul să efectueze operaţiuni de transport rutier naţional contra cost de persoane prin servicii regulate interjudețene sau servicii regulate speciale interjudețene, pe un anumit traseu;",
+    "text": "Se introduce autorizația de transport național de persoane ca document pentru efectuarea transportului regulat interjudețean pe un anumit traseu."
+   },
+   {
+    "citat": "licenţă comunitară – document care permite accesul operatorului de transport rutier la piaţa transportului rutier naţional şi internaţional;",
+    "text": "Licența comunitară devine documentul care permite accesul operatorului la piața transportului rutier național și internațional."
+   },
+   {
+    "citat": "Începând cu data de 1 iulie 2023, transportul rutier contra cost de persoane interjudețean se efectuează de către operatorii de transport rutier numai cu autobuze la bordul cărora se află, pe toată durata transportului, o copie conformă a licenţei comunitare, autorizaţia de transport național de persoane însoţită de graficul de circulaţie în cazul serviciilor regulate interjudeţene şi regulate speciale interjudeţene sau documentul de transport corespunzător serviciilor ocazionale, după caz.",
+    "text": "Începând cu 1 iulie 2023, transportul interjudețean de persoane se face în baza autorizației de transport național de persoane."
+   },
+   {
+    "citat": "În cazul retragerii autorizaţiei de transport național de persoane, operatorul de transport nu mai poate solicita o altă autorizaţie de transport persoane naţional pentru efectuarea de servicii regulate interjudeţene sau servicii regulate speciale interjudeţene pe acel traseu pe o perioadă de un an.",
+    "text": "În cazul retragerii autorizației, operatorul nu mai poate cere o altă autorizație pe același traseu timp de un an."
+   }
+  ],
+  "cine_este_afectat": [
+   "operatorii de transport rutier",
+   "operatorii economici care administrează autogări",
+   "autoritățile administrației publice locale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări în regulile de transport rutier național contra cost de persoane și introduce autorizația de transport național de persoane, înlocuind treptat vechile licențe de traseu.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind transporturile rutiere de persoane"
+ },
+ "generated_at": "2026-11-13T18:38:21+00:00",
  "idp": 20606,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "ba6c7983382ad47252dbd0dd7dbb61c5494b5c4521676149a3afd75f2ce83051",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr012_23.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-13T18:39:06+00:00",
+ "idp": 20238,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0d742ed38c68b4df2eb61d54fba814a56e4eceb0fa96500f9e8572227f3663c0",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr462_22.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

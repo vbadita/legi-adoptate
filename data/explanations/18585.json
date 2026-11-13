@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-12T18:36:02+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Calitatea de organ de cercetare penală al poliţiei judiciare este incompatibilă cu orice altă funcţie publică sau privată, cu excepţia funcţiilor didactice din învăţământul superior.",
+    "text": "Calitatea de organ de cercetare penală al poliţiei judiciare nu se poate cumula cu nicio altă funcție publică sau privată, exceptând funcțiile didactice din învăţământul superior."
+   },
+   {
+    "citat": "Avizul de desemnare în poliţia judiciară se acordă dacă poliţistul îndeplineşte cumulativ următoarele condiţii: a) ocupă sau urmează să ocupe o funcţie... b) este licenţiat în drept sau este absolventul unei instituţii... c) nu se află într-o situaţie de incompatibilitate... d) a obţinut calificativul de cel puţin «bine» la ultimele trei evaluări... e) nu se află sub efectul unei sancţiuni disciplinare; f) faţă de acesta nu s-a pus în mişcare acţiunea penală.",
+    "text": "Avizul de desemnare în poliţia judiciară se acordă dacă poliţistul este licențiat în drept ori absolvent de studii specifice MAI, nu se află în incompatibilitate, are calificativul cel puțin «bine» la ultimele trei evaluări, nu are sancțiuni disciplinare și nu are o acțiune penală pusă în mișcare."
+   },
+   {
+    "citat": "Avizul de desemnare în poliţia judiciară se retrage de către procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie ori procurorul desemnat în acest sens, atunci când se constată, după caz: a) neîndeplinirea sau îndeplinirea în mod defectuos... b) existenţa unei stări de incompatibilitate... c) faţă de poliţist a fost pusă în mişcare acţiunea penală.",
+    "text": "Avizul de desemnare în poliţia judiciară se retrage de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie sau de un procuror desemnat, în caz de îndeplinire defectuoasă a dispozițiilor, incompatibilitate sau punere în mișcare a acțiunii penale."
+   },
+   {
+    "citat": "Calitatea de organ de cercetare penală al poliţiei judiciare încetează, după caz: a) la data încetării raporturilor de serviciu... b) la data numirii poliţistului într-o funcţie... c) la data transferului... d) la data suspendării raporturilor de serviciu... e) la retragerea avizului... Persoana cu competenţă de numire a poliţistului informează procurorul general... în maximum 5 zile de la ivirea situaţiei...",
+    "text": "Calitatea de organ de cercetare penală încetează la încetarea raporturilor de serviciu, mutarea pe altă funcție, transfer, suspendare sau la retragerea avizului, iar instituția trebuie să informeze procurorul general în maximum 5 zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Polițiștii care fac parte sau doresc să facă parte din poliția judiciară",
+   "Ministerul Afacerilor Interne",
+   "Parchetul de pe lângă Înalta Curte de Casație și Justiție"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește condițiile clare pentru obținerea, menținerea și retragerea avizului de desemnare în poliția judiciară pentru ofițeri și agenți. De asemenea, reglementează cazurile de incompatibilitate și regulile de subordonare ale acestora.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Organizarea şi funcţionarea poliţiei judiciare"
+ },
+ "generated_at": "2026-11-13T18:37:49+00:00",
  "idp": 18585,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "4bfbe31a74ea59bcb44e3ff69ddf33c0f424c26238901dc8ea1926e60dd626f2",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr521_20.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

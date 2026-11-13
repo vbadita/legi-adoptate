@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-12T18:36:38+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Instituţiile publice şi organele de specialitate ale administraţiei publice centrale au obligaţia de a publica, din oficiu, informaţii şi modele de formulare sau cereri aferente tuturor serviciilor publice furnizate, în format electronic, atât pe website-ul propriu, cât şi pe punctul de contact unic electronic... în varianta actualizată şi într-un format tehnic care să permită descărcarea şi editarea lor în scopul completării pe calculator de către beneficiar.",
+    "text": "Instituțiile publice și organele administrației publice centrale au obligația să publice formularele și cererile pe internet, în format electronic editabil pe calculator."
+   },
+   {
+    "citat": "În cazul în care furnizarea serviciilor publice se realizează cu perceperea de taxe/tarife/comisioane, după caz, acestea sunt publicate, din oficiu, pe website-ul propriu şi în punctul de contact unic electronic.",
+    "text": "Taxele, tarifele sau comisioanele pentru serviciile publice trebuie publicate pe website-ul propriu și pe punctul de contact unic electronic."
+   }
+  ],
+  "cine_este_afectat": [
+   "Instituțiile publice",
+   "Organele de specialitate ale administrației publice centrale",
+   "Beneficiarii serviciilor publice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Instituțiile publice și organele administrației centrale trebuie să publice pe internet modele de cereri și formulare pe care cetățenii să le poată descărca și completa direct pe calculator. De asemenea, trebuie publicate și taxele aferente serviciilor publice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Formulare publice editabile pe calculator"
+ },
+ "generated_at": "2026-11-13T18:38:01+00:00",
  "idp": 20458,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +33,5 @@
   "sha256": "aa1cf4910655a5cd2268e7b635a8e5629feae17cf7802ed8b71ea3e04a95f510",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr689_22.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

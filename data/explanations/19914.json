@@ -1,0 +1,50 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Unitățile de cercetare-dezvoltare prevăzute în anexa nr. 4 se preiau și se integrează în cadrul instituțiilor de învățământ de stat, al Academiei Române și al Academiei Oamenilor de Știință din România, după caz.",
+    "text": "Unitățile de cercetare-dezvoltare prevăzute în anexa nr. 4 se preiau și se integrează în cadrul instituțiilor de învățământ de stat, al Academiei Române și al Academiei Oamenilor de Știință din România, după caz."
+   },
+   {
+    "citat": "Stațiunea de Cercetare și Producție Pomicolă Geoagiu se reorganizează sub denumirea de Stațiunea de Cercetare-Dezvoltare pentru Pomicultură Geoagiu și se preia prin absorbție de către Liceul Tehnologic Agricol „Alexandru Borza”...",
+    "text": "Stațiunea de Cercetare și Producție Pomicolă Geoagiu se reorganizează ca stațiune pentru pomicultură și este preluată de Liceul Tehnologic Agricol „Alexandru Borza” din Geoagiu."
+   },
+   {
+    "citat": "...suma de 1.600.000 lei se repartizează de către acesta, în condițiile legii, pentru plata datoriei Stațiunii de Cercetare-Dezvoltare pentru Pomicultură Geoagiu...",
+    "text": "Suma de 1.600.000 lei se repartizează din bugetul Ministerului Agriculturii și Dezvoltării Rurale pentru plata datoriilor Stațiunii de Cercetare-Dezvoltare pentru Pomicultură Geoagiu."
+   },
+   {
+    "citat": "Academia de Științe Agricole și Silvice „Gheorghe Ionescu-Șișeștiˮ virează sumele datorate Stațiunii de Cercetare-Dezvoltare pentru Pomicultură Geoagiu în termen de 10 zile lucrătoare de la încasarea acestora.",
+    "text": "Academia de Științe Agricole și Silvice virează sumele datorate către stațiune în termen de 10 zile lucrătoare de la încasare."
+   },
+   {
+    "citat": "Stațiunea de Cercetare-Dezvoltare pentru Pomicultură Geoagiu are obligația de a utiliza sumele încasate în contul distinct deschis la Trezoreria Statului, în termen de 15 zile lucrătoare de la încasare, pentru achitarea obligațiilor menționate la alin. (1).",
+    "text": "Stațiunea folosește sumele încasate în termen de 15 zile lucrătoare pentru achitarea obligațiilor de plată."
+   }
+  ],
+  "cine_este_afectat": [
+   "Unitățile de cercetare-dezvoltare din agricultură",
+   "Instituțiile de învățământ de stat și academiile vizate",
+   "Liceul Tehnologic Agricol „Alexandru Borza” din Geoagiu",
+   "Ministerul Agriculturii și Dezvoltării Rurale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește preluarea unor unități de cercetare-dezvoltare din agricultură de către universități, Academia Română și Academia Oamenilor de Știință din România. De asemenea, alocă o sumă de 1.600.000 lei pentru plata datoriilor Stațiunii Geoagiu.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reorganizarea unor stațiuni de cercetare și preluarea lor de către instituții de învățământ"
+ },
+ "generated_at": "2026-11-13T18:38:48+00:00",
+ "idp": 19914,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "421c53f510d41e0d5ff82d168a4b6ce67b5ad8bf9702e57d819633d670f54447",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr398_22.pdf"
+ },
+ "status": "ok"
+}

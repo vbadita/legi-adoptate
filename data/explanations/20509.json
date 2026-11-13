@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T18:36:06+00:00",
+ "generated_at": "2026-11-13T18:37:54+00:00",
  "idp": 20509,
  "prompt_version": 5,
- "reason": "gemini http 503",
+ "reason": "unexpected gemini response",
  "round": 1,
  "scanned": true,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2023/23L198LP.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

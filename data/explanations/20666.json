@@ -1,0 +1,41 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se transmite terenul în suprafaţă de 20 ha, număr cadastral 409/1, din domeniul public al statului şi din administrarea Academiei de Ştiinţe Agricole şi Silvice „Gheorghe Ionescu-Şişeşti” - Staţiunea de Cercetare-Dezvoltare Agricolă Suceava în domeniul public al municipiului Suceava, în vederea construirii Ansamblului Arhiepiscopal al Arhiepiscopiei Sucevei şi Rădăuţilor.",
+    "text": "Un teren de 20 hectare este transferat la municipiul Suceava pentru a construi Ansamblul Arhiepiscopal al Arhiepiscopiei Sucevei şi Rădăuţilor."
+   },
+   {
+    "citat": "Suprafaţa de teren este dezmembrată din zona centrală a lotului de 49 ha, cu deschidere la cele 2 străzi principale care îl încadrează pe laturile lungi - Drumul Judeţean 208A şi Drumul Comunal 69.",
+    "text": "Terenul transmis este scos dintr-un lot mai mare, situat între Drumul Judeţean 208A şi Drumul Comunal 69."
+   },
+   {
+    "citat": "Anexa nr. 3.11. se modifică şi se înlocuieşte cu anexa la prezenta lege.",
+    "text": "Se modifică anexa care conține datele despre suprafețele minime de teren aflate în administrarea Stațiunii de Cercetare - Dezvoltare Agricolă Suceava."
+   }
+  ],
+  "cine_este_afectat": [
+   "Stațiunea de Cercetare-Dezvoltare Agricolă Suceava",
+   "Municipiul Suceava",
+   "Arhiepiscopia Sucevei şi Rădăuţilor"
+  ],
+  "de_cand": "la 30 zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea transferă un teren de 20 hectare din administrarea Stațiunii de Cercetare-Dezvoltare Agricolă Suceava în domeniul public al municipiului Suceava, pentru construirea AnsambLului Arhiepiscopal al Arhiepiscopiei Sucevei şi Rădăuţilor. De asemenea, se actualizează anexa cu suprafețele de teren ale stațiunii.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Teren pentru Ansamblul Arhiepiscopal Suceava"
+ },
+ "generated_at": "2026-11-13T18:38:33+00:00",
+ "idp": 20666,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4a240aeb4f4c04a2d6ae3285d0bac5592db13581a7f133acf56af57a616bc963",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr083_23.pdf"
+ },
+ "status": "ok"
+}

@@ -1,8 +1,42 @@
 {
- "generated_at": "2026-11-12T18:35:56+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se aprobă trecerea bunurilor imobile – teren în suprafață de 501,4208 ha cu construcțiile aferente... din domeniul public al statului şi din administrarea Universității de Științele Vieții „Regele Mihai I” din Timișoara în domeniul privat al statului.",
+    "text": "Terenuri în suprafață de 501,4208 ha cu construcțiile aferente trec din domeniul public al statului și din administrarea universității în domeniul privat al statului."
+   },
+   {
+    "citat": "Se aprobă transmiterea bunurilor imobile – teren în suprafață de 501,4208 ha cu construcțiile aferente și teren în suprafață de 44,3154 ha... din domeniul privat al statului în proprietatea Universităţii de Științele Vieții „Regele Mihai I” din Timișoara, în vederea realizării obiectivului privind activitatea de învăţământ superior și dual în domeniul agricol, cercetare, producție",
+    "text": "Terenul de 501,4208 ha și un alt teren de 44,3154 ha trec în proprietatea universității pentru activități de învățământ, cercetare și producție."
+   },
+   {
+    "citat": "Predarea-preluarea bunurilor imobile prevăzute la art. 2 se face pe bază de protocol încheiat între părţi, în termen de 30 de zile de la intrarea în vigoare a prezentei legi.",
+    "text": "Predarea și preluarea terenurilor se face pe bază de protocol în termen de 30 de zile."
+   },
+   {
+    "citat": "Transferul drepturilor de proprietate al terenurilor prevăzute la alin. (1) este scutit de taxe pentru publicitate imobiliară.",
+    "text": "Transferul drepturilor de proprietate nu este costisitor din punct de vedere al taxelor de publicitate imobiliară."
+   },
+   {
+    "citat": "În situația încălcării prevederilor art. 4, bunurile prevăzute la art. 2 trec de drept în proprietatea publică a statului.",
+    "text": "Dacă terenurile primite în proprietate sunt înstrăinate, ele revin de drept în proprietatea publică a statului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Universitatea de Științele Vieții „Regele Mihai I” din Timișoara",
+   "Statul român"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă trecerea unor terenuri cu construcții din domeniul public al statului în domeniul privat, iar apoi în proprietatea Universității de Științele Vieții „Regele Mihai I” din Timișoara. De asemenea, un alt teren este transferat direct din domeniul privat al statului în proprietatea universității.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Terenuri trecute în proprietatea Universității de Științele Vieții Timișoara"
+ },
+ "generated_at": "2026-11-13T18:37:41+00:00",
  "idp": 20868,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +44,5 @@
   "sha256": "244e6420f6e792c83eaf83d213d79be23dce9bc40b3f903a7c9ea72f4e4e46aa",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr504_23.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

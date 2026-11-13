@@ -1,8 +1,38 @@
 {
- "generated_at": "2026-11-12T18:37:29+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Evaluarea performanţelor profesionale individuale ale funcţionarilor publici se face anual, prin intermediul sistemului informatic al Agenţiei Naţionale a Funcţionarilor Publici, începând cu data de 1 ianuarie 2025, pentru anul anterior.",
+    "text": "Evaluarea performanțelor profesionale se va face anual prin sistemul informatic al Agenției Naționale a Funcționarilor Publici, începând cu 1 ianuarie 2025."
+   },
+   {
+    "citat": "evaluarea nivelului competenţelor digitale.",
+    "text": "Criteriile de evaluare includ acum și evaluarea nivelului competențelor digitale."
+   },
+   {
+    "citat": "Evaluarea prevăzută la alin. (3) lit. c) se face prin aplicarea în mod corespunzător a prevederilor Metodologiei pentru realizarea procesului de evaluare a performanţelor profesionale...",
+    "text": "Evaluarea competențelor digitale se face folosind metodologia de evaluare existentă din Codul administrativ."
+   },
+   {
+    "citat": "Evaluarea performanțelor profesionale individuale ale funcționarilor publici se realizează în anul 2024 pentru anul 2023 potrivit legislației în vigoare până la data intrării în vigoare a prezentei legi.",
+    "text": "În anul 2024, evaluarea pentru anul 2023 se face după legea veche."
+   }
+  ],
+  "cine_este_afectat": [
+   "Funcționarii publici",
+   "Agenția Națională a Funcționarilor Publici"
+  ],
+  "de_cand": "1 ianuarie 2024",
+  "pe_scurt": "Legea modifică regulile privind evaluarea performanțelor profesionale ale funcționarilor publici, introducând evaluarea digitală și folosirea unui sistem informatic dedicat.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea evaluării funcționarilor publici"
+ },
+ "generated_at": "2026-11-13T18:38:15+00:00",
  "idp": 20338,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +40,5 @@
   "sha256": "660c3e62fe7d98309137ce9687bcef143bdf70d2cd7f30433bb8cc4c241c18e1",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr562_22.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

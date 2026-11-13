@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-12T18:37:45+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Durata arendării Art. 1837. – Durata arendării este de minimum 7 ani şi se consideră a fi făcută pe toată perioada necesară recoltării fructelor pe care bunul agricol urmează să le producă.",
+    "text": "Durata arendării este stabilită la minimum 7 ani."
+   },
+   {
+    "citat": "(2) Subarendarea totală sau parțială este interzisă, sub sancţiunea nulităţii, cu excepţia schimbului de utilizare a terenului între arendaşi.",
+    "text": "Subarendarea totală sau parțială este interzisă sub sancțiunea nulității, cu excepția schimbului de utilizare a terenului între arendași."
+   },
+   {
+    "citat": "Contractul de arendare încetează de încetare înainte de împlinirea termenului prin incapacitatea sau de menţinere sau falimentul arendaşului ori prin neplata arendei a contractelor în termenul prevăzut în contract.",
+    "text": "Contractul de arendare încetează prin incapacitatea sau falimentul arendașului ori prin neplata arendei în termen."
+   },
+   {
+    "citat": "(2) În cazul decesului arendatorului, moştenitorii sunt obligaţi să menţină contractul de arendare pe durata încheiată cu arendaşul.",
+    "text": "Moștenitorii arendatorului sunt obligați să mențină contractul pe durata încheiată."
+   },
+   {
+    "citat": "(3) În cazul vânzării terenului, cumpărătorul este obligat să menţină contractul de arendare până la expirarea termenului de valabilitate.",
+    "text": "Cumpărătorul terenului este obligat să mențină contractul de arendare până la expirarea termenului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Arendași",
+   "Arendatori",
+   "Moștenitorii arendatorilor",
+   "Cumpărătorii de terenuri agricole"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind durata arendării, interzicerea subarendării, încetarea contractului de arendare și menținerea acestuia în caz de deces sau vânzare a terenului.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind Codul civil în domeniul arendării"
+ },
+ "generated_at": "2026-11-13T18:38:17+00:00",
  "idp": 19985,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "6df39ca11ad73a36a34f1d861dd8a6b121ced2f34ceacb39f0f4a606e19c38f6",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr455_22.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

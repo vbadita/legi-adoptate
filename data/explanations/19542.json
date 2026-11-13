@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-12T18:37:13+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Persoanele care îşi desfăşoară activitatea în baza unui contract individual de muncă, a unui raport de serviciu sau a unui act administrativ de numire în funcţie, după caz, şi care îndeplinesc condiţiile de pensionare pot continua activitatea în cadrul autorităţilor şi instituţiilor publice centrale şi locale... cu acordul anual al angajatorului",
+    "text": "Continuarea activității peste vârsta standard de pensionare în sectorul public se poate face cu acordul anual al angajatorului."
+   },
+   {
+    "citat": "persoanele care își desfășoară activitatea... și care au și calitatea de beneficiari de pensie... au obligația ca, în termen de 30 de zile calendaristice de la data intrării în vigoare a prezentei legi, să își exprime în scris opțiunea pentru continuarea activității... ori pentru încetarea contractului",
+    "text": "Pensionarii din sectorul public care continuă activitatea trebuie să opteze în scris în termen de 30 de zile de la intrarea în vigoare a legii."
+   },
+   {
+    "citat": "plata pensiei se suspendă, la cerere, începând cu data de întâi a lunii următoare depunerii cererii însoțite de acordul angajatorului.",
+    "text": "Plata pensiei se suspendă la cerere începând cu luna următoare depunerii cererii însoțite de acordul angajatorului."
+   },
+   {
+    "citat": "Constituie contravenţie şi se sancţionează cu amendă de 100.000 lei nerespectarea de către angajator a prevederilor alin. (2).",
+    "text": "Nerespectarea de către angajator a obligației de a lua măsuri pentru încetarea contractului în cazurile prevăzute se sancționează cu amendă de 100.000 lei."
+   },
+   {
+    "citat": "Constituie contravenţie şi se sancţionează cu amendă de 10.000 lei nerespectarea de către angajator a prevederilor alin. (3).",
+    "text": "Nerespectarea de către angajator a obligației de informare a casei de pensii se sancționează cu amendă de 10.000 lei."
+   }
+  ],
+  "cine_este_afectat": [
+   "Personalul din instituții și autorități publice centrale și locale",
+   "Angajații din regii autonome, companii naționale și societăți cu capital de stat",
+   "Pensionarii care lucrează în sectorul public",
+   "Angajatorii din sectorul public"
+  ],
+  "de_cand": "la 30 de zile de la data publicării în Monitorul Oficial al României, Partea I",
+  "pe_scurt": "Legea reglementează condițiile în care persoanele care îndeplinesc condițiile de pensionare pot continua activitatea în sectorul public, stabilind reguli privind acordul anual al angajatorului și suspendarea pensiei în perioada activității.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri privind continuarea activității de către persoanele care îndeplinesc condițiile de pensionare"
+ },
+ "generated_at": "2026-11-13T18:38:07+00:00",
  "idp": 19542,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "1c207dd8ac7e7773fc351abdfb352c6854ce166ae1de2c3191a32cfa95d1cc09",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr421_21.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

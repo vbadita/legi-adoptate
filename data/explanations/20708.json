@@ -1,0 +1,33 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Serviciile specializate pentru gestionarea câinilor fără stăpân pot fi realizate prin gestiune directă, gestiune delegată şi concesiune, în condiţiile legii, numai către persoane juridice care pot presta activităţi în domeniul protecţiei animalelor și către asociaţii sau fundaţii care desfăşoară activități în domeniul protecţiei animalelor...",
+    "text": "Serviciile specializate pentru gestionarea câinilor fără stăpân pot fi realizate prin gestiune directă, gestiune delegată și concesiune către anumite persoane juridice sau asociații și fundații care au ca activitate protecția animalelor și care au obligația asigurării serviciilor medical-veterinare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile locale care organizează servicii pentru gestionarea câinilor fără stăpân",
+   "Persoanele juridice care activează în domeniul protecției animalelor",
+   "Asociațiile și fundațiile care desfășoară activități în domeniul protecției animalelor"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea schimbă condițiile în care serviciile specializate pentru gestionarea câinilor fără stăpân pot fi realizate.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor pentru serviciile de gestionare a câinilor fără stăpân"
+ },
+ "generated_at": "2026-11-13T18:38:38+00:00",
+ "idp": 20708,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a808324439451a98f528f039fd926ce40a1e2fa463b81650b25bfd8b5e08c584",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr116_23.pdf"
+ },
+ "status": "ok"
+}

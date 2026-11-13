@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-12T18:35:02+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Valoarea ajutorului de stat care se acordă beneficiarilor este de 4.000 euro/ha.",
+    "text": "Valoarea ajutorului de stat acordat este de 4.000 euro pe hectar."
+   },
+   {
+    "citat": "Sumele acordate cu titlu de ajutor de stat în condiţiile prezentei legi nu sunt supuse executării silite prin poprire în cazul în care împotriva beneficiarilor acestora a fost pornită procedura de executare silită.",
+    "text": "Sumele acordate nu pot fi supuse executării silite prin poprire în cazul unei proceduri de executare silită."
+   },
+   {
+    "citat": "să deţină şi să exploateze suprafeţe cultivate cu căpşune de cel puţin 0,3 ha inclusiv, iar suprafaţa destinată cultivării în spaţii protejate să fie de cel puţin 500 mp inclusiv",
+    "text": "Producătorii trebuie să dețină cel puțin 0,3 hectare cultivate în câmp sau cel puțin 500 de metri pătrați în spații protejate."
+   },
+   {
+    "citat": "să obţină o producţie de minimum 5.000 kg/ha de pe suprafaţa prevăzută la lit. d), din care să comercializeze cel puţin 3.000 kg/ha până la data de 1 noiembrie a anului pentru care se solicită sprijinul",
+    "text": "Producătorii trebuie să obțină minimum 5.000 kg/ha și să comercializeze cel puțin 3.000 kg/ha până la 1 noiembrie."
+   },
+   {
+    "citat": "Plafonul maxim al ajutorului de stat este de 42.100 mii lei anual.",
+    "text": "Plafonul maxim al ajutorului de stat este de 42.100 mii lei anual."
+   }
+  ],
+  "cine_este_afectat": [
+   "Producătorii agricoli de căpșune persoane fizice autorizate, întreprinderi individuale, întreprinderi familiale și persoane juridice",
+   "Ministerul Agriculturii și Dezvoltării Rurale",
+   "Agenția de Plăți și Intervenție pentru Agricultură"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se instituie o schemă de ajutor de stat temporar pentru producătorii agricoli de căpșune din România, finanțată de la bugetul de stat și acordată pe o perioadă de 5 ani.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Ajutor de stat pentru producătorii de căpșune"
+ },
+ "generated_at": "2026-11-13T18:37:13+00:00",
  "idp": 21264,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +45,5 @@
   "sha256": "79f9949f654f94da60db4372c43b609c6ed21cd5a3a9ab7e6383f5996205db71",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pl631_631-23_prom_stema.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

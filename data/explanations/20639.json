@@ -1,0 +1,36 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Director de departament*)/\n„6. Director de extensie S 10423 14037 4,17 5,62”\nuniversitară*)",
+    "text": "Se modifică funcția de director de extensie universitară și valorile coeficienților și salariilor aferente."
+   },
+   {
+    "citat": "De sporul pentru risc şi suprasolicitare neuropsihică prevăzut la art. 5, secţiunea 1, capitolul VIII al anexei nr. V la prezenta lege beneficiază şi personalul din cadrul Agenţiei Naţionale de Integritate.",
+    "text": "Personalul din cadrul Agenției Naționale de Integritate primește spor pentru risc și suprasolicitare neuropsihică."
+   }
+  ],
+  "cine_este_afectat": [
+   "Directorii de extensie universitară",
+   "Personalul din cadrul Agenției Naționale de Integritate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică nivelul de salarizare pentru directorii de extensie universitară și introduce un spor nou pentru personalul din cadrul Agenției Naționale de Integritate.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări la legea salarizării în sectorul public"
+ },
+ "generated_at": "2026-11-13T18:38:43+00:00",
+ "idp": 20639,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2628a26a3ebfe815d69d435c45641b7578fd2d8c7644ac68f7143cc63fc55672",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2023/pr048_23.pdf"
+ },
+ "status": "ok"
+}
