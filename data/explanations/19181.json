@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "în cazul dovezilor înlocuitoare ale permiselor de conducere - cu drept de circulație, se menține numai valabilitatea celor emise în temeiul art. 111 alin. (1) lit. b) sau alin. (4) din Ordonanța de urgență a Guvernului nr. 195/2002 ... pe toată perioada stării de alertă, precum și pentru o perioadă de 10 zile de la încetarea acestei stări.",
+    "text": "Se menține valabilitatea dovezilor înlocuitoare ale permiselor de conducere cu drept de circulație emise în baza anumitor articole, pe perioada stării de alertă și încă 10 zile după aceea."
+   },
+   {
+    "citat": "În perioada 11 ianuarie 2021 - 8 februarie 2021, prin excepție de la prevederile alin. (1), în baza și sub rezerva analizei situației epidemiologice ... prin ordin al ministrului educației, se pot dispune suspendarea activităților care impun prezența fizică a antepreșcolarilor, preșcolarilor și elevilor în unitățile de învățământ și continuarea activităților didactice în sistem on-line.",
+    "text": "În perioada 11 ianuarie 2021 - 8 februarie 2021, cursurile școlare cu prezență fizică pentru antepreșcolari, preșcolari și elevi pot fi suspendate prin ordin al ministrului educației, continuând online."
+   },
+   {
+    "citat": "Prevederile art. 61 și 62 se aplică în mod corespunzător centrelor de reținere și arestare preventivă din subordinea Ministerului Afacerilor Interne. (2) Măsurile prevăzute la art. 61 alin. (l) se pot dispune prin dispoziție a inspectorului general al Inspectoratului General al Poliției Române",
+    "text": "Anumite reguli din lege se aplică și centrelor de reținere și arestare preventivă din subordinea Ministerului Afacerilor Interne, măsurile putând fi dispuse de inspectorul general al Poliției Române."
+   }
+  ],
+  "cine_este_afectat": [
+   "Șoferi cu dovezi înlocuitoare ale permiselor de conducere",
+   "Antepreșcolari, preșcolari, elevi și unități de învățământ",
+   "Ministerul Educației și Ministerul Sănătății",
+   "Centrele de reținere și arestare preventivă"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă și modifică o ordonanță de urgență legată de măsurile pentru prevenirea și combaterea efectelor pandemiei de COVID-19. Sunt vizate valabilitatea anumitor permise de conducere, posibilitatea suspendării cursurilor fizice în școli în anumite perioade și reguli pentru centrele de reținere și arestare preventivă.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea ordonanței privind măsuri pe durata pandemiei COVID-19"
+ },
+ "generated_at": "2026-11-14T18:38:47+00:00",
+ "idp": 19181,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1ca2979ae17f50d96823ee3650b1fd90d38fe9812dc085d2799f996adbf5f8db",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr112_21.pdf"
+ },
+ "status": "ok"
+}

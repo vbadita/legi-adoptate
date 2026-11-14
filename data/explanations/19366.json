@@ -1,0 +1,50 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "(2^1) Până la data intrării în vigoare a reglementării prevăzute la alin. (1), atribuţiile instanţei de tutelă referitoare la exercitarea tutelei cu privire la bunurile minorului sau ale interzisului judecătoresc... sunt îndeplinite de instanțele competente potrivit dreptului comun, cu citarea autorității tutelare.",
+    "text": "Atribuțiile instanței de tutelă privind bunurile minorului sau ale interzisului și numirea curatorului special sunt îndeplinite de instanțele competente potrivit dreptului comun."
+   },
+   {
+    "citat": "(3^1) Până la data intrării în vigoare a reglementării... atribuţiile instanţei de tutelă referitoare la exercitarea tutelei cu privire la bunurile minorului sau ale interzisului judecătoresc... revin instanţelor, secţiilor sau, după caz, completurilor specializate... care comunică cererea... autorității tutelare în vederea... prezentării unui raport scris...",
+    "text": "Atribuțiile referitoare la bunurile minorului sau ale interzisului revin secțiilor specializate pentru minori și familie, care cer un raport scris autorității tutelare."
+   },
+   {
+    "citat": "(3^2) Până la data intrării în vigoare a reglementării prevăzute la alin. (1), măsura plasamentului, a plasamentului în regim de urgenţă şi a supravegherii specializate sunt adoptate şi monitorizate de instanţele, secţiile sau, după caz, completurile specializate pentru minori şi familie, cu citarea direcţiei generale de asistenţă socială şi protecţia copilului.",
+    "text": "Măsurile de plasament și supraveghere specializată sunt adoptate și monitorizate de instanțele specializate pentru minori și familie, cu citarea Direcției Generale de Asistență Socială și Protecția Copilului."
+   },
+   {
+    "citat": "(3^4) Persoanele interesate pot adresa direct instanței de judecată sau autorității tutelare, respectiv direcţiei generale de asistenţă socială şi protecţia copilului, cereri privitoare la tutela persoanei ocrotite.",
+    "text": "Persoanele interesate pot depune cereri direct la instanță, autoritatea tutelară sau la direcția de asistență socială."
+   },
+   {
+    "citat": "(3^6) În vederea exercitării atribuţiilor... autorităţile şi instituţiile publice, persoanele fizice şi juridice, sunt obligate să comunice autorităţii tutelare, respectiv direcţiei generale de asistenţă socială şi protecţia copilului toate datele solicitate... în termenul fixat de instanţa de judecată.",
+    "text": "Autoritățile și instituțiile publice, precum și persoanele fizice și juridice trebuie să comunice toate datele cerute în termenul fixat de instanță."
+   }
+  ],
+  "cine_este_afectat": [
+   "Minori",
+   "Interziși judecătorești",
+   "Tutori",
+   "Instituții publice de ocrotire și asistență socială"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege stabilește ce instanțe și instituții se ocupă de tutela minorilor, bunurile acestora și măsurile de protecție specială până la intrarea în vigoare a unei noi reglementări.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea atribuțiilor privind tutela și Protecția Copilului"
+ },
+ "generated_at": "2026-11-14T18:38:36+00:00",
+ "idp": 19366,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c9b6b8f6103bdc3cb78fc09a97884d9d07d6eabbfa248f0324b724febe1da439",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr252_21.pdf"
+ },
+ "status": "ok"
+}

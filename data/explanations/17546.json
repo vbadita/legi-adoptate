@@ -1,0 +1,50 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În limita atribuţiilor lor, consiliile judeţene, Consiliul General al Municipiului Bucureşti şi consiliile locale adoptă, în termen de maximum 6 luni de la data adoptării prezentei legi, strategii locale în domeniul tineretului şi un plan de măsuri pentru perioada mandatului lor.",
+    "text": "Consiliile județene, Consiliul General al Municipiului București și consiliile locale trebuie să adopte strategii locale în domeniul tineretului și un plan de măsuri în termen de maximum 6 luni de la adoptarea legii."
+   },
+   {
+    "citat": "minimum 25% din fondurile judeţene destinate activităţii de tineret vor fi utilizate pentru programe adresate mediului rural.",
+    "text": "Autoritățile locale au obligația să aloce anual cel puțin 25% din fondurile destinate activității de tineret pentru programe adresate mediului rural."
+   },
+   {
+    "citat": "constituie contravenție şi se sancționează cu amendă între 500 şi 2.500 lei. ... constituie contravenție şi se sancționează de către Instituția Prefectului cu amendă între 10.000 şi 20.000 lei.",
+    "text": "Se stabilesc amenzi contravenționale între 500 și 2.500 lei sau între 10.000 și 20.000 lei pentru autoritățile care nu respectă obligațiile legate de consultarea tinerilor, adoptarea strategiilor sau alocarea bugetară."
+   },
+   {
+    "citat": "Se instituie ziua de 2 mai ca Ziua Naţională a Tineretului. ... Se instituie Ziua Adolescentului şi se sărbătoreşte în cea de-a doua duminică a lunii mai. ... România sărbătorește ziua de 12 august ca Ziua Internațională a Tineretului ... România sărbătoreşte ziua de 17 noiembrie ca Ziua Internaţională a Elevului şi a Studentului.",
+    "text": "Se instituie la nivel național ziua de 2 mai ca Ziua Națională a Tineretului, prima duminică a lunii mai ca Ziua Adolescentului, 12 august ca Ziua Internațională a Tineretului și 17 noiembrie ca Ziua Internațională a Elevului și a Studentului."
+   },
+   {
+    "citat": "La data intrării în vigoare a prezentei legi se abrogă: a) Legea nr. 197/1997 ... b) Legea nr. 425/2004 ... c) Legea nr. 333/2006 ... d) Legea tinerilor nr. 350/2006 ... e) Legea nr. 351/2006",
+    "text": "Se abrogă vechile legi privind tinerii, centrele de informare și consiliere, precum și cele referitoare la zilele dedicate tineretului și adolescenților."
+   }
+  ],
+  "cine_este_afectat": [
+   "Tinerii cu vârsta între 14 și 35 de ani",
+   "Autoritățile administrației publice centrale și locale",
+   "Organizațiile neguvernamentale de și pentru tineret",
+   "Familiile tinere și tinerii aparținând grupurilor vulnerabile"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește cadrul juridic pentru politicile de tineret, drepturile, facilitățile și măsurile de protecție socială destinate tinerilor, precum și atribuțiile autorităților centrale și locale în acest domeniu.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Legea tinerilor"
+ },
+ "generated_at": "2026-11-14T18:37:09+00:00",
+ "idp": 17546,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "23d95e4faab8ecee2625b17b176681c3f48a83800e94c9c7705433646bdf93ad",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr716_18.pdf"
+ },
+ "status": "ok"
+}

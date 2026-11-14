@@ -1,0 +1,49 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Petentul este obligat să completeze formularul de plângere contravențională atunci când sancțiunea contestată este avertismentul sau amenda care nu depășește suma de 3.000 lei. (2) Odată cu formularul de plângere împotriva procesului-verbal... se depun ori se trimit şi copii de pe înscrisurile... şi se indică dovezile...",
+    "text": "Pentru avertismente sau amenzi de până la 3.000 lei, petentul trebuie să completeze un formular de plângere contravențională și să depună copii după înscrisuri și dovezi."
+   },
+   {
+    "citat": "instanţa acordând acestuia posibilitatea să completeze sau să rectifice formularul... în termen de cel mult 10 zile de la primirea comunicării, sub sancţiunea anulării plângerii... se dispune anularea plângerii.",
+    "text": "Dacă formularul nu este completat corect sau informațiile nu sunt clare, instanța acordă cel mult 10 zile pentru corectare, altfel plângerea se anulează."
+   },
+   {
+    "citat": "Împotriva încheierii de anulare, petentul va putea face numai cerere de reexaminare... Cererea de reexaminare se face în termen de 15 zile de la data comunicării încheierii.",
+    "text": "Împotriva încheierii de anulare a plângerii se poate face cerere de reexaminare în termen de 15 zile de la comunicare."
+   },
+   {
+    "citat": "În termen de 30 de zile de la comunicarea actelor... organul care a aplicat sancţiunea va trimite instanţei formularul tipizat de răspuns, precum şi copii de pe înscrisurile de care înţelege să se folosească...",
+    "text": "Organul care a aplicat sancțiunea are la dispoziție 30 de zile să trimită instanței formularul tipizat de răspuns și copii de pe înscrisuri."
+   },
+   {
+    "citat": "Procedura cu privire la plângerile contravenționale, atunci când sancțiunea contestată este avertismentul sau amenda care nu depășește suma de 3.000 lei, este scrisă și se desfășoară în camera de consiliu... Instanţa va redacta şi pronunţa hotărârea în termen de 30 de zile...",
+    "text": "Procedura pentru aceste plângeri este scrisă și se desfășoară în camera de consiliu, iar instanța redactează hotărârea în 30 de zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele care primesc un avertisment sau o amendă de până la 3.000 lei",
+   "Instituțiile sau organele care aplică sancțiuni contravenționale",
+   "Instanțele de judecată"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește o procedură scrisă specială pentru contestarea avertismentelor și a amenzilor de până la 3.000 lei. Cei care contestă trebuie să folosească un formular tipizat de plângere și să depună actele doveditoare necesare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi pentru plângerile împotriva amenzilor mici și a avertismentelor"
+ },
+ "generated_at": "2026-11-14T18:38:11+00:00",
+ "idp": 19455,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b911cfb51991a6392681fecc739e940323899a4d38c6be1f7a44335b74bd7f4a",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr589_21.pdf"
+ },
+ "status": "ok"
+}

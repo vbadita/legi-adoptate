@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-14T18:38:06+00:00",
+ "idp": 19399,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6b44cc1f8b5f94b601aa58ad0ef7c3c9058bb127f6adf949e2d3534e75643b9d",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr530_21.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

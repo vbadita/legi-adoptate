@@ -1,8 +1,33 @@
 {
- "generated_at": "2026-11-13T18:37:54+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Studenții din cadrul instituțiilor de învățământ superior militar ale Ministerului Afacerilor Interne, formați pentru nevoile acestui minister, care, din motive neimputabile lor, sunt declarați inapți pentru serviciul militar de către autoritățile competente, în urma unei expertize medicale definitive, pot opta pentru continuarea studiilor în aceeași instituție. Programul de studiu al acestora va fi organizat la forma de învățământ cu frecvență, cu înlocuirea în curriculă a disciplinelor cu specific militar.",
+    "text": "Studenții declarați inapți pentru serviciul militar din motive neimputabile lor pot opta pentru continuarea studiilor la forma cu frecvență, cu înlocuirea disciplinelor cu specific militar."
+   },
+   {
+    "citat": "La absolvire, persoanelor prevăzute la alin.1^1 nu li se acordă gradul militar şi nu sunt încadrate în structurile Ministerului Afacerilor Interne.",
+    "text": "La absolvire, acestor persoane nu li se acordă gradul militar și nu sunt încadrate în structurile Ministerului Afacerilor Interne."
+   },
+   {
+    "citat": "Studenții prevăzuți la art.36 alin.1^1 sunt exonerați de obligația restituirii cheltuielilor efectuate pe timpul desfășurării programelor de studii atât în cazul definitivării studiilor, cât și în cazul părăsirii instituției militare de învățământ.",
+    "text": "Studenții respectivi sunt scutiți de la obligația de a restitui cheltuielile efectuate cu studiile, indiferent dacă le finalizează sau dacă părăsesc instituția militară de învățământ."
+   }
+  ],
+  "cine_este_afectat": [
+   "Studenții din instituțiile de învățământ superior militar ale Ministerului Afacerilor Interne"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește că studenții din învățământul militar superior al MAI care devin inapți medical din motive neimputabile lor pot continua studiile. Aceștia nu vor primi grad militar la absolvire, nu vor fi încadrați în MAI și nu trebuie să returneze cheltuielile de studiu.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Statutul studenților militari declarați inapți medical"
+ },
+ "generated_at": "2026-11-14T18:36:53+00:00",
  "idp": 20509,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "unexpected gemini response",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +35,5 @@
   "sha256": "34c43d709654f9e0e513c40ad4067033d1f69b68d993f2686233a90a0f8c4e19",
   "url": "https://www.senat.ro/legis/PDF/2023/23L198LP.PDF"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

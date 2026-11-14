@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-14T18:37:48+00:00",
+ "idp": 18756,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "3aefba36966ec974d8b31cd680d9ad2f3255bba16a1d0b126dd7bea1c72d4acf",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr643_20.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

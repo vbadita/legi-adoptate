@@ -1,0 +1,34 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "mandatul directorului general interimar se prelungeste de drept pana la numirea Consiliului de administratie in conditiile legii.",
+    "text": "Mandatul directorului general interimar se prelungește de drept până la numirea Consiliului de administrație, dacă desemnarea conducerii nu este făcută până la încetarea mandatului interimar la termen în timpul vacanței parlamentare și Parlamentul nu este convocat în sesiune extraordinară."
+   }
+  ],
+  "cine_este_afectat": [
+   "Societatea Română de Radiodifuziune",
+   "Societatea Română de Televiziune",
+   "Directorul general interimar",
+   "Parlamentul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă o ordonanță de urgență care stabilește reguli pentru prelungirea mandatului directorului general interimar la Societatea Română de Radiodifuziune și Societatea Română de Televiziune.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 89/2021 privind Radioul și Televiziunea Română"
+ },
+ "generated_at": "2026-11-14T18:38:44+00:00",
+ "idp": 19452,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "d3d54cd8d9df35ebe6a8139787b90429ff5fc1670d8a5cb14a915f188b6cc099",
+  "url": "https://www.senat.ro/legis/PDF/2021/21L431LP.PDF"
+ },
+ "status": "ok"
+}

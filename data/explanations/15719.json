@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. ‒ Se aprobă Ordonanţa de urgenţă a Guvernului nr. 6 din 11 martie 2016 privind unele măsuri pentru punerea în executare a mandatelor de supraveghere tehnică dispuse în procesul penal",
+    "text": "Se aprobă Ordonanța de urgență a Guvernului nr. 6 din 11 martie 2016 privind unele măsuri pentru punerea în executare a mandatelor de supraveghere tehnică dispuse în procesul penal."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institucțiile implicate în procesul penal și în punerea în executare a mandatelor de supraveghere tehnică"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul aprobă Ordonanța de urgență a Guvernului nr. 6/2016 referitoare la măsurile pentru punerea în executare a mandatelor de supraveghere tehnică în procesul penal.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței de urgență nr. 6/2016 privind mandatele de supraveghere tehnică"
+ },
+ "generated_at": "2026-11-14T18:38:42+00:00",
+ "idp": 15719,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "1c950cc04cbdbaed5b9e1b858f2cb948f6aeb89f0fd53411dfd1bc499ff11980",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2016/pr250_16.pdf"
+ },
+ "status": "ok"
+}

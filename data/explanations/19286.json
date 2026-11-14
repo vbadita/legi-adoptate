@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-14T18:37:58+00:00",
+ "idp": 19286,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "7be140522051c87c1258bd0eff4ab897017982c7e250c44d39938afc88e35019",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr395_21.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}
