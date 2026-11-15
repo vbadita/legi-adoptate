@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-14T18:37:43+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Alegerea membrilor consiliului colegiului teritorial se va face pe specialităţi medicale după cum urmează: a) specialităţi medicale; b) specialităţi chirurgicale; c) specialităţi paraclinice; d) medicină de familie. (2) Numărul celor aleşi va fi în funcţie de numărul membrilor înregistraţi...",
+    "text": "Alegerea membrilor consiliului colegiului teritorial se face pe specialităţi medicale, iar numărul celor aleşi depinde de numărul membrilor înregistraţi."
+   },
+   {
+    "citat": "Pentru colegiile teritoriale pe raza cărora funcţionează unităţi medicale în care îşi desfăşoară stagiul de pregătire profesională medici rezidenţi, în luna octombrie a fiecărui an, aceştia îşi vor alege un reprezentant.",
+    "text": "Medicii rezidenți își vor alege un reprezentant în luna octombrie a fiecărui an, în colegiile teritoriale unde există unități medicale de pregătire."
+   },
+   {
+    "citat": "Consiliul naţional al CMR este alcătuit din: a) preşedinţii colegiilor teritoriale; b) câte un reprezentant al colegiilor cu un număr cuprins între 1500 – 3000 de membri; c) câte doi reprezentanţi ai colegiilor...",
+    "text": "Se stabilesc regulile pentru alcătuirea Consiliului național al Colegiului Medicilor din România și modul în care acesta ia decizii."
+   },
+   {
+    "citat": "Membrii organelor de conducere ai CMR, de la nivel naţional şi teritorial, precum şi cei ai comisiilor de disciplină... au dreptul, la cerere, la suspendarea contractului individual de muncă pe durata exercitării mandatului... sau la cel mult 4 absenţe motivate pe lună fără diminuarea drepturilor salariale.",
+    "text": "Membrii organelor de conducere ale CMR și ai comisiilor de disciplină pot cere suspendarea contractului de muncă pe durata mandatului sau cel mult 4 absențe motivate pe lună."
+   },
+   {
+    "citat": "modificarea tarifelor pentru verificările tehnice în vederea autorizării funcționării... se realizează prin ordin emis de ministerul de resort, o dată la 3 ani, în baza unei analize structurale de costuri...",
+    "text": "Modificarea tarifelor pentru verificările tehnice realizate de CNCIR se realizează prin ordin o dată la 3 ani."
+   }
+  ],
+  "cine_este_afectat": [
+   "Medici",
+   "Medici rezidenți",
+   "Colegiul Medicilor din România",
+   "CNCIR"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța Guvernului nr. 9/2019, aducând modificări privind organizarea Colegiului Medicilor din România, stabilirea tarifelor CNCIR și alte măsuri.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobare OUG privind sănătatea și alte măsuri"
+ },
+ "generated_at": "2026-11-15T18:37:33+00:00",
  "idp": 18114,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "6dee88c3481d1d13b76dfc5a79d87a8e5f5e1af17edc884ea44d4342fffd89a4",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2019/pr484_19.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

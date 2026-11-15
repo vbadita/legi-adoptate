@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:37:02+00:00",
+ "generated_at": "2026-11-15T18:37:16+00:00",
  "idp": 20238,
  "prompt_version": 5,
  "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text']",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2022/pr462_22.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

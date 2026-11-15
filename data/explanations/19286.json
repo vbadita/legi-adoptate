@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-11-14T18:37:58+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se transmite suprafața de teren de 50,3278 ha, aflată în domeniul public al statului, din administrarea Institutului National de Cercetare-Dezvoltare pentru Biologie și Nutriție Animală – IBNA Balotești, județul Ilfov, în administrarea Institutului Național de Cercetare-Dezvoltare pentru Bioresurse Alimentare – IBA București.",
+    "text": "O suprafață de teren de 50,3278 hectare din comuna Mogoșoaia trece din administrarea Institutului Național de Cercetare-Dezvoltare pentru Biologie și Nutriție Animală – IBNA Balotești în administrarea Institutului Național de Cercetare-Dezvoltare pentru Bioresurse Alimentare – IBA București."
+   },
+   {
+    "citat": "Predarea-preluarea suprafeței de teren transmis potrivit art. 54 alin. (7)... se face pe bază de protocol încheiat între părți, în termen de 30 de zile de la data intrării în vigoare a prezentei legi.",
+    "text": "Predarea și preluarea terenului transmis se fac pe baza unui protocol încheiat între părți în termen de 30 de zile de la intrarea în vigoare a legii."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Ministerul Cercetării, Inovării și Digitalizării elaborează un proiect de hotărâre pentru modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1705/2006...",
+    "text": "Ministerul Cercetării, Inovării și Digitalizării elaborează un proiect de hotărâre pentru modificarea inventarului centralizat al bunurilor din domeniul public al statului în termen de 90 de zile."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institutul Național de Cercetare-Dezvoltare pentru Biologie și Nutriție Animală – IBNA Balotești",
+   "Institutul Național de Cercetare-Dezvoltare pentru Bioresurse Alimentare – IBA București",
+   "Ministerul Cercetării, Inovării și Digitalizării"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică administrarea unor suprafețe de teren aflate în domeniul public al statului și folosite de institute de cercetare-dezvoltare din agricultură.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii privind Academia de Științe Agricole și Silvice"
+ },
+ "generated_at": "2026-11-15T18:37:40+00:00",
  "idp": 19286,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "7be140522051c87c1258bd0eff4ab897017982c7e250c44d39938afc88e35019",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr395_21.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
