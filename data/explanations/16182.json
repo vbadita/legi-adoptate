@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se respinge Ordonanţa de urgenţă a Guvernului nr. 85 din 23 noiembrie 2016 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 23/2008 privind pescuitul şi acvacultura",
+    "text": "Se respinge Ordonanța de urgență a Guvernului nr. 85 din 23 noiembrie 2016 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 23/2008 privind pescuitul și acvacultura."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele vizate de domeniul pescuitului și acvaculturii"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României a adoptat o lege prin care se respinge Ordonanța de urgență a Guvernului nr. 85/2016.",
+  "tip": "altele",
+  "titlu_simplu": "Respingerea OUG nr. 85/2016 privind pescuitul și acvacultura"
+ },
+ "generated_at": "2026-11-16T18:38:00+00:00",
+ "idp": 16182,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 3,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b79738b240e11cb0b0d01e97c0e244a729b2bb883fb46aec67965c47f36715d1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?F-311081963/pr132_17.pdf"
+ },
+ "status": "ok"
+}

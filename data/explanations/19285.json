@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T18:37:21+00:00",
+ "generated_at": "2026-11-16T18:37:45+00:00",
  "idp": 19285,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 2: numerele 5 nu apar în citatul punctului']",
+ "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr.400_21.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

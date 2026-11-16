@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-16T18:39:02+00:00",
+ "idp": 18695,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "0ec26cc44e26dca437ba8c2170ccac38349093d00ef6fa22e3b8c7ee975f0112",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr372_20.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

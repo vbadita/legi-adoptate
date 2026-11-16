@@ -1,0 +1,42 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "să nu diminueze suprafața spațiilor verzi prin nicio acțiune sau fapt juridic",
+    "text": "Se introduc obligații clare pentru proprietari și administratori, printre care aceea de a nu diminua suprafața spațiilor verzi și de a asigura întreținerea acestora."
+   },
+   {
+    "citat": "Este strict interzisă înstrăinarea, inclusiv prin retrocedare, precum şi atribuirea folosinței terenurilor amenajate sau prevazute ca spatii verzi aflate în proprietatea publică sau privată a statului sau a unitatilor administrativ-teritoriale, în favoarea persoanelor fizice sau juridice, în alt mod decât printr-un contract de administrare",
+    "text": "Se interzice strict înstrăinarea sau atribuirea folosinței terenurilor amenajate ca spații verzi din domeniul public sau privat în alt mod decât prin contract de administrare."
+   },
+   {
+    "citat": "cu amendă de la 1.000 lei la 5.000 lei pentru fiecare metru pătrat de spațiu verde afectat prin faptele prevăzute la lit. d), h), k) și l).",
+    "text": "Se stabilesc amenzi și sancțiuni contravenționale pentru distrugerea, poluarea sau afectarea spațiilor verzi și a vegetației."
+   }
+  ],
+  "cine_este_afectat": [
+   "Proprietarii și administratorii de spații verzi",
+   "Autoritățile administrației publice locale și centrale",
+   "Persoanele fizice și juridice",
+   "Agenții economici care desfășoară activități în spațiile verzi"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aduce modificări importante privind administrarea, protecția, clasificarea și finanțarea spațiilor verzi din intravilanul localităților. Sunt stabilite reguli clare pentru proprietari și autorități, precum și sancțiuni pentru faptele care aduc atingere spațiilor verzi.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii spațiilor verzi din localități"
+ },
+ "generated_at": "2026-11-16T18:38:22+00:00",
+ "idp": 17487,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "ccf3a7c3a5fc4915dab13ac68cb7f7b78cccce198f508bd87e2651609329bd75",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr668_18.pdf"
+ },
+ "status": "ok"
+}

@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-11-11",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 0,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L270/2026",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L270&an_cls=2026#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl488_pr488_26.pdf",
  "timeline": [
   {
    "day": "2026-03-11",
@@ -86,6 +86,11 @@
    "day": "2026-11-11",
    "kind": "adopted",
    "text": "adoptat de Camera Deputatilor titlu: Lege pentru modificarea şi completarea Legii nr.185/2016 privind unele măsuri necesare pentru implementarea proiectelor de importanţă naţională în domeniul gazelor naturale, precum şi privind completarea Ordonanţei de urgenţă a Guvernului nr.9/2025 pentru reglementarea unor măsuri referitoare la unele proiecte de extindere şi schimbare a destinaţiei, conversia sau modernizarea reţelelor de transport şi distribuţie a gazelor naturale, pentru modificarea şi com"
+  },
+  {
+   "day": "2026-11-16",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.185/2016 privind unele măsuri necesare pentru implementarea proiectelor de importanţă naţională în domeniul gazelor naturale",

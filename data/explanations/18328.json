@@ -1,0 +1,31 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se respinge Ordonanta de urgen^a a Guvernului nr.91 din 30 decembrie 2019 privind desfiinlarea Institutului Revoluliei Rom&ie din Decembrie 1989",
+    "text": "Se respinge Ordonanța de urgență a Guvernului nr. 91 din 30 decembrie 2019 privind desființarea Institutului Revoluției Române din Decembrie 1989."
+   }
+  ],
+  "cine_este_afectat": [
+   "Institutul Revoluției Române din Decembrie 1989"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României adoptă o lege prin care respinge Ordonanța de urgență a Guvernului nr. 91 din 30 decembrie 2019 privind desființarea Institutului Revoluției Române din Decembrie 1989.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Respingerea ordonanței de desființare a Institutului Revoluției Române"
+ },
+ "generated_at": "2026-11-16T18:38:02+00:00",
+ "idp": 18328,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 2,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "0fdf0079a38ff3c92390217b87a1fa2306d14c9e88dad58e8d54f9142496817a",
+  "url": "https://www.senat.ro/legis/PDF/2020/20L251LP.PDF"
+ },
+ "status": "ok"
+}

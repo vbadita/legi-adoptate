@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-16T18:39:04+00:00",
+ "idp": 18829,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "senat: forma trimisă la promulgare",
+  "sha256": "b2f29c4341565202836de64b172ba9b125724d18e0be06214461f127f99e4ed1",
+  "url": "https://www.senat.ro/legis/PDF/2020/20L562LP.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

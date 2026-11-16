@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:38:16+00:00",
+ "generated_at": "2026-11-16T18:37:55+00:00",
  "idp": 18901,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr555_20.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-11-11",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 1,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L120/2026",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L120&an_cls=2026#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl174_pr174_26.pdf",
  "timeline": [
   {
    "day": "2026-03-09",
@@ -85,7 +85,12 @@
   {
    "day": "2026-11-11",
    "kind": "adopted",
-   "text": "adoptat de Camera Deputatilor rezultat vot pentru=242, contra=0, abtineri=1, nu au votat=2"
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=242, contra=0, abtineri=1, nu au votat=2 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-16",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Proiect de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr.5/2015 privind deşeurile de echipamente electrice şi electronice",

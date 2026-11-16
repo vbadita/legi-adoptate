@@ -1,0 +1,48 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă exonerarea clienților băncilor de economisire şi creditare în domeniul locativ... de la rambursarea către Ministerul Lucrărilor Publice, Dezvoltării şi Administrației a sumelor reprezentând prima de stat datorate ca urmare a constatărilor Curţii de Conturi prin Deciziile emise în anul 2015, precum şi a accesoriilor aferente.",
+    "text": "Clienții băncilor de economisire și creditare în domeniul locativ sunt scutiți de la restituirea sumelor reprezentând prima de stat și a accesoriilor, stabilite prin deciziile Curții de Conturi din anul 2015, către Ministerul Lucrărilor Publice, Dezvoltării și Administrației."
+   },
+   {
+    "citat": "Se exonerează de la plată şi impozitul pe venit, contribuţiile sociale şi obligaţiile fiscale accesorii sumelor prevăzute la alin. (1), consecinţă a constatării Curţii de Conturi.",
+    "text": "Sunt scutite de la plată impozitul pe venit, contribuțiile sociale și obligațiile fiscale accesorii pentru sumele menționate."
+   },
+   {
+    "citat": "Impozitul pe venit, contribuţiile sociale şi alte sume derivând din obligaţii fiscale accesorii sumelor prevăzute la alin. (1) încasate până la data intrării în vigoare a prezentei legi nu se restituie.",
+    "text": "Impozitul pe venit, contribuțiile sociale și sumele din obligații fiscale accesorii încasate până la data intrării în vigoare a legii nu se dau înapoi."
+   },
+   {
+    "citat": "orice persoană fizică, indiferent de vârstă, poate încheia contracte de economisire-creditare cu una sau mai multe bănci... şi poate beneficia de prima de stat dacă îndeplineşte celelalte condiţii expres prevăzute de lege",
+    "text": "Orice persoană fizică, indiferent de vârstă, poate încheia astfel de contracte și poate primi prima de stat dacă îndeplinește condițiile legale."
+   },
+   {
+    "citat": "clienții care au încheiat un contract de economisire-creditare cu o durată de peste 5 ani, pot beneficia de prima de stat fără a fi necesară justificarea utilizării în scop locativ dacă până la împlinirea duratei minime de economisire nu au existat retrageri totale sau parţiale",
+    "text": "Clienții cu contracte de peste 5 ani pot primi prima de stat fără să justifice utilizarea banilor în scop locativ, dacă nu au făcut retrageri din sold până la termen."
+   }
+  ],
+  "cine_este_afectat": [
+   "Clienții băncilor de economisire și creditare în domeniul locativ",
+   "Ministerul Lucrărilor Publice, Dezvoltării și Administrației"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea scutește clienții băncilor de economisire și creditare în domeniul locativ de la restituirea sumelor reprezentând prima de stat și accesoriile stabilite de Curtea de Conturi în 2015. De asemenea, stabilește modul în care trebuie interpretate regulile privind acordarea primei de stat pentru contractele încheiate înainte de modificările aduse prin Legea nr. 164/2018.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Scutirea clienților băncilor de economisire-creditare de la plata primei de stat"
+ },
+ "generated_at": "2026-11-16T18:38:11+00:00",
+ "idp": 18605,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "4ed59c8eadbf86f5935f62bacc5a0e7ada71454fec5feb4c89dac9046de2c9c1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr292_20.pdf"
+ },
+ "status": "ok"
+}
