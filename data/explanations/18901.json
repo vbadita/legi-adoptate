@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-16T18:37:55+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă transmiterea terenului aferent reţelelor de cale ferată îngustă Târgu Mureş - Band - Miheşu de Câmpie, Târgu Mureş - Sovata - Câmpu Cetăţii ... din domeniul public al statului şi din administrarea Ministerului Transporturilor și Infrastructurii ... în domeniul public al judeţului Mureş.",
+    "text": "Terenul aferent rețelelor de cale ferată îngustă Târgu Mureș - Band - Miheşu de Câmpie, Târgu Mureș - Sovata - Câmpu Cetății este transferat din domeniul public al statului în domeniul public al județului Mureș."
+   },
+   {
+    "citat": "Predarea-preluarea terenurilor transmise potrivit art.1 se face pe bază de protocol încheiat între părţile interesate, în termen de 30 de zile de la data intrării în vigoare a prezentei legi.",
+    "text": "Predarea și preluarea terenurilor se face prin protocol în termen de 30 de zile de la intrarea în vigoare a legii."
+   },
+   {
+    "citat": "După preluare, terenurile prevăzute în anexă vor fi utilizate în vederea realizării investiţiei „Înfiinţarea unei piste de biciclete pe traseul fostei căi ferate înguste Târgu Mureş - Band - Miheşu de Câmpie, Târgu Mureş - Sovata - Câmpu Cetăţii”.",
+    "text": "Terenurile vor fi folosite pentru înființarea unei piste de biciclete pe traseul fostei căi ferate."
+   },
+   {
+    "citat": "În situaţia în care terenurile transmise nu sunt folosite în conformitate cu destinaţia prevăzută la art. 2 alin. (2), în termen de 5 ani, acestea revin în domeniul public al statului...",
+    "text": "Dacă terenurile nu sunt folosite pentru pista de biciclete în termen de 5 ani, ele revin în domeniul public al statului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Județul Mureș",
+   "Ministerul Transporturilor și Infrastructurii",
+   "Compania Naţională de Căi Ferate „CFR” - SA"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă transferul unor terenuri ale fostei căi ferate înguste din județul Mureș din proprietatea statului în domeniul public al județului Mureș, pentru realizarea unei piste de biciclete.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Terenuri pentru piste de biciclete în Mureș"
+ },
+ "generated_at": "2026-11-17T18:38:52+00:00",
  "idp": 18901,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "445b996d69f36166f150f815f1eeb420116ac6aef320c011b796a0727f39b3bd",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr555_20.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

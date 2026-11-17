@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-17T18:39:49+00:00",
+ "idp": 18596,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b248c1ccae086107f32992de3db14a51b834e39cbbdc190c84dd50f7b83f8706",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr276_20.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

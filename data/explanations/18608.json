@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-17T18:39:35+00:00",
+ "idp": 18608,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "b10684086b286f9ec4bc2d1cab6ea4f62478a04b6f3cec7483d5c252f33de7e4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr_294_20_pdf.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

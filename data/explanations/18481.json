@@ -1,0 +1,45 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "obligația de plată a ratelor scadente aferente împrumuturilor, reprezentând rate de capital, dobânzi și comisioane, acordate debitorilor de către creditori până la data intrării în vigoare a prezentei legi, se suspendă, la cererea debitorului, până la 31 decembrie 2020",
+    "text": "Obligația de plată a ratelor pentru împrumuturi se poate suspenda, la cerere, până la 31 decembrie 2020."
+   },
+   {
+    "citat": "obligația de plată a ratelor scadente aferente împrumuturilor, reprezentând rate de capital, dobânzi și comisioane, acordate debitorilor afectați de toate tipurile de secetă de către creditori până la data intrării în vigoare a prezentei ordonanțe de urgență, se suspendă la cererea debitorului cu până la 18 luni, dar nu mai mult de 31 octombrie 2021",
+    "text": "Pentru debitorii afectați de secetă, plata ratelor se poate suspenda cu până la 18 luni, dar cel mult până la 31 octombrie 2021."
+   },
+   {
+    "citat": "Dobânda datorată de debitori, precum și comisioanele aferente corespunzătoare sumelor scadente a căror plată a fost suspendată nu se capitalizează la soldul creditului existent, la finalul perioadei de suspendare.",
+    "text": "Dobânda și comisioanele aferente sumelor a căror plată a fost suspendată nu se adaugă la soldul creditului la finalul perioadei."
+   },
+   {
+    "citat": "Orice proceduri de executare silită, inclusiv urmărirea silită a bunurilor mobile, urmărirea silită imobiliară sau popririle de orice fel, începute până la data intrării în vigoare a prezentei legi, intră sub incidența moratoriului și se suspendă până la 31 decembrie 2020.",
+    "text": "Procedurile de executare silită începute până la data intrării în vigoare a legii se suspendă până la 31 decembrie 2020."
+   }
+  ],
+  "cine_este_afectat": [
+   "Debitorii persoane fizice și juridice",
+   "Instituțiile de credit și instituțiile financiare nebancare",
+   "Persoanele fizice autorizate, întreprinderile individuale și familiale"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă Ordonanța de urgență a Guvernului nr. 37/2020 și stabilește reguli privind suspendarea ratelor, dobânzilor și comisioanelor pentru anumite categorii de debitori.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Facilități pentru creditele acordate de instituții de credit"
+ },
+ "generated_at": "2026-11-17T18:40:34+00:00",
+ "idp": 18481,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a3e504973144ea4b1d366af1f35b156b8c49502704c5a09d0537efed039ad0d4",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr.143_20.pdf"
+ },
+ "status": "ok"
+}

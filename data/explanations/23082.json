@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:37:15+00:00",
+ "generated_at": "2026-11-17T18:38:23+00:00",
  "idp": 23082,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl174_pr174_26.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

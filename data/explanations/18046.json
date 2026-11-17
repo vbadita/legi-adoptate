@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-17T18:39:40+00:00",
+ "idp": 18046,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9b84f57f203a6fcfb2c5c5d38bda99133a615d570aacd940d33a1aa5746b515e",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2019/pr396_19.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

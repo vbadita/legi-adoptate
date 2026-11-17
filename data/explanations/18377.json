@@ -1,0 +1,42 @@
+{
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "La nivelul Regiunilor de Dezvoltare ale României, începând cu perioada de programare 2021-2027, Agențiile pentru Dezvoltare Regională organizate potrivit Legii nr. 315/2004... îndeplinesc funcția de Autoritate de Management pentru Programele Operaționale de Dezvoltare Regională...",
+    "text": "Agențiile pentru Dezvoltare Regională îndeplinesc funcția de Autoritate de Management pentru programele operaționale regionale începând cu perioada 2021-2027."
+   },
+   {
+    "citat": "Personalul angajat al autorității contractante responsabil de procedurile de achiziții conform strategiei de achiziții și personalul care face parte din comisiile de evaluare a ofertelor poate beneficia de o indemnizație pe procedură la nivelul unui salariu minim brut pe economie...",
+    "text": "Personalul implicat în procedurile de achiziții publice pentru proiecte de infrastructură poate beneficia de o indemnizație de un salariu minim brut pe economie dacă respectă anumite condiții."
+   },
+   {
+    "citat": "Controlul ex ante asupra procesului de atribuire a contractelor de achiziție publică ce au ca obiect proiectele de infrastructură și indicată sursa de finanțare din fonduri nerambursabile europene este control ex ante prioritar, exercitat în termen de maximum 10 zile lucrătoare de la data transmiterii deciziei de verificare...",
+    "text": "Controlul ex ante prioritar efectuat de ANAP pentru proiectele de infrastructură cu finanțare europeană se exercită în termen de maximum 10 zile lucrătoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Autoritățile de Management",
+   "Agențiile pentru Dezvoltare Regională",
+   "Unitățile administrativ-teritoriale",
+   "Beneficiarii de fonduri nerambursabile europene"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește măsuri privind utilizarea fondurilor nerambursabile europene pentru perioadele de programare 2014-2020 și 2021-2027, descentralizarea deciziilor la nivel regional, reguli noi pentru achiziții publice în proiecte de infrastructură și sprijin pentru pregătirea documentațiilor tehnico-economice.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Măsuri pentru fondurile europene nerambursabile și infrastructură"
+ },
+ "generated_at": "2026-11-17T18:40:07+00:00",
+ "idp": 18377,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "6fa06a8b113cdcad13a0dfe3f9b496df2282653f6f063ba634ef792349141499",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr354_20.docx.pdf"
+ },
+ "status": "ok"
+}

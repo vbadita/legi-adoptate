@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-11-16T18:37:58+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "se aprobă transmiterea unor terenuri, denumite în continuare bunuri imobile, având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului, aflate în administrarea Ministerului Transporturilor şi Infrastructurii şi concesiunea Companiei Naţionale de Căi Ferate C.F.R. - SA., în domeniul public al municipiului Brad şi al comunelor Şoimuş, Luncoiu de Jos, Vălişoara şi Băiţa",
+    "text": "Se aprobă transmiterea unor terenuri din domeniul public al statului şi din concesiunea C.F.R. în domeniul public al municipiului Brad şi al comunelor Şoimuş, Luncoiu de Jos, Vălişoara şi Băiţa."
+   },
+   {
+    "citat": "Predarea-primirea bunurilor imobile prevăzute la art. 1 se face pe bază de protocol încheiat între părţile interesate, în termen de 120 de zile de la data intrării în vigoare a prezentei legi.",
+    "text": "Predarea-primirea bunurilor imobile se face pe bază de protocol în termen de 120 de zile de la data intrării în vigoare a legii."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Transporturilor şi Infrastructurii",
+   "Compania Naţională de Căi Ferate C.F.R. - S.A.",
+   "Municipiul Brad",
+   "Comunele Şoimuş, Luncoiu de Jos, Vălişoara şi Băiţa"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Se aprobă trecerea unor terenuri de la stat, administrate de Ministerul Transporturilor şi Infrastructurii şi concesionate C.F.R., în domeniul public al municipiului Brad şi al comunelor Şoimuş, Luncoiu de Jos, Vălişoara şi Băiţa. Predarea se face în termen de 120 de zile.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Transmiterea unor terenuri în domeniul public al municipiului Brad şi al unor comune"
+ },
+ "generated_at": "2026-11-17T18:38:55+00:00",
  "idp": 19619,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +34,5 @@
   "sha256": "c1cad83d65317ac77c8b056c94badcd5cfedb5aa224e3c0bf92708d3147ee770",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2021/pr_536_21.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

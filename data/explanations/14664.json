@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-11-16T18:38:06+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Republicarea actului normativ se face la aceeaşi dată cu publicarea actului normativ de modificare şi/sau completare.",
+    "text": "Republicarea actelor normative se face la aceeași dată cu publicarea actului de modificare sau completare."
+   },
+   {
+    "citat": "În situația în care Consiliul Legislativ emite aviz negativ, actul normativ în cauză nu se republică.",
+    "text": "Dacă Consiliul Legislativ emite un aviz negativ pentru forma republicabilă, actul normativ nu se mai republică."
+   },
+   {
+    "citat": "În cazul legilor adoptate în ședință comună a Camerei Deputaților și Senatului, republicarea se realizează de către Camera Deputaților.",
+    "text": "Pentru legile adoptate în ședință comună a Camerei Deputaților și Senatului, republicarea se face de către Camera Deputaților."
+   },
+   {
+    "citat": "În termen de 60 de zile de la intrarea în vigoare a art. II – IV din prezenta lege, Senatul, Camera Deputaților, Guvernul și Consiliul Legislativ își vor organiza câte o structură proprie de specialitate pentru republicarea actelor normative.",
+    "text": "Senatul, Camera Deputaților, Guvernul și Consiliul Legislativ își organizează structuri proprii de specialitate pentru republicare în termen de 60 de zile de la intrarea în vigoare a articolelor II-IV."
+   }
+  ],
+  "cine_este_afectat": [
+   "Parlamentul României",
+   "Guvernul României",
+   "Consiliul Legislativ",
+   "Monitorul Oficial al României"
+  ],
+  "de_cand": "1 ianuarie 2022",
+  "pe_scurt": "Legea stabilește reguli clare pentru republicarea legilor și a altor acte normative în Monitorul Oficial, stabilind atribuțiile instituțiilor și termenele de urmat.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Reguli noi privind republicarea actelor normative"
+ },
+ "generated_at": "2026-11-17T18:38:58+00:00",
  "idp": 14664,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "b6eedbca63fd7eb169d8ad9dac795985cd58e0a1775460b26f0b77c7706b25de",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2015/pr122_15.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
