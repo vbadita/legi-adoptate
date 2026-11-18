@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "orașul Căzănești, județul Ialomița, trece la rangul de comună",
+    "text": "Orașul Căzănești din județul Ialomița devine comună."
+   },
+   {
+    "citat": "Legea nr.134/2004 se abrogă.",
+    "text": "Legea nr. 134/2004 prin care Căzănești era declarat oraș se abrogă."
+   }
+  ],
+  "cine_este_afectat": [
+   "Locuitorii orașului Căzănești, județul Ialomița"
+  ],
+  "de_cand": "la 30 de zile de la publicarea în Monitorul Oficial al României, Partea I.",
+  "pe_scurt": "Orașul Căzănești din județul Ialomița trece la rangul de comună. Legea abrogă vechea lege care declara Căzănești ca oraș și modifică actele normative corespunzător.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Trecerea orașului Căzănești la rangul de comună"
+ },
+ "generated_at": "2026-11-18T18:38:01+00:00",
+ "idp": 23228,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "bed1fa85f5e1a1cc23b341089897d4b7651626765e9071d08c35945a0ae4e19d",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L569FS.PDF"
+ },
+ "status": "ok"
+}

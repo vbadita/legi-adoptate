@@ -1,0 +1,106 @@
+{
+ "character": "ordinar",
+ "decisional_chamber": "Senat",
+ "idp": 23137,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 241/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-11-16",
+   "chamber": "Senat",
+   "confirmed": true,
+   "public_vote": null,
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-06-02",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Senat",
+     "day": "2026-11-16",
+     "kind": "adopted",
+     "vote": null
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L363/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L363&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": null,
+ "timeline": [
+  {
+   "day": "2026-03-25",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Guvernului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru apărare, ordine publică şi siguranţă naţională termen depunere amendamente: 06.04.2026 termen depunere raport: 16.04.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia juridică, de disciplină şi imunităţi Comisia pentru politică externă"
+  },
+  {
+   "day": "2026-04-09",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru politică externă"
+  },
+  {
+   "day": "2026-04-16",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-04-22",
+   "kind": "other",
+   "text": "primire raport favorabil de la: Comisia pentru apărare, ordine publică şi siguranţă naţională face parte din categoria legilor ordinare"
+  },
+  {
+   "day": "2026-05-04",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru ședința Camerei Deputaților din ziua de 6 mai 2026"
+  },
+  {
+   "day": "2026-05-11",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru sedinţele Camerei Deputaţilor din zilele de 11 si 13 mai 2026"
+  },
+  {
+   "day": "2026-05-18",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 18 şi 20 mai 2026"
+  },
+  {
+   "day": "2026-05-26",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 26 şi 27 mai 2026"
+  },
+  {
+   "day": "2026-06-02",
+   "kind": "other",
+   "text": "dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei sau înregistrarea video"
+  },
+  {
+   "day": "2026-06-02",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor ca urmare a depasirii termenului de 45 de zile, potrivit art.75 alin.(2) teza a III-a din Constitutia României republicata Forma adoptată de Cameră SE"
+  },
+  {
+   "day": "2026-06-02",
+   "kind": "other",
+   "text": "înaintat la Senat"
+  },
+  {
+   "day": "2026-11-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat PA"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege pentru ratificarea Acordului între Consiliul de Miniştri al Bosniei şi Herţegovina şi Guvernele celorlalte părţi la Iniţiativa de Pregătire şi Prevenire a Dezastrelor din Sud-Estul Europei privind aranjamentele ţării gazdă pentru Secretariatul Iniţiativei de Pregătire şi Prevenire a Dezastrelor din Sud-Estul Europei, deschis spre semnare la 4 aprilie 2018, la Ankara şi semnat de Guvernul României la 4 iulie 2018, la Sarajevo",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23137"
+}

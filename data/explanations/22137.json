@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-18T18:36:50+00:00",
+ "idp": 22137,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "288cde81bf0a7eef842033cdea3c3f032b804add0e3389968dc44e094f314ca5",
+  "url": "https://www.senat.ro/legis/PDF/2024/24L588FS.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

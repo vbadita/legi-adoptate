@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-11-17T18:39:35+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă transmiterea unui bun imobil-teren, aflat în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor și în concesiunea Companiei Naționale de Căi Ferate „C.F.R.” – S.A., având datele de identificare prevăzute în anexa care face parte integrantă din prezenta lege, din domeniul public al statului în domeniul public al Municipiului București.",
+    "text": "Un teren este transferat din domeniul public al statului în domeniul public al Municipiului București."
+   },
+   {
+    "citat": "Predarea-preluarea bunului imobil prevăzut la art.1 se realizează în baza unui protocol de predare-primire în termen de cel mult 30 de zile de la data intrării în vigoare a prezentei legi.",
+    "text": "Predarea și preluarea terenului se fac prin protocol în cel mult 30 de zile de la intrarea în vigoare."
+   },
+   {
+    "citat": "În situaţia în care bunul imobil transmis nu este folosit în conformitate cu destinaţia prevăzută la alin. (2) în termen de 5 ani, acesta revine în domeniul public al statului, în administrarea Ministerului Transporturilor, Infrastructurii și Comunicațiilor şi concesiunea Companiei Naţionale de Căi Ferate „C.F.R.” – S.A., în condiţiile legii.",
+    "text": "Dacă terenul nu este folosit în termen de 5 ani pentru infrastructură rutieră și dezvoltare urbană, el revine la stat."
+   }
+  ],
+  "cine_este_afectat": [
+   "Municipiul București",
+   "Ministerul Transporturilor, Infrastructurii și Comunicațiilor",
+   "Compania Națională de Căi Ferate „C.F.R.” – S.A."
+  ],
+  "de_cand": null,
+  "pe_scurt": "Un teren este transferat din domeniul public al statului și din administrarea Ministerului Transporturilor în domeniul public al Municipiului București.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Teren pentru infrastructură rutieră și dezvoltare urbană în București"
+ },
+ "generated_at": "2026-11-18T18:39:17+00:00",
  "idp": 18608,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "b10684086b286f9ec4bc2d1cab6ea4f62478a04b6f3cec7483d5c252f33de7e4",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr_294_20_pdf.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-18T18:37:15+00:00",
+ "idp": 23392,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "248ad50717d8bc66f73a9e24f70a7c37e45cc2c45af94409c23ae6dc78df2290",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L314FS.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

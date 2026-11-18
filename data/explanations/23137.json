@@ -1,0 +1,35 @@
+{
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se ratifică Acordul dintre Consiliul de Miniştri al Bosniei şi Herţegovina şi Guvernele celorlalte părţi la Iniţiativa de Pregătire şi Prevenire a Dezastrelor din Sud-Estul Europei privind aranjamentele ţării gazdă... semnat de Guvernul României la 4 iulie 2018, la Sarajevo.",
+    "text": "Se ratifică Acordul privind aranjamentele țării gazdă pentru Secretariatul Inițiativei de Pregătire și Prevenire a Dezastrelor din Sud-Estul Europei, semnat la 4 iulie 2018."
+   },
+   {
+    "citat": "Acordul nu se aplică provizoriu de la data semnării pentru România. Prin urmare, pentru Guvernul României, Acordul se aplică de la data intrării în vigoare pentru partea română.",
+    "text": "Acordul nu se aplică provizoriu de la data semnării pentru România, ci se aplică de la data intrării în vigoare pentru partea română."
+   }
+  ],
+  "cine_este_afectat": [
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă ratificarea de către România a acordului privind aranjamentele țării gazdă pentru Secretariatul Inițiativei de Pregătire și Prevenire a Dezastrelor din Sud-Estul Europei. De asemenea, stabilește aplicarea acordului în funcție de intrarea sa în vigoare pentru partea română.",
+  "tip": "ratificarea unui acord",
+  "titlu_simplu": "Ratificarea Acordului privind aranjamentele pentru Secretariatul Inițiativelor de Dezastre"
+ },
+ "generated_at": "2026-11-18T18:37:48+00:00",
+ "idp": 23137,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "893904f3e2686f869975d6f07686e6079873befedf47a77044afbdc15f70f4e6",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L363FS.PDF"
+ },
+ "status": "ok"
+}

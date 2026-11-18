@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-18T18:37:30+00:00",
+ "idp": 23511,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "9e3965c121ecf5649d64fff8ca4b9deb3e185d271e9a4b77d48571e7279e8363",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl594_pr594_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

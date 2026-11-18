@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-18T18:37:26+00:00",
+ "idp": 23498,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "7c0c2fd3ccfa5f35902725bae14623dc920bceedccef815d07e70684c426727a",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L496FS.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

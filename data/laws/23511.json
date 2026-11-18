@@ -1,0 +1,98 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23511,
+ "law": null,
+ "monitor": null,
+ "number": "PL-x nr. 594/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-11-18",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 0,
+    "day": "2026-11-18",
+    "nu_au_votat": 1,
+    "pentru": 245
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-09-16",
+     "kind": "adopted",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-11-18",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 0,
+      "nu_au_votat": 1,
+      "pentru": 245
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L396/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L396&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl594_pr594_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-09-16",
+   "kind": "adopted",
+   "text": "adoptat de Senat adoptare cu respectarea prevederilor art.76 alin.(1) din Constitutia României Forma adoptată de Senat CD"
+  },
+  {
+   "day": "2026-09-21",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia pentru muncă şi protecţie socială Comisia pentru transporturi şi infrastructură termen depunere amendamente: 30.09.2026 termen depunere raport: 08.10.2026 trimis pentru aviz la: Comisia pentru buget, finanţe şi bănci Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale Comisia pentru administraţie "
+  },
+  {
+   "day": "2026-10-07",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+  },
+  {
+   "day": "2026-10-14",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia juridică, de disciplină şi imunităţi"
+  },
+  {
+   "day": "2026-11-04",
+   "kind": "other",
+   "text": "primire aviz de la: Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+  },
+  {
+   "day": "2026-11-10",
+   "kind": "other",
+   "text": "primire raport favorabil (15 amend. admise, 6 amend. respinse) de la: Comisia pentru muncă şi protecţie socială Comisia pentru transporturi şi infrastructură face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-11-16",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor pentru şedinţele Camerei Deputaţilor din zilele de 16 şi 18 noiembrie 2026 dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "adopted",
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=245, contra=0, abtineri=0, nu au votat=1 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Proiect de Lege pentru modificarea art.1<sup>1</sup> din Legea nr.147/2000 privind reducerile acordate pensionarilor pentru transportul intern, pentru modificarea Legii nr.44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război, precum şi pentru modificarea Ordonanţei Guvernului nr.8/2011 pentru modificarea şi completarea legislaţiei cu privire la eliberarea, gestionarea şi monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război şi văduvelor de război",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23511"
+}

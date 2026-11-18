@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-18T18:37:02+00:00",
+ "idp": 23098,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "c52b961e0aee6b63b4b8c0d7fafd5bc4c29a9576f08531a5396eecb72d47551a",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L107FS.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

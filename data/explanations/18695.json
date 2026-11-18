@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-11-17T18:39:18+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "b) să fie efectuat șase luni de stagiatură sub îndrumarea organizației vânătorești care gestionează cel puțin un fond cinegetic, la care solicită să fie înscris, cu excepția absolvenților de învățământ superior cu profil cinegetic.",
+    "text": "Stagiatura necesară trebuie făcută timp de șase luni sub îndrumarea organizației vânătorești, fiind exceptați absolvenții de învățământ superior cu profil cinegetic."
+   },
+   {
+    "citat": "c) cu păsări de pradă.",
+    "text": "Se introduce o nouă categorie privind modalitățile permise, respectiv vânătoarea cu păsări de pradă."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele care doresc să devină vânători",
+   "Organizațiile vânătorești",
+   "Absolvenții de învățământ superior cu profil cinegetic"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică cerințele pentru perioada de stagiatură în vederea vânătorii și introduce posibilitatea practicării vânătorii cu păsări de pradă.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii vânătorii și protecției fondului cinegetic"
+ },
+ "generated_at": "2026-11-18T18:39:07+00:00",
  "idp": 18695,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +33,5 @@
   "sha256": "0ec26cc44e26dca437ba8c2170ccac38349093d00ef6fa22e3b8c7ee975f0112",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr372_20.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }
