@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:39:46+00:00",
+ "generated_at": "2026-11-19T18:39:54+00:00",
  "idp": 18596,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2020/pr276_20.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

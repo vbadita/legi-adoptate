@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-19T18:40:38+00:00",
+ "idp": 16971,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "93743fb5dd821711f756d0854289fa16c9166a29564afca1344728f898820415",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr__162_18.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

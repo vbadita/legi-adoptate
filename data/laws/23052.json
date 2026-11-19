@@ -2,10 +2,16 @@
  "character": "ordinar",
  "decisional_chamber": "Camera Deputaților",
  "idp": 23052,
- "law": null,
+ "law": {
+  "day": "2026-11-19",
+  "number": "219/2026"
+ },
  "monitor": null,
  "number": "Pl-x nr. 455/2026",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-18",
+  "decree": "851/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-28",
@@ -136,6 +142,16 @@
    "day": "2026-11-07",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 851/2026"
+  },
+  {
+   "day": "2026-11-19",
+   "kind": "other",
+   "text": "devine Legea nr.219/2026"
   }
  ],
  "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor electronice",

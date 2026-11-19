@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:40:31+00:00",
+ "generated_at": "2026-11-19T18:40:16+00:00",
  "idp": 18095,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2019/19L603LP.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

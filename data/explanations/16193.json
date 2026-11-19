@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-19T18:41:26+00:00",
+ "idp": 16193,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "3e41411c57793b5fde435364e9be4e0bc35a5eecd1475384881eb608b13ac74f",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr226_17.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

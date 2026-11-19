@@ -2,10 +2,16 @@
  "character": "organic",
  "decisional_chamber": "Senat",
  "idp": 23259,
- "law": null,
+ "law": {
+  "day": "2026-11-19",
+  "number": "218/2026"
+ },
  "monitor": null,
  "number": "PL-x nr. 372/2026",
- "promulgation": null,
+ "promulgation": {
+  "day": "2026-11-18",
+  "decree": "850/2026"
+ },
  "rounds": [
   {
    "adopted_on": "2026-10-21",
@@ -89,6 +95,16 @@
    "day": "2026-10-31",
    "kind": "sent_to_president",
    "text": "trimitere la Presedintele României pentru promulgare"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "promulgated",
+   "text": "promulgata prin Decret nr. 850/2026"
+  },
+  {
+   "day": "2026-11-19",
+   "kind": "other",
+   "text": "devine Legea nr.218/2026"
   }
  ],
  "title": "Proiect de Lege pentru desemnarea sediilor desemnate şi numirea reprezentanţilor legali în scopul obţinerii de probe electronice în cadrul procedurilor penale",

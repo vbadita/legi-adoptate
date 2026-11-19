@@ -1,0 +1,31 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Articol unic. – Se aprobă Ordonanţa Guvernului nr. 4 din 20 iulie 2017 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal",
+    "text": "Se aprobă Ordonanța Guvernului nr. 4 din 20 iulie 2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal."
+   }
+  ],
+  "cine_este_afectat": [
+   "Contribuabilii vizați de Codul fiscal"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Parlamentul României aprobă Ordonanța Guvernului nr. 4/2017 care aduce modificări și completări Legii nr. 227/2015 privind Codul fiscal.",
+  "tip": "aprobarea unei ordonanțe",
+  "titlu_simplu": "Aprobarea Ordonanței Guvernului nr. 4/2017 privind Codul fiscal"
+ },
+ "generated_at": "2026-11-19T18:41:20+00:00",
+ "idp": 16541,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "49d5caa8051572535875adc0172c3cb85aaa756933b3b88fa828091032ee05f1",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr348_17.pdf"
+ },
+ "status": "ok"
+}

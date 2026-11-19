@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:37:26+00:00",
+ "generated_at": "2026-11-19T18:39:04+00:00",
  "idp": 23498,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2026/26L496FS.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-19T18:40:28+00:00",
+ "idp": 16672,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "cea6809fcb4179bf1216277ea2fb2a6ef1b0aac955a39230263be1c42a9588a8",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr133_18.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

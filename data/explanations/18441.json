@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T18:39:48+00:00",
+ "generated_at": "2026-11-19T18:39:57+00:00",
  "idp": 18441,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text', 'punctul 2: citatul nu apare exact în text', 'punctul 3: citatul nu apare exact în text', 'punctul 4: citatul nu apare exact în text']",
+ "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2020/20L313LP.PDF"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }

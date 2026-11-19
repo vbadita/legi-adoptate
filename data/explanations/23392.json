@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:37:15+00:00",
+ "generated_at": "2026-11-19T18:38:58+00:00",
  "idp": 23392,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.senat.ro/legis/PDF/2026/26L314FS.PDF"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }
