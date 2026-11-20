@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-20T18:39:19+00:00",
+ "idp": 8928,
+ "prompt_version": 5,
+ "reason": "rejected after 2 attempts: ['punctul 1: citatul nu apare exact în text']",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "58342646a549feb488a90c8fe6cd536dfd0857122e71bb8d618c061341f84400",
+  "url": "https://www.cdep.ro/proiecte/2008/200/30/0/pr230_08.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

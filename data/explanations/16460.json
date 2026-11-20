@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-19T18:40:43+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Constatarea contravenţiilor şi aplicarea sancţiunilor se fac direct de către poliţistul rutier, iar în punctele de trecere a frontierei de stat a României, de către poliţiştii de frontieră. Poliţiştii rutieri, respectiv poliţiştii de frontieră sunt obligaţi să poarte uniformă cu înscrisuri şi însemne distinctive.",
+    "text": "Constatarea contravențiilor și aplicarea sancțiunilor se fac direct de către polițistul rutier, iar la frontieră de polițiștii de frontieră, purtând uniformă cu înscrisuri și însemne distinctive."
+   },
+   {
+    "citat": "Constatarea contravenţiilor cu privire la faptele care încalcă dispoziţiile privind limitele de viteză se face numai cu ajutorul mijloacelor tehnice certificate sau a mijloacelor tehnice omologate şi verificate metrologic...",
+    "text": "Viteza excesivă se poate constata numai cu ajutorul mijloacelor tehnice certificate sau omologate și verificate metrologic."
+   },
+   {
+    "citat": "Dispozitivele destinate măsurării vitezei se instalează exclusiv pe autovehicule care prezintă înscrisurile şi însemnele distinctive ale poliţiei rutiere. Dispozitivele mobile, de tip pistol, destinate măsurării vitezei se utilizează la o distanţă maximă de 10 metri de autovehiculele...",
+    "text": "Mașinile cu aparate de măsurare a vitezei trebuie să aibă înscrisurile și însemnele distinctive ale poliției rutiere. Dispozitivele mobile de tip pistol se folosesc la o distanță maximă de 10 metri de acestea."
+   },
+   {
+    "citat": "Se interzice utilizarea dispozitivelor de măsurare a vitezei din autovehicule care nu prezintă înscrisurile şi însemnele distinctive, de către poliţişti care nu poartă uniforme... şi care nu sunt amplasate în locuri vizibile.",
+    "text": "Este interzisă folosirea aparatelor de măsurare a vitezei din mașini fără însemne de poliție sau de către polițiști fără uniformă sau din locuri care nu sunt vizibile."
+   },
+   {
+    "citat": "În cazurile prevăzute la alin. (3) şi numai cu respectarea prevederilor alin. (1) şi (4), procesul-verbal se poate încheia şi în lipsa contravenientului... fără a fi necesară confirmarea faptelor de către martori.",
+    "text": "Procesul-verbal pentru depășirea vitezei se poate încheia și în lipsa șoferului, după stabilirea identității acestuia, fără a fi nevoie de martori."
+   }
+  ],
+  "cine_este_afectat": [
+   "Conducătorii auto",
+   "Poliția rutieră",
+   "Polițiștii de frontieră"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabilește cum se constată contravențiile pe drumurile publice, cine poate aplica sancțiuni și în ce condiții pot fi folosite aparatele care măsoară viteza.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea regulilor privind constatarea contravențiilor rutiere"
+ },
+ "generated_at": "2026-11-20T18:38:15+00:00",
  "idp": 16460,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 2,
  "scanned": false,
  "source": {
@@ -10,6 +45,5 @@
   "sha256": "f2be683c8ce6827cbe7a70da14fcb934e8d9f54b51e9130ecf3212bcda48e963",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr112_18__1_.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

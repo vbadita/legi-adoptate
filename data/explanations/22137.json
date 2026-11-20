@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-19T18:38:46+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Programul național „Baschet pentru Mileniul 3”, este un program național care constă într-un complex de activități necesare susținerii practicării și dezvoltării jocului de baschet din categoria copii și juniori, în vederea obținerii de noi performanțe sportive...",
+    "text": "Se introduce programul național „Baschet pentru Mileniul 3” pentru susținerea baschetului la copii și juniori."
+   },
+   {
+    "citat": "Programul național „Baschet pentru Mileniul 3”, cuprinde următoarele subprograme: a) baschet - campion în școala mea; b) „să creștem sănătos” în sistemul preșcolar și ciclul primar; c) „descoperirea de talente, viitorii performeri ai României;” d) infrastructura sportivă didactică; e) integrare socială prin baschet pentru persoane cu nevoi speciale; f) baschet pentru toți în sistemul rural; g) licențierea antrenorilor, instructorilor, cadrelor didactice prin dezvoltarea centrelor de baschet.",
+    "text": "Programul include mai multe subprograme, precum baschet în școli, în mediul rural sau pentru persoane cu nevoi speciale."
+   },
+   {
+    "citat": "Finanțarea Programului național „Baschet pentru Mileniul 3” este asigurată din fonduri prevăzute distinct în bugetul de stat, alocații bugetare, venituri proprii ale Agenției Naționale pentru Sport și din fonduri de la bugetele locale.",
+    "text": "Finanțarea programului vine din bugetul de stat, fonduri de la bugetele locale, alocații bugetare și venituri proprii ale Agenției Naționale pentru Sport."
+   }
+  ],
+  "cine_este_afectat": [
+   "Copii și juniori practicanți ai baschetului",
+   "Federația Română de Baschet",
+   "Unități administrativ-teritoriale și structuri ale administrației centrale",
+   "Antrenori, instructori și cadre didactice"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea introduce în Legea educației fizice și sportului nr.69/2000 programul național „Baschet pentru Mileniul 3”. Acesta este derulat de Federația Română de Baschet și susținut de stat.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Programul național Baschet pentru Mileniul 3"
+ },
+ "generated_at": "2026-11-20T18:36:59+00:00",
  "idp": 22137,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +38,5 @@
   "sha256": "288cde81bf0a7eef842033cdea3c3f032b804add0e3389968dc44e094f314ca5",
   "url": "https://www.senat.ro/legis/PDF/2024/24L588FS.PDF"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-11-19T18:40:16+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Inspeetoratul General al Poliliei Române este condus de un inspector general, numit de ministrul afacerilor interne. (2) Inspectorul general este ajutat de adjunc(i numi(i de către ministrul afacerilor interne.",
+    "text": "Inspectorul general al Poliției Române și adjuncții săi sunt numiți de ministrul afacerilor interne."
+   },
+   {
+    "citat": "În condiliile alin.(1), polilia locală, în totalitate sau numai în anumite unităli administrativ-teritoriale, îşi va desfăşura activitatea în subordinea Inspectoratului General al Poliliei Române.",
+    "text": "În caz de stare de urgență sau situații excepționale care afectează grav ordinea publică, poliția locală poate trece în subordinea Inspectoratului General al Poliției Române."
+   },
+   {
+    "citat": "Limitele de vârstă în gradul profesional până la care poliliştii pot fi menlinuli în serviciu sunt vârstele standard de pensionare pentru limită de vârstă prevăzute de Legea nr.223/2015 privind pensiile militare de stat",
+    "text": "Limitele de vârstă în gradul profesional până la care polițiștii pot fi menținuți în serviciu sunt vârstele standard de pensionare pentru limită de vârstă prevăzute de legea pensiilor militare."
+   },
+   {
+    "citat": "După împlinirea vârstei de 60 de ani, poliliştii prevăzuli la alin.(2) sunt menlinuli în serviciu până la împlinirea vârstei de 62 de ani, la cerere, dacă starea de sănătate le permite ... prin ordin al ministrului afacerilor interne.",
+    "text": "După împlinirea vârstei de 60 de ani, anumiți polițiști pot fi menținuți în serviciu până la vârsta de 62 de ani, la cerere, prin ordin al ministrului afacerilor interne."
+   }
+  ],
+  "cine_este_afectat": [
+   "Poliția Română",
+   "Polițiștii",
+   "Poliția locală",
+   "Ministerul Afacerilor Interne"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Această lege aduce schimbări modului de conducere a Poliției Române, stabilește reguli clare pentru situații excepționale și reglementează vârsta până la care polițiștii pot rămâne în activitate.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind Poliția Româna și Statutul polițistului"
+ },
+ "generated_at": "2026-11-20T18:38:01+00:00",
  "idp": 18095,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +42,5 @@
   "sha256": "38548c77f0dcdb0c376d2ec76683ffe652e8ba9c2fc3c5eb1c6b40b90b265bc1",
   "url": "https://www.senat.ro/legis/PDF/2019/19L603LP.PDF"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

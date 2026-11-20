@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-11-19T18:39:04+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "...până la data de 31 decembrie 2027, pentru scopurile prevăzute la art.337 alin. (2), cardul național de asigurări sociale de sănătate și cartea electronică de identitate pot fi utilizate în mod alternativ...",
+    "text": "Cardul național de asigurat și cartea electronică de identitate pot fi utilizate în mod alternativ ca instrumente de autentificare ... până la data de 31 decembrie 2027."
+   },
+   {
+    "citat": "Este interzisă solicitarea adeverinței de asigurat în situația în care calitatea de asigurat poate fi verificată electronic potrivit alin.(1^1)...",
+    "text": "Este interzisă solicitarea adeverinței de asigurat dacă această calitate poate fi verificată electronic."
+   },
+   {
+    "citat": "Neprezentarea cardului național sau a adeverinței de asigurat conduce la acordarea acestor servicii numai contra cost, cu excepția serviciilor prevăzute la art.232...",
+    "text": "Neprezentarea cardului național sau a adeverinței de asigurat duce la plata serviciilor medicale, cu anumite excepții."
+   }
+  ],
+  "cine_este_afectat": [
+   "Asigurații din sistemul de sănătate",
+   "Furnizorii de servicii medicale",
+   "Casa Națională de Asigurări de Sănătate"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind dovedirea calității de asigurat în sistemul de sănătate prin utilizarea verificării electronice, a cardului național sau a cărții electronice de identitate. Se stabilește modul în care furnizorii de servicii medicale verifică aceste date.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii sănătății privind verificarea calității de asigurat"
+ },
+ "generated_at": "2026-11-20T18:37:09+00:00",
  "idp": 23498,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "7c0c2fd3ccfa5f35902725bae14623dc920bceedccef815d07e70684c426727a",
   "url": "https://www.senat.ro/legis/PDF/2026/26L496FS.PDF"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }

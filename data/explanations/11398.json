@@ -1,0 +1,37 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "În ziua referendumului, la ora 6,00, preşedintele biroului electoral al secţiei de votare, în prezenţa celorlalţi membri, verifică urnele, existenţa listelor electorale, a buletinelor de vot şi a ştampilelor, după care închide şi sigilează urnele...",
+    "text": "În ziua referendumului, la ora 6,00, preşedintele biroului electoral al secţiei de votare verifică urnele, listele, buletinele și ștampilele, apoi închide și sigilează urnele."
+   },
+   {
+    "citat": "Intervalul de timp pentru desfăşurarea referendumului naţional se va stabili prin hotărâre a Guvernului.",
+    "text": "Intervalul de timp pentru desfășurarea referendumului național se stabilește prin hotărâre a Guvernului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Birourile electorale ale secțiilor de votare",
+   "Guvernul României",
+   "Cetățenii cu drept de vot"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile pentru verificarea secțiilor de votare în ziua referendumului și modul în care se stabilește intervalul de timp pentru referendumul național.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea legii privind organizarea și desfășurarea referendumului"
+ },
+ "generated_at": "2026-11-20T18:39:04+00:00",
+ "idp": 11398,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "c0b81fe099330cb39790f130b41b4f6abc35690ed2e49f77301e31ad9ff40092",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2011/pr332_11.pdf"
+ },
+ "status": "ok"
+}

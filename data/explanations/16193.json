@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-11-19T18:41:26+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Sunt exceptate de la aplicarea prevederilor prezentei ordonanţe de urgenţă: Administraţia Naţională de Meteorologie, Regia Autonomă „Monitorul Oficial”...",
+    "text": "Se stabilesc instituțiile și companiile de stat exceptate de la aplicarea prevederilor ordonanței de urgență privind guvernanța corporativă."
+   },
+   {
+    "citat": "De la data intrării în vigoare a prezentei legi, exceptările de la prevederile Ordonanţei de urgenţă a Guvernului nr. 109/2011 privind guvernanţa corporativă a întreprinderilor publice... se aprobă prin hotărâre de Guvern.",
+    "text": "Exceptările de la prevederile ordonanței de urgență se aprobă prin hotărâre de Guvern, începând de la data intrării în vigoare a prezentei legi."
+   }
+  ],
+  "cine_este_afectat": [
+   "Întreprinderile publice și instituțiile menționate în text",
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică lista instituțiilor și companiilor de stat care sunt exceptate de la regulile privind guvernanța corporativă din Ordonanța de urgență a Guvernului nr. 109/2011 și stabilește că viitoarele exceptări se aprobă prin hotărâre de Guvern.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea excepțiilor de la guvernanța corporativă a întreprinderilor publice"
+ },
+ "generated_at": "2026-11-20T18:38:51+00:00",
  "idp": 16193,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +32,5 @@
   "sha256": "3e41411c57793b5fde435364e9be4e0bc35a5eecd1475384881eb608b13ac74f",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr226_17.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

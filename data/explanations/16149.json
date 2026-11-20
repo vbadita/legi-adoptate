@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-19T18:41:31+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Membrii organismelor consultative constituite la nivelul Ministerului Sănătăţii beneficiază de o indemnizaţie lunară de 10% din indemnizaţia ministrului, care se acordă proporţional cu numărul de participări efective la şedinţe.",
+    "text": "Membrii organismelor consultative de la Ministerul Sănătății primesc o indemnizație lunară de 10% din indemnizația ministrului, proporțională cu participarea la ședințe."
+   },
+   {
+    "citat": "Medicamentele, materialele sanitare, dispozitivele medicale, mijloacele de transport specializat şi altele asemenea, achiziţionate centralizat de Ministerul Sănătăţii pot fi transmise, fără plată, către direcţiile de sănătate publică judeţene şi a municipiului Bucureşti, precum şi către alţi beneficiari, stabiliţi de Ministerul Sănătăţii...",
+    "text": "Ministerul Sănătății poate transmite gratuit medicamente, materiale sanitare, dispozitive medicale și mijloace de transport specializat către direcțiile de sănătate publică sau alți beneficiari."
+   },
+   {
+    "citat": "Numirea într-o funcţie de conducere interimară la nivelul serviciilor de ambulanţă judeţene şi al Serviciului de Ambulanţă Bucureşti-Ilfov se efectuează pe o perioadă de 6 luni, maximum de două ori.",
+    "text": "Conducerea interimară a serviciilor de ambulanță se numește pentru cel mult 6 luni, maximum de două ori."
+   },
+   {
+    "citat": "Managerul general încheie cu Ministerul Sănătăţii, reprezentat prin ministru, un contract de management pe o perioadă de maximum 3 ani... Contractul de management poate fi prelungit după încetarea mandatului pe o perioadă de 3 luni, maximum de două ori...",
+    "text": "Managerul general al serviciului de ambulanță încheie un contract de management pe maximum 3 ani, care poate fi prelungit cu câte 3 luni, maximum de două ori."
+   },
+   {
+    "citat": "Persoanele cu funcţii de conducere şi control din cadrul spitalului public, inclusiv managerul şi membrii comitetului director, au obligaţia de a depune la spitalul unde îşi desfăşoară activitatea o declaraţie de interese, precum şi o declaraţie de avere... în termen de 30 de zile de la numirea în funcţie.",
+    "text": "Persoanele cu funcții de conducere și control din spitalele publice trebuie să depună o declarație de interese și o declarație de avere în termen de 30 de zile de la numire."
+   }
+  ],
+  "cine_este_afectat": [
+   "Ministerul Sănătății",
+   "Spitalele publice și spitalele clinice",
+   "Serviciile de ambulanță județene și Serviciul de Ambulanță București-Ilfov",
+   "Personalul de conducere, managerii și șefii de secție din sistemul sanitar"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aduce schimbări în domeniul Sănătății, stabilind reguli noi pentru conducerea spitalelor și a serviciilor de ambulanță, activitatea membrilor comitetelor directoare, precum și norme referitoare la medicamente, dispozitive medicale și importul de țesuturi și celule.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări ale Legii sănătății privind spitalele, ambulanțele și medicamentele"
+ },
+ "generated_at": "2026-11-20T18:38:57+00:00",
  "idp": 16149,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +46,5 @@
   "sha256": "15be46a3cc2bf34219b2f77063a4d921286362b19e794e27a4fbcc3bf06f666f",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2017/pr029_17.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

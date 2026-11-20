@@ -1,0 +1,46 @@
+{
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "cultele au obligaţia de a asigura cofinanţarea acestora în cuantum de cel puţin 20% din totalul sumei aprobate.",
+    "text": "Cultele trebuie să asigure o cofinanţare de cel puțin 20 la sută din valoarea totală a finanţării aprobate de la bugetul de stat."
+   },
+   {
+    "citat": "cultele au obligaţia de a organiza şi acorda serviciile sociale şi programele de instruire într-un spaţiu distinct de cel destinat serviciilor religioase",
+    "text": "Serviciile sociale organizate de culte trebuie desfășurate în spații separate de cele destinate serviciilor religioase."
+   },
+   {
+    "citat": "Activităţile desfăşurate în baza prezentei legi nu pot constitui mijloc de atragere la vreun cult al beneficiarilor de servicii, sub sancțiunea încetării finanţării.",
+    "text": "Este interzisă folosirea activităților finanțate ca mijloc de atragere a beneficiarilor la un anumit cult, sub sancțiunea opririi finanțării."
+   },
+   {
+    "citat": "În termen de 90 de zile de la data intrării în vigoare a prezentei legi, Ministerul Muncii, Familiei şi Protecţiei Sociale va elabora normele metodologice de aplicare a acesteia",
+    "text": "Ministerul Muncii, Familiei şi Protecţiei Sociale va elabora normele metodologice de aplicare în termen de 90 de zile de la intrarea în vigoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Cultele religioase recunoscute în România",
+   "Asociațiile și fundațiile înființate de culte",
+   "Autoritățile administraţiei publice locale",
+   "Persoanele vulnerabile, copiii în dificultate, persoanele cu dizabilități și vârstnicii fără venituri"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea reglementează modul în care cultele religioase primesc bani de la bugetul de stat pentru a dezvolta servicii sociale, programe caritabile şi activităţi de voluntariat destinate persoanelor vulnerabile.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Parteneriatul dintre stat şi culte în asistenţa socială"
+ },
+ "generated_at": "2026-11-20T18:39:09+00:00",
+ "idp": 10655,
+ "model": "gemini-3.5-flash-lite",
+ "prompt_version": 5,
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "a6445863eae528ff485c12534d745428ba65b5248afb1717e2a1db8804b45fd1",
+  "url": "https://www.cdep.ro/proiecte/2009/600/30/0/pr630_09.pdf"
+ },
+ "status": "ok"
+}

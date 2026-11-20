@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-20T18:39:14+00:00",
+ "idp": 10028,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "266cf73292f723f51044d91f2fceb52bbe6c9e4412241a6ae0a54250d6b5f75a",
+  "url": "https://www.cdep.ro/proiecte/2009/400/30/3/pr433_09.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}
