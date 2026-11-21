@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-11-20T18:39:14+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Deputatul sau senatorul nu poate acorda asistenţă juridică învinuiţilor sau inculpaţilor şi nici nu îi poate asista în instanţe în cauzele penale privind: a) infracţiunile contra siguranţei statului... b) infracţiunile care împiedică înfăptuirea justiţiei... c) infracţiunile contra păcii şi omenirii... d) infracţiunile de corupţie... e) infracţiunile care intră în competenţa de soluţionare a Direcţiei de Investigare a Infracţiunilor de Criminalitate Organizată şi Terorism...",
+    "text": "Deputatul sau senatorul nu poate acorda asistență juridică învinuiților sau inculpaților și nici nu îi poate asista în instanțe în cauzele penale privind infracțiuni contra siguranței statului, contra păcii și omenirii, care împiedică înfăptuirea justiției, de corupție sau de competența DIICOT."
+   },
+   {
+    "citat": "Prevederile alin. (1) nu se aplică în cauzele în care avocatul este parte în proces sau acordă asistenţă ori reprezentare soţului sau rudelor până la gradul IV inclusiv.",
+    "text": "Interdicția nu se aplică dacă avocatul este parte în proces sau acordă asistență ori reprezentare soțului sau rudelor până la gradul IV inclusiv."
+   },
+   {
+    "citat": "Contractele de asistenţă juridică încheiate în condiţiile alin. (1) îşi încetează efectele la data validării mandatului de deputat sau de senator.",
+    "text": "Contractele de asistență juridică încheiate în condițiile care intră sub incidența interdicției își încetează efectele la data validării mandatului de deputat sau de senator."
+   }
+  ],
+  "cine_este_afectat": [
+   "Deputații",
+   "Senatorii",
+   "Avocații care sunt și parlamentari"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea interzice deputatului sau senatorului să acorde asistență juridică sau să asiste în instanțe în cauzele penale privind anumite categorii de infracțiuni. Sunt stabilite excepții pentru familie și situația în care avocatul este parte în proces, iar contractele încheiate anterior încetează la validarea mandatului.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Interdicții de asistență juridică pentru deputați și senatori"
+ },
+ "generated_at": "2026-11-21T18:38:41+00:00",
  "idp": 10028,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +37,5 @@
   "sha256": "266cf73292f723f51044d91f2fceb52bbe6c9e4412241a6ae0a54250d6b5f75a",
   "url": "https://www.cdep.ro/proiecte/2009/400/30/3/pr433_09.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }

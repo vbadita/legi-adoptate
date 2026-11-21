@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-20T18:38:47+00:00",
+ "attempts": 2,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Cesionarul nu va putea pretinde de la debitorul care are calitatea de consumator mai mult decât dublul sumei plătite de acesta pentru a cumpăra creanţa de la cedent.",
+    "text": "Cine cumpără o datorie de la o bancă nu poate cere de la un consumator mai mult decât dublul sumei plătite pentru a cumpăra acea datorie."
+   },
+   {
+    "citat": "Dispoziţiile alin. (1) se aplică indiferent de instrumentul juridic utilizat pentru transferul creanţei, inclusiv în cazurile cesiunii de contract, al cesiunii de portofoliu de creanţă şi al subrogaţiei.",
+    "text": "Regula privind limita de două ori preţul de achiziţie se aplică indiferent de cum se transferă datoria."
+   },
+   {
+    "citat": "Debitorul-cedat care are calitatea de consumator se va putea elibera de datorie plătind cesionarului cel mult dublul preţului pe care acesta l-a plătit pentru a dobândi creanţa, fără costuri suplimentare.",
+    "text": "Consumatorul scapă de datorie plătind cel mult dublul preţului plătit de cumpărător pentru creanţă, fără costuri suplimentare."
+   },
+   {
+    "citat": "prevederile art. 71^3 şi 71^4 din Ordonanţa de urgenţă a Guvernului nr. 50/2010... se aplică şi contractelor de credit aflate în derulare la data intrării în vigoare.",
+    "text": "Noile reguli se aplică şi contractelor de credit care sunt în derulare când legea intră în vigoare."
+   }
+  ],
+  "cine_este_afectat": [
+   "Consumatorii care au credite",
+   "Cesionarii care cumpără creanţe",
+   "Cedenţii care vând creanţe"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea stabileşte limite pentru sumele pe care o firmă care cumpără o datorie de la o bancă le poate cere de la un consumator. Regula se aplică şi contractelor aflate în derulare.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Limitarea sumelor cerute consumatorilor la cesiunea de creanţe"
+ },
+ "generated_at": "2026-11-21T18:38:37+00:00",
  "idp": 16893,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "013a3211dc85ab4b07d769c89412e64b3de3e111d555f3030407b5a8c1f0f1ae",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2018/pr085_18.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }
