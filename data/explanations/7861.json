@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T18:38:45+00:00",
+ "generated_at": "2026-11-22T18:37:55+00:00",
  "idp": 7861,
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 5: citatul nu apare exact în text']",
+ "reason": "gemini http 503",
  "round": 2,
  "scanned": false,
  "source": {
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/proiecte/2006/800/20/4/pr824_06;1.pdf"
  },
  "status": "rejected",
- "tries": 2
+ "tries": 3
 }
