@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-11-18",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 67,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L630/22.12.2025",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L630&an_cls=2025#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl110_plx_110_26pr_stema_2.docx.pdf",
  "timeline": [
   {
    "day": "2026-02-23",
@@ -80,12 +80,17 @@
   {
    "day": "2026-11-18",
    "kind": "other",
-   "text": "primire raport favorabil (7 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare"
+   "text": "primire raport favorabil (7 amend. admise) de la: Comisia pentru buget, finanţe şi bănci face parte din categoria legilor ordinare dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
   },
   {
    "day": "2026-11-18",
    "kind": "adopted",
-   "text": "adoptata de Camera Deputatilor rezultat vot pentru=173, contra=5, abtineri=67, nu au votat=2"
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=173, contra=5, abtineri=67, nu au votat=2 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-23",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Propunere legislativă pentru modificarea Legii nr.70/2015 pentru întărirea disciplinei financiare privind operaţiunile de încasări şi plăţi în numerar şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.193/2002 privind introducerea sistemelor moderne de plată",

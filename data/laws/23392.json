@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-11-18",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 0,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L314/2026",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L314&an_cls=2026#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl506_pr506_26.docx.pdf",
  "timeline": [
   {
    "day": "2026-06-23",
@@ -90,12 +90,17 @@
   {
    "day": "2026-11-18",
    "kind": "other",
-   "text": "primire raport favorabil (4 amend. admise) de la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru transporturi şi infrastructură face parte din categoria legilor ordinare pentru completarea art.35 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice"
+   "text": "primire raport favorabil (4 amend. admise) de la: Comisia pentru industrii şi servicii Comisia juridică, de disciplină şi imunităţi Comisia pentru apărare, ordine publică şi siguranţă naţională Comisia pentru transporturi şi infrastructură face parte din categoria legilor ordinare pentru completarea art.35 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice dezbatere în plenul Camerei Deputatilor consultati stenograma sedintei"
   },
   {
    "day": "2026-11-18",
    "kind": "adopted",
-   "text": "adoptat de Camera Deputatilor rezultat vot pentru=247, contra=0, abtineri=0"
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=247, contra=0, abtineri=0 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-23",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Proiect de Lege pentru modificarea art.35 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",

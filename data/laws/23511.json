@@ -85,12 +85,17 @@
   {
    "day": "2026-11-18",
    "kind": "adopted",
-   "text": "adoptat de Camera Deputatilor rezultat vot pentru=245, contra=0, abtineri=0, nu au votat=1 Forma adoptată de Cameră Forma pentru promulgare PA"
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=245, contra=0, abtineri=0, nu au votat=1 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
   },
   {
    "day": "2026-11-18",
    "kind": "deposited",
    "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  },
+  {
+   "day": "2026-11-23",
+   "kind": "sent_to_president",
+   "text": "trimitere la Presedintele României pentru promulgare"
   }
  ],
  "title": "Proiect de Lege pentru modificarea art.1<sup>1</sup> din Legea nr.147/2000 privind reducerile acordate pensionarilor pentru transportul intern, pentru modificarea Legii nr.44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război, precum şi pentru modificarea Ordonanţei Guvernului nr.8/2011 pentru modificarea şi completarea legislaţiei cu privire la eliberarea, gestionarea şi monitorizarea documentelor de călătorie acordate pensionarilor, veteranilor de război şi văduvelor de război",

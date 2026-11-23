@@ -1,41 +1,15 @@
 {
- "attempts": 1,
- "checked_against_text": false,
- "explanation": {
-  "ce_se_schimba": [
-   {
-    "citat": "Se aprobă majorarea capitalului deținut de România, în calitate de membru fondator, la Banca pentru Comerţ şi Dezvoltare a Mării Negre cu 100.256 de acțiuni în valoare totală de 115.294.400 EUR şi modalitățile de plată a acesteia",
-    "text": "Se aprobă majorarea capitalului deținut de România, în calitate de membru fondator, la Banca pentru Comerț și Dezvoltare a Mării Negre cu 100.256 de acțiuni în valoare totală de 115.294.400 EUR."
-   },
-   {
-    "citat": "Plata capitalului vărsat în valoare de 34.588.320 EUR reprezentând 30% din capitalul subscris, se realizează în opt tranșe anuale succesive, fiecare în valoare de 4.323.540 EUR începând cu anul 2027.",
-    "text": "Plata capitalului vărsat, în valoare de 34.588.320 EUR reprezentând 30% din capitalul subscris, se face în opt tranșe anuale succesive, fiecare de 4.323.540 EUR, începând cu anul 2027."
-   },
-   {
-    "citat": "Sumele necesare efectuării plății se asigură anual de la bugetul de stat, prin bugetul Ministerului Finanțelor.",
-    "text": "Sumele necesare efectuării plății sunt asigurate anual de la bugetul de stat, prin bugetul Ministerului Finanțelor."
-   }
-  ],
-  "cine_este_afectat": [
-   "România ca stat membru fondator",
-   "Ministerul Finanțelor",
-   "Bugetul de stat"
-  ],
-  "de_cand": null,
-  "pe_scurt": "Legea aprobă majorarea capitalului deținut de România la Banca pentru Comerț și Dezvoltare a Mării Negre. Aceasta presupune achiziționarea a 100.256 de acțiuni în valoare totală de 115.294.400 EUR, plătite în tranșe anuale începând cu anul 2027.",
-  "tip": "altele",
-  "titlu_simplu": "Majorarea capitalului României la Banca pentru Comerț și Dezvoltare a Mării Negre"
- },
- "generated_at": "2026-11-19T18:38:52+00:00",
+ "generated_at": "2026-11-23T18:38:09+00:00",
  "idp": 23098,
- "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
+ "reason": "gemini http 503",
  "round": 1,
- "scanned": true,
+ "scanned": false,
  "source": {
-  "label": "senat: forma adoptată",
-  "sha256": "c52b961e0aee6b63b4b8c0d7fafd5bc4c29a9576f08531a5396eecb72d47551a",
-  "url": "https://www.senat.ro/legis/PDF/2026/26L107FS.PDF"
+  "label": "camera: forma pentru promulgare",
+  "sha256": "d0060cf817abdc1a87bb8cf166fa9d2132ced8e67ae1cb44d62632a26cc83df8",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl202_pr202_26.docx.pdf"
  },
- "status": "ok"
+ "status": "rejected",
+ "tries": 1
 }

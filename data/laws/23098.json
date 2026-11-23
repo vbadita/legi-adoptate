@@ -10,7 +10,7 @@
   {
    "adopted_on": "2026-11-18",
    "chamber": "Camera Deputaților",
-   "confirmed": false,
+   "confirmed": true,
    "public_vote": {
     "abtineri": 2,
     "chamber": "Camera Deputaților",
@@ -45,7 +45,7 @@
   "number": "L107/2026",
   "url": "https://senat.ro/legis/lista.aspx?nr_cls=L107&an_cls=2026#ListaDocumente"
  },
- "text_pdf": null,
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl202_pr202_26.docx.pdf",
  "timeline": [
   {
    "day": "2026-03-11",
@@ -75,7 +75,12 @@
   {
    "day": "2026-11-18",
    "kind": "adopted",
-   "text": "adoptat de Camera Deputatilor rezultat vot pentru=243, contra=0, abtineri=2, nu au votat=2"
+   "text": "adoptat de Camera Deputatilor rezultat vot pentru=243, contra=0, abtineri=2, nu au votat=2 consultati stenograma sedintei Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-23",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
   }
  ],
  "title": "Proiect de Lege pentru aprobarea majorării capitalului deţinut de România la Banca pentru Comerţ şi Dezvoltare a Mării Negre în conformitate cu Rezoluţia nr.220 a Consiliului Guvernatorilor Băncii pentru Comerţ şi Dezvoltare a Mării Negre privind finalizarea alocării cotelor subscrise de statele membre şi încheierea celei de a doua majorări de capital a Băncii pentru Comerţ şi Dezvoltare a Mării Negre",

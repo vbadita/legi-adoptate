@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-23T18:38:04+00:00",
+ "idp": 23022,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "944745085032eec4052a90a53dc039a1641665e13001f44ea68604e3c8b59413",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl110_plx_110_26pr_stema_2.docx.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

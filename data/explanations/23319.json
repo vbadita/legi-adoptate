@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-23T18:38:14+00:00",
+ "idp": 23319,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "2ecd48a34ae5a99ff709db8d63efa60f55d6cec3e1271643b0fff49e8c5f9257",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl445_pr445_26.docx.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}
