@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:38:04+00:00",
+ "generated_at": "2026-11-24T18:36:10+00:00",
  "idp": 23022,
  "prompt_version": 5,
  "reason": "gemini http 503",
@@ -11,5 +11,5 @@
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl110_plx_110_26pr_stema_2.docx.pdf"
  },
  "status": "rejected",
- "tries": 1
+ "tries": 2
 }

@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-23T18:38:14+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "6^1. nerespectarea regulilor de navigaţie şi circulaţie stabilite pentru zonele în care viteza maximă admisă este de 5 km/h, conform reglementărilor în vigoare privind accesul și circulația navelor şi ambarcaţiunilor pe canalele și lacurile interioare, în zonele intravilane ale localităților, sau în zonele punctelor permise pentru acostarea/staționarea navelor și ambarcațiunilor ori în zonele punctelor permise pentru acostarea/staționarea pontoanelor-dormitor, din perimetrul Rezervaţiei Biosferei «Delta Dunării», cu excepția brațelor Dunării;",
+    "text": "Se introduce o nouă contravenție pentru nerespectarea regulilor de navigație și circulație în zonele cu viteză maximă de 5 km/h, în zonele intravilane, în punctele permise pentru acostarea navelor sau a pontoanelor-dormitor din Delta Dunării, cu excepția brațelor Dunării."
+   },
+   {
+    "citat": "j) cele de la pct. 6^1, cu amendă de la 250 lei la 700 lei, pentru persoane fizice, şi de la 500 lei la 1.000 lei, pentru persoane juridice.",
+    "text": "Amenda pentru noua contravenție este cuprinsă între 250 lei și 700 lei pentru persoane fizice și între 500 lei și 1.000 lei pentru persoane juridice."
+   },
+   {
+    "citat": "Uneltele de pescuit, navele, ambarcaţiunile şi mijloacele de transport, precum şi alte bunuri folosite în săvârşirea contravenţiilor prevăzute la art. 12, cu excepţia celei prevăzute la art. 12 pct. 6^1, se supun confiscării.",
+    "text": "Bunurile folosite la noua contravenție legată de navigație sunt exceptate de la confiscarea aplicată altor contravenții."
+   },
+   {
+    "citat": "În termen de 30 de zile de la data intrării în vigoare a prezentei legi, Guvernul modifică în mod corespunzător Hotărârea Guvernului nr. 538/2015",
+    "text": "Guvernul are la dispoziție un termen de 30 de zile de la intrarea în vigoare a legii pentru a modifica Hotărârea Guvernului nr. 538/2015."
+   }
+  ],
+  "cine_este_afectat": [
+   "Persoanele fizice care navigă în Delta Dunării",
+   "Persoanele juridice care dețin nave sau ambarcațiuni",
+   "Guvernul României"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea adaugă o nouă faptă sancționabilă legată de nerespectarea regulilor de navigație și stabilește amenzile corespunzătoare pentru aceasta în perimetrul Rezervației Biosferei Delta Dunării.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificarea Legii Rezervației Biosferei Delta Dunării"
+ },
+ "generated_at": "2026-11-24T18:36:13+00:00",
  "idp": 23319,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "2ecd48a34ae5a99ff709db8d63efa60f55d6cec3e1271643b0fff49e8c5f9257",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl445_pr445_26.docx.pdf"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
