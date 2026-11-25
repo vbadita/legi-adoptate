@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-25T18:38:51+00:00",
+ "idp": 23667,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": false,
+ "source": {
+  "label": "camera: forma pentru promulgare",
+  "sha256": "8fc5059b10f95e1373b96abdaae50de5a4f8d3327320234e7d8f6d6e8160a7be",
+  "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl755_pr755_26.pdf"
+ },
+ "status": "rejected",
+ "tries": 1
+}

@@ -1,0 +1,83 @@
+{
+ "character": "organic",
+ "decisional_chamber": "Camera Deputaților",
+ "idp": 23667,
+ "law": null,
+ "monitor": null,
+ "number": "Pl-x nr. 755/2026",
+ "promulgation": null,
+ "rounds": [
+  {
+   "adopted_on": "2026-11-25",
+   "chamber": "Camera Deputaților",
+   "confirmed": true,
+   "public_vote": {
+    "abtineri": 0,
+    "chamber": "Camera Deputaților",
+    "contra": 77,
+    "day": "2026-11-25",
+    "nu_au_votat": 1,
+    "pentru": 200
+   },
+   "round": 1,
+   "steps": [
+    {
+     "chamber": "Senat",
+     "day": "2026-11-16",
+     "kind": "rejected",
+     "vote": null
+    },
+    {
+     "chamber": "Camera Deputaților",
+     "day": "2026-11-25",
+     "kind": "adopted",
+     "vote": {
+      "abtineri": 0,
+      "contra": 77,
+      "nu_au_votat": 1,
+      "pentru": 200
+     }
+    }
+   ]
+  }
+ ],
+ "senate": {
+  "number": "L639/2026",
+  "url": "https://senat.ro/legis/lista.aspx?nr_cls=L639&an_cls=2026#ListaDocumente"
+ },
+ "text_pdf": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl755_pr755_26.pdf",
+ "timeline": [
+  {
+   "day": "2026-11-16",
+   "kind": "rejected",
+   "text": "respinsa de catre Senat CD"
+  },
+  {
+   "day": "2026-11-18",
+   "kind": "other",
+   "text": "prezentare în Biroul Permanent al Camerei Deputatilor s-a aprobat procedura de urgenţă solicitată Adresa Senatului Adresa iniţiatorului înregistrat la Camera Deputatilor pentru dezbatere trimis pentru raport la: Comisia juridică, de disciplină şi imunităţi termen depunere amendamente: 20.11.2026 termen depunere raport: 24.11.2026 trimis pentru aviz la: Comisia pentru administraţie publică şi amenajarea teritoriului"
+  },
+  {
+   "day": "2026-11-23",
+   "kind": "other",
+   "text": "înscris pe ordinea de zi a plenului Camerei Deputatilor (sub rezerva depunerii raportului) pentru sedinţele Camerei Deputaţilor din zilele de 23 si 25 noiembrie 2026"
+  },
+  {
+   "day": "2026-11-24",
+   "kind": "other",
+   "text": "primire raport favorabil (8 amend. admise, 2 amend. respinse) de la: Comisia juridică, de disciplină şi imunităţi face parte din categoria legilor organice"
+  },
+  {
+   "day": "2026-11-25",
+   "kind": "adopted",
+   "text": "adoptata de Camera Deputatilor rezultat vot pentru=200, contra=77, abtineri=0, nu au votat=1 Forma adoptată de Cameră Forma pentru promulgare PA"
+  },
+  {
+   "day": "2026-11-25",
+   "kind": "deposited",
+   "text": "depunere la Secretarul general pentru exercitarea dreptului de sesizare asupra constitutionalitatii legii"
+  }
+ ],
+ "title": "Propunere legislativă pentru modificarea unor dispoziţii din Legea nr.161/2003 privind unele măsuri pentru asigurarea transparenţei în exercitarea demnităţilor publice, a funcţiilor publice şi în mediul de afaceri, prevenirea şi sancţionarea corupţiei",
+ "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23667"
+}

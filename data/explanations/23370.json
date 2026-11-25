@@ -1,0 +1,15 @@
+{
+ "generated_at": "2026-11-25T18:38:46+00:00",
+ "idp": 23370,
+ "prompt_version": 5,
+ "reason": "gemini http 503",
+ "round": 1,
+ "scanned": true,
+ "source": {
+  "label": "senat: forma adoptată",
+  "sha256": "413d53507b43c8d743ed6028bb5dcb858124d5c00d071fceca4af25217a9c72b",
+  "url": "https://www.senat.ro/legis/PDF/2026/26L286FS.PDF"
+ },
+ "status": "rejected",
+ "tries": 1
+}

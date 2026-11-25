@@ -1,8 +1,38 @@
 {
- "generated_at": "2026-11-24T18:36:09+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "Se aprobă plata cotizației anuale ce revine Directoratului Național de Securitate Cibernetică pentru participarea în calitate de membru cu drepturi depline la Forumul Internațional al Echipelor de Răspuns la Incidente de Securitate Cibernetică (Forum of Incident Response and Security Teams-FIRST), în limita echivalentului în lei al sumei de 2.800 dolari/an.",
+    "text": "Se aprobă plata cotizației anuale pentru participarea ca membru la Forumul Internațional al Echipelor de Răspuns la Incidente de Securitate Cibernetică (FIRST), în limita a 2.800 dolari pe an."
+   },
+   {
+    "citat": "Se aprobă plata cotizației anuale ce revine Directoratului Național de Securitate Cibernetică pentru participarea în calitate de membru cu drepturi depline la Forumul TF/CSIRT Trusted Introducer (TI), în limita echivalentului în lei al sumei de 1.200 euro/an, la care se adaugă taxa pe valoare adăugată din statul membru în care este stabilită asociația.",
+    "text": "Se aprobă plata cotizației anuale pentru participarea la Forumul TF/CSIRT Trusted Introducer (TI), în limita a 1.200 euro pe an, plus taxa pe valoare adăugată."
+   },
+   {
+    "citat": "Sumele prevăzute la alin. (1) şi (2) se asigură de la bugetul de stat, prin bugetul anual aprobat Secretariatului General al Guvernului.",
+    "text": "Banii necesari pentru plata cotizațiilor sunt asigurați de la bugetul de stat, prin bugetul anual aprobat Secretariatului General al Guvernului."
+   },
+   {
+    "citat": "cuantumul cotizațiilor anuale la organismele internaționale neguvernamentale la care Directoratul Național de Securitate Cibernetică este parte se actualizează prin hotărâre a Guvernului.",
+    "text": "Actualizarea viitoare a cotizațiilor anuale la organismele internaționale neguvernamentale la care Directoratul este parte se face prin hotărâre a Guvernului."
+   }
+  ],
+  "cine_este_afectat": [
+   "Directoratul Național de Securitate Cibernetică",
+   "Secretariatul General al Guvernului"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea aprobă plata cotizațiilor anuale pentru participarea Directoratului Național de Securitate Cibernetică la două organizații internaționale de securitate cibernetică și stabilește modul de acoperire a sumelor.",
+  "tip": "lege nouă",
+  "titlu_simplu": "Plata cotizațiilor pentru Directoratul Național de Securitate Cibernetică"
+ },
+ "generated_at": "2026-11-25T18:38:59+00:00",
  "idp": 22901,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +40,5 @@
   "sha256": "53c3cc15ca3fc94d22588e3c40eb74fcdb3dec2e1428194cb6be642f07ef9c3d",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl020_pr020_26.docx.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }
