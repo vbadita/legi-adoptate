@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-11-25T18:38:46+00:00",
+ "attempts": 1,
+ "checked_against_text": false,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "(5) Dispozițiile alin.(1)-(3) se aplică în mod corespunzător și faptelor comise împotriva unui notar public aflat în exercitarea atribuțiilor de serviciu sau în legătură cu exercitarea atribuțiilor de serviciu.",
+    "text": "Regulile de la alineatele (1)-(3) ale articolului 279 din Codul penal se aplică și faptelor comise împotriva unui notar public aflat în exercitarea atribuțiilor de serviciu sau în legătură cu acestea."
+   }
+  ],
+  "cine_este_afectat": [
+   "Notarii publici"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică Codul penal astfel încât regulile privind anumite fapte să se aplice și în cazul notarilor publici aflați în exercitarea atribuțiilor de serviciu.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Protecție penală extinsă pentru notarii publici"
+ },
+ "generated_at": "2026-11-26T18:37:14+00:00",
  "idp": 23370,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "gemini http 503",
  "round": 1,
  "scanned": true,
  "source": {
@@ -10,6 +27,5 @@
   "sha256": "413d53507b43c8d743ed6028bb5dcb858124d5c00d071fceca4af25217a9c72b",
   "url": "https://www.senat.ro/legis/PDF/2026/26L286FS.PDF"
  },
- "status": "rejected",
- "tries": 1
+ "status": "ok"
 }
