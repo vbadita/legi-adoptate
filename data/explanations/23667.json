@@ -1,8 +1,39 @@
 {
- "generated_at": "2026-11-26T18:37:23+00:00",
+ "attempts": 1,
+ "checked_against_text": true,
+ "explanation": {
+  "ce_se_schimba": [
+   {
+    "citat": "i) calitatea de consilier personal al primarului sau al viceprimarului unității administrativ-teritoriale în care își exercită mandatul, în cazul consilierului local, respectiv calitatea de consilier personal al președintelui sau al vicepreședintelui consiliului județean în care își exercită mandatul, în cazul consilierului județean;",
+    "text": "Consilierii locali și județeni nu pot fi consilieri personali ai primarului, viceprimarului, președintelui sau vicepreședintelui consiliului județean în unitatea administrativ-teritorială unde își exercită mandatul."
+   },
+   {
+    "citat": "j) funcția de administrator public al unității administrativ-teritoriale în care își exercită mandatul, în cazul consilierului local, respectiv funcția de administrator public al județului în care își exercită mandatul, în cazul consilierului județean;",
+    "text": "Consilierii locali și județeni nu pot deține funcția de administrator public în aceeași unitate administrativ-teritorială sau județ în care își exercită mandatul."
+   },
+   {
+    "citat": "Nu se află în situație de incompatibilitate, în sensul prevederilor alin. (2), funcționarul public al cărui raport de serviciu este suspendat în condițiile prevăzute la art. 514 alin. (1) lit. j) și k) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
+    "text": "Funcționarul public al cărui raport de serviciu este suspendat în condițiile Codului administrativ nu se află în situație de incompatibilitate."
+   },
+   {
+    "citat": "Situațiile intervenite în perioada cuprinsă între data intrării în vigoare a Legii nr. 180/2026 ... și data intrării în vigoare a prezentei legi ... nu constituie incompatibilități sau conflicte de interese și nu atrag răspunderea juridică aferentă acestora.",
+    "text": "Situațiile intervenite între data intrării în vigoare a Legii nr. 180/2026 și prezenta lege nu constituie incompatibilități sau conflicte de interese și nu atrag răspunderea juridică."
+   }
+  ],
+  "cine_este_afectat": [
+   "Consilieri locali",
+   "Consilieri județeni",
+   "Funcționari publici"
+  ],
+  "de_cand": null,
+  "pe_scurt": "Legea modifică regulile privind incompatibilitățile pentru consilierii locali și județeni și clarifică situațiile în care funcționarii publici aflați în anumite suspendări nu se consideră în incompatibilitate.",
+  "tip": "modificarea unor legi",
+  "titlu_simplu": "Modificări privind incompatibilitățile pentru aleși locali și funcționari"
+ },
+ "generated_at": "2026-11-27T18:38:30+00:00",
  "idp": 23667,
+ "model": "gemini-3.5-flash-lite",
  "prompt_version": 5,
- "reason": "rejected after 2 attempts: ['punctul 3: numerele 1 nu apar în citatul punctului']",
  "round": 1,
  "scanned": false,
  "source": {
@@ -10,6 +41,5 @@
   "sha256": "8fc5059b10f95e1373b96abdaae50de5a4f8d3327320234e7d8f6d6e8160a7be",
   "url": "https://www.cdep.ro/ords/pls/proiecte/docs?2026/pl755_pr755_26.pdf"
  },
- "status": "rejected",
- "tries": 2
+ "status": "ok"
 }
